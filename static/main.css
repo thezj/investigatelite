@@ -101,3 +101,7 @@
     background-color: #fafafa;
     font-size: 14px;
 }
+
+.shoppinganimate {
+    transition: all .3s;
+}

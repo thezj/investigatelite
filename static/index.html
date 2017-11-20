@@ -10,6 +10,7 @@
     <script src="./iscroll-probe.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/element-ui@1.4.10/lib/theme-default/index.css">
     <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
     <title>Document</title>
 </head>
 
@@ -18,16 +19,24 @@
         <div v-show='pageindex == 1' style="margin: 20px">
             <div style="height: 40px;">
                 <p style="text-align: center;">选择书目</p>
-                <div @click='routeto' style="float: right;margin-top: -19px;font-size: 14px;color: cornflowerblue;">已选({{selectedbooks.length}})</div>
+                <div @click='routeto' style="float: right;margin-top: -19px;font-size: 14px;color: cornflowerblue;">
+                    <i class="fa fa-shopping-cart"></i> 已选({{selectedbooks.length}})</div>
             </div>
             <el-input placeholder="请输入书名" icon="search" v-model="searchbookname" :on-icon-click="searchbook">
+
+                <el-select style="width:120px;" v-model="classifyselect" slot="prepend" placeholder="请选择">
+                    <el-option label="全部" value="全部"></el-option>
+                    <el-option label="科学" value="科学"></el-option>
+                    <el-option label="北岳文艺" value="北岳文艺"></el-option>
+                </el-select>
+
             </el-input>
 
 
             <div id="wrapper">
                 <div id="scroller">
                     <ul>
-                        <li @click='selectedbook(i)' v-for='i in books'>{{i.bookname}}</li>
+                        <li @click='selectedbook(i)' v-for='i in books'>{{i.bookName}}</li>
                         <div id="pullUp">
                             <span class="pullUpIcon"></span>
                             <span class="pullUpLabel">上拉加载更多...</span>
@@ -43,7 +52,7 @@
                 <div @click='confirmbook' style="float: right;margin-top: -19px;font-size: 14px;color: cornflowerblue;">确定</div>
             </div>
             <ul class="selectedbook">
-                <li v-for='(i,index) in selectedbooks'>{{i.bookname}}
+                <li v-for='(i,index) in selectedbooks'>{{i.bookName}}
                     <div @click='unselect(index)' style="
                     float: right;
                     padding-left: 10px;
@@ -66,6 +75,8 @@
             el: '#app',
             data: function () {
                 return {
+                    classifyselect: '全部',
+                    issubmit: false,
                     pageindex: 1,
                     filters: '',
                     searchbookname: '',
@@ -86,12 +97,20 @@
                         this.$alert('确定提交', '确定', {
                             confirmButtonText: '确定',
                             callback: action => {
+                                if (this.issubmit) {
+                                    this.$message({
+                                        type: 'info',
+                                        message: '不能重复提交'
+                                    });
+                                    return
+                                }
                                 if (action == 'confirm') {
                                     $.post('/savebook', {
                                         books: JSON.stringify(this.selectedbooks),
                                         member: window.location.search.split('=')[1]
                                     }, data => {
                                         if (data == 'ok') {
+                                            this.issubmit = true
                                             this.$message({
                                                 type: 'info',
                                                 message: '提交成功'
@@ -112,6 +131,33 @@
                 routeto() {
                     this.pageindex = 2
                 },
+                playanimation(x, y) {
+                    let dotted = $(document.createElement('div'))
+                    dotted.css({
+                        'height': '30px',
+                        'width': '30px',
+                        'background': 'rgba(100,149,237,0.7)',
+                        'position': 'absolute',
+                        'left': x,
+                        'top': y,
+                        'border-radius': '50px',
+                        'transition': 'all .8s',
+                        'z-index': 3,
+                        '-webkit-transition-timing-function': 'cubic-bezier(0.14, 0.81, 0.73, 1.19)'
+                    })
+                    $('body').append(dotted)
+                    setTimeout(i => {
+                        dotted.css({
+                            'left': $('.fa-shopping-cart').offset().left,
+                            'top': $('.fa-shopping-cart').offset().top,
+                            'height': '12px',
+                            'width': '12px',
+                        })
+                    }, 3)
+                    setTimeout(i => {
+                        dotted.remove()
+                    }, 803)
+                },
                 selectedbook(book) {
                     let notexist = this.selectedbooks.every(i => {
                         return i.subscribeCode != book.subscribeCode
@@ -119,14 +165,17 @@
                     if (notexist) {
                         const h = this.$createElement;
                         this.$msgbox({
-                            message: h('div', null, [h('p', null, `书名称：${book.bookname}`), h('p', null,
-                                `出版社：${book.publishing}`)]),
+                            message: h('div', null, [h('p', null, `书名称：${book.bookName}`), h('p', null,
+                                `出版社：${book.publishing}`), h('p', null,
+                                `价格：${book.price}`)]),
                             title: '是否选购该书目？',
                             showCancelButton: true,
                             confirmButtonText: '确定',
                             cancelButtonText: '取消',
                             // type: 'warning'
                         }).then(() => {
+                            let confirmbtn = document.querySelector('.el-button--primary')
+                            this.playanimation(confirmbtn.offsetLeft, confirmbtn.offsetTop)
                             this.selectedbooks.push(book)
                         }).catch(() => {
 
@@ -159,7 +208,8 @@
 
                     $.post('/getbook', {
                         gettime: this.gettime,
-                        filter: this.filters
+                        filter: this.filters,
+                        classify: this.classifyselect
                     }, data => {
                         this.gettime = this.gettime + 1
                         data = JSON.parse(data)
@@ -180,6 +230,19 @@
             },
             mounted() {
                 this.getbooks()
+
+
+                $.post('/isexist', {
+                    member: window.location.search.split('=')[1]
+                }, data => {
+                    if (data == 'exist') {
+                        this.issubmit = true
+                        this.$message({
+                            type: 'info',
+                            message: '已经提交'
+                        });
+                    }
+                })
 
 
                 let scrollview = document.querySelector('#wrapper')
