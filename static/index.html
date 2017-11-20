@@ -1,0 +1,222 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="./vue.min.js"></script>
+    <script src="./jquery.min.js"></script>
+    <script src="./elemeindex.js"></script>
+    <script src="./iscroll-probe.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/element-ui@1.4.10/lib/theme-default/index.css">
+    <link rel="stylesheet" href="main.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id='app'>
+        <div v-show='pageindex == 1' style="margin: 20px">
+            <div style="height: 40px;">
+                <p style="text-align: center;">选择书目</p>
+                <div @click='routeto' style="float: right;margin-top: -19px;font-size: 14px;color: cornflowerblue;">已选({{selectedbooks.length}})</div>
+            </div>
+            <el-input placeholder="请输入书名" icon="search" v-model="searchbookname" :on-icon-click="searchbook">
+            </el-input>
+
+
+            <div id="wrapper">
+                <div id="scroller">
+                    <ul>
+                        <li @click='selectedbook(i)' v-for='i in books'>{{i.bookname}}</li>
+                        <div id="pullUp">
+                            <span class="pullUpIcon"></span>
+                            <span class="pullUpLabel">上拉加载更多...</span>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div v-show='pageindex == 2' style="margin: 20px">
+            <div style="height: 40px;">
+                <p style="text-align: center;">选择书目</p>
+                <div @click='routeback' style="float: left;margin-top: -19px;font-size: 14px;color: cornflowerblue;">返回</div>
+                <div @click='confirmbook' style="float: right;margin-top: -19px;font-size: 14px;color: cornflowerblue;">确定</div>
+            </div>
+            <ul class="selectedbook">
+                <li v-for='(i,index) in selectedbooks'>{{i.bookname}}
+                    <div @click='unselect(index)' style="
+                    float: right;
+                    padding-left: 10px;
+                    padding-bottom: 10px;
+                    padding-right: 3px;
+                    padding-top: 11px;
+                    position: absolute;
+                    right: 8px;
+                    top: 50%;
+                    margin-top: -17px;
+                ">
+                        <i class="el-icon-delete"></i>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <script>
+        var app = new Vue({
+            el: '#app',
+            data: function () {
+                return {
+                    pageindex: 1,
+                    filters: '',
+                    searchbookname: '',
+                    selectedbooks: [],
+                    books: [],
+                    gettime: 0,
+                    fullscreenLoading: false
+                };
+            },
+            methods: {
+                confirmbook() {
+                    if (this.selectedbooks.length == 0) {
+                        this.$message({
+                            type: 'info',
+                            message: '请选择书目'
+                        });
+                    } else {
+                        this.$alert('确定提交', '确定', {
+                            confirmButtonText: '确定',
+                            callback: action => {
+                                $.post('/savebook', {
+                                    books: JSON.stringify(this.selectedbooks),
+                                    member: window.location.search.split('=')[1]
+                                }, data => {
+                                    if (data == 'ok') {
+                                        this.$message({
+                                            type: 'info',
+                                            message: '提交成功'
+                                        });
+                                    }
+                                })
+                            }
+                        });
+                    }
+                },
+                unselect(index) {
+                    this.selectedbooks.splice(index, 1)
+                },
+                routeback() {
+                    this.pageindex = 1
+                },
+                routeto() {
+                    this.pageindex = 2
+                },
+                selectedbook(book) {
+                    let notexist = this.selectedbooks.every(i => {
+                        return i.subscribeCode != book.subscribeCode
+                    })
+                    if (notexist) {
+                        const h = this.$createElement;
+                        this.$msgbox({
+                            message: h('div', null, [h('p', null, `书名称：${book.bookname}`), h('p', null,
+                                `出版社：${book.publishing}`)]),
+                            title: '是否选购该书目？',
+                            showCancelButton: true,
+                            confirmButtonText: '确定',
+                            cancelButtonText: '取消',
+                            // type: 'warning'
+                        }).then(() => {
+                            this.selectedbooks.push(book)
+                        }).catch(() => {
+
+                        });
+
+
+                    } else {
+                        this.$message({
+                            type: 'info',
+                            message: '已经选择'
+                        });
+                    }
+                },
+                searchbook() {
+                    this.filters = this.searchbookname
+                    this.gettime = 0
+                    this.books = []
+                    window.myScroll.scrollTo(0, 0);
+                    this.getbooks()
+                },
+                filterMethod(query, item) {
+                    return item.label.indexOf(query) > -1;
+                },
+                getbooks() {
+                    $.post('/getbook', {
+                        gettime: this.gettime,
+                        filter: this.filters
+                    }, data => {
+                        this.gettime = this.gettime + 1
+                        data = JSON.parse(data)
+                        let pullUpEl = document.getElementById('pullUp')
+
+                        if (data.length < 50) {
+                            pullUpEl.querySelector('.pullUpLabel').innerHTML = '没有了...';
+                        }
+                        this.books = this.books.concat(data)
+                        setTimeout(i => {
+                            window.myScroll.refresh()
+                        }, 1)
+                    })
+                }
+
+            },
+            mounted() {
+                this.getbooks()
+
+
+
+                let pullUpEl = document.getElementById('pullUp');
+                let pullUpOffset = pullUpEl.offsetHeight;
+                window.myScroll = new IScroll('#wrapper', {
+                    probeType: 3,
+                    scrollbars: true
+                });
+
+                myScroll.on('scroll', function () {
+                    if (this.y < (this.maxScrollY - 5) && !pullUpEl.className.match('flip')) {
+                        pullUpEl.className = 'flip';
+                        pullUpEl.querySelector('.pullUpLabel').innerHTML = '松手开始更新...';
+                        this.maxScrollY = this.maxScrollY;
+                    } else if (this.y > (this.maxScrollY + 5) && pullUpEl.className.match('flip')) {
+                        pullUpEl.className = '';
+                        pullUpEl.querySelector('.pullUpLabel').innerHTML = '上拉加载更多...';
+                        this.maxScrollY = pullUpOffset;
+                    }
+                })
+
+                myScroll.on('scrollEnd', i => {
+                    if (pullUpEl.className.match('flip')) {
+                        pullUpEl.className = 'loading';
+                        pullUpEl.querySelector('.pullUpLabel').innerHTML = '加载中...';
+                        this.getbooks()
+                    }
+                });
+
+                function isPassive() {
+                    var supportsPassiveOption = false;
+                    try {
+                        addEventListener("test", null, Object.defineProperty({}, 'passive', {
+                            get: function () {
+                                supportsPassiveOption = true;
+                            }
+                        }));
+                    } catch (e) {}
+                    return supportsPassiveOption;
+                }
+
+
+
+            }
+        })
+    </script>
+</body>
+
+</html>
