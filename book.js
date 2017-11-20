@@ -1,12572 +1,12572 @@
 
 module.exports.books = [{
     "subscribeCode": "18CJ0080001",
-    "bookname": "V产科护理/董洁 李民华",
+    "bookname": "产科护理/董洁 李民华",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080002",
-    "bookname": "V护理礼仪与人际沟通(修订版)/王燕 丁宏伟",
+    "bookname": "护理礼仪与人际沟通(修订版)/王燕 丁宏伟",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080003",
-    "bookname": "V化学实验指导与练习/綦旭良",
+    "bookname": "化学实验指导与练习/綦旭良",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080004",
-    "bookname": "V精神科护理/刘晨",
+    "bookname": "精神科护理/刘晨",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080005",
-    "bookname": "V健康教育/贺伟",
+    "bookname": "健康教育/贺伟",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080006",
-    "bookname": "V化学/綦旭良",
+    "bookname": "化学/綦旭良",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080007",
-    "bookname": "V美学基础/肖京华",
+    "bookname": "美学基础/肖京华",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080008",
-    "bookname": "V营养学基础/于君美",
+    "bookname": "营养学基础/于君美",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080009",
-    "bookname": "V医学遗传学基础/赵斌",
+    "bookname": "医学遗传学基础/赵斌",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080010",
-    "bookname": "V护理文秘(三版)/黄治秀",
+    "bookname": "护理文秘(三版)/黄治秀",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080011",
-    "bookname": "V生物化学基础/杨淑兰 张玉环",
+    "bookname": "生物化学基础/杨淑兰 张玉环",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080012",
-    "bookname": "V急诊医学/张松峰",
+    "bookname": "急诊医学/张松峰",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080013",
-    "bookname": "V药物应用基础(第二版) /赵彩珍等",
+    "bookname": "药物应用基础(第二版) /赵彩珍等",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080014",
-    "bookname": "V营养与膳食(第二版)/王翠玲",
+    "bookname": "营养与膳食(第二版)/王翠玲",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080015",
-    "bookname": "V五官科护理学(第二版)/冯桂玲",
+    "bookname": "五官科护理学(第二版)/冯桂玲",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080016",
-    "bookname": "V普通地质学/陶晓风 吴德超",
+    "bookname": "普通地质学/陶晓风 吴德超",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080017",
-    "bookname": "V人际沟通/钟海",
+    "bookname": "人际沟通/钟海",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080018",
-    "bookname": "V医疗纠纷与法律处理科学第2版",
+    "bookname": "医疗纠纷与法律处理科学第2版",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080019",
-    "bookname": "V五官科学/叶文忠",
+    "bookname": "五官科学/叶文忠",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080020",
-    "bookname": "V医学心理学（第二版）/汤雅婷",
+    "bookname": "医学心理学（第二版）/汤雅婷",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080021",
-    "bookname": "V卫生法律法规/王峰",
+    "bookname": "卫生法律法规/王峰",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080022",
-    "bookname": "V医学专业英语(第三版)/陈沁",
+    "bookname": "医学专业英语(第三版)/陈沁",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080023",
-    "bookname": "V生理学(二版)/顾承麟",
+    "bookname": "生理学(二版)/顾承麟",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080024",
-    "bookname": "V药理学/王开贞",
+    "bookname": "药理学/王开贞",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080025",
-    "bookname": "V药物学基础(第三版)/胡鹏飞等",
+    "bookname": "药物学基础(第三版)/胡鹏飞等",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080026",
-    "bookname": "V营养与膳食/贺生 刘俊须",
+    "bookname": "营养与膳食/贺生 刘俊须",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080027",
-    "bookname": "V外科护理学(第二版)/范保兴",
+    "bookname": "外科护理学(第二版)/范保兴",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080028",
-    "bookname": "V生物化学与分子生物学实验(第2版)/宋立洲",
+    "bookname": "生物化学与分子生物学实验(第2版)/宋立洲",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080029",
-    "bookname": "V计算机应用基础(第三版)/韦红等",
+    "bookname": "计算机应用基础(第三版)/韦红等",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080030",
-    "bookname": "V病理学基础/王建中",
+    "bookname": "病理学基础/王建中",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080031",
-    "bookname": "V计算机应用基础/韦红",
+    "bookname": "计算机应用基础/韦红",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080032",
-    "bookname": "V医药市场营销技术/袁静",
+    "bookname": "医药市场营销技术/袁静",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080033",
-    "bookname": "V国土规划的理论与方法/吴次芳、潘文灿",
+    "bookname": "国土规划的理论与方法/吴次芳、潘文灿",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080034",
-    "bookname": "V病理学/王娅兰",
+    "bookname": "病理学/王娅兰",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080035",
-    "bookname": "V城市工程系统规划/刘勇",
+    "bookname": "城市工程系统规划/刘勇",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080036",
-    "bookname": "V草原改良与利用/钟海梅",
+    "bookname": "草原改良与利用/钟海梅",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080037",
-    "bookname": "V畜禽产品加工/雷阳",
+    "bookname": "畜禽产品加工/雷阳",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080038",
-    "bookname": "V家畜外科及产科学/甘肃省畜牧学校",
+    "bookname": "家畜外科及产科学/甘肃省畜牧学校",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080039",
-    "bookname": "V农村政策与法规(第二版)/丁鸿",
+    "bookname": "农村政策与法规(第二版)/丁鸿",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080040",
-    "bookname": "V动物繁殖与改良/钟孟淮",
+    "bookname": "动物繁殖与改良/钟孟淮",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080041",
-    "bookname": "V食用菌生产技术(中等职业教育农业部规划教材)/叶颜春",
+    "bookname": "食用菌生产技术(中等职业教育农业部规划教材)/叶颜春",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080042",
-    "bookname": "V植物生产与环境/吴国宜",
+    "bookname": "植物生产与环境/吴国宜",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080043",
-    "bookname": "V畜牧兽医法规基础 /韩昌权",
+    "bookname": "畜牧兽医法规基础 /韩昌权",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080044",
-    "bookname": "V兽医临床诊疗技术/胡在钜",
+    "bookname": "兽医临床诊疗技术/胡在钜",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080045",
-    "bookname": "V园林规划设计/肖创伟",
+    "bookname": "园林规划设计/肖创伟",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080046",
-    "bookname": "V猪生产(第2版)/李和国",
+    "bookname": "猪生产(第2版)/李和国",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080047",
-    "bookname": "V动物寄生虫病/张进隆",
+    "bookname": "动物寄生虫病/张进隆",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080048",
-    "bookname": "V动物病理/周珍辉",
+    "bookname": "动物病理/周珍辉",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080049",
-    "bookname": "V蔬菜生产技术 北方本(第二版)/韩世栋",
+    "bookname": "蔬菜生产技术 北方本(第二版)/韩世栋",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080050",
-    "bookname": "V养殖场环境卫生与控制(第二版)/张玲清",
+    "bookname": "养殖场环境卫生与控制(第二版)/张玲清",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080051",
-    "bookname": "V动物防疫与检疫技术(第二版)/潘杰",
+    "bookname": "动物防疫与检疫技术(第二版)/潘杰",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080052",
-    "bookname": "V动物繁殖与改良(第二版)/钟孟淮",
+    "bookname": "动物繁殖与改良(第二版)/钟孟淮",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080053",
-    "bookname": "V畜禽生产(第二版)/张登辉",
+    "bookname": "畜禽生产(第二版)/张登辉",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080054",
-    "bookname": "V动物微生物及检验(第三版)/赵良仓",
+    "bookname": "动物微生物及检验(第三版)/赵良仓",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080055",
-    "bookname": "V养蜂学（3版）/曾志将",
+    "bookname": "养蜂学（3版）/曾志将",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080056",
-    "bookname": "V牛羊生产/李明",
+    "bookname": "牛羊生产/李明",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080057",
-    "bookname": "V动物营养与饲料(2版)/刘国艳",
+    "bookname": "动物营养与饲料(2版)/刘国艳",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080058",
-    "bookname": "V动物内科病 /刘广文、刘海",
+    "bookname": "动物内科病 /刘广文、刘海",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080059",
-    "bookname": "V动物药理(第二版)/宋冶萍",
+    "bookname": "动物药理(第二版)/宋冶萍",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080060",
-    "bookname": "V动物外科与产科/顾剑新、陆桂平",
+    "bookname": "动物外科与产科/顾剑新、陆桂平",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080061",
-    "bookname": "V禽类生产(第二版)/席克奇",
+    "bookname": "禽类生产(第二版)/席克奇",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080062",
-    "bookname": "V果树生产技术 北方本(第二版)/马骏",
+    "bookname": "果树生产技术 北方本(第二版)/马骏",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080063",
-    "bookname": "V农业微生物 高等职业教育农业部十二五规划教材/顾卫兵",
+    "bookname": "农业微生物 高等职业教育农业部十二五规划教材/顾卫兵",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080064",
-    "bookname": "V兽医外科手术学/林德贵",
+    "bookname": "兽医外科手术学/林德贵",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080065",
-    "bookname": "V动物药理与毒理/宋治萍",
+    "bookname": "动物药理与毒理/宋治萍",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080066",
-    "bookname": "V畜牧兽医职业技能训练教程(兽医分册)/钟静宁、程凌",
+    "bookname": "畜牧兽医职业技能训练教程(兽医分册)/钟静宁、程凌",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080067",
-    "bookname": "V动物传染病/钟静宁",
+    "bookname": "动物传染病/钟静宁",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080068",
-    "bookname": "V临床兽医学/山东畜牧兽医学校",
+    "bookname": "临床兽医学/山东畜牧兽医学校",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080069",
-    "bookname": "V家畜病理学/马学恩",
+    "bookname": "家畜病理学/马学恩",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0080070",
-    "bookname": "V公差配合与测量技术练习册/杨沿平",
+    "bookname": "公差配合与测量技术练习册/杨沿平",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080071",
-    "bookname": "V机械工人技术理论培训教材",
+    "bookname": "机械工人技术理论培训教材",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080072",
-    "bookname": "V初级车工技术",
+    "bookname": "初级车工技术",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080073",
-    "bookname": "V公差配合与技术测量习题集/曾秀云",
+    "bookname": "公差配合与技术测量习题集/曾秀云",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080074",
-    "bookname": "V机械制图习题集(非机械类专业)(少学时)(第3版)/金大鹰",
+    "bookname": "机械制图习题集(非机械类专业)(少学时)(第3版)/金大鹰",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080075",
-    "bookname": "V电工常识(第二版)/王建民",
+    "bookname": "电工常识(第二版)/王建民",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080076",
-    "bookname": "V切削用量简明手册/艾兴",
+    "bookname": "切削用量简明手册/艾兴",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080077",
-    "bookname": "V机械基础/谭敬辉",
+    "bookname": "机械基础/谭敬辉",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080078",
-    "bookname": "V汽车修理工(中级)鉴定培训教材",
+    "bookname": "汽车修理工(中级)鉴定培训教材",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080079",
-    "bookname": "V电子测量仪器/刘纬",
+    "bookname": "电子测量仪器/刘纬",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080080",
-    "bookname": "V制冷原理/田国庆",
+    "bookname": "制冷原理/田国庆",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080081",
-    "bookname": "V现代礼仪(第2版)(赠助教课件)/国英",
+    "bookname": "现代礼仪(第2版)(赠助教课件)/国英",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080082",
-    "bookname": "V公差配合与技术测量/曾秀云",
+    "bookname": "公差配合与技术测量/曾秀云",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080083",
-    "bookname": "V工程训练--数控机床编程与操作篇/张祝新",
+    "bookname": "工程训练--数控机床编程与操作篇/张祝新",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080084",
-    "bookname": "V电子产品装配与调试/戴树春",
+    "bookname": "电子产品装配与调试/戴树春",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080085",
-    "bookname": "V旅游服务礼仪技能实训/李祝舜",
+    "bookname": "旅游服务礼仪技能实训/李祝舜",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080086",
-    "bookname": "V钳工工艺与技能训练/汪哲能",
+    "bookname": "钳工工艺与技能训练/汪哲能",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080087",
-    "bookname": "V物流运输组织与管理(第三版)/朱隆亮",
+    "bookname": "物流运输组织与管理(第三版)/朱隆亮",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080088",
-    "bookname": "V中职生就业指导/陈桂芳",
+    "bookname": "中职生就业指导/陈桂芳",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080089",
-    "bookname": "V数控铣削编程与加工/张宁菊",
+    "bookname": "数控铣削编程与加工/张宁菊",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080090",
-    "bookname": "V机械制图习题集(第4版)/王其昌",
+    "bookname": "机械制图习题集(第4版)/王其昌",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080091",
-    "bookname": "V机电产品市场营销学",
+    "bookname": "机电产品市场营销学",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080092",
-    "bookname": "V电工基本技能实训教程/机电类中.高等职业技/王建、赵金周",
+    "bookname": "电工基本技能实训教程/机电类中.高等职业技/王建、赵金周",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080093",
-    "bookname": "V汽车维修常用工量具及设备使用/王怀建",
+    "bookname": "汽车维修常用工量具及设备使用/王怀建",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080094",
-    "bookname": "V设备控制技术 第2版/中等职业教育规划教材/于凤丽",
+    "bookname": "设备控制技术 第2版/中等职业教育规划教材/于凤丽",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080095",
-    "bookname": "V汽国市场营销/解小琴麦冬玲",
+    "bookname": "汽国市场营销/解小琴麦冬玲",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080096",
-    "bookname": "V调酒艺术技能实训含1CD/陈映群",
+    "bookname": "调酒艺术技能实训含1CD/陈映群",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080097",
-    "bookname": "V机械制图(非机械类专业)(少学时)(第3版)/金大鹰",
+    "bookname": "机械制图(非机械类专业)(少学时)(第3版)/金大鹰",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080098",
-    "bookname": "V数控车削加工技术/赵军华，肖龙",
+    "bookname": "数控车削加工技术/赵军华，肖龙",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080099",
-    "bookname": "V现代物流概论/王红艳",
+    "bookname": "现代物流概论/王红艳",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080100",
-    "bookname": "V数控车床编程与操作练习册/朱明松",
+    "bookname": "数控车床编程与操作练习册/朱明松",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080101",
-    "bookname": "V电工与电子技术/徐咏冬",
+    "bookname": "电工与电子技术/徐咏冬",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080102",
-    "bookname": "V民用建筑构造/刑燕雯",
+    "bookname": "民用建筑构造/刑燕雯",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080103",
-    "bookname": "V金属加工与实训/禹加宽",
+    "bookname": "金属加工与实训/禹加宽",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080104",
-    "bookname": "V经典诵读/蒋祖国",
+    "bookname": "经典诵读/蒋祖国",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080105",
-    "bookname": "V汽车钣金教程/马云贵",
+    "bookname": "汽车钣金教程/马云贵",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080106",
-    "bookname": "V焊工技能训练 中等职业教育机电类专业十一五规划教材/任萱、米",
+    "bookname": "焊工技能训练 中等职业教育机电类专业十一五规划教材/任萱、米",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080107",
-    "bookname": "V家用电器维修技术/詹新生",
+    "bookname": "家用电器维修技术/詹新生",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080108",
-    "bookname": "V汽车美容与装饰/于志友",
+    "bookname": "汽车美容与装饰/于志友",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080109",
-    "bookname": "V光纤通信技术/李方健",
+    "bookname": "光纤通信技术/李方健",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080110",
-    "bookname": "V思想道德修养与法律基础(高职高专公共基础课十一五规划教材)/宋",
+    "bookname": "思想道德修养与法律基础(高职高专公共基础课十一五规划教材)/宋",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080111",
-    "bookname": "V测量技术/全国高等职业教育规划教材",
+    "bookname": "测量技术/全国高等职业教育规划教材",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080112",
-    "bookname": "V计算机美术基础实训教程/桑莉君",
+    "bookname": "计算机美术基础实训教程/桑莉君",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080113",
-    "bookname": "V电子技术基础/庄丽娟",
+    "bookname": "电子技术基础/庄丽娟",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080114",
-    "bookname": "V汽车空调维修理实一体化教程/陈健健",
+    "bookname": "汽车空调维修理实一体化教程/陈健健",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080115",
-    "bookname": "V文字录入项目教程/丛春燕",
+    "bookname": "文字录入项目教程/丛春燕",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080116",
-    "bookname": "V焊工技能训练与考级/宁文军",
+    "bookname": "焊工技能训练与考级/宁文军",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080117",
-    "bookname": "V数控车工(中级)资格鉴定理论试题库/陈子银",
+    "bookname": "数控车工(中级)资格鉴定理论试题库/陈子银",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080118",
-    "bookname": "V汽车故障诊断技术高职高专课程改革规划教材/张子波",
+    "bookname": "汽车故障诊断技术高职高专课程改革规划教材/张子波",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080119",
-    "bookname": "V液压传动/丁树模",
+    "bookname": "液压传动/丁树模",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080120",
-    "bookname": "V汽车电气设备构造与维修/扈佩令/林治平",
+    "bookname": "汽车电气设备构造与维修/扈佩令/林治平",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080121",
-    "bookname": "V汽车识图/样丽琴 冯学敦",
+    "bookname": "汽车识图/样丽琴 冯学敦",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080122",
-    "bookname": "V数据库应用基础/李林孖",
+    "bookname": "数据库应用基础/李林孖",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080123",
-    "bookname": "V数控车削加工与编程/王增杰",
+    "bookname": "数控车削加工与编程/王增杰",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080124",
-    "bookname": "V工程建筑法规与合同管理/高正文",
+    "bookname": "工程建筑法规与合同管理/高正文",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080125",
-    "bookname": "V消费心理学(21世纪高职高专系列教材)/刘庆华",
+    "bookname": "消费心理学(21世纪高职高专系列教材)/刘庆华",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080126",
-    "bookname": "V通信工程概预算/张智群",
+    "bookname": "通信工程概预算/张智群",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080127",
-    "bookname": "V汽车维护与保养图解教程/谭本忠",
+    "bookname": "汽车维护与保养图解教程/谭本忠",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080128",
-    "bookname": "V汽车电气系统结构与维修图解教程/谭本忠",
+    "bookname": "汽车电气系统结构与维修图解教程/谭本忠",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080129",
-    "bookname": "V工程力学(二版)/顾晓勤",
+    "bookname": "工程力学(二版)/顾晓勤",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080130",
-    "bookname": "V焊接专业英语/职业教育十一五规划教材 焊接专业/赵丽玲",
+    "bookname": "焊接专业英语/职业教育十一五规划教材 焊接专业/赵丽玲",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080131",
-    "bookname": "V道路交通法规/曾宪培",
+    "bookname": "道路交通法规/曾宪培",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080132",
-    "bookname": "V汽车概论/蔡兴旺",
+    "bookname": "汽车概论/蔡兴旺",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080133",
-    "bookname": "V钳工工艺与综合技能训练(理实一体化)",
+    "bookname": "钳工工艺与综合技能训练(理实一体化)",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080134",
-    "bookname": "V机械设计基础",
+    "bookname": "机械设计基础",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080135",
-    "bookname": "V焊接结构生产第2版/中等职业教育国家规划教材/王云鹏",
+    "bookname": "焊接结构生产第2版/中等职业教育国家规划教材/王云鹏",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080136",
-    "bookname": "V汽车底盘构造与维修图解教程/谭本忠",
+    "bookname": "汽车底盘构造与维修图解教程/谭本忠",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080137",
-    "bookname": "V电器及PLC控制技术/黄静",
+    "bookname": "电器及PLC控制技术/黄静",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080138",
-    "bookname": "V物流管理基础(第三版)/曾剑",
+    "bookname": "物流管理基础(第三版)/曾剑",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080139",
-    "bookname": "V计算机基础教程/曹中文",
+    "bookname": "计算机基础教程/曹中文",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080140",
-    "bookname": "V金属切削原理与刀具/陆剑中 周志明",
+    "bookname": "金属切削原理与刀具/陆剑中 周志明",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080141",
-    "bookname": "V中国名俗文化知识读本(第2版)/李援朝",
+    "bookname": "中国名俗文化知识读本(第2版)/李援朝",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080142",
-    "bookname": "V汽车自动变速器原理与维修/翟庭杰",
+    "bookname": "汽车自动变速器原理与维修/翟庭杰",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080143",
-    "bookname": "V焊接方法/职业教育十一五规划教材 焊接专业/邱蔚菲",
+    "bookname": "焊接方法/职业教育十一五规划教材 焊接专业/邱蔚菲",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080144",
-    "bookname": "V电子技能与实训/陈国培 谭克清",
+    "bookname": "电子技能与实训/陈国培 谭克清",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080145",
-    "bookname": "V自动控制理论基础/左为恒、周林",
+    "bookname": "自动控制理论基础/左为恒、周林",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080146",
-    "bookname": "V电力电子技术(第5版)/王兆安、刘进军",
+    "bookname": "电力电子技术(第5版)/王兆安、刘进军",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080147",
-    "bookname": "V基站与无线覆盖技术/朱里奇",
+    "bookname": "基站与无线覆盖技术/朱里奇",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080148",
-    "bookname": "V色彩基础知识/张玉江",
+    "bookname": "色彩基础知识/张玉江",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080149",
-    "bookname": "V汽车修理工(中级)操作技能鉴定实践详解",
+    "bookname": "汽车修理工(中级)操作技能鉴定实践详解",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080150",
-    "bookname": "V电子商务案例分析/赵冬梅",
+    "bookname": "电子商务案例分析/赵冬梅",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080151",
-    "bookname": "V汽车维护与保养一体化教程/姜龙青",
+    "bookname": "汽车维护与保养一体化教程/姜龙青",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080152",
-    "bookname": "V公差配合与测量技术下/黄云清",
+    "bookname": "公差配合与测量技术下/黄云清",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080153",
-    "bookname": "V金属熔焊基础与材料焊接/李凤银",
+    "bookname": "金属熔焊基础与材料焊接/李凤银",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080154",
-    "bookname": "V数据恢复技术案例教程/赵振洲",
+    "bookname": "数据恢复技术案例教程/赵振洲",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080155",
-    "bookname": "V检测技术及仪表[平装]/毛徐辛",
+    "bookname": "检测技术及仪表[平装]/毛徐辛",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080156",
-    "bookname": "V汽车发动机构造与维修/高职高专规划教材/李庆军",
+    "bookname": "汽车发动机构造与维修/高职高专规划教材/李庆军",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080157",
-    "bookname": "V数控加工技术/吴明友",
+    "bookname": "数控加工技术/吴明友",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080158",
-    "bookname": "V文字录入与编辑实训教程/韦忠坚",
+    "bookname": "文字录入与编辑实训教程/韦忠坚",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080159",
-    "bookname": "V汽车发动机构造与维修图解教程/谭本忠",
+    "bookname": "汽车发动机构造与维修图解教程/谭本忠",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080160",
-    "bookname": "V LNVENTOR工业产品设计基础与实践训练/林将毅",
+    "bookname": " LNVENTOR工业产品设计基础与实践训练/林将毅",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080161",
-    "bookname": "V电子工艺与技能实训教程/夏西泉",
+    "bookname": "电子工艺与技能实训教程/夏西泉",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080162",
-    "bookname": "V汽车美容装饰/陈翔、王志新",
+    "bookname": "汽车美容装饰/陈翔、王志新",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080163",
-    "bookname": "V AUTOCAD2008机械制图实用教程/王灵珠",
+    "bookname": " AUTOCAD2008机械制图实用教程/王灵珠",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080164",
-    "bookname": "V机械制图与AUTOCAD基础/王英杰",
+    "bookname": "机械制图与AUTOCAD基础/王英杰",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080165",
-    "bookname": "V装饰工程质量检验与验收/周明月",
+    "bookname": "装饰工程质量检验与验收/周明月",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080166",
-    "bookname": "V《公差配合与测量技术》(第三版)/王英杰",
+    "bookname": "《公差配合与测量技术》(第三版)/王英杰",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080167",
-    "bookname": "V商务谈判与推销技术/周琼、吴再芳",
+    "bookname": "商务谈判与推销技术/周琼、吴再芳",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080168",
-    "bookname": "V FLASH动画设计与制作项目教程(赠电子课件和素材)/薛玮",
+    "bookname": " FLASH动画设计与制作项目教程(赠电子课件和素材)/薛玮",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080169",
-    "bookname": "V冷菜与冷拼制作技术/韦昔奇",
+    "bookname": "冷菜与冷拼制作技术/韦昔奇",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080170",
-    "bookname": "V前厅服务技能实例/王佳",
+    "bookname": "前厅服务技能实例/王佳",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080171",
-    "bookname": "V电气制图与读图第3版/何利民，尹全英",
+    "bookname": "电气制图与读图第3版/何利民，尹全英",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080172",
-    "bookname": "V汽车4S店企业管理业务接待/黄会明",
+    "bookname": "汽车4S店企业管理业务接待/黄会明",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080173",
-    "bookname": "V AUTOCAD 2013机械制图实例教程/汪哲能",
+    "bookname": " AUTOCAD 2013机械制图实例教程/汪哲能",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080174",
-    "bookname": "V网络营销实务(项目式教材)/王涛",
+    "bookname": "网络营销实务(项目式教材)/王涛",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080175",
-    "bookname": "V通信电子线路/刘雪亭",
+    "bookname": "通信电子线路/刘雪亭",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080176",
-    "bookname": "V机械设计基础(第二版)/胡家秀",
+    "bookname": "机械设计基础(第二版)/胡家秀",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080177",
-    "bookname": "V MASTERCAM X2应用教程/李占军",
+    "bookname": " MASTERCAM X2应用教程/李占军",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080178",
-    "bookname": "V《汽车机械基础》/王芳",
+    "bookname": "《汽车机械基础》/王芳",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080179",
-    "bookname": "V生产与运作管理/许兆祥",
+    "bookname": "生产与运作管理/许兆祥",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080180",
-    "bookname": "V HTML+CSS+JAVASCRIPT网页制作/刘瑞新",
+    "bookname": " HTML+CSS+JAVASCRIPT网页制作/刘瑞新",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080181",
-    "bookname": "V模拟电子技术项目教程(第二版)/贺力克",
+    "bookname": "模拟电子技术项目教程(第二版)/贺力克",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080182",
-    "bookname": "V汽车电气设备构造与维修/路进乐",
+    "bookname": "汽车电气设备构造与维修/路进乐",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080183",
-    "bookname": "V工厂供电(第二版)/戴绍基",
+    "bookname": "工厂供电(第二版)/戴绍基",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080184",
-    "bookname": "V简明机械制图手册/杨老记",
+    "bookname": "简明机械制图手册/杨老记",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080185",
-    "bookname": "V三菱PLC、触摸屏和变频器应用技术(赠电子课件)/曹菁",
+    "bookname": "三菱PLC、触摸屏和变频器应用技术(赠电子课件)/曹菁",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080186",
-    "bookname": "V汽车制造工艺基础/谢永东",
+    "bookname": "汽车制造工艺基础/谢永东",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080187",
-    "bookname": "V机械制图(第4版)/王其昌",
+    "bookname": "机械制图(第4版)/王其昌",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080188",
-    "bookname": "V电子产品装配与调试赛题集/杨少光 聂辉海",
+    "bookname": "电子产品装配与调试赛题集/杨少光 聂辉海",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080189",
-    "bookname": "V建筑装饰制图与识图(第三版)/高远",
+    "bookname": "建筑装饰制图与识图(第三版)/高远",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080190",
-    "bookname": "V汽车市场营销/王琪",
+    "bookname": "汽车市场营销/王琪",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080191",
-    "bookname": "V车工实用手册",
+    "bookname": "车工实用手册",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080192",
-    "bookname": "V汽车构造透视图典/陈新亚",
+    "bookname": "汽车构造透视图典/陈新亚",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080193",
-    "bookname": "V汽车运用技术/赵英勋",
+    "bookname": "汽车运用技术/赵英勋",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080194",
-    "bookname": "V网络综合布线系统工程技术实训教程(第二版 )/王公儒",
+    "bookname": "网络综合布线系统工程技术实训教程(第二版 )/王公儒",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080195",
-    "bookname": "V汽车电控技术/付百学",
+    "bookname": "汽车电控技术/付百学",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080196",
-    "bookname": "V汽车新技术新配置入门必知200问/刘春晖",
+    "bookname": "汽车新技术新配置入门必知200问/刘春晖",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080197",
-    "bookname": "V汽车制造工艺学/宋新萍",
+    "bookname": "汽车制造工艺学/宋新萍",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080198",
-    "bookname": "V机械基础精讲全练/苟方昉",
+    "bookname": "机械基础精讲全练/苟方昉",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080199",
-    "bookname": "V汽车底盘构造与维修/高等职业技术教育规划教材/幺居标",
+    "bookname": "汽车底盘构造与维修/高等职业技术教育规划教材/幺居标",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080200",
-    "bookname": "V 3DSMAX2009中文版基础与实例教程/张凡",
+    "bookname": " 3DSMAX2009中文版基础与实例教程/张凡",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080201",
-    "bookname": "V工程招投标与合同管理 第三版/刘黎虹",
+    "bookname": "工程招投标与合同管理 第三版/刘黎虹",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080202",
-    "bookname": "V汽车美容与装饰完全图解/李昌凤",
+    "bookname": "汽车美容与装饰完全图解/李昌凤",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080203",
-    "bookname": "V汽车新结构与新技术/邢忠义",
+    "bookname": "汽车新结构与新技术/邢忠义",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080204",
-    "bookname": "V数控加工技术与项目实训/赵慧瞿",
+    "bookname": "数控加工技术与项目实训/赵慧瞿",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080205",
-    "bookname": "V AFTER EFFECTS基础与实例教程/张凡",
+    "bookname": " AFTER EFFECTS基础与实例教程/张凡",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080206",
-    "bookname": "V平面广告设计/赵国祥",
+    "bookname": "平面广告设计/赵国祥",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080207",
-    "bookname": "V汽车构造上册(第三版)/陈家瑞",
+    "bookname": "汽车构造上册(第三版)/陈家瑞",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080208",
-    "bookname": "V CAXA制造工程师2013数控加工自动编程教程/徐海军",
+    "bookname": " CAXA制造工程师2013数控加工自动编程教程/徐海军",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080209",
-    "bookname": "V电梯结构原理与安装维修(陈家盛)",
+    "bookname": "电梯结构原理与安装维修(陈家盛)",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080210",
-    "bookname": "V汽车发动机构造与维修/仇雅莉",
+    "bookname": "汽车发动机构造与维修/仇雅莉",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080211",
-    "bookname": "V供应链物流管理/DONALD J.BOWERSOX",
+    "bookname": "供应链物流管理/DONALD J.BOWERSOX",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080212",
-    "bookname": "V CAXA2013从入门到精通/胡仁喜、刘昌丽、康士廷",
+    "bookname": " CAXA2013从入门到精通/胡仁喜、刘昌丽、康士廷",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0080213",
-    "bookname": "V电梯工程施工工艺标准/柴效增",
+    "bookname": "电梯工程施工工艺标准/柴效增",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080214",
-    "bookname": "V架子工/土木建筑职业技能岗位培训教材",
+    "bookname": "架子工/土木建筑职业技能岗位培训教材",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080215",
-    "bookname": "V试验工/土木建筑职业技能岗位培训教材",
+    "bookname": "试验工/土木建筑职业技能岗位培训教材",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080216",
-    "bookname": "V工程测量(测量工程技术专业)/郭启荣",
+    "bookname": "工程测量(测量工程技术专业)/郭启荣",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080217",
-    "bookname": "V抹灰工/土木建筑职业技能岗位培训教材",
+    "bookname": "抹灰工/土木建筑职业技能岗位培训教材",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080218",
-    "bookname": "V建筑施工组织与管理/徐家祥",
+    "bookname": "建筑施工组织与管理/徐家祥",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080219",
-    "bookname": "V钢筋工/土木建筑职业技能岗位培训教材",
+    "bookname": "钢筋工/土木建筑职业技能岗位培训教材",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080220",
-    "bookname": "V砌筑工/土木建筑职业技能岗位培训教材",
+    "bookname": "砌筑工/土木建筑职业技能岗位培训教材",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080221",
-    "bookname": "V测量放线工/土木建筑职业技能岗位培训教材",
+    "bookname": "测量放线工/土木建筑职业技能岗位培训教材",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080222",
-    "bookname": "V工程造价案例分析/郭树荣",
+    "bookname": "工程造价案例分析/郭树荣",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080223",
-    "bookname": "V市政工程/王云江",
+    "bookname": "市政工程/王云江",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080224",
-    "bookname": "V综合实习/叶刚",
+    "bookname": "综合实习/叶刚",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080225",
-    "bookname": "V施工员岗位知识与专业技能(装饰方向)",
+    "bookname": "施工员岗位知识与专业技能(装饰方向)",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080226",
-    "bookname": "V文字创意设计/陈原川",
+    "bookname": "文字创意设计/陈原川",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080227",
-    "bookname": "V施工员通用与基础知识(装饰方向)",
+    "bookname": "施工员通用与基础知识(装饰方向)",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080228",
-    "bookname": "V测量员岗位实务知识(第二版)",
+    "bookname": "测量员岗位实务知识(第二版)",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080229",
-    "bookname": "V质量员专业管理实务(市政方向)",
+    "bookname": "质量员专业管理实务(市政方向)",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080230",
-    "bookname": "V城市景观规划设计/赵慧宁/赵军",
+    "bookname": "城市景观规划设计/赵慧宁/赵军",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080231",
-    "bookname": "V施工员专业基础知识(市政方向)",
+    "bookname": "施工员专业基础知识(市政方向)",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080232",
-    "bookname": "V施工员专业管理实务(市政方向)",
+    "bookname": "施工员专业管理实务(市政方向)",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080233",
-    "bookname": "V质量员专业基础知识(市政方向)",
+    "bookname": "质量员专业基础知识(市政方向)",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0080234",
-    "bookname": "V咖啡调制与服务/王立职",
+    "bookname": "咖啡调制与服务/王立职",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080235",
-    "bookname": "V中文FLASH CS6案例教材/沈大林",
+    "bookname": "中文FLASH CS6案例教材/沈大林",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080236",
-    "bookname": "V列车员素质与服务技能",
+    "bookname": "列车员素质与服务技能",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080237",
-    "bookname": "V铁路客运服务礼仪/董正秀",
+    "bookname": "铁路客运服务礼仪/董正秀",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080238",
-    "bookname": "V铁路运输市场营销(第二版)/赵岚",
+    "bookname": "铁路运输市场营销(第二版)/赵岚",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080239",
-    "bookname": "V铁路客运服务礼仪(第二版)/董正秀 张苏敏",
+    "bookname": "铁路客运服务礼仪(第二版)/董正秀 张苏敏",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080240",
-    "bookname": "V茶艺与服务(第二版)/单惠芳",
+    "bookname": "茶艺与服务(第二版)/单惠芳",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080241",
-    "bookname": "V公关与礼仪(铁路旅游管理丛书)/贾俊芳",
+    "bookname": "公关与礼仪(铁路旅游管理丛书)/贾俊芳",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080242",
-    "bookname": "V铁路运输设备/宋瑞",
+    "bookname": "铁路运输设备/宋瑞",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080243",
-    "bookname": "V网络设备安装与调试(锐捷)/张治平",
+    "bookname": "网络设备安装与调试(锐捷)/张治平",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080244",
-    "bookname": "V工厂供配电/李高建，马飞",
+    "bookname": "工厂供配电/李高建，马飞",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080245",
-    "bookname": "V计算机网络技术与实训(第三版)/杨云",
+    "bookname": "计算机网络技术与实训(第三版)/杨云",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080246",
-    "bookname": "V旅客运输心理学/朱晓宁",
+    "bookname": "旅客运输心理学/朱晓宁",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080247",
-    "bookname": "V ERP原理及实施/陈孟建 李峰之",
+    "bookname": " ERP原理及实施/陈孟建 李峰之",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080248",
-    "bookname": "V高速铁路概论/李学伟",
+    "bookname": "高速铁路概论/李学伟",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080249",
-    "bookname": "V旅客运输/王瓺男 贾俊芳",
+    "bookname": "旅客运输/王瓺男 贾俊芳",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080250",
-    "bookname": "V智能系统工程实用技术/王公儒",
+    "bookname": "智能系统工程实用技术/王公儒",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080251",
-    "bookname": "V7天精通网站建设实录/陈凡灵",
+    "bookname": "7天精通网站建设实录/陈凡灵",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0080252",
-    "bookname": "V工程力学学习指导/孔七一",
+    "bookname": "工程力学学习指导/孔七一",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080253",
-    "bookname": "V汽车营销/ 王彦峰",
+    "bookname": "汽车营销/ 王彦峰",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080254",
-    "bookname": "V汽车故障诊断技术(新编版)赵龙、戈国鹏编",
+    "bookname": "汽车故障诊断技术(新编版)赵龙、戈国鹏编",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080255",
-    "bookname": "V汽车使用性能与检测(新编版)∕杨益明",
+    "bookname": "汽车使用性能与检测(新编版)∕杨益明",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080256",
-    "bookname": "V车声涂装(模块G浙江省机动车人员培训教材)/陈虹",
+    "bookname": "车声涂装(模块G浙江省机动车人员培训教材)/陈虹",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080257",
-    "bookname": "V汽车传动系统修理工作页(第二版）",
+    "bookname": "汽车传动系统修理工作页(第二版）",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080258",
-    "bookname": "V汽车维修服务接待实训教材/张琳琳",
+    "bookname": "汽车维修服务接待实训教材/张琳琳",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080259",
-    "bookname": "V汽车自动变速器构造与维修∕韩彦明 周志伟",
+    "bookname": "汽车自动变速器构造与维修∕韩彦明 周志伟",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080260",
-    "bookname": "V汽车配件管理与营销/彭朝辉",
+    "bookname": "汽车配件管理与营销/彭朝辉",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080261",
-    "bookname": "V汽车电气构造与维修/高元伟、吕学",
+    "bookname": "汽车电气构造与维修/高元伟、吕学",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080262",
-    "bookname": "V道路交通安全管理法律概论及案例分析/裴玉龙 马艳丽 张琨",
+    "bookname": "道路交通安全管理法律概论及案例分析/裴玉龙 马艳丽 张琨",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080263",
-    "bookname": "V汽车材料(新编版)∕周燕",
+    "bookname": "汽车材料(新编版)∕周燕",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080264",
-    "bookname": "V汽车底盘构造与维修(新编版)沈沉编",
+    "bookname": "汽车底盘构造与维修(新编版)沈沉编",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080265",
-    "bookname": "V生产物流管理/原宇，邵雷?",
+    "bookname": "生产物流管理/原宇，邵雷?",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080266",
-    "bookname": "V汽车发动机构造与维修 /王会，刘超红",
+    "bookname": "汽车发动机构造与维修 /王会，刘超红",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080267",
-    "bookname": "V汽车二级维护实训图册/宋开健",
+    "bookname": "汽车二级维护实训图册/宋开健",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080268",
-    "bookname": "V汽车发动机构造与维修/汤定国",
+    "bookname": "汽车发动机构造与维修/汤定国",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080269",
-    "bookname": "V汽车发动机机械系统检修（第二版）",
+    "bookname": "汽车发动机机械系统检修（第二版）",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080270",
-    "bookname": "V汽车钣金常见维修项目实训教材/林育彬",
+    "bookname": "汽车钣金常见维修项目实训教材/林育彬",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080271",
-    "bookname": "V汽车装配与调试技术/刘敬忠",
+    "bookname": "汽车装配与调试技术/刘敬忠",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080272",
-    "bookname": "V汽车电气设备构造与维修(新编版)/周建平",
+    "bookname": "汽车电气设备构造与维修(新编版)/周建平",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080273",
-    "bookname": "V汽车机械基础(第二版)/凤勇",
+    "bookname": "汽车机械基础(第二版)/凤勇",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080274",
-    "bookname": "V汽车电工与电子基础(第三版)/任成尧",
+    "bookname": "汽车电工与电子基础(第三版)/任成尧",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0080275",
-    "bookname": "V数控机床故障诊断与维护/王文浩",
+    "bookname": "数控机床故障诊断与维护/王文浩",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080276",
-    "bookname": "V计算机图形制作基础CORELDRAW 12中文版上机指导与练习(第2版)/",
+    "bookname": "计算机图形制作基础CORELDRAW 12中文版上机指导与练习(第2版)/",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080277",
-    "bookname": "V PROTEL 99SE基础教程/姚年春 向华",
+    "bookname": " PROTEL 99SE基础教程/姚年春 向华",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080278",
-    "bookname": "V平面设计PHOTOSHOP CS中文版上机指导与练习(第2版)/郭万军",
+    "bookname": "平面设计PHOTOSHOP CS中文版上机指导与练习(第2版)/郭万军",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080279",
-    "bookname": "V电子技能实训-初级篇(第二版)/谭克清",
+    "bookname": "电子技能实训-初级篇(第二版)/谭克清",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080280",
-    "bookname": "V常用工具软件(第2版)(教育部职业教育与成人教育司推荐教材)/袁",
+    "bookname": "常用工具软件(第2版)(教育部职业教育与成人教育司推荐教材)/袁",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080281",
-    "bookname": "V电热电动器具维修技术基本功/侯爱民",
+    "bookname": "电热电动器具维修技术基本功/侯爱民",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080282",
-    "bookname": "V计算机组装与维护项目教程(第2版)/陆婕 朱建东",
+    "bookname": "计算机组装与维护项目教程(第2版)/陆婕 朱建东",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080283",
-    "bookname": "V CAXA基础教程-制造工程师2008/周玉海",
+    "bookname": " CAXA基础教程-制造工程师2008/周玉海",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080284",
-    "bookname": "V INTERNET基础与操作/张书钦",
+    "bookname": " INTERNET基础与操作/张书钦",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080285",
-    "bookname": "V数控加工工艺与编程基础/于万成",
+    "bookname": "数控加工工艺与编程基础/于万成",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080286",
-    "bookname": "V FLASH8中文版实用教程第2版/中职/李如超",
+    "bookname": " FLASH8中文版实用教程第2版/中职/李如超",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080287",
-    "bookname": "V数控车床加工技能实训",
+    "bookname": "数控车床加工技能实训",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080288",
-    "bookname": "V局域网组建与维护(第2版)(项目教学)/王霞 曹洪欣",
+    "bookname": "局域网组建与维护(第2版)(项目教学)/王霞 曹洪欣",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080289",
-    "bookname": "V华中系统数控铣工/加工中心操作工技能训练",
+    "bookname": "华中系统数控铣工/加工中心操作工技能训练",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080290",
-    "bookname": "V CORELDRAW X3图形设计教程(第2版)(中职)/郭万军",
+    "bookname": " CORELDRAW X3图形设计教程(第2版)(中职)/郭万军",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080291",
-    "bookname": "V AUTOCAD 2008基础教程/朱宏",
+    "bookname": " AUTOCAD 2008基础教程/朱宏",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080292",
-    "bookname": "V电子电器产品营销实务(第2版)/赵智锋",
+    "bookname": "电子电器产品营销实务(第2版)/赵智锋",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080293",
-    "bookname": "V车工工艺与技能训练/漆向军",
+    "bookname": "车工工艺与技能训练/漆向军",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080294",
-    "bookname": "V计算机图形制作基础CORELDRAW 12中文版(第2版)/艾萍",
+    "bookname": "计算机图形制作基础CORELDRAW 12中文版(第2版)/艾萍",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080295",
-    "bookname": "V可视化编程应用VISUAL BASIC 6.0中文版/康惠芳 张琴",
+    "bookname": "可视化编程应用VISUAL BASIC 6.0中文版/康惠芳 张琴",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080296",
-    "bookname": "V汽车配件营销/滕先娟",
+    "bookname": "汽车配件营销/滕先娟",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080297",
-    "bookname": "V AUTO CAD 2008 中文版应用基础(第2版)/姜军",
+    "bookname": " AUTO CAD 2008 中文版应用基础(第2版)/姜军",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080298",
-    "bookname": "V PHOTOSHOP CS3中文图形图像处理/龙天才",
+    "bookname": " PHOTOSHOP CS3中文图形图像处理/龙天才",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080299",
-    "bookname": "V AUTOCAD2006中文基础教程(第2版)/姜勇 惠华先",
+    "bookname": " AUTOCAD2006中文基础教程(第2版)/姜勇 惠华先",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080300",
-    "bookname": "V电工基础(第二版)/余艳",
+    "bookname": "电工基础(第二版)/余艳",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080301",
-    "bookname": "V动画设计与制作--FLASHCS3",
+    "bookname": "动画设计与制作--FLASHCS3",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080302",
-    "bookname": "V计算机图形图像处理 PHOTOSHOP CS3(第2版)",
+    "bookname": "计算机图形图像处理 PHOTOSHOP CS3(第2版)",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080303",
-    "bookname": "V计算机图形图像处理PHOTOSHOPCS4中文版(项目教学)/傅珊珊 栾泽",
+    "bookname": "计算机图形图像处理PHOTOSHOPCS4中文版(项目教学)/傅珊珊 栾泽",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080304",
-    "bookname": "V电子商务概论/李源彬 穆炯",
+    "bookname": "电子商务概论/李源彬 穆炯",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080305",
-    "bookname": "V计算机辅助设计/AUTOCAD.2008中文版基础教程(第2版)/姜勇等",
+    "bookname": "计算机辅助设计/AUTOCAD.2008中文版基础教程(第2版)/姜勇等",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080306",
-    "bookname": "V FLASH 8中文版动画制作基础(第2版)(项目教学)/宋一兵 马震",
+    "bookname": " FLASH 8中文版动画制作基础(第2版)(项目教学)/宋一兵 马震",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080307",
-    "bookname": "V网页设计与制作(第2版)(项目教学)/王君学 古淑强",
+    "bookname": "网页设计与制作(第2版)(项目教学)/王君学 古淑强",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080308",
-    "bookname": "V AFTER EFFECTS CS4影视后期合成项目教程(项目教学)/程静",
+    "bookname": " AFTER EFFECTS CS4影视后期合成项目教程(项目教学)/程静",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080309",
-    "bookname": "V财经法规与会计职业道德",
+    "bookname": "财经法规与会计职业道德",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080310",
-    "bookname": "V数控机床操作与维护技术(第二版)/周晓宏",
+    "bookname": "数控机床操作与维护技术(第二版)/周晓宏",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080311",
-    "bookname": "V C语言项目式教程/赵志诚",
+    "bookname": " C语言项目式教程/赵志诚",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080312",
-    "bookname": "V平面设计PHOTOSHOP CS中文版(第2版)/郭万军",
+    "bookname": "平面设计PHOTOSHOP CS中文版(第2版)/郭万军",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080313",
-    "bookname": "V出纳实务.第2版",
+    "bookname": "出纳实务.第2版",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080314",
-    "bookname": "V汽车机械识图习题集/房芳",
+    "bookname": "汽车机械识图习题集/房芳",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080315",
-    "bookname": "V电工电子技术与技能/于建华",
+    "bookname": "电工电子技术与技能/于建华",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080316",
-    "bookname": "V电子技术基础与实训(第二版)/赵景波",
+    "bookname": "电子技术基础与实训(第二版)/赵景波",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080317",
-    "bookname": "V 2010AUTOCAD中文版基础教程/姜勇",
+    "bookname": " 2010AUTOCAD中文版基础教程/姜勇",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080318",
-    "bookname": "V维修电工与实训(初级篇第3版) /金国砥",
+    "bookname": "维修电工与实训(初级篇第3版) /金国砥",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080319",
-    "bookname": "V S7200西门子PLC基础教程/王淑英",
+    "bookname": " S7200西门子PLC基础教程/王淑英",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080320",
-    "bookname": "V幼儿卫生学",
+    "bookname": "幼儿卫生学",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080321",
-    "bookname": "V边学边做PHOTOSHOP+CORELDRAW综合实训教程/江新顺",
+    "bookname": "边学边做PHOTOSHOP+CORELDRAW综合实训教程/江新顺",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080322",
-    "bookname": "V边做边学---INDESIGN CS3排版艺术案例教程/魏哲",
+    "bookname": "边做边学---INDESIGN CS3排版艺术案例教程/魏哲",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080323",
-    "bookname": "V电冰箱、空调器原理与实训(第2版)",
+    "bookname": "电冰箱、空调器原理与实训(第2版)",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080324",
-    "bookname": "V中文版DREAMWEAVER CS5基础培训教程/数字艺术教育研究室",
+    "bookname": "中文版DREAMWEAVER CS5基础培训教程/数字艺术教育研究室",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080325",
-    "bookname": "V中文版PHOTOSHOPCS6基础培训教程 /数字艺术教育研究室",
+    "bookname": "中文版PHOTOSHOPCS6基础培训教程 /数字艺术教育研究室",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080326",
-    "bookname": "V室内设计CAD",
+    "bookname": "室内设计CAD",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080327",
-    "bookname": "V中文版CORE1DRAW X6基础培训教程/数字艺术教育研究室",
+    "bookname": "中文版CORE1DRAW X6基础培训教程/数字艺术教育研究室",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080328",
-    "bookname": "V中文版AUTO CAD基础培训教程/数字艺术教育研究室",
+    "bookname": "中文版AUTO CAD基础培训教程/数字艺术教育研究室",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080329",
-    "bookname": "V FLASH CS6基础培训教程/孟飞",
+    "bookname": " FLASH CS6基础培训教程/孟飞",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080330",
-    "bookname": "V钳工工艺与技能训练.高级/陈霖",
+    "bookname": "钳工工艺与技能训练.高级/陈霖",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080331",
-    "bookname": "V汽车底盘构造与维修(第2版)/李晓",
+    "bookname": "汽车底盘构造与维修(第2版)/李晓",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080332",
-    "bookname": "V计算机辅助设计—AUTOCAD 2010中文版基础教程(3版)/李善锋 姜勇",
+    "bookname": "计算机辅助设计—AUTOCAD 2010中文版基础教程(3版)/李善锋 姜勇",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080333",
-    "bookname": "V JAVA程序设计教程(项目式)",
+    "bookname": " JAVA程序设计教程(项目式)",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080334",
-    "bookname": "V边用边学AUTOCAD室内设计/史宇宏、教传艳",
+    "bookname": "边用边学AUTOCAD室内设计/史宇宏、教传艳",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080335",
-    "bookname": "V边用边学3DS MAX室内设计/史宇宏、教传艳",
+    "bookname": "边用边学3DS MAX室内设计/史宇宏、教传艳",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080336",
-    "bookname": "V边做边学—CORELDRAW X4图形设计案例教程",
+    "bookname": "边做边学—CORELDRAW X4图形设计案例教程",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080337",
-    "bookname": "V液晶彩色电视机维修从入门到精通(第二版)/王晓东",
+    "bookname": "液晶彩色电视机维修从入门到精通(第二版)/王晓东",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080338",
-    "bookname": "V CORELDRAW X5实例教程(第2版)/侯全军、陈茹",
+    "bookname": " CORELDRAW X5实例教程(第2版)/侯全军、陈茹",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080339",
-    "bookname": "V计算机应用基础/武马群",
+    "bookname": "计算机应用基础/武马群",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080340",
-    "bookname": "V OFFICE2003办公软件应用立体化教程/牟春花",
+    "bookname": " OFFICE2003办公软件应用立体化教程/牟春花",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080341",
-    "bookname": "V 3DSMAX2012室内教程/时代印象",
+    "bookname": " 3DSMAX2012室内教程/时代印象",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080342",
-    "bookname": "V简笔画5000例一本就够/涂涂猫",
+    "bookname": "简笔画5000例一本就够/涂涂猫",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080343",
-    "bookname": "V汽车机械识图/房芳",
+    "bookname": "汽车机械识图/房芳",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080344",
-    "bookname": "V计算机网络基础/谭炜、王勇",
+    "bookname": "计算机网络基础/谭炜、王勇",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080345",
-    "bookname": "V现代办公设备使用与维护立体化教程/侯方奎 贾如春",
+    "bookname": "现代办公设备使用与维护立体化教程/侯方奎 贾如春",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080346",
-    "bookname": "V思科网络技术学院教程—CENA EXPLORATION：LAN交接和天线(ICD)/",
+    "bookname": "思科网络技术学院教程—CENA EXPLORATION：LAN交接和天线(ICD)/",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080347",
-    "bookname": "V LINUX网络操作系统及应用教程(项目式)/杨云 王秀梅 孙凤杰",
+    "bookname": " LINUX网络操作系统及应用教程(项目式)/杨云 王秀梅 孙凤杰",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080348",
-    "bookname": "V EXCEL物流应用教程/彭进香",
+    "bookname": " EXCEL物流应用教程/彭进香",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080349",
-    "bookname": "V思科网络技术学院教程—路由协议和概念/(美)RICLK GRAZIZNI",
+    "bookname": "思科网络技术学院教程—路由协议和概念/(美)RICLK GRAZIZNI",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080350",
-    "bookname": "V思科网络技术学院教程—CCNA EXPLORATION：接入WAN(ICD)/(美)WA",
+    "bookname": "思科网络技术学院教程—CCNA EXPLORATION：接入WAN(ICD)/(美)WA",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080351",
-    "bookname": "V中文版MAYA基础培训教程/徐娜",
+    "bookname": "中文版MAYA基础培训教程/徐娜",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080352",
-    "bookname": "V无线网络优化/李蔷薇、刘芳",
+    "bookname": "无线网络优化/李蔷薇、刘芳",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080353",
-    "bookname": "V 3DSMAX2014室内效果图制作实例教程(第4版)/黄喜云",
+    "bookname": " 3DSMAX2014室内效果图制作实例教程(第4版)/黄喜云",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080354",
-    "bookname": "V小家电维修从入门到精通(第3版)/孙立群",
+    "bookname": "小家电维修从入门到精通(第3版)/孙立群",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080355",
-    "bookname": "V DREAMWEAVER CS5 网页设计与应用(第2版)/邢太北，王勇",
+    "bookname": " DREAMWEAVER CS5 网页设计与应用(第2版)/邢太北，王勇",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080356",
-    "bookname": "V PHOTOSHOP CS5平面设计应用教程/陈茹、裘德海",
+    "bookname": " PHOTOSHOP CS5平面设计应用教程/陈茹、裘德海",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080357",
-    "bookname": "V影视后期制作基础与应用教程(AFTER EFFECTS CS5) /周建国，宾彬",
+    "bookname": "影视后期制作基础与应用教程(AFTER EFFECTS CS5) /周建国，宾彬",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080358",
-    "bookname": "V服装CAD实用教材/富怡 日升",
+    "bookname": "服装CAD实用教材/富怡 日升",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080359",
-    "bookname": "V PHOTOSHOP平面设计从入门到精通/胡安林",
+    "bookname": " PHOTOSHOP平面设计从入门到精通/胡安林",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080360",
-    "bookname": "V HTML5与CSS3基础教程",
+    "bookname": " HTML5与CSS3基础教程",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080361",
-    "bookname": "V中文版ILLUSTRATOR CC 完全自学教程/李金明 李金蓉",
+    "bookname": "中文版ILLUSTRATOR CC 完全自学教程/李金明 李金蓉",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0080362",
-    "bookname": "V普通水文地质学基础/潘宏雨",
+    "bookname": "普通水文地质学基础/潘宏雨",
     "publishing": "地质"
 },
 {
     "subscribeCode": "18CJ0080363",
-    "bookname": "V护士人文修养与沟通技术/张翠娣",
+    "bookname": "护士人文修养与沟通技术/张翠娣",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080364",
-    "bookname": "V药物新技型与新技术/陆斌",
+    "bookname": "药物新技型与新技术/陆斌",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080365",
-    "bookname": "V健康管理学/郭清",
+    "bookname": "健康管理学/郭清",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080366",
-    "bookname": "V社区卫生保健/黄新宇",
+    "bookname": "社区卫生保健/黄新宇",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080367",
-    "bookname": "V中专内科护理/鄢淑清",
+    "bookname": "中专内科护理/鄢淑清",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080368",
-    "bookname": "V卫生毒理学/石年",
+    "bookname": "卫生毒理学/石年",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080369",
-    "bookname": "V急诊医学/郭毅",
+    "bookname": "急诊医学/郭毅",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080370",
-    "bookname": "V口腔正畸学/周茂栋",
+    "bookname": "口腔正畸学/周茂栋",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080371",
-    "bookname": "V护理伦理学/田荣云",
+    "bookname": "护理伦理学/田荣云",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080372",
-    "bookname": "V口腔生理学基础(三版)/李华方",
+    "bookname": "口腔生理学基础(三版)/李华方",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080373",
-    "bookname": "V康复医学概论/李茂松",
+    "bookname": "康复医学概论/李茂松",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080374",
-    "bookname": "V传染病学(三版)/沙介荣",
+    "bookname": "传染病学(三版)/沙介荣",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080375",
-    "bookname": "V物理因子治疗技术实训指导/刘忠良",
+    "bookname": "物理因子治疗技术实训指导/刘忠良",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080376",
-    "bookname": "V康复护理技术/王瑞敏",
+    "bookname": "康复护理技术/王瑞敏",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080377",
-    "bookname": "V卫生统计学(三版)/周士楷",
+    "bookname": "卫生统计学(三版)/周士楷",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080378",
-    "bookname": "V口腔工艺材料学基础/杨家瑞",
+    "bookname": "口腔工艺材料学基础/杨家瑞",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080379",
-    "bookname": "V妇产科学(三版)/倪必群",
+    "bookname": "妇产科学(三版)/倪必群",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080380",
-    "bookname": "V五官科学/廖树森",
+    "bookname": "五官科学/廖树森",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080381",
-    "bookname": "V生物化学基础/李月秋",
+    "bookname": "生物化学基础/李月秋",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080382",
-    "bookname": "V无机化学基础/丁秋玲",
+    "bookname": "无机化学基础/丁秋玲",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080383",
-    "bookname": "V有机化学(第三版)/陆光裕",
+    "bookname": "有机化学(第三版)/陆光裕",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080384",
-    "bookname": "V口腔疾病概要/毛珍娥",
+    "bookname": "口腔疾病概要/毛珍娥",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080385",
-    "bookname": "V医学伦理学/白洪海",
+    "bookname": "医学伦理学/白洪海",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080386",
-    "bookname": "V运动学基础实训指导与学习指导/马萍",
+    "bookname": "运动学基础实训指导与学习指导/马萍",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080387",
-    "bookname": "V急症与急救/陆一鸣",
+    "bookname": "急症与急救/陆一鸣",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080388",
-    "bookname": "V神经精神病学/郑丽霞",
+    "bookname": "神经精神病学/郑丽霞",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080389",
-    "bookname": "V护理学导论/王瑞敏",
+    "bookname": "护理学导论/王瑞敏",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080390",
-    "bookname": "V五官科护理(三版)/张秀梅",
+    "bookname": "五官科护理(三版)/张秀梅",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080391",
-    "bookname": "V社会学基础/韩敏",
+    "bookname": "社会学基础/韩敏",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080392",
-    "bookname": "V石膏牙雕刻训练教程/王美青",
+    "bookname": "石膏牙雕刻训练教程/王美青",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080393",
-    "bookname": "V儿科学(三版)/姚在新",
+    "bookname": "儿科学(三版)/姚在新",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080394",
-    "bookname": "V免疫检验技术/鲜尽红",
+    "bookname": "免疫检验技术/鲜尽红",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080395",
-    "bookname": "V康复护理学/潘敏",
+    "bookname": "康复护理学/潘敏",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080396",
-    "bookname": "V预防医学/沈志谦",
+    "bookname": "预防医学/沈志谦",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080397",
-    "bookname": "V口腔工艺设备/李新春",
+    "bookname": "口腔工艺设备/李新春",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080398",
-    "bookname": "V天然药物学基础/李建民",
+    "bookname": "天然药物学基础/李建民",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080399",
-    "bookname": "V康复医学概论/王宁华",
+    "bookname": "康复医学概论/王宁华",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080400",
-    "bookname": "V生物化学(第2版)/供五年一贯制护理学专业用/赵汉芬",
+    "bookname": "生物化学(第2版)/供五年一贯制护理学专业用/赵汉芬",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080401",
-    "bookname": "V护理管理与科研基础/殷翠",
+    "bookname": "护理管理与科研基础/殷翠",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080402",
-    "bookname": "V美容营养学/晏志勇",
+    "bookname": "美容营养学/晏志勇",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080403",
-    "bookname": "V内科学/李振宗",
+    "bookname": "内科学/李振宗",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080404",
-    "bookname": "V护理心理学(二版)/蒋继国",
+    "bookname": "护理心理学(二版)/蒋继国",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080405",
-    "bookname": "V药事法规/王蕾",
+    "bookname": "药事法规/王蕾",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080406",
-    "bookname": "V护理管理学(第3版)/苏兰若",
+    "bookname": "护理管理学(第3版)/苏兰若",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080407",
-    "bookname": "V产科学及护理/薛花",
+    "bookname": "产科学及护理/薛花",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080408",
-    "bookname": "V社区护理/姜瑞涛 徐国辉",
+    "bookname": "社区护理/姜瑞涛 徐国辉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080409",
-    "bookname": "V儿科护理/范玲",
+    "bookname": "儿科护理/范玲",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080410",
-    "bookname": "V外科学/吕树森",
+    "bookname": "外科学/吕树森",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080411",
-    "bookname": "V母婴保健(三版)/颜丽青",
+    "bookname": "母婴保健(三版)/颜丽青",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080412",
-    "bookname": "V生物化学检验技术(二版)/沈岳奋",
+    "bookname": "生物化学检验技术(二版)/沈岳奋",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080413",
-    "bookname": "V药品经营质量管理/杨万波",
+    "bookname": "药品经营质量管理/杨万波",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080414",
-    "bookname": "V康复护理学/陈锦秀",
+    "bookname": "康复护理学/陈锦秀",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080415",
-    "bookname": "V成人护理(下册)妇科护理(一版)/林珊",
+    "bookname": "成人护理(下册)妇科护理(一版)/林珊",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080416",
-    "bookname": "V口腔正畸工艺技术(二版)/杜维成",
+    "bookname": "口腔正畸工艺技术(二版)/杜维成",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080417",
-    "bookname": "V口腔组织和病理学基础/刘影",
+    "bookname": "口腔组织和病理学基础/刘影",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080418",
-    "bookname": "V营养与膳食/林杰",
+    "bookname": "营养与膳食/林杰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080419",
-    "bookname": "V生物化学基础/艾旭光 王春梅",
+    "bookname": "生物化学基础/艾旭光 王春梅",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080420",
-    "bookname": "V医院药学概要/张明淑",
+    "bookname": "医院药学概要/张明淑",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080421",
-    "bookname": "V口腔工艺管理/吕广辉",
+    "bookname": "口腔工艺管理/吕广辉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080422",
-    "bookname": "V中医护理/封银曼 马秋平",
+    "bookname": "中医护理/封银曼 马秋平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080423",
-    "bookname": "V营养与膳食/王忠福",
+    "bookname": "营养与膳食/王忠福",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080424",
-    "bookname": "V天然药物化学基础/王天玲",
+    "bookname": "天然药物化学基础/王天玲",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080425",
-    "bookname": "V言语治疗技术/王左生",
+    "bookname": "言语治疗技术/王左生",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080426",
-    "bookname": "V老年护理(第三版)/张小燕",
+    "bookname": "老年护理(第三版)/张小燕",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080427",
-    "bookname": "V微生物检验技术(三版)/郭积燕",
+    "bookname": "微生物检验技术(三版)/郭积燕",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080428",
-    "bookname": "V心理与精神护理(三版)/沈丽华",
+    "bookname": "心理与精神护理(三版)/沈丽华",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080429",
-    "bookname": "V健康评估/薜宏伟",
+    "bookname": "健康评估/薜宏伟",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080430",
-    "bookname": "V中医护理学(第3版)/温茂兴",
+    "bookname": "中医护理学(第3版)/温茂兴",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080431",
-    "bookname": "V医学伦理学(第2版)/秦敬民、王柳行",
+    "bookname": "医学伦理学(第2版)/秦敬民、王柳行",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080432",
-    "bookname": "V护理礼仪与人际沟通/秦东华",
+    "bookname": "护理礼仪与人际沟通/秦东华",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080433",
-    "bookname": "V儿童护理(一版)/黄春兰、刘俐",
+    "bookname": "儿童护理(一版)/黄春兰、刘俐",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080434",
-    "bookname": "V口腔解剖与牙雕刻技术/肖希娟",
+    "bookname": "口腔解剖与牙雕刻技术/肖希娟",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080435",
-    "bookname": "V社区护理学 第2版/周亚林",
+    "bookname": "社区护理学 第2版/周亚林",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080436",
-    "bookname": "V老年护理学 第3版/化前珍",
+    "bookname": "老年护理学 第3版/化前珍",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080437",
-    "bookname": "V中医基本理论/唐永忠",
+    "bookname": "中医基本理论/唐永忠",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080438",
-    "bookname": "V人体发育学/李晓捷",
+    "bookname": "人体发育学/李晓捷",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080439",
-    "bookname": "V诊断学/李唤章",
+    "bookname": "诊断学/李唤章",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080440",
-    "bookname": "V预防医学/左月燃",
+    "bookname": "预防医学/左月燃",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080441",
-    "bookname": "V医用化学/陈常兴",
+    "bookname": "医用化学/陈常兴",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080442",
-    "bookname": "V卫生法律法规(二版)/王峰",
+    "bookname": "卫生法律法规(二版)/王峰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080443",
-    "bookname": "V医院药学概要",
+    "bookname": "医院药学概要",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080444",
-    "bookname": "V急救护理技术/王为民 来和平",
+    "bookname": "急救护理技术/王为民 来和平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080445",
-    "bookname": "V可摘义齿修复工艺技术/米新峰",
+    "bookname": "可摘义齿修复工艺技术/米新峰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080446",
-    "bookname": "V药物分析/牛彦辉",
+    "bookname": "药物分析/牛彦辉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080447",
-    "bookname": "V护理伦理学(二版)/曹志平",
+    "bookname": "护理伦理学(二版)/曹志平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080448",
-    "bookname": "V无机化学/牛秀明",
+    "bookname": "无机化学/牛秀明",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080449",
-    "bookname": "V药品存储与养护/徐世义",
+    "bookname": "药品存储与养护/徐世义",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080450",
-    "bookname": "V精神护理学/刘哲宁",
+    "bookname": "精神护理学/刘哲宁",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080451",
-    "bookname": "V中医药基础",
+    "bookname": "中医药基础",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080452",
-    "bookname": "V微生物学基础/熊群英",
+    "bookname": "微生物学基础/熊群英",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080453",
-    "bookname": "V寄生虫检验技术/尹燕双",
+    "bookname": "寄生虫检验技术/尹燕双",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080454",
-    "bookname": "V医学文献检索与论文写作(第4版)/郭继军",
+    "bookname": "医学文献检索与论文写作(第4版)/郭继军",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080455",
-    "bookname": "V口腔医学美学基础(二版)/肖云",
+    "bookname": "口腔医学美学基础(二版)/肖云",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080456",
-    "bookname": "V卫生法律法规/李建光",
+    "bookname": "卫生法律法规/李建光",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080457",
-    "bookname": "V精神科护理/雷慧",
+    "bookname": "精神科护理/雷慧",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080458",
-    "bookname": "V药理学/谭安雄",
+    "bookname": "药理学/谭安雄",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080459",
-    "bookname": "V实用医学基础/曲永松",
+    "bookname": "实用医学基础/曲永松",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080460",
-    "bookname": "V产科学基础/翟向红 吴晓琴",
+    "bookname": "产科学基础/翟向红 吴晓琴",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080461",
-    "bookname": "V卫生法学概论/樊立华",
+    "bookname": "卫生法学概论/樊立华",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080462",
-    "bookname": "V护理英语/朱宏梅",
+    "bookname": "护理英语/朱宏梅",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080463",
-    "bookname": "V护理美学基础/朱红",
+    "bookname": "护理美学基础/朱红",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080464",
-    "bookname": "V药物化学/谢癸亮",
+    "bookname": "药物化学/谢癸亮",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080465",
-    "bookname": "V医学伦理学(第4版)/孙福川",
+    "bookname": "医学伦理学(第4版)/孙福川",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080466",
-    "bookname": "V儿科护理学(第3版)/张玉兰",
+    "bookname": "儿科护理学(第3版)/张玉兰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080467",
-    "bookname": "V全科医学概论/杨秉辉",
+    "bookname": "全科医学概论/杨秉辉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080468",
-    "bookname": "V老年护理/孙健萍",
+    "bookname": "老年护理/孙健萍",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080469",
-    "bookname": "V药品市场营销学/董国俊",
+    "bookname": "药品市场营销学/董国俊",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080470",
-    "bookname": "V天然药物化学/吴剑峰",
+    "bookname": "天然药物化学/吴剑峰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080471",
-    "bookname": "V口腔材料学/王荃",
+    "bookname": "口腔材料学/王荃",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080472",
-    "bookname": "V口腔预防医学/李月",
+    "bookname": "口腔预防医学/李月",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080473",
-    "bookname": "V社区护理学/姜丽萍",
+    "bookname": "社区护理学/姜丽萍",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080474",
-    "bookname": "V妇产科护理/刘文娜 闫瑞霞",
+    "bookname": "妇产科护理/刘文娜 闫瑞霞",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080475",
-    "bookname": "V儿科护理/高风 张宝琴",
+    "bookname": "儿科护理/高风 张宝琴",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080476",
-    "bookname": "V临床检验/安艳",
+    "bookname": "临床检验/安艳",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080477",
-    "bookname": "V儿科护理学 第2版/范玲",
+    "bookname": "儿科护理学 第2版/范玲",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080478",
-    "bookname": "V急危重症护理/王惠珍",
+    "bookname": "急危重症护理/王惠珍",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080479",
-    "bookname": "V康复心理学/周郁秋",
+    "bookname": "康复心理学/周郁秋",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080480",
-    "bookname": "V营养与膳食/季兰芳",
+    "bookname": "营养与膳食/季兰芳",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080481",
-    "bookname": "V医学心理学(三版)/马存根",
+    "bookname": "医学心理学(三版)/马存根",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080482",
-    "bookname": "V妇产科护理学第2版/张新宇",
+    "bookname": "妇产科护理学第2版/张新宇",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080483",
-    "bookname": "V儿科护理学/张玉兰",
+    "bookname": "儿科护理学/张玉兰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080484",
-    "bookname": "V康复护理/燕铁斌",
+    "bookname": "康复护理/燕铁斌",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080485",
-    "bookname": "V中国传统康复技术/陈健尔",
+    "bookname": "中国传统康复技术/陈健尔",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080486",
-    "bookname": "V社区康复/罗治安",
+    "bookname": "社区康复/罗治安",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080487",
-    "bookname": "V中医药学概论/许兆亮",
+    "bookname": "中医药学概论/许兆亮",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080488",
-    "bookname": "V医学生物学/傅松滨",
+    "bookname": "医学生物学/傅松滨",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080489",
-    "bookname": "V生理学(第七版)/白波",
+    "bookname": "生理学(第七版)/白波",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080490",
-    "bookname": "V生物化学(第7版)(含光盘)/潘文干",
+    "bookname": "生物化学(第7版)(含光盘)/潘文干",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080491",
-    "bookname": "V护理学基础(第二版)/李晓松",
+    "bookname": "护理学基础(第二版)/李晓松",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080492",
-    "bookname": "V临床检验仪器学第2版/曾照芳",
+    "bookname": "临床检验仪器学第2版/曾照芳",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080493",
-    "bookname": "V医学影像学/王振常",
+    "bookname": "医学影像学/王振常",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080494",
-    "bookname": "V预防医学/刘明清",
+    "bookname": "预防医学/刘明清",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080495",
-    "bookname": "V生物化学/吴耀生",
+    "bookname": "生物化学/吴耀生",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080496",
-    "bookname": "V药物学基础/姚宏、黄刚",
+    "bookname": "药物学基础/姚宏、黄刚",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080497",
-    "bookname": "V运动学基础/尹宪明",
+    "bookname": "运动学基础/尹宪明",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080498",
-    "bookname": "V有机化学/刘斌",
+    "bookname": "有机化学/刘斌",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080499",
-    "bookname": "V药事管理与法规/杨世民",
+    "bookname": "药事管理与法规/杨世民",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080500",
-    "bookname": "V中药炮制技术/张中社",
+    "bookname": "中药炮制技术/张中社",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080501",
-    "bookname": "V全口义齿工艺技术/王跃进",
+    "bookname": "全口义齿工艺技术/王跃进",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080502",
-    "bookname": "V生药学(六版)/蔡少青",
+    "bookname": "生药学(六版)/蔡少青",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080503",
-    "bookname": "V护理管理学第3版/李继平",
+    "bookname": "护理管理学第3版/李继平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080504",
-    "bookname": "V药用植物学与生药学 (第二版)",
+    "bookname": "药用植物学与生药学 (第二版)",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080505",
-    "bookname": "V作业治疗技术/闵水平",
+    "bookname": "作业治疗技术/闵水平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080506",
-    "bookname": "V药物分析/孙莹",
+    "bookname": "药物分析/孙莹",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080507",
-    "bookname": "V儿科学 第3版/徐立新",
+    "bookname": "儿科学 第3版/徐立新",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080508",
-    "bookname": "V分析化学/谢庆娟",
+    "bookname": "分析化学/谢庆娟",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080509",
-    "bookname": "V英语(2版)段晓静",
+    "bookname": "英语(2版)段晓静",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080510",
-    "bookname": "V天然药物化学(二版)/吴立军",
+    "bookname": "天然药物化学(二版)/吴立军",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080511",
-    "bookname": "V可摘局部义齿修复工艺技术/林雪峰",
+    "bookname": "可摘局部义齿修复工艺技术/林雪峰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080512",
-    "bookname": "V内科护理/林海英 朱启华",
+    "bookname": "内科护理/林海英 朱启华",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080513",
-    "bookname": "V外科护理/李勇 俞宝",
+    "bookname": "外科护理/李勇 俞宝",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080514",
-    "bookname": "V人体解剖生理学基础/黄莉军 张楚",
+    "bookname": "人体解剖生理学基础/黄莉军 张楚",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080515",
-    "bookname": "V诊断学/孙九伶",
+    "bookname": "诊断学/孙九伶",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080516",
-    "bookname": "V药剂学/张琦岩",
+    "bookname": "药剂学/张琦岩",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080517",
-    "bookname": "V药物化学/葛淑兰",
+    "bookname": "药物化学/葛淑兰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080518",
-    "bookname": "V中药鉴定技术/李炳生",
+    "bookname": "中药鉴定技术/李炳生",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080519",
-    "bookname": "V口腔固定修复工艺技术/李长义",
+    "bookname": "口腔固定修复工艺技术/李长义",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080520",
-    "bookname": "V解剖学基础/代加平 安月勇",
+    "bookname": "解剖学基础/代加平 安月勇",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080521",
-    "bookname": "V妇产科学 第7版/矛清",
+    "bookname": "妇产科学 第7版/矛清",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080522",
-    "bookname": "V药物制剂技术(中职药剂)/解玉岭",
+    "bookname": "药物制剂技术(中职药剂)/解玉岭",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080523",
-    "bookname": "V推拿学/金宏柱",
+    "bookname": "推拿学/金宏柱",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080524",
-    "bookname": "V人体寄生虫/诸欣平",
+    "bookname": "人体寄生虫/诸欣平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080525",
-    "bookname": "V药物化学(第3版)/方浩/成教专科药学/王玮瑛",
+    "bookname": "药物化学(第3版)/方浩/成教专科药学/王玮瑛",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080526",
-    "bookname": "V妇产科护理学 第3版/夏海鸥",
+    "bookname": "妇产科护理学 第3版/夏海鸥",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080527",
-    "bookname": "V眼耳鼻喉口腔科护理学/陈燕燕",
+    "bookname": "眼耳鼻喉口腔科护理学/陈燕燕",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080528",
-    "bookname": "V妇产科护理学(第5版)/郑修霞",
+    "bookname": "妇产科护理学(第5版)/郑修霞",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080529",
-    "bookname": "V病理生理学(第8版)/王建枝",
+    "bookname": "病理生理学(第8版)/王建枝",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080530",
-    "bookname": "V药理学(第6版)王开贞",
+    "bookname": "药理学(第6版)王开贞",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080531",
-    "bookname": "V护理学基础/李玲 蒙雅萍",
+    "bookname": "护理学基础/李玲 蒙雅萍",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080532",
-    "bookname": "V健康评估/桂庆军",
+    "bookname": "健康评估/桂庆军",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080533",
-    "bookname": "V药剂学(三版)/曹德英",
+    "bookname": "药剂学(三版)/曹德英",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080534",
-    "bookname": "V预防医学/肖荣",
+    "bookname": "预防医学/肖荣",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080535",
-    "bookname": "V病原生物及免疫学(第3版)/夏克栋",
+    "bookname": "病原生物及免疫学(第3版)/夏克栋",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080536",
-    "bookname": "V分析化学/李发美",
+    "bookname": "分析化学/李发美",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080537",
-    "bookname": "V临床生物化学检验(第5版)/本科检验/周新",
+    "bookname": "临床生物化学检验(第5版)/本科检验/周新",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080538",
-    "bookname": "V针灸学/梁繁荣等",
+    "bookname": "针灸学/梁繁荣等",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080539",
-    "bookname": "V药用植物学/郑小吉",
+    "bookname": "药用植物学/郑小吉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080540",
-    "bookname": "V药物制剂技术/张健泓",
+    "bookname": "药物制剂技术/张健泓",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080541",
-    "bookname": "V医学营养学(第3版)/张爱珍",
+    "bookname": "医学营养学(第3版)/张爱珍",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080542",
-    "bookname": "V药理学(中职药剂)/张庆",
+    "bookname": "药理学(中职药剂)/张庆",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080543",
-    "bookname": "V卫生统计学/方积乾",
+    "bookname": "卫生统计学/方积乾",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080544",
-    "bookname": "V康复工程技术/肖晓鸿",
+    "bookname": "康复工程技术/肖晓鸿",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080545",
-    "bookname": "V基础护理学(第2版)/杨立群",
+    "bookname": "基础护理学(第2版)/杨立群",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080546",
-    "bookname": "V有机化学/陆涛",
+    "bookname": "有机化学/陆涛",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080547",
-    "bookname": "V基础化学/石宝珏",
+    "bookname": "基础化学/石宝珏",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080548",
-    "bookname": "V临床药理学第5版/李俊",
+    "bookname": "临床药理学第5版/李俊",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080549",
-    "bookname": "V医学影像学/郑可国",
+    "bookname": "医学影像学/郑可国",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080550",
-    "bookname": "V口腔颌面外科学/万前程",
+    "bookname": "口腔颌面外科学/万前程",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080551",
-    "bookname": "V内科护理学(第3版)/魏秀红",
+    "bookname": "内科护理学(第3版)/魏秀红",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080552",
-    "bookname": "V健康评估/刘成玉",
+    "bookname": "健康评估/刘成玉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080553",
-    "bookname": "V生物药剂学与药物动力学/刘建平",
+    "bookname": "生物药剂学与药物动力学/刘建平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080554",
-    "bookname": "V基础护理技术/李晓松",
+    "bookname": "基础护理技术/李晓松",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080555",
-    "bookname": "V中医推拿学/曹仁发",
+    "bookname": "中医推拿学/曹仁发",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080556",
-    "bookname": "V内科护理学/李丹、冯丽",
+    "bookname": "内科护理学/李丹、冯丽",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080557",
-    "bookname": "V病原生物学和免疫学（第七版）/肖纯凌",
+    "bookname": "病原生物学和免疫学（第七版）/肖纯凌",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080558",
-    "bookname": "V药事管理/杨世民",
+    "bookname": "药事管理/杨世民",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080559",
-    "bookname": "V护理学基础(三版)/李小松",
+    "bookname": "护理学基础(三版)/李小松",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080560",
-    "bookname": "V天然药物学基础/中职药剂(配增值)",
+    "bookname": "天然药物学基础/中职药剂(配增值)",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080561",
-    "bookname": "V皮肤性病学(六版/高专临床/配光盘)第6版/张信江",
+    "bookname": "皮肤性病学(六版/高专临床/配光盘)第6版/张信江",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080562",
-    "bookname": "V基础护理学(第5版/本科护理)/李小寒",
+    "bookname": "基础护理学(第5版/本科护理)/李小寒",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080563",
-    "bookname": "V皮肤性病学(第8版)/张学军",
+    "bookname": "皮肤性病学(第8版)/张学军",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080564",
-    "bookname": "V口腔医学美学(第3版)/于海洋",
+    "bookname": "口腔医学美学(第3版)/于海洋",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080565",
-    "bookname": "V外科护理学 第8版/孙田杰",
+    "bookname": "外科护理学 第8版/孙田杰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080566",
-    "bookname": "V运动治疗技术/章稼",
+    "bookname": "运动治疗技术/章稼",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080567",
-    "bookname": "V疾病康复/张绍岚",
+    "bookname": "疾病康复/张绍岚",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080568",
-    "bookname": "V医学影像诊断学/夏瑞明",
+    "bookname": "医学影像诊断学/夏瑞明",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080569",
-    "bookname": "V口腔解剖生理学/马莉",
+    "bookname": "口腔解剖生理学/马莉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080570",
-    "bookname": "V临床医学概要/周建军",
+    "bookname": "临床医学概要/周建军",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080571",
-    "bookname": "V临床血液学及检验/许文荣",
+    "bookname": "临床血液学及检验/许文荣",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080572",
-    "bookname": "V口腔固定修复工艺技术/黄强生",
+    "bookname": "口腔固定修复工艺技术/黄强生",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080573",
-    "bookname": "V护理综合实训/张美琴",
+    "bookname": "护理综合实训/张美琴",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080574",
-    "bookname": "V康复评定技术/王玉龙",
+    "bookname": "康复评定技术/王玉龙",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080575",
-    "bookname": "V口腔组织病理学/宋晓陵",
+    "bookname": "口腔组织病理学/宋晓陵",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080576",
-    "bookname": "V中医养生学/刘占文",
+    "bookname": "中医养生学/刘占文",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080577",
-    "bookname": "V传染病学(第8版)/李兰娟",
+    "bookname": "传染病学(第8版)/李兰娟",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080578",
-    "bookname": "V诊断学/郑长青",
+    "bookname": "诊断学/郑长青",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080579",
-    "bookname": "V外科护理学 第3版/卢桂芝",
+    "bookname": "外科护理学 第3版/卢桂芝",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080580",
-    "bookname": "V康复功能评定/王玉龙",
+    "bookname": "康复功能评定/王玉龙",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080581",
-    "bookname": "V临床检验基础/刘成玉",
+    "bookname": "临床检验基础/刘成玉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080582",
-    "bookname": "V儿科学(第8版)/王卫平",
+    "bookname": "儿科学(第8版)/王卫平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080583",
-    "bookname": "V药物分析/杭太俊",
+    "bookname": "药物分析/杭太俊",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080584",
-    "bookname": "V临床疾病概要/迟玉香",
+    "bookname": "临床疾病概要/迟玉香",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080585",
-    "bookname": "V临床医学概要/薛宏伟",
+    "bookname": "临床医学概要/薛宏伟",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080586",
-    "bookname": "V微生物学与检验/倪语星",
+    "bookname": "微生物学与检验/倪语星",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080587",
-    "bookname": "V诊断学/刘成玉",
+    "bookname": "诊断学/刘成玉",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080588",
-    "bookname": "V病理学与病理生理学(七版)/王斌",
+    "bookname": "病理学与病理生理学(七版)/王斌",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080589",
-    "bookname": "V外科学 第3版/田晓峰",
+    "bookname": "外科学 第3版/田晓峰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080590",
-    "bookname": "V语文/王峰",
+    "bookname": "语文/王峰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080591",
-    "bookname": "V诊断学(第7版)魏武",
+    "bookname": "诊断学(第7版)魏武",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080592",
-    "bookname": "V天然药物学/艾继周",
+    "bookname": "天然药物学/艾继周",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080593",
-    "bookname": "V健康评估/吕探云",
+    "bookname": "健康评估/吕探云",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080594",
-    "bookname": "V神经病学 第7版/贾建平",
+    "bookname": "神经病学 第7版/贾建平",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080595",
-    "bookname": "V内科学(七版/本科临床/十一五规划/配光盘)/陆再英",
+    "bookname": "内科学(七版/本科临床/十一五规划/配光盘)/陆再英",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080596",
-    "bookname": "V内科学 第3版/王庸晋",
+    "bookname": "内科学 第3版/王庸晋",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080597",
-    "bookname": "V内科护理学第5版/尤黎明",
+    "bookname": "内科护理学第5版/尤黎明",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080598",
-    "bookname": "V功能解剖学/汪华侨",
+    "bookname": "功能解剖学/汪华侨",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080599",
-    "bookname": "V诊断学/万学江",
+    "bookname": "诊断学/万学江",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080600",
-    "bookname": "V外科学(八版/本科临床/十一五规划/配光盘)/吴在德",
+    "bookname": "外科学(八版/本科临床/十一五规划/配光盘)/吴在德",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080601",
-    "bookname": "V实用康复护理学/郑彩娥",
+    "bookname": "实用康复护理学/郑彩娥",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0080602",
-    "bookname": "V值机业务与行李运输实务/綦琦",
+    "bookname": "值机业务与行李运输实务/綦琦",
     "publishing": "国防工业"
 },
 {
     "subscribeCode": "18CJ0080603",
-    "bookname": "V传感器检测与应用(第2版)/王斌",
+    "bookname": "传感器检测与应用(第2版)/王斌",
     "publishing": "国防工业"
 },
 {
     "subscribeCode": "18CJ0080604",
-    "bookname": "V网页设计与制作案例教程/符余江",
+    "bookname": "网页设计与制作案例教程/符余江",
     "publishing": "国防工业"
 },
 {
     "subscribeCode": "18CJ0080605",
-    "bookname": "V民航订座系统基础/赵鸣",
+    "bookname": "民航订座系统基础/赵鸣",
     "publishing": "国防工业"
 },
 {
     "subscribeCode": "18CJ0080606",
-    "bookname": "V钳工加工工艺及应用",
+    "bookname": "钳工加工工艺及应用",
     "publishing": "国防工业"
 },
 {
     "subscribeCode": "18CJ0080607",
-    "bookname": "V民航服务礼仪/刘永俊",
+    "bookname": "民航服务礼仪/刘永俊",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080608",
-    "bookname": "V金属加工与实训--基础常识与技能训练练习册/王雪婷",
+    "bookname": "金属加工与实训--基础常识与技能训练练习册/王雪婷",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080609",
-    "bookname": "V旅游策划与实务/沈刚、吴雪飞",
+    "bookname": "旅游策划与实务/沈刚、吴雪飞",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080610",
-    "bookname": "V视频音频编辑与处理-PREMIERE PRO CS4中文版",
+    "bookname": "视频音频编辑与处理-PREMIERE PRO CS4中文版",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080611",
-    "bookname": "V仓储管理实务/王瑜",
+    "bookname": "仓储管理实务/王瑜",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080612",
-    "bookname": "V ACCESS 2010数据库应用习题与实验指导教程/李湛",
+    "bookname": " ACCESS 2010数据库应用习题与实验指导教程/李湛",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080613",
-    "bookname": "V全国导游基础知识/张东娜",
+    "bookname": "全国导游基础知识/张东娜",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080614",
-    "bookname": "V先进制造技术/周俊",
+    "bookname": "先进制造技术/周俊",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080615",
-    "bookname": "V电子商务实践入门/从网上购物到开店(中职·清华版“十一五”规",
+    "bookname": "电子商务实践入门/从网上购物到开店(中职·清华版“十一五”规",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080616",
-    "bookname": "V茶文化概论与茶艺实训/贾红文 赵艳红",
+    "bookname": "茶文化概论与茶艺实训/贾红文 赵艳红",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080617",
-    "bookname": "V财经法规与会计职业道德(第4版)/会计资格考试教材编写组",
+    "bookname": "财经法规与会计职业道德(第4版)/会计资格考试教材编写组",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080618",
-    "bookname": "V创新与创业能力培养/冯丽霞",
+    "bookname": "创新与创业能力培养/冯丽霞",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080619",
-    "bookname": "V软件项目管理/任永昌",
+    "bookname": "软件项目管理/任永昌",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080620",
-    "bookname": "V网站建设与管理基础及实训(ASP版)(第二版)/吴代文、郭军军、刘",
+    "bookname": "网站建设与管理基础及实训(ASP版)(第二版)/吴代文、郭军军、刘",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080621",
-    "bookname": "V影视后期特效合成-AFTER EFFECTS CS4中文版",
+    "bookname": "影视后期特效合成-AFTER EFFECTS CS4中文版",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080622",
-    "bookname": "V网店客服/林海",
+    "bookname": "网店客服/林海",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080623",
-    "bookname": "V会计信息系统实验教程(用友ERP-U8.72版)(配光盘)/王新玲、汪刚",
+    "bookname": "会计信息系统实验教程(用友ERP-U8.72版)(配光盘)/王新玲、汪刚",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080624",
-    "bookname": "V AUTOCAD建筑制图基础",
+    "bookname": " AUTOCAD建筑制图基础",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080625",
-    "bookname": "V ASP动态网站开发教程(第三版) /陈建伟 尹辉 程凤娟",
+    "bookname": " ASP动态网站开发教程(第三版) /陈建伟 尹辉 程凤娟",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080626",
-    "bookname": "V企业形象设计/龚正伟",
+    "bookname": "企业形象设计/龚正伟",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080627",
-    "bookname": "V网络安全管理与维护/付忠勇",
+    "bookname": "网络安全管理与维护/付忠勇",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080628",
-    "bookname": "V WINDOWS7实用教程(计算机基础与实训教程系列)/邵玉环",
+    "bookname": " WINDOWS7实用教程(计算机基础与实训教程系列)/邵玉环",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080629",
-    "bookname": "V C程序设计(第4版)/谭浩强",
+    "bookname": " C程序设计(第4版)/谭浩强",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080630",
-    "bookname": "V会计电算化ERP财务管理系统实验教程(U8 V10.1版)",
+    "bookname": "会计电算化ERP财务管理系统实验教程(U8 V10.1版)",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080631",
-    "bookname": "V审计学基础/王守龙",
+    "bookname": "审计学基础/王守龙",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080632",
-    "bookname": "V LINUX操作系统教程/ 贾如春",
+    "bookname": " LINUX操作系统教程/ 贾如春",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080633",
-    "bookname": "V ACCESS 2010数据库应用教程/李淇",
+    "bookname": " ACCESS 2010数据库应用教程/李淇",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080634",
-    "bookname": "V汽车故障诊断与维修技术/谢剑",
+    "bookname": "汽车故障诊断与维修技术/谢剑",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080635",
-    "bookname": "V计算机应用基础/WINDOWS7+OFFICE2010中文版/张晓景",
+    "bookname": "计算机应用基础/WINDOWS7+OFFICE2010中文版/张晓景",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080636",
-    "bookname": "V中文版INDESIGN CS5使用教程/彭飞",
+    "bookname": "中文版INDESIGN CS5使用教程/彭飞",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080637",
-    "bookname": "V WINDOWS SERVER 2008服务器搭建与管理/李书满",
+    "bookname": " WINDOWS SERVER 2008服务器搭建与管理/李书满",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080638",
-    "bookname": "V中文版DREAMWEAVER CS6网页制作实用教程(计算机基础与实训教材",
+    "bookname": "中文版DREAMWEAVER CS6网页制作实用教程(计算机基础与实训教材",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080639",
-    "bookname": "V会计电算化",
+    "bookname": "会计电算化",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080640",
-    "bookname": "V会计电算化系统应用操作(第四版)/何日胜",
+    "bookname": "会计电算化系统应用操作(第四版)/何日胜",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080641",
-    "bookname": "V汽车装饰与美容/王顺利、袁留奎等",
+    "bookname": "汽车装饰与美容/王顺利、袁留奎等",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080642",
-    "bookname": "V中国旅游地理/曹培培",
+    "bookname": "中国旅游地理/曹培培",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080643",
-    "bookname": "V酒店服务礼仪/姚卫",
+    "bookname": "酒店服务礼仪/姚卫",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080644",
-    "bookname": "V AUTOCAD2014中文版基础教程/肖静",
+    "bookname": " AUTOCAD2014中文版基础教程/肖静",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080645",
-    "bookname": "V数据结构(第2版)/李筠",
+    "bookname": "数据结构(第2版)/李筠",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080646",
-    "bookname": "V DREAMWEAVERCS5网页设计与制作基础教程(配光盘)",
+    "bookname": " DREAMWEAVERCS5网页设计与制作基础教程(配光盘)",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080647",
-    "bookname": "V网络服务器配置与管理项目化教程/王宝军",
+    "bookname": "网络服务器配置与管理项目化教程/王宝军",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080648",
-    "bookname": "V计算机应用基础项目化教程(WINDOWS7+OFFICE2010)/黄林国、康志",
+    "bookname": "计算机应用基础项目化教程(WINDOWS7+OFFICE2010)/黄林国、康志",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080649",
-    "bookname": "V计算机网络技术项目化教程-(第2版)/谢昌荣",
+    "bookname": "计算机网络技术项目化教程-(第2版)/谢昌荣",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080650",
-    "bookname": "V现代企业管理(第3版)/王关义、刘益等",
+    "bookname": "现代企业管理(第3版)/王关义、刘益等",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080651",
-    "bookname": "V大学物理学(第3版 C6版)上册/张三慧",
+    "bookname": "大学物理学(第3版 C6版)上册/张三慧",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080652",
-    "bookname": "V建筑构造/金虹",
+    "bookname": "建筑构造/金虹",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080653",
-    "bookname": "V商务礼仪/闫秀荣",
+    "bookname": "商务礼仪/闫秀荣",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080654",
-    "bookname": "V ACCESS2010数据库应用(第二版)/科教工作室",
+    "bookname": " ACCESS2010数据库应用(第二版)/科教工作室",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080655",
-    "bookname": "V高等院校电脑美术教材/张云杰 尚雷",
+    "bookname": "高等院校电脑美术教材/张云杰 尚雷",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080656",
-    "bookname": "V CORELDRAW图形设计案例教程",
+    "bookname": " CORELDRAW图形设计案例教程",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080657",
-    "bookname": "V计算机应用基础项目实用课程(WINDOWS7+OFF）",
+    "bookname": "计算机应用基础项目实用课程(WINDOWS7+OFF）",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080658",
-    "bookname": "V AUTOCAD 2014中文版从入门到精通",
+    "bookname": " AUTOCAD 2014中文版从入门到精通",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0080659",
-    "bookname": "V产品包装设计",
+    "bookname": "产品包装设计",
     "publishing": "中国轻工"
 },
 {
     "subscribeCode": "18CJ0080660",
-    "bookname": "V分析化学实验(第二版)/邢文卫",
+    "bookname": "分析化学实验(第二版)/邢文卫",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080661",
-    "bookname": "V电工基础/张玲",
+    "bookname": "电工基础/张玲",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080662",
-    "bookname": "V有机化学/王添惠 贺红举",
+    "bookname": "有机化学/王添惠 贺红举",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080663",
-    "bookname": "V噪声控制技术(二版)/李耀中",
+    "bookname": "噪声控制技术(二版)/李耀中",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080664",
-    "bookname": "V无机化学/张健",
+    "bookname": "无机化学/张健",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080665",
-    "bookname": "V化工安全技术概论第二版2011年7月/朱宝轩",
+    "bookname": "化工安全技术概论第二版2011年7月/朱宝轩",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080666",
-    "bookname": "V电磁场和电磁波/赵昌友",
+    "bookname": "电磁场和电磁波/赵昌友",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080667",
-    "bookname": "V有机化学/陈勇",
+    "bookname": "有机化学/陈勇",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080668",
-    "bookname": "V无机化学基础/陈艳",
+    "bookname": "无机化学基础/陈艳",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080669",
-    "bookname": "V食品微生物/吴坤",
+    "bookname": "食品微生物/吴坤",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080670",
-    "bookname": "V导游实务 高职高专“十一五”规划教材 /刘晓杰",
+    "bookname": "导游实务 高职高专“十一五”规划教材 /刘晓杰",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080671",
-    "bookname": "V分析化学(第三版)/姜洪文",
+    "bookname": "分析化学(第三版)/姜洪文",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080672",
-    "bookname": "V固体废物处理与利用(第三版)/庄伟强",
+    "bookname": "固体废物处理与利用(第三版)/庄伟强",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080673",
-    "bookname": "V林地生态养鸡实用技术/张鹤平",
+    "bookname": "林地生态养鸡实用技术/张鹤平",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080674",
-    "bookname": "V工业企业管理",
+    "bookname": "工业企业管理",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080675",
-    "bookname": "V化工原理(第三版)(上)/张利锋",
+    "bookname": "化工原理(第三版)(上)/张利锋",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080676",
-    "bookname": "V食品包装技术/刘士伟 王林山",
+    "bookname": "食品包装技术/刘士伟 王林山",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080677",
-    "bookname": "V汽车液压与气压传动/崔培雪 安翠国",
+    "bookname": "汽车液压与气压传动/崔培雪 安翠国",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080678",
-    "bookname": "V物流采购管理/周红芳",
+    "bookname": "物流采购管理/周红芳",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080679",
-    "bookname": "V化工机械基础/罗世烈",
+    "bookname": "化工机械基础/罗世烈",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080680",
-    "bookname": "V计算机常用工具软件项目教程/赵海吉",
+    "bookname": "计算机常用工具软件项目教程/赵海吉",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080681",
-    "bookname": "V民航机场地面服务/何蕾",
+    "bookname": "民航机场地面服务/何蕾",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080682",
-    "bookname": "V食品文化概论/庞杰",
+    "bookname": "食品文化概论/庞杰",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080683",
-    "bookname": "V数控编程与操作/曾晓彤",
+    "bookname": "数控编程与操作/曾晓彤",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080684",
-    "bookname": "V食用菌栽培技术/刘振祥 张胜",
+    "bookname": "食用菌栽培技术/刘振祥 张胜",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080685",
-    "bookname": "V大气污染控制工程(二版)/郭静",
+    "bookname": "大气污染控制工程(二版)/郭静",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080686",
-    "bookname": "V食品添加剂/李凤林",
+    "bookname": "食品添加剂/李凤林",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080687",
-    "bookname": "V特种经济动物养殖/任国栋",
+    "bookname": "特种经济动物养殖/任国栋",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080688",
-    "bookname": "V新编动物传染病学",
+    "bookname": "新编动物传染病学",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080689",
-    "bookname": "V素描基础教程/张恒国",
+    "bookname": "素描基础教程/张恒国",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080690",
-    "bookname": "V化工分析(第三版)/郭小容",
+    "bookname": "化工分析(第三版)/郭小容",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080691",
-    "bookname": "V教你成为一流汽车钣金喷漆工/周晓飞",
+    "bookname": "教你成为一流汽车钣金喷漆工/周晓飞",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080692",
-    "bookname": "V分析测试技术/季剑波",
+    "bookname": "分析测试技术/季剑波",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080693",
-    "bookname": "V幼儿心理学/焦艳凤，郭苹",
+    "bookname": "幼儿心理学/焦艳凤，郭苹",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080694",
-    "bookname": "V固体废物处理与处置(第三版)/庄伟强",
+    "bookname": "固体废物处理与处置(第三版)/庄伟强",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080695",
-    "bookname": "V环境影响评价(第二版)/田子贵",
+    "bookname": "环境影响评价(第二版)/田子贵",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080696",
-    "bookname": "V食品营销学/吴澎 张仁堂",
+    "bookname": "食品营销学/吴澎 张仁堂",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080697",
-    "bookname": "V CAXA制造工程师2013项目案例教程/刘玉春",
+    "bookname": " CAXA制造工程师2013项目案例教程/刘玉春",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080698",
-    "bookname": "V建筑工程施工质量检查与验收(第二版)/姚谨英",
+    "bookname": "建筑工程施工质量检查与验收(第二版)/姚谨英",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080699",
-    "bookname": "V多媒体技术项目化教程/张敬斋 陈砚池 鲁卫平",
+    "bookname": "多媒体技术项目化教程/张敬斋 陈砚池 鲁卫平",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080700",
-    "bookname": "V电子工艺与实训/孙承庭 吴峰",
+    "bookname": "电子工艺与实训/孙承庭 吴峰",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080701",
-    "bookname": "V环保设备选择、运行与维护/王继斌",
+    "bookname": "环保设备选择、运行与维护/王继斌",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080702",
-    "bookname": "V食品机械设备日常维护与保养",
+    "bookname": "食品机械设备日常维护与保养",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080703",
-    "bookname": "V CAXA制造工程师2013与数控车/姬彦巧",
+    "bookname": " CAXA制造工程师2013与数控车/姬彦巧",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080704",
-    "bookname": "V计算机应用基础/朱峰明",
+    "bookname": "计算机应用基础/朱峰明",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080705",
-    "bookname": "V环境工程仪表及自动化/李留格",
+    "bookname": "环境工程仪表及自动化/李留格",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080706",
-    "bookname": "V环保设备原理设计应用(三版)/刘宏郑铭",
+    "bookname": "环保设备原理设计应用(三版)/刘宏郑铭",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080707",
-    "bookname": "V UG NX CAD/CAM丛书--UG NX6.0中文版数控编程(含光盘)/吴明友",
+    "bookname": " UG NX CAD/CAM丛书--UG NX6.0中文版数控编程(含光盘)/吴明友",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080708",
-    "bookname": "V焊接质量控制与检验(二版) 李亚江/刘强",
+    "bookname": "焊接质量控制与检验(二版) 李亚江/刘强",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080709",
-    "bookname": "V汽车修补喷漆技能与实例/吴兴敏",
+    "bookname": "汽车修补喷漆技能与实例/吴兴敏",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080710",
-    "bookname": "V电子商务创业/孙细明",
+    "bookname": "电子商务创业/孙细明",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080711",
-    "bookname": "V图解FANUC数控机床维修从新手到高手/章鸿鸾",
+    "bookname": "图解FANUC数控机床维修从新手到高手/章鸿鸾",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080712",
-    "bookname": "V REVIT建筑应用实训教程/黄亚斌",
+    "bookname": " REVIT建筑应用实训教程/黄亚斌",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080713",
-    "bookname": "V数控编程手册/彼得.斯密德",
+    "bookname": "数控编程手册/彼得.斯密德",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0080714",
-    "bookname": "V手绘POP广告设计/王猛",
+    "bookname": "手绘POP广告设计/王猛",
     "publishing": "海洋"
 },
 {
     "subscribeCode": "18CJ0080715",
-    "bookname": "V计算机应用基础习题集(WINDOWS7+OFFICE2010)(第2版)/傅连仲",
+    "bookname": "计算机应用基础习题集(WINDOWS7+OFFICE2010)(第2版)/傅连仲",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080716",
-    "bookname": "V中性笔字帖3500常用字(钢笔楷书)/司马彦",
+    "bookname": "中性笔字帖3500常用字(钢笔楷书)/司马彦",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080717",
-    "bookname": "V AUTOCAD 2008上机指导与练习(加验证码)/王克印",
+    "bookname": " AUTOCAD 2008上机指导与练习(加验证码)/王克印",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080718",
-    "bookname": "V机械常识与钳工实训/汪永成",
+    "bookname": "机械常识与钳工实训/汪永成",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080719",
-    "bookname": "V常用办公设备使用与维护/杨怡",
+    "bookname": "常用办公设备使用与维护/杨怡",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080720",
-    "bookname": "V VISUAL BASIC语言程序设计上机指导与练习(第4版)/谷学静 杨松",
+    "bookname": " VISUAL BASIC语言程序设计上机指导与练习(第4版)/谷学静 杨松",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080721",
-    "bookname": "V中国饮食文化/陈波",
+    "bookname": "中国饮食文化/陈波",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080722",
-    "bookname": "V电路CAM技术基础/谈织东",
+    "bookname": "电路CAM技术基础/谈织东",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080723",
-    "bookname": "V汽车维修基础/陆佳",
+    "bookname": "汽车维修基础/陆佳",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080724",
-    "bookname": "V数控机床原理与维护",
+    "bookname": "数控机床原理与维护",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080725",
-    "bookname": "V电工技能与实训(第4版)/杨亚平",
+    "bookname": "电工技能与实训(第4版)/杨亚平",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080726",
-    "bookname": "V CAXA软件应用技术基础(第2版)/吴为",
+    "bookname": " CAXA软件应用技术基础(第2版)/吴为",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080727",
-    "bookname": "V DREAMWEAVERCS网页制作/杨杰",
+    "bookname": " DREAMWEAVERCS网页制作/杨杰",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080728",
-    "bookname": "V电子电器产品市场与营销(第4版)(周伟)",
+    "bookname": "电子电器产品市场与营销(第4版)(周伟)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080729",
-    "bookname": "V数控铣削编程与加工技术/张伟英",
+    "bookname": "数控铣削编程与加工技术/张伟英",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080730",
-    "bookname": "V电子整机原理-数字视听设备",
+    "bookname": "电子整机原理-数字视听设备",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080731",
-    "bookname": "V计算机组装与维修(第2版)(含光盘1张)(含密码标)/林东",
+    "bookname": "计算机组装与维修(第2版)(含光盘1张)(含密码标)/林东",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080732",
-    "bookname": "V电子技术基础与技能/高卫斌",
+    "bookname": "电子技术基础与技能/高卫斌",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080733",
-    "bookname": "V中文WORD2007案例教程/段标",
+    "bookname": "中文WORD2007案例教程/段标",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080734",
-    "bookname": "V计算机组装与维修(第3版)/段欣",
+    "bookname": "计算机组装与维修(第3版)/段欣",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080735",
-    "bookname": "V传感器原理与应用/郝云",
+    "bookname": "传感器原理与应用/郝云",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080736",
-    "bookname": "V WINDOWS7应用基础/王健",
+    "bookname": " WINDOWS7应用基础/王健",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080737",
-    "bookname": "V对口升学考试模拟试卷·数学/对口升学考试备考丛书编写委员会",
+    "bookname": "对口升学考试模拟试卷·数学/对口升学考试备考丛书编写委员会",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080738",
-    "bookname": "V电子电器应用与维修概论(第3版)/廖爽",
+    "bookname": "电子电器应用与维修概论(第3版)/廖爽",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080739",
-    "bookname": "V电子测量仪器/辜小兵",
+    "bookname": "电子测量仪器/辜小兵",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080740",
-    "bookname": "V AUTOCAD 2008中文版应用基础(加防伪码)/郭朝勇",
+    "bookname": " AUTOCAD 2008中文版应用基础(加防伪码)/郭朝勇",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080741",
-    "bookname": "V常用现代办公设备的使用与维护/王建华",
+    "bookname": "常用现代办公设备的使用与维护/王建华",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080742",
-    "bookname": "V FLASH CS5二维动画制作案例教程/段欣",
+    "bookname": " FLASH CS5二维动画制作案例教程/段欣",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080743",
-    "bookname": "V电机与控制/扬宏利",
+    "bookname": "电机与控制/扬宏利",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080744",
-    "bookname": "V计算机应用基础实训指导(WINDOWS 7+OFFICE 2010)(第2版)",
+    "bookname": "计算机应用基础实训指导(WINDOWS 7+OFFICE 2010)(第2版)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080745",
-    "bookname": "V工业机器人技术/邢美峰",
+    "bookname": "工业机器人技术/邢美峰",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080746",
-    "bookname": "V电子整机装配工艺与调试",
+    "bookname": "电子整机装配工艺与调试",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080747",
-    "bookname": "V新编电工技术项目教程(孙晓华)",
+    "bookname": "新编电工技术项目教程(孙晓华)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080748",
-    "bookname": "V DREAMWEAVER CS3网页制作/张伟",
+    "bookname": " DREAMWEAVER CS3网页制作/张伟",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080749",
-    "bookname": "V AUTOCAD 2008辅助设计/先义华",
+    "bookname": " AUTOCAD 2008辅助设计/先义华",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080750",
-    "bookname": "V文字录入与编辑/刑小茹",
+    "bookname": "文字录入与编辑/刑小茹",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080751",
-    "bookname": "V礼仪与修养(第二版)/魏雪",
+    "bookname": "礼仪与修养(第二版)/魏雪",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080752",
-    "bookname": "V FLASH动画制作/张巍",
+    "bookname": " FLASH动画制作/张巍",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080753",
-    "bookname": "V PLC应用技术项目教程(三菱系列)",
+    "bookname": " PLC应用技术项目教程(三菱系列)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080754",
-    "bookname": "V计算机图形图像处理(PHOTOSHOPCS4)/张震",
+    "bookname": "计算机图形图像处理(PHOTOSHOPCS4)/张震",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080755",
-    "bookname": "V电力拖动(第五版)/尚艳华",
+    "bookname": "电力拖动(第五版)/尚艳华",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080756",
-    "bookname": "V PREMIERECS3案例教程/江永春",
+    "bookname": " PREMIERECS3案例教程/江永春",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080757",
-    "bookname": "V电子电器产品营销实务",
+    "bookname": "电子电器产品营销实务",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080758",
-    "bookname": "V平面广告设计与制作",
+    "bookname": "平面广告设计与制作",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080759",
-    "bookname": "V配送中心运营管理(第2版)/李玉民",
+    "bookname": "配送中心运营管理(第2版)/李玉民",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080760",
-    "bookname": "V中文CORELDRAW 12案例教程(第2版)/沈大林",
+    "bookname": "中文CORELDRAW 12案例教程(第2版)/沈大林",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080761",
-    "bookname": "V网页制作(二版)/许昭霞",
+    "bookname": "网页制作(二版)/许昭霞",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080762",
-    "bookname": "V幼儿英语教育活动设计与实践(附DVD光盘1张)/中等职业学校学前教",
+    "bookname": "幼儿英语教育活动设计与实践(附DVD光盘1张)/中等职业学校学前教",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080763",
-    "bookname": "V电子商务网络技术基础/陈孟建",
+    "bookname": "电子商务网络技术基础/陈孟建",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080764",
-    "bookname": "V消费心理学/肖涧松 张志强",
+    "bookname": "消费心理学/肖涧松 张志强",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080765",
-    "bookname": "V汉字录入与编辑技术(第6版)/邢小茹",
+    "bookname": "汉字录入与编辑技术(第6版)/邢小茹",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080766",
-    "bookname": "V电工实训(第二版)/金国砥",
+    "bookname": "电工实训(第二版)/金国砥",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080767",
-    "bookname": "V计算机组装与维护(第四版)/陈国先",
+    "bookname": "计算机组装与维护(第四版)/陈国先",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080768",
-    "bookname": "V WINDOWS7中文版应用基础/魏茂林",
+    "bookname": " WINDOWS7中文版应用基础/魏茂林",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080769",
-    "bookname": "V电子技术基础与技能 /黄宗放",
+    "bookname": "电子技术基础与技能 /黄宗放",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080770",
-    "bookname": "V电工基础/周德仁 汪宗仁 孔晓华",
+    "bookname": "电工基础/周德仁 汪宗仁 孔晓华",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080771",
-    "bookname": "V对口升学考试模拟试卷·英语/对口升学考试备考丛书编写委员会",
+    "bookname": "对口升学考试模拟试卷·英语/对口升学考试备考丛书编写委员会",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080772",
-    "bookname": "V幼儿心理学实用教材/刘颖",
+    "bookname": "幼儿心理学实用教材/刘颖",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080773",
-    "bookname": "V电工基础(第3版)/王英 丁金水",
+    "bookname": "电工基础(第3版)/王英 丁金水",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080774",
-    "bookname": "V电子线路(第5版)/姜有根",
+    "bookname": "电子线路(第5版)/姜有根",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080775",
-    "bookname": "V可编程控制器原理与应用(第2版)/周惠文",
+    "bookname": "可编程控制器原理与应用(第2版)/周惠文",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080776",
-    "bookname": "V计算机组装与维护情境实训（第2版）",
+    "bookname": "计算机组装与维护情境实训（第2版）",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080777",
-    "bookname": "V SMT生产工艺 /吕俊杰",
+    "bookname": " SMT生产工艺 /吕俊杰",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080778",
-    "bookname": "V PROTEL DXP2004 SP2实用设计教程(第3版)/及力",
+    "bookname": " PROTEL DXP2004 SP2实用设计教程(第3版)/及力",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080779",
-    "bookname": "V可编程控制器原理及应用(三菱机型)(第三版)/高勤",
+    "bookname": "可编程控制器原理及应用(三菱机型)(第三版)/高勤",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080780",
-    "bookname": "V机械制图/王新年",
+    "bookname": "机械制图/王新年",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080781",
-    "bookname": "V工业机器人操作与编程/邢美峰",
+    "bookname": "工业机器人操作与编程/邢美峰",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080782",
-    "bookname": "V WORD 2003EXCEL 2003POWERPOINT 2003上机指导与练习/谢宝荣",
+    "bookname": " WORD 2003EXCEL 2003POWERPOINT 2003上机指导与练习/谢宝荣",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080783",
-    "bookname": "V旅游人力资源管理/陈彦章",
+    "bookname": "旅游人力资源管理/陈彦章",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080784",
-    "bookname": "V INTERNET应用(第4版)/史建军",
+    "bookname": " INTERNET应用(第4版)/史建军",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080785",
-    "bookname": "V传感器与检测技术(谢志平)",
+    "bookname": "传感器与检测技术(谢志平)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080786",
-    "bookname": "V CAXA电子图板绘图教程(2007版)",
+    "bookname": " CAXA电子图板绘图教程(2007版)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080787",
-    "bookname": "V单片机原理与应用(第3版)/潘永雄 伍军",
+    "bookname": "单片机原理与应用(第3版)/潘永雄 伍军",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080788",
-    "bookname": "V制冷与制冷设备技术(第5版)/金国砥",
+    "bookname": "制冷与制冷设备技术(第5版)/金国砥",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080789",
-    "bookname": "V电子技术基础(第3版)/张炜 白淑珍",
+    "bookname": "电子技术基础(第3版)/张炜 白淑珍",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080790",
-    "bookname": "V网页制作基础教程(DREAMWEAVER 8.0)(第2版)/葛艳玲",
+    "bookname": "网页制作基础教程(DREAMWEAVER 8.0)(第2版)/葛艳玲",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080791",
-    "bookname": "V数控车削编程与加工技术(第3版)/谢晓红",
+    "bookname": "数控车削编程与加工技术(第3版)/谢晓红",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080792",
-    "bookname": "V电冰箱 空调器原理与维修(第三版)/张彪",
+    "bookname": "电冰箱 空调器原理与维修(第三版)/张彪",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080793",
-    "bookname": "V VISUAL BASIC语言程序设计基础(第4版)/李文 杨松",
+    "bookname": " VISUAL BASIC语言程序设计基础(第4版)/李文 杨松",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080794",
-    "bookname": "V网络设备配置与管理项目式教程",
+    "bookname": "网络设备配置与管理项目式教程",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080795",
-    "bookname": "V中小型网站建设与管理(第三版)",
+    "bookname": "中小型网站建设与管理(第三版)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080796",
-    "bookname": "V MAYA动画制作案例教程/徐璟",
+    "bookname": " MAYA动画制作案例教程/徐璟",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080797",
-    "bookname": "V无线网络技术原理与应用/朱晓荣",
+    "bookname": "无线网络技术原理与应用/朱晓荣",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080798",
-    "bookname": "V电子CAD-PROTEL DXP2004SP2电路设计(第2版)",
+    "bookname": "电子CAD-PROTEL DXP2004SP2电路设计(第2版)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080799",
-    "bookname": "V WINDOWS SERVER 2008系统管理与网络管理/唐华",
+    "bookname": " WINDOWS SERVER 2008系统管理与网络管理/唐华",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080800",
-    "bookname": "V广域网技术应用",
+    "bookname": "广域网技术应用",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080801",
-    "bookname": "V课课通对口升学考试仿真模拟测试卷·语文/吴开宇",
+    "bookname": "课课通对口升学考试仿真模拟测试卷·语文/吴开宇",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080802",
-    "bookname": "V国际货物代理与报关实务/顾丽亚",
+    "bookname": "国际货物代理与报关实务/顾丽亚",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080803",
-    "bookname": "V中文FLASHCS4案例教程/沈大林",
+    "bookname": "中文FLASHCS4案例教程/沈大林",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080804",
-    "bookname": "V中文FLASH CS5 案例教程/沈大林",
+    "bookname": "中文FLASH CS5 案例教程/沈大林",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080805",
-    "bookname": "V对口升学考试总复习精要·语文/对口升学考试备考丛书编写委员会",
+    "bookname": "对口升学考试总复习精要·语文/对口升学考试备考丛书编写委员会",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080806",
-    "bookname": "V对口升学考试总复习精要·英语/对口升学考试备考丛书编写委员会",
+    "bookname": "对口升学考试总复习精要·英语/对口升学考试备考丛书编写委员会",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080807",
-    "bookname": "V电工安全用电 /李良洪 郭振东",
+    "bookname": "电工安全用电 /李良洪 郭振东",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080808",
-    "bookname": "V网店客服/淘宝大学",
+    "bookname": "网店客服/淘宝大学",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080809",
-    "bookname": "V对口升学考试总复习精要·数学/对口升学考试备考丛书编写委员会",
+    "bookname": "对口升学考试总复习精要·数学/对口升学考试备考丛书编写委员会",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080810",
-    "bookname": "V网络信息安全项目教程",
+    "bookname": "网络信息安全项目教程",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080811",
-    "bookname": "V PROTEL DXP 2004简明教程与考证指南/葛中海 尤新芳",
+    "bookname": " PROTEL DXP 2004简明教程与考证指南/葛中海 尤新芳",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080812",
-    "bookname": "V计算机应用基础(WINDOWS 7+OFFICE 2010)(第2版)",
+    "bookname": "计算机应用基础(WINDOWS 7+OFFICE 2010)(第2版)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080813",
-    "bookname": "V金工实习",
+    "bookname": "金工实习",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080814",
-    "bookname": "V CORELDRAW X4实战教程(产品设计与制作)/王家青 于立辉 孔祥华",
+    "bookname": " CORELDRAW X4实战教程(产品设计与制作)/王家青 于立辉 孔祥华",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080815",
-    "bookname": "V创业学教程：理论与实务/左仁淑",
+    "bookname": "创业学教程：理论与实务/左仁淑",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080816",
-    "bookname": "V HTML/CSS/JAVASCRIPT标准教程实例",
+    "bookname": " HTML/CSS/JAVASCRIPT标准教程实例",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080817",
-    "bookname": "V维修电工国家职业技能培训与鉴定教程/李广兵",
+    "bookname": "维修电工国家职业技能培训与鉴定教程/李广兵",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080818",
-    "bookname": "V单片机应用技术(C语言版)第3版/王静霞",
+    "bookname": "单片机应用技术(C语言版)第3版/王静霞",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080819",
-    "bookname": "V维修电工国家职业资格培训教材/陈斗",
+    "bookname": "维修电工国家职业资格培训教材/陈斗",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080820",
-    "bookname": "V现代机械加工技术(第二版)/王明海、韩荣第",
+    "bookname": "现代机械加工技术(第二版)/王明海、韩荣第",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080821",
-    "bookname": "V基于HTML5的网页设计及应用/范伊红 黄彩霞 裴亚辉",
+    "bookname": "基于HTML5的网页设计及应用/范伊红 黄彩霞 裴亚辉",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080822",
-    "bookname": "V课课通对口升学考试专题复习与强化训练·语文/吴开宇",
+    "bookname": "课课通对口升学考试专题复习与强化训练·语文/吴开宇",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080823",
-    "bookname": "V汽车整车装配与调整/罗美菊 黎桂荣",
+    "bookname": "汽车整车装配与调整/罗美菊 黎桂荣",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080824",
-    "bookname": "V SQL SERVER数据库应用技术/周雅静 林雪燕等",
+    "bookname": " SQL SERVER数据库应用技术/周雅静 林雪燕等",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080825",
-    "bookname": "V通信工程综合实训(第2版)/张庆海",
+    "bookname": "通信工程综合实训(第2版)/张庆海",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080826",
-    "bookname": "V企业网搭建及应用(锐捷第三版)计算机技能大赛丛书/张文库",
+    "bookname": "企业网搭建及应用(锐捷第三版)计算机技能大赛丛书/张文库",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080827",
-    "bookname": "V企业网搭建及应用(第三版)/张文库",
+    "bookname": "企业网搭建及应用(第三版)/张文库",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080828",
-    "bookname": "V工业产品设计(INVENTOV2012)/陈道斌",
+    "bookname": "工业产品设计(INVENTOV2012)/陈道斌",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080829",
-    "bookname": "V网络综合布线技术(第二版)/何文",
+    "bookname": "网络综合布线技术(第二版)/何文",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080830",
-    "bookname": "V图解家装水电工技能速成/方厂移 梅国强",
+    "bookname": "图解家装水电工技能速成/方厂移 梅国强",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080831",
-    "bookname": "V详解AUTOCAD 2014室内设计(含DVD光盘1张)/张日晶 刘昌丽",
+    "bookname": "详解AUTOCAD 2014室内设计(含DVD光盘1张)/张日晶 刘昌丽",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080832",
-    "bookname": "V网店美工/新电商精英系统列教程",
+    "bookname": "网店美工/新电商精英系统列教程",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080833",
-    "bookname": "V精编AUTOCAD2013建筑设计/刘冰",
+    "bookname": "精编AUTOCAD2013建筑设计/刘冰",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080834",
-    "bookname": "V实用表面组装技术/张文典",
+    "bookname": "实用表面组装技术/张文典",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0080835",
-    "bookname": "V结构素描/雄飞",
+    "bookname": "结构素描/雄飞",
     "publishing": "纺织工业"
 },
 {
     "subscribeCode": "18CJ0080836",
-    "bookname": "V餐巾折叠技法/犀文咨询",
+    "bookname": "餐巾折叠技法/犀文咨询",
     "publishing": "纺织工业"
 },
 {
     "subscribeCode": "18CJ0080837",
-    "bookname": "V服装款式设计1688例/石力丽",
+    "bookname": "服装款式设计1688例/石力丽",
     "publishing": "纺织工业"
 },
 {
     "subscribeCode": "18CJ0080838",
-    "bookname": "V水粉静物范画精选/王磊",
+    "bookname": "水粉静物范画精选/王磊",
     "publishing": "纺织工业"
 },
 {
     "subscribeCode": "18CJ0080839",
-    "bookname": "V素描速成临摹/张勇",
+    "bookname": "素描速成临摹/张勇",
     "publishing": "中国纺织"
 },
 {
     "subscribeCode": "18CJ0080840",
-    "bookname": "V人体解剖学与组织胚胎学/滕少康 汲军",
+    "bookname": "人体解剖学与组织胚胎学/滕少康 汲军",
     "publishing": "医药科技"
 },
 {
     "subscribeCode": "18CJ0080841",
-    "bookname": "V牦牛生产技术/胡江",
+    "bookname": "牦牛生产技术/胡江",
     "publishing": "金盾"
 },
 {
     "subscribeCode": "18CJ0080842",
-    "bookname": "V常用护理技术/梁嘉定",
+    "bookname": "常用护理技术/梁嘉定",
     "publishing": "四川科技"
 },
 {
     "subscribeCode": "18CJ0080843",
-    "bookname": "V通信工程监理 / 张振中",
+    "bookname": "通信工程监理 / 张振中",
     "publishing": "西安电子科大"
 },
 {
     "subscribeCode": "18CJ0080844",
-    "bookname": "V二手车评估与交易/章文英",
+    "bookname": "二手车评估与交易/章文英",
     "publishing": "西安电子科大"
 },
 {
     "subscribeCode": "18CJ0080845",
-    "bookname": "V移动通信设备运行与维护/张重阳",
+    "bookname": "移动通信设备运行与维护/张重阳",
     "publishing": "西安电子科大"
 },
 {
     "subscribeCode": "18CJ0080846",
-    "bookname": "V通信工程制图(AUTOCAD)/李转运 李敬仕",
+    "bookname": "通信工程制图(AUTOCAD)/李转运 李敬仕",
     "publishing": "西安电子科大"
 },
 {
     "subscribeCode": "18CJ0080847",
-    "bookname": "V现代通信网概论(第二版)/强世锦 朱里华 黄艳华",
+    "bookname": "现代通信网概论(第二版)/强世锦 朱里华 黄艳华",
     "publishing": "西安电子科大"
 },
 {
     "subscribeCode": "18CJ0080848",
-    "bookname": "V电路分析基础/马颖",
+    "bookname": "电路分析基础/马颖",
     "publishing": "西安电子科大"
 },
 {
     "subscribeCode": "18CJ0080849",
-    "bookname": "V钳工基本技能/袁梁梁",
+    "bookname": "钳工基本技能/袁梁梁",
     "publishing": "华中科大"
 },
 {
     "subscribeCode": "18CJ0080850",
-    "bookname": "V电气工程CAD/李莉、施喜平",
+    "bookname": "电气工程CAD/李莉、施喜平",
     "publishing": "华中科大"
 },
 {
     "subscribeCode": "18CJ0080851",
-    "bookname": "V工程力学/全沅生",
+    "bookname": "工程力学/全沅生",
     "publishing": "华中科大"
 },
 {
     "subscribeCode": "18CJ0080852",
-    "bookname": "V电子商务与物流管理/张华",
+    "bookname": "电子商务与物流管理/张华",
     "publishing": "华中科大"
 },
 {
     "subscribeCode": "18CJ0080853",
-    "bookname": "V教师口语/金克中，胡立新",
+    "bookname": "教师口语/金克中，胡立新",
     "publishing": "华中科大"
 },
 {
     "subscribeCode": "18CJ0080854",
-    "bookname": "V审计原理与实务/刘秀玲",
+    "bookname": "审计原理与实务/刘秀玲",
     "publishing": "西北工大"
 },
 {
     "subscribeCode": "18CJ0080855",
-    "bookname": "V旅游资源规划与开发",
+    "bookname": "旅游资源规划与开发",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0080856",
-    "bookname": "V马克思主义哲学原理简明教程/刘同舫",
+    "bookname": "马克思主义哲学原理简明教程/刘同舫",
     "publishing": "华南理工"
 },
 {
     "subscribeCode": "18CJ0080857",
-    "bookname": "V手绘时装效果图技法/喻涵 21世纪高职高专艺术设计专业系列规划",
+    "bookname": "手绘时装效果图技法/喻涵 21世纪高职高专艺术设计专业系列规划",
     "publishing": "华南理工"
 },
 {
     "subscribeCode": "18CJ0080858",
-    "bookname": "V电子技能与实训/聂广林",
+    "bookname": "电子技能与实训/聂广林",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080859",
-    "bookname": "V常用职场工具与设备使用/赵计平",
+    "bookname": "常用职场工具与设备使用/赵计平",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080860",
-    "bookname": "V办公大厦建筑工程图（第3版）/王全杰",
+    "bookname": "办公大厦建筑工程图（第3版）/王全杰",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080861",
-    "bookname": "V新编公共英语教程(上册)/陈家佶",
+    "bookname": "新编公共英语教程(上册)/陈家佶",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080862",
-    "bookname": "V英才公寓施工图/杨文生",
+    "bookname": "英才公寓施工图/杨文生",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080863",
-    "bookname": "V旅游职业道德/陈吉瑞",
+    "bookname": "旅游职业道德/陈吉瑞",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080864",
-    "bookname": "V新编公共英语教程教师用书(上册\下册合订本)/陈家佶",
+    "bookname": "新编公共英语教程教师用书(上册\下册合订本)/陈家佶",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080865",
-    "bookname": "V新编公共英语教程(下册)/陈家佶",
+    "bookname": "新编公共英语教程(下册)/陈家佶",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080866",
-    "bookname": "V新编公共英语教程(磁带)下册/陈佳佶",
+    "bookname": "新编公共英语教程(磁带)下册/陈佳佶",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080867",
-    "bookname": "V推销实务/陈锐",
+    "bookname": "推销实务/陈锐",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080868",
-    "bookname": "V新编公共英语教程上册(磁带)/陈佳佶",
+    "bookname": "新编公共英语教程上册(磁带)/陈佳佶",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080869",
-    "bookname": "V旅游文学作品赏析/岳楚华",
+    "bookname": "旅游文学作品赏析/岳楚华",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080870",
-    "bookname": "V应用动漫速写/林敏",
+    "bookname": "应用动漫速写/林敏",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080871",
-    "bookname": "V应用素描/肖良炎",
+    "bookname": "应用素描/肖良炎",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080872",
-    "bookname": "V新编公共英语教程同步练习册/陈佳佶",
+    "bookname": "新编公共英语教程同步练习册/陈佳佶",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080873",
-    "bookname": "V包邮/建筑施工技术与机械/王谊 陈巧",
+    "bookname": "包邮/建筑施工技术与机械/王谊 陈巧",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080874",
-    "bookname": "V传感器检测技术及应用/官伦",
+    "bookname": "传感器检测技术及应用/官伦",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080875",
-    "bookname": "V数据库基础及应用-VISUAL FOXPRO操作基础及应用(高考指定用书)/",
+    "bookname": "数据库基础及应用-VISUAL FOXPRO操作基础及应用(高考指定用书)/",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080876",
-    "bookname": "V制冷技术基础与技能",
+    "bookname": "制冷技术基础与技能",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080877",
-    "bookname": "V工程量计算计价实用教程/王全杰",
+    "bookname": "工程量计算计价实用教程/王全杰",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080878",
-    "bookname": "V金属切削加工(3)－ 数控车削/付琳",
+    "bookname": "金属切削加工(3)－ 数控车削/付琳",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080879",
-    "bookname": "V网页制作/王元安",
+    "bookname": "网页制作/王元安",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080880",
-    "bookname": "V电路原理/王生春",
+    "bookname": "电路原理/王生春",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080881",
-    "bookname": "V钳工工艺与加工技术/林立",
+    "bookname": "钳工工艺与加工技术/林立",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080882",
-    "bookname": "V车工工艺与加工技术/胡志恒 殷安全",
+    "bookname": "车工工艺与加工技术/胡志恒 殷安全",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080883",
-    "bookname": "V建筑工程量计算实训教程/王全杰",
+    "bookname": "建筑工程量计算实训教程/王全杰",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080884",
-    "bookname": "V钢筋工程量计算实训教程(第二版)/王全杰、张冬秀、朱溢镕",
+    "bookname": "钢筋工程量计算实训教程(第二版)/王全杰、张冬秀、朱溢镕",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080885",
-    "bookname": "V电子商务基础/汤跃光",
+    "bookname": "电子商务基础/汤跃光",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080886",
-    "bookname": "V普通钳工与测量基础/胡云翔",
+    "bookname": "普通钳工与测量基础/胡云翔",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080887",
-    "bookname": "V科技文献检索实用教程(第四版)",
+    "bookname": "科技文献检索实用教程(第四版)",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080888",
-    "bookname": "V数控车床编程与仿真加工(华中系统)/董代进",
+    "bookname": "数控车床编程与仿真加工(华中系统)/董代进",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080889",
-    "bookname": "V特殊儿童学校卫生学/戴旭芳",
+    "bookname": "特殊儿童学校卫生学/戴旭芳",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080890",
-    "bookname": "V静物到主题色彩/王魁",
+    "bookname": "静物到主题色彩/王魁",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080891",
-    "bookname": "V中式烹调综合实训",
+    "bookname": "中式烹调综合实训",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080892",
-    "bookname": "V物业财务核算与管理/章月萍",
+    "bookname": "物业财务核算与管理/章月萍",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080893",
-    "bookname": "V川菜制作/张文、贾晋",
+    "bookname": "川菜制作/张文、贾晋",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080894",
-    "bookname": "V建筑工程计量与计价/武育秦、胡晓娟",
+    "bookname": "建筑工程计量与计价/武育秦、胡晓娟",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080895",
-    "bookname": "V中式面点综合实训",
+    "bookname": "中式面点综合实训",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080896",
-    "bookname": "V最强速写/程凡",
+    "bookname": "最强速写/程凡",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0080897",
-    "bookname": "V工程建设法规(第三版)/叶胜川",
+    "bookname": "工程建设法规(第三版)/叶胜川",
     "publishing": "武汉理工"
 },
 {
     "subscribeCode": "18CJ0080898",
-    "bookname": "V前厅客房服务与管理",
+    "bookname": "前厅客房服务与管理",
     "publishing": "武汉理工"
 },
 {
     "subscribeCode": "18CJ0080899",
-    "bookname": "V建筑力学与结构/胡兴福",
+    "bookname": "建筑力学与结构/胡兴福",
     "publishing": "武汉理工"
 },
 {
     "subscribeCode": "18CJ0080900",
-    "bookname": "V通信电源(第4版)/漆逢吉",
+    "bookname": "通信电源(第4版)/漆逢吉",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0080901",
-    "bookname": "V灌溉排水工程学习题与课程设计/迟道才",
+    "bookname": "灌溉排水工程学习题与课程设计/迟道才",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080902",
-    "bookname": "V计算机应用基础实验指导与习题集(WINDOWS 7+OFFICE 2010)/李建",
+    "bookname": "计算机应用基础实验指导与习题集(WINDOWS 7+OFFICE 2010)/李建",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080903",
-    "bookname": "V水轮机调节及辅助设备/林亚一",
+    "bookname": "水轮机调节及辅助设备/林亚一",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080904",
-    "bookname": "V水利工程制图习题集 /柯昌胜 李玉笄",
+    "bookname": "水利工程制图习题集 /柯昌胜 李玉笄",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080905",
-    "bookname": "V电子技术/任振辉",
+    "bookname": "电子技术/任振辉",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080906",
-    "bookname": "V电机维修实训/马香普",
+    "bookname": "电机维修实训/马香普",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080907",
-    "bookname": "V单片机原理及应用教程(C语言版)/周国运",
+    "bookname": "单片机原理及应用教程(C语言版)/周国运",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080908",
-    "bookname": "V计算机导论 (第二版)/田原",
+    "bookname": "计算机导论 (第二版)/田原",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080909",
-    "bookname": "V水工钢筋混凝土结构/李萃青",
+    "bookname": "水工钢筋混凝土结构/李萃青",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080910",
-    "bookname": "V水利工程制图/柯昌胜 李玉笄",
+    "bookname": "水利工程制图/柯昌胜 李玉笄",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080911",
-    "bookname": "V地下水开发与利用/戴长雷",
+    "bookname": "地下水开发与利用/戴长雷",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080912",
-    "bookname": "V水力学基础/朱李英",
+    "bookname": "水力学基础/朱李英",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080913",
-    "bookname": "V建筑与装饰材料/张思梅 陈霞",
+    "bookname": "建筑与装饰材料/张思梅 陈霞",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080914",
-    "bookname": "V水电站(第二版)/侯才水",
+    "bookname": "水电站(第二版)/侯才水",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080915",
-    "bookname": "V网页设计实用技术/陈建国、李勤",
+    "bookname": "网页设计实用技术/陈建国、李勤",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080916",
-    "bookname": "V电气二次部份/祝敏",
+    "bookname": "电气二次部份/祝敏",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080917",
-    "bookname": "V输配电线路设计/刘增良 杨泽江",
+    "bookname": "输配电线路设计/刘增良 杨泽江",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080918",
-    "bookname": "V水轮机及其辅助设备/梁建和 童文勇",
+    "bookname": "水轮机及其辅助设备/梁建和 童文勇",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080919",
-    "bookname": "V施工机械/钟汉华 张智涌",
+    "bookname": "施工机械/钟汉华 张智涌",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080920",
-    "bookname": "V水工钢结构/范崇仁",
+    "bookname": "水工钢结构/范崇仁",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080921",
-    "bookname": "V水利工程制图与AUTOCAD/田明武 曾琳 梁艺",
+    "bookname": "水利工程制图与AUTOCAD/田明武 曾琳 梁艺",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080922",
-    "bookname": "V城镇给排水/韩会玲",
+    "bookname": "城镇给排水/韩会玲",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080923",
-    "bookname": "V建筑识图与构造/吴伟明",
+    "bookname": "建筑识图与构造/吴伟明",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080924",
-    "bookname": "V水信息技术/谢悦波、丁晶",
+    "bookname": "水信息技术/谢悦波、丁晶",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080925",
-    "bookname": "V建筑工程施工组织与管理/宋文学",
+    "bookname": "建筑工程施工组织与管理/宋文学",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080926",
-    "bookname": "V简笔画手绘10000例/飞乐鸟工作室",
+    "bookname": "简笔画手绘10000例/飞乐鸟工作室",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080927",
-    "bookname": "V常用工具软件实用教程/刘毅、张波",
+    "bookname": "常用工具软件实用教程/刘毅、张波",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080928",
-    "bookname": "V水利工程造价与招投标/张梦宇",
+    "bookname": "水利工程造价与招投标/张梦宇",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080929",
-    "bookname": "V水利水电工程建筑物/田明武",
+    "bookname": "水利水电工程建筑物/田明武",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0080930",
-    "bookname": "V电力系统自动装置/唐建辉 黄红荔",
+    "bookname": "电力系统自动装置/唐建辉 黄红荔",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080931",
-    "bookname": "V建筑装饰装饰构造/冯美宇",
+    "bookname": "建筑装饰装饰构造/冯美宇",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080932",
-    "bookname": "V电力系统继电保护和自动装置(第二版)/李火元",
+    "bookname": "电力系统继电保护和自动装置(第二版)/李火元",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080933",
-    "bookname": "V法律基础 /张连春",
+    "bookname": "法律基础 /张连春",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080934",
-    "bookname": "V水力机组安装与检修/汪俊",
+    "bookname": "水力机组安装与检修/汪俊",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080935",
-    "bookname": "V发电厂变电所电气设备/卢文鹏",
+    "bookname": "发电厂变电所电气设备/卢文鹏",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080936",
-    "bookname": "V现代通信原理/陶亚雄",
+    "bookname": "现代通信原理/陶亚雄",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080937",
-    "bookname": "V输配电线路运行与检修(第四版)/曾昭桂",
+    "bookname": "输配电线路运行与检修(第四版)/曾昭桂",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080938",
-    "bookname": "V电力系统继电保护(第二版)/李丽娇",
+    "bookname": "电力系统继电保护(第二版)/李丽娇",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080939",
-    "bookname": "V全国电工技能大赛试题集锦/雷云涛",
+    "bookname": "全国电工技能大赛试题集锦/雷云涛",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080940",
-    "bookname": "V电机学(第三版)/叶水音",
+    "bookname": "电机学(第三版)/叶水音",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080941",
-    "bookname": "V VB语言与测量程序设计(第2版)全国高职高专工程测量技术专业规",
+    "bookname": " VB语言与测量程序设计(第2版)全国高职高专工程测量技术专业规",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0080942",
-    "bookname": "V工程电气设备安装调试工/李永忠",
+    "bookname": "工程电气设备安装调试工/李永忠",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080943",
-    "bookname": "V实验员专业知识与实务/房屋建筑工程专业技术管理人员培训系列教",
+    "bookname": "实验员专业知识与实务/房屋建筑工程专业技术管理人员培训系列教",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080944",
-    "bookname": "V法律法规及相关知识 专业通用知识",
+    "bookname": "法律法规及相关知识 专业通用知识",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080945",
-    "bookname": "V安全员",
+    "bookname": "安全员",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080946",
-    "bookname": "V材料员",
+    "bookname": "材料员",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080947",
-    "bookname": "V资料员",
+    "bookname": "资料员",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080948",
-    "bookname": "V施工员(土建)",
+    "bookname": "施工员(土建)",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080949",
-    "bookname": "V房屋建筑工程专业基础知识(第三版)/房屋建筑工程专业技术管理人",
+    "bookname": "房屋建筑工程专业基础知识(第三版)/房屋建筑工程专业技术管理人",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080950",
-    "bookname": "V质量员",
+    "bookname": "质量员",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0080951",
-    "bookname": "V护理专业技术实训/曾建平",
+    "bookname": "护理专业技术实训/曾建平",
     "publishing": "人民军医"
 },
 {
     "subscribeCode": "18CJ0080952",
-    "bookname": "V组织学与胚胎学(二版)/年兆新",
+    "bookname": "组织学与胚胎学(二版)/年兆新",
     "publishing": "人民军医"
 },
 {
     "subscribeCode": "18CJ0080953",
-    "bookname": "V病原生物和免疫学基础(二版)/饶洪洋",
+    "bookname": "病原生物和免疫学基础(二版)/饶洪洋",
     "publishing": "人民军医"
 },
 {
     "subscribeCode": "18CJ0080954",
-    "bookname": "V解剖学基础/丁晓漠 袁耀华",
+    "bookname": "解剖学基础/丁晓漠 袁耀华",
     "publishing": "人民军医"
 },
 {
     "subscribeCode": "18CJ0080955",
-    "bookname": "V人体解剖学(二版)/杨壮来",
+    "bookname": "人体解剖学(二版)/杨壮来",
     "publishing": "人民军医"
 },
 {
     "subscribeCode": "18CJ0080956",
-    "bookname": "V土壤与农作物/张建国",
+    "bookname": "土壤与农作物/张建国",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080957",
-    "bookname": "V建筑工程概论/李万渠、陈卫东、何江",
+    "bookname": "建筑工程概论/李万渠、陈卫东、何江",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080958",
-    "bookname": "V全站仪测量技术/何保喜",
+    "bookname": "全站仪测量技术/何保喜",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080959",
-    "bookname": "V水泵与水泵站/万亮婷",
+    "bookname": "水泵与水泵站/万亮婷",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080960",
-    "bookname": "V电机技术/杨星跃 朱毅",
+    "bookname": "电机技术/杨星跃 朱毅",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080961",
-    "bookname": "V机械基础/杨化书",
+    "bookname": "机械基础/杨化书",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080962",
-    "bookname": "V计算机测绘程序设计/赵淑湘",
+    "bookname": "计算机测绘程序设计/赵淑湘",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080963",
-    "bookname": "V建筑结构/彭明 王建伟",
+    "bookname": "建筑结构/彭明 王建伟",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080964",
-    "bookname": "V水轮机调节(二版)/蔡燕生",
+    "bookname": "水轮机调节(二版)/蔡燕生",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080965",
-    "bookname": "V建筑识图构造/谷云香",
+    "bookname": "建筑识图构造/谷云香",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080966",
-    "bookname": "V工程地质与土力学（第2版）/刘福臣 杨绍平",
+    "bookname": "工程地质与土力学（第2版）/刘福臣 杨绍平",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080967",
-    "bookname": "V数字水准仪、全站仪测量技术/赵世平",
+    "bookname": "数字水准仪、全站仪测量技术/赵世平",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080968",
-    "bookname": "V控制测量学/杨国清主编",
+    "bookname": "控制测量学/杨国清主编",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080969",
-    "bookname": "V水利水电工程施工/李桢 李华鹏",
+    "bookname": "水利水电工程施工/李桢 李华鹏",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0080970",
-    "bookname": "V新农村应用数学",
+    "bookname": "新农村应用数学",
     "publishing": "农业大学"
 },
 {
     "subscribeCode": "18CJ0080971",
-    "bookname": "V动物微生物/羊建平、梁学勇",
+    "bookname": "动物微生物/羊建平、梁学勇",
     "publishing": "农业大学"
 },
 {
     "subscribeCode": "18CJ0080972",
-    "bookname": "V基础土壤学/熊顺贵",
+    "bookname": "基础土壤学/熊顺贵",
     "publishing": "农业大学"
 },
 {
     "subscribeCode": "18CJ0080973",
-    "bookname": "V纳税筹划 第2版 /杨应杰 刘洋",
+    "bookname": "纳税筹划 第2版 /杨应杰 刘洋",
     "publishing": "农业大学"
 },
 {
     "subscribeCode": "18CJ0080974",
-    "bookname": "V设施园艺(附光盘)园艺园林和农艺等专业用高职高专教育十二五规",
+    "bookname": "设施园艺(附光盘)园艺园林和农艺等专业用高职高专教育十二五规",
     "publishing": "农业大学"
 },
 {
     "subscribeCode": "18CJ0080975",
-    "bookname": "V妇产科护理学(第二版)/闵丽华",
+    "bookname": "妇产科护理学(第二版)/闵丽华",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080976",
-    "bookname": "V礼仪规范/张显宝",
+    "bookname": "礼仪规范/张显宝",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080977",
-    "bookname": "V高速铁路客运服务与礼仪/潘自影",
+    "bookname": "高速铁路客运服务与礼仪/潘自影",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080978",
-    "bookname": "V铁路行车规章/王小丰 刘东华",
+    "bookname": "铁路行车规章/王小丰 刘东华",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080979",
-    "bookname": "V高铁铁路客运组织/马海漫 宋玉佳",
+    "bookname": "高铁铁路客运组织/马海漫 宋玉佳",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080980",
-    "bookname": "V高铁乘务安全管理与应急处置/王慧",
+    "bookname": "高铁乘务安全管理与应急处置/王慧",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080981",
-    "bookname": "V计算机应用基础/李锡泽",
+    "bookname": "计算机应用基础/李锡泽",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080982",
-    "bookname": "V高速铁路设备运用/王珏 编",
+    "bookname": "高速铁路设备运用/王珏 编",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080983",
-    "bookname": "V高速铁路动车餐饮服务/李丹",
+    "bookname": "高速铁路动车餐饮服务/李丹",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080984",
-    "bookname": "V高速铁路动车乘务实务/马海漫",
+    "bookname": "高速铁路动车乘务实务/马海漫",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080985",
-    "bookname": "V儿科护理学(第2版)/罗艳艳",
+    "bookname": "儿科护理学(第2版)/罗艳艳",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080986",
-    "bookname": "V面点制作技术—四川小吃篇/罗文",
+    "bookname": "面点制作技术—四川小吃篇/罗文",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080987",
-    "bookname": "V菜肴制作技术标准化教程—川菜篇/潘涛",
+    "bookname": "菜肴制作技术标准化教程—川菜篇/潘涛",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080988",
-    "bookname": "V基础护理学/王冬梅 温贤秀",
+    "bookname": "基础护理学/王冬梅 温贤秀",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080989",
-    "bookname": "V高速铁路旅游英语/闫莹娜 王慧",
+    "bookname": "高速铁路旅游英语/闫莹娜 王慧",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080990",
-    "bookname": "V内科护理学(第2版)/黄树高",
+    "bookname": "内科护理学(第2版)/黄树高",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0080991",
-    "bookname": "V人际交流/贾启艾",
+    "bookname": "人际交流/贾启艾",
     "publishing": "东南大学"
 },
 {
     "subscribeCode": "18CJ0080992",
-    "bookname": "V国际货运代理(第二版)/杜学森",
+    "bookname": "国际货运代理(第二版)/杜学森",
     "publishing": "东南大学"
 },
 {
     "subscribeCode": "18CJ0080993",
-    "bookname": "V声音基础教程/王荣",
+    "bookname": "声音基础教程/王荣",
     "publishing": "郑州大学"
 },
 {
     "subscribeCode": "18CJ0080994",
-    "bookname": "V生物安全与法规/朱万孚",
+    "bookname": "生物安全与法规/朱万孚",
     "publishing": "北京医大"
 },
 {
     "subscribeCode": "18CJ0080995",
-    "bookname": "V WINDOWSXP OFFICE 2003职业技能培训教程",
+    "bookname": " WINDOWSXP OFFICE 2003职业技能培训教程",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0080996",
-    "bookname": "V办公软件应用(WINDOWS平台)试题汇编",
+    "bookname": "办公软件应用(WINDOWS平台)试题汇编",
     "publishing": "北京希望电子"
 },
 {
     "subscribeCode": "18CJ0080997",
-    "bookname": "V办公软件应用(WINDOWS平台)WINDOWS7，OFFICE2010试题汇编(操作",
+    "bookname": "办公软件应用(WINDOWS平台)WINDOWS7，OFFICE2010试题汇编(操作",
     "publishing": "北京希望电子"
 },
 {
     "subscribeCode": "18CJ0080998",
-    "bookname": "V英语(基础模块)(修订版)配套磁带 第二册/陈琳",
+    "bookname": "英语(基础模块)(修订版)配套磁带 第二册/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0080999",
-    "bookname": "V英语录音带(基础模块)第一册",
+    "bookname": "英语录音带(基础模块)第一册",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081000",
-    "bookname": "V英语(基础模块)(修订版)第一册录音带/陈琳",
+    "bookname": "英语(基础模块)(修订版)第一册录音带/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081001",
-    "bookname": "V英语配套录音带/陈琳(基础模块)第二册",
+    "bookname": "英语配套录音带/陈琳(基础模块)第二册",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081002",
-    "bookname": "V国家教师资格统一考试规划教材:命题预测试卷 保教知识与能力 幼",
+    "bookname": "国家教师资格统一考试规划教材:命题预测试卷 保教知识与能力 幼",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081003",
-    "bookname": "V国家教师资格统一考试规划教材:命题预测试卷 综合素质(幼儿园)",
+    "bookname": "国家教师资格统一考试规划教材:命题预测试卷 综合素质(幼儿园)",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081004",
-    "bookname": "V形式逻辑/金岳霖",
+    "bookname": "形式逻辑/金岳霖",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081005",
-    "bookname": "V初级会计电算化(通用版)/会计从业",
+    "bookname": "初级会计电算化(通用版)/会计从业",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081006",
-    "bookname": "V大学生形势与政策教程/郑传芳",
+    "bookname": "大学生形势与政策教程/郑传芳",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081007",
-    "bookname": "V国家教师资格统一考试规划教材:保教知识与能力 幼儿园",
+    "bookname": "国家教师资格统一考试规划教材:保教知识与能力 幼儿园",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081008",
-    "bookname": "V国家教师资格统一考试规划教材:综合素质(幼儿园)",
+    "bookname": "国家教师资格统一考试规划教材:综合素质(幼儿园)",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081009",
-    "bookname": "V国家教师资格统一考试规划教材:教育教学知识与能力(小学)",
+    "bookname": "国家教师资格统一考试规划教材:教育教学知识与能力(小学)",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081010",
-    "bookname": "V国家教师资格统一考试规划教材:综合素质(小学)",
+    "bookname": "国家教师资格统一考试规划教材:综合素质(小学)",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0081011",
-    "bookname": "V语灯详释",
+    "bookname": "语灯详释",
     "publishing": "民族"
 },
 {
     "subscribeCode": "18CJ0081012",
-    "bookname": "V拜厄钢琴基础教程/江晨",
+    "bookname": "拜厄钢琴基础教程/江晨",
     "publishing": "上海教育"
 },
 {
     "subscribeCode": "18CJ0081013",
-    "bookname": "V(BX)饭店文化概论/陈乾康",
+    "bookname": "(BX)饭店文化概论/陈乾康",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081014",
-    "bookname": "V中餐服务(中等职业教育课改项目成果教材)/何强",
+    "bookname": "中餐服务(中等职业教育课改项目成果教材)/何强",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081015",
-    "bookname": "V(BX)西餐服务/何强",
+    "bookname": "(BX)西餐服务/何强",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081016",
-    "bookname": "V职业生涯规划/柳君芳",
+    "bookname": "职业生涯规划/柳君芳",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081017",
-    "bookname": "V邓小平理论和“三个代表”重要思想概论(五年制高等职业教育德育",
+    "bookname": "邓小平理论和“三个代表”重要思想概论(五年制高等职业教育德育",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081018",
-    "bookname": "V管理学概论/徐洪灿",
+    "bookname": "管理学概论/徐洪灿",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081019",
-    "bookname": "V(BX)餐饮服务员技能示范与训练/范晓结",
+    "bookname": "(BX)餐饮服务员技能示范与训练/范晓结",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081020",
-    "bookname": "V(BX)计算机组装与维护/陈桂生",
+    "bookname": "(BX)计算机组装与维护/陈桂生",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081021",
-    "bookname": "V客房服务/李琦",
+    "bookname": "客房服务/李琦",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081022",
-    "bookname": "V(BX)餐饮服务与管理/沈建龙",
+    "bookname": "(BX)餐饮服务与管理/沈建龙",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081023",
-    "bookname": "V(BX)网络营销实务/凌云",
+    "bookname": "(BX)网络营销实务/凌云",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081024",
-    "bookname": "V经济政治与社会/李波、邓德强",
+    "bookname": "经济政治与社会/李波、邓德强",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081025",
-    "bookname": "V汽车性能检测/陈纪民",
+    "bookname": "汽车性能检测/陈纪民",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081026",
-    "bookname": "V汽车钣金实训教程/宋孟辉 卢中德",
+    "bookname": "汽车钣金实训教程/宋孟辉 卢中德",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081027",
-    "bookname": "V(BX)市场营销基础/吕一林.岳俊芳",
+    "bookname": "(BX)市场营销基础/吕一林.岳俊芳",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081028",
-    "bookname": "V(BX)导游实务/陈乾康",
+    "bookname": "(BX)导游实务/陈乾康",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081029",
-    "bookname": "V(BX)基础会计学习指导/黄坚明",
+    "bookname": "(BX)基础会计学习指导/黄坚明",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081030",
-    "bookname": "V(BX)中国旅游地理/徐永红.马运彩",
+    "bookname": "(BX)中国旅游地理/徐永红.马运彩",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081031",
-    "bookname": "V计算机组装与维护/王强",
+    "bookname": "计算机组装与维护/王强",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081032",
-    "bookname": "V二手车鉴定与评估/明光星",
+    "bookname": "二手车鉴定与评估/明光星",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081033",
-    "bookname": "V(BX)综合布线工程案例教程/张亮",
+    "bookname": "(BX)综合布线工程案例教程/张亮",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081034",
-    "bookname": "V行政管理基础(第三版)/杨继昭，李桂凤，王金",
+    "bookname": "行政管理基础(第三版)/杨继昭，李桂凤，王金",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081035",
-    "bookname": "V网店客服/廖刚 邵淑仪 陈唯宏",
+    "bookname": "网店客服/廖刚 邵淑仪 陈唯宏",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081036",
-    "bookname": "V保险基础 /李民",
+    "bookname": "保险基础 /李民",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081037",
-    "bookname": "V金融基础 /高建侠",
+    "bookname": "金融基础 /高建侠",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081038",
-    "bookname": "V物业管理法规(第二版)",
+    "bookname": "物业管理法规(第二版)",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081039",
-    "bookname": "V锻炼优秀品格/苏慧明",
+    "bookname": "锻炼优秀品格/苏慧明",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081040",
-    "bookname": "V OFFICE 2010应用基础/张俊",
+    "bookname": " OFFICE 2010应用基础/张俊",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081041",
-    "bookname": "V班级道德讲堂/张飞虹.朱国昌.汪永智",
+    "bookname": "班级道德讲堂/张飞虹.朱国昌.汪永智",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081042",
-    "bookname": "V机械基础(精品课程)/周建",
+    "bookname": "机械基础(精品课程)/周建",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081043",
-    "bookname": "V职校生安全教育/吴晓进",
+    "bookname": "职校生安全教育/吴晓进",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081044",
-    "bookname": "V安全教育/刘世亮 潘富强",
+    "bookname": "安全教育/刘世亮 潘富强",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081045",
-    "bookname": "V青春导航/罗华江",
+    "bookname": "青春导航/罗华江",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081046",
-    "bookname": "V旅游营销/徐惠群",
+    "bookname": "旅游营销/徐惠群",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081047",
-    "bookname": "V酒吧服务与管理/沈建龙",
+    "bookname": "酒吧服务与管理/沈建龙",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081048",
-    "bookname": "V体育与健康/姜明浩 于载欣",
+    "bookname": "体育与健康/姜明浩 于载欣",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081049",
-    "bookname": "V中国文化概论/金元浦",
+    "bookname": "中国文化概论/金元浦",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081050",
-    "bookname": "V自编精品教材《电工技术基础》/吴海燕",
+    "bookname": "自编精品教材《电工技术基础》/吴海燕",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081051",
-    "bookname": "V(BX)基础会计/胡兴苗",
+    "bookname": "(BX)基础会计/胡兴苗",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081052",
-    "bookname": "V幼儿教师口语/张研丽 杨建梅",
+    "bookname": "幼儿教师口语/张研丽 杨建梅",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081053",
-    "bookname": "V机械制图(精品课程)/费玉春",
+    "bookname": "机械制图(精品课程)/费玉春",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081054",
-    "bookname": "V安全教育/汪秀丽",
+    "bookname": "安全教育/汪秀丽",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081055",
-    "bookname": "V中职生安全教育读本/刘世峰.贾书堂",
+    "bookname": "中职生安全教育读本/刘世峰.贾书堂",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081056",
-    "bookname": "V公文写作与处理(第四版)/姬瑞环",
+    "bookname": "公文写作与处理(第四版)/姬瑞环",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081057",
-    "bookname": "V PREMIERE PRO CS4视频编辑项目教程/主编尹敬齐",
+    "bookname": " PREMIERE PRO CS4视频编辑项目教程/主编尹敬齐",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081058",
-    "bookname": "V计算机网络应用基础/张伟",
+    "bookname": "计算机网络应用基础/张伟",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081059",
-    "bookname": "V(BX)3DSMAX动画设计与制作项目教程/许广彤",
+    "bookname": "(BX)3DSMAX动画设计与制作项目教程/许广彤",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081060",
-    "bookname": "V成长导航/肖育发.唐玉泰",
+    "bookname": "成长导航/肖育发.唐玉泰",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081061",
-    "bookname": "V FLASH CS6动画制作案例教程/何福发 金琳",
+    "bookname": " FLASH CS6动画制作案例教程/何福发 金琳",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081062",
-    "bookname": "V商务秘书实务/张丽莉",
+    "bookname": "商务秘书实务/张丽莉",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081063",
-    "bookname": "V引领成长/张文改",
+    "bookname": "引领成长/张文改",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081064",
-    "bookname": "V人文艺术欣赏/肖玉发.黄鹭璐.上官云",
+    "bookname": "人文艺术欣赏/肖玉发.黄鹭璐.上官云",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081065",
-    "bookname": "V自编精品教材《电子技术基础与技能项目》/徐文平",
+    "bookname": "自编精品教材《电子技术基础与技能项目》/徐文平",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081066",
-    "bookname": "V商品拍摄与图片处理/庄标英",
+    "bookname": "商品拍摄与图片处理/庄标英",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081067",
-    "bookname": "V ACCESS2010应用基础/刘莫霞",
+    "bookname": " ACCESS2010应用基础/刘莫霞",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081068",
-    "bookname": "V数控加工技术(精品课程)/廖声洋",
+    "bookname": "数控加工技术(精品课程)/廖声洋",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081069",
-    "bookname": "V计算机应用基础(WIN7+OFFICE 2010)",
+    "bookname": "计算机应用基础(WIN7+OFFICE 2010)",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081070",
-    "bookname": "V人际沟通与礼仪/李昌彧 黄翠红 上官云",
+    "bookname": "人际沟通与礼仪/李昌彧 黄翠红 上官云",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081071",
-    "bookname": "V中职班主任实战/阳海华 肖胜阳 李炳",
+    "bookname": "中职班主任实战/阳海华 肖胜阳 李炳",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0081072",
-    "bookname": "V物流成本管理/傅莉萍",
+    "bookname": "物流成本管理/傅莉萍",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081073",
-    "bookname": "V FLASH CS5 动画设计案例教程(第2版)/伍福军",
+    "bookname": " FLASH CS5 动画设计案例教程(第2版)/伍福军",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081074",
-    "bookname": "V自闭症谱系障碍儿童的发展与教育/周念丽",
+    "bookname": "自闭症谱系障碍儿童的发展与教育/周念丽",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081075",
-    "bookname": "V建筑装饰工程施工组织与管理/陆俊",
+    "bookname": "建筑装饰工程施工组织与管理/陆俊",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081076",
-    "bookname": "V城市规划原理/谭婧婧 董凯",
+    "bookname": "城市规划原理/谭婧婧 董凯",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081077",
-    "bookname": "V第三方物流/曹爱萍",
+    "bookname": "第三方物流/曹爱萍",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081078",
-    "bookname": "V幼儿园舞蹈教学活动设计与指导/董丽",
+    "bookname": "幼儿园舞蹈教学活动设计与指导/董丽",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081079",
-    "bookname": "V智力障碍儿童的发展与教育/刘春玲、马红英",
+    "bookname": "智力障碍儿童的发展与教育/刘春玲、马红英",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081080",
-    "bookname": "V融合教育导论/雷江华",
+    "bookname": "融合教育导论/雷江华",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081081",
-    "bookname": "V企业财务会计制度设计：理论、实务、案例/颉茂华",
+    "bookname": "企业财务会计制度设计：理论、实务、案例/颉茂华",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081082",
-    "bookname": "V听觉障碍儿童的发展与教育/贺荟中",
+    "bookname": "听觉障碍儿童的发展与教育/贺荟中",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081083",
-    "bookname": "V幼儿文学/瞿亚红",
+    "bookname": "幼儿文学/瞿亚红",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081084",
-    "bookname": "V工程招投标与合同管理实务/杨甲奇",
+    "bookname": "工程招投标与合同管理实务/杨甲奇",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0081085",
-    "bookname": "V思想道德修养与法律基础/骆郁廷",
+    "bookname": "思想道德修养与法律基础/骆郁廷",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0081086",
-    "bookname": "V导游英语/曹凤静",
+    "bookname": "导游英语/曹凤静",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0081087",
-    "bookname": "V毛泽东思想和中国特色社会主义理论体系/丁俊萍",
+    "bookname": "毛泽东思想和中国特色社会主义理论体系/丁俊萍",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0081088",
-    "bookname": "V生产与运作管理实务/潘艾华",
+    "bookname": "生产与运作管理实务/潘艾华",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0081089",
-    "bookname": "V钢琴基础(一)(第二版)(艺体类)/李和平",
+    "bookname": "钢琴基础(一)(第二版)(艺体类)/李和平",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081090",
-    "bookname": "V学前营养学/刘迎接",
+    "bookname": "学前营养学/刘迎接",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081091",
-    "bookname": "V幼儿园多媒体课件设计与制作基础/祖国强",
+    "bookname": "幼儿园多媒体课件设计与制作基础/祖国强",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081092",
-    "bookname": "V学前心理学 (第二版)/汪乃铭 钱峰",
+    "bookname": "学前心理学 (第二版)/汪乃铭 钱峰",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081093",
-    "bookname": "V学前儿童健康教育活动指导(第二版)/麦少美、孙树珍",
+    "bookname": "学前儿童健康教育活动指导(第二版)/麦少美、孙树珍",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081094",
-    "bookname": "V幼儿教师实用英语口语(中级)/姚丹",
+    "bookname": "幼儿教师实用英语口语(中级)/姚丹",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081095",
-    "bookname": "V幼儿歌曲弹唱指导",
+    "bookname": "幼儿歌曲弹唱指导",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081096",
-    "bookname": "V学前儿童语言教育活动指导",
+    "bookname": "学前儿童语言教育活动指导",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081097",
-    "bookname": "V幼儿园保育实习与指导/唐志华 汝茵佳",
+    "bookname": "幼儿园保育实习与指导/唐志华 汝茵佳",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081098",
-    "bookname": "V幼儿教师英语口语 编者：潘杰 孙爱华",
+    "bookname": "幼儿教师英语口语 编者：潘杰 孙爱华",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081099",
-    "bookname": "V酒店前厅与客房管理/谢永健",
+    "bookname": "酒店前厅与客房管理/谢永健",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081100",
-    "bookname": "V回归生活：幼儿园教育活动案例及评析/夏力",
+    "bookname": "回归生活：幼儿园教育活动案例及评析/夏力",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081101",
-    "bookname": "V声乐(一)第三版/杨丽华",
+    "bookname": "声乐(一)第三版/杨丽华",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081102",
-    "bookname": "V乐理 试唱 练耳/林鸿丰",
+    "bookname": "乐理 试唱 练耳/林鸿丰",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081103",
-    "bookname": "V幼儿园教师教育技能综合训练教程/李兰芳",
+    "bookname": "幼儿园教师教育技能综合训练教程/李兰芳",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081104",
-    "bookname": "V图案·装饰—幼儿园平面设计与环境创设/沈建洲",
+    "bookname": "图案·装饰—幼儿园平面设计与环境创设/沈建洲",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081105",
-    "bookname": "V中外幼儿歌曲荟萃/任秀岭",
+    "bookname": "中外幼儿歌曲荟萃/任秀岭",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081106",
-    "bookname": "V幼儿园园本玩具设计与开发/王向东",
+    "bookname": "幼儿园园本玩具设计与开发/王向东",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081107",
-    "bookname": "V手工基础教程（第三版）",
+    "bookname": "手工基础教程（第三版）",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081108",
-    "bookname": "V幼儿教师口语训练教程(第二版)/王素珍",
+    "bookname": "幼儿教师口语训练教程(第二版)/王素珍",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081109",
-    "bookname": "V学前教育学 (第二版)/郑建成",
+    "bookname": "学前教育学 (第二版)/郑建成",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081110",
-    "bookname": "V临床康复学/邢本香",
+    "bookname": "临床康复学/邢本香",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0081111",
-    "bookname": "V导游综合知识/李如嘉",
+    "bookname": "导游综合知识/李如嘉",
     "publishing": "中国旅游"
 },
 {
     "subscribeCode": "18CJ0081112",
-    "bookname": "V导游业务",
+    "bookname": "导游业务",
     "publishing": "中国旅游"
 },
 {
     "subscribeCode": "18CJ0081113",
-    "bookname": "V饭店管理沟通实务与技巧/王春林",
+    "bookname": "饭店管理沟通实务与技巧/王春林",
     "publishing": "中国旅游"
 },
 {
     "subscribeCode": "18CJ0081114",
-    "bookname": "V商品学概论(修订本)/盛显欣",
+    "bookname": "商品学概论(修订本)/盛显欣",
     "publishing": "中国商业"
 },
 {
     "subscribeCode": "18CJ0081115",
-    "bookname": "V酒店服务英语/潘桂君",
+    "bookname": "酒店服务英语/潘桂君",
     "publishing": "中国商业"
 },
 {
     "subscribeCode": "18CJ0081116",
-    "bookname": "V金属切削原理与刀具/陈爱荣",
+    "bookname": "金属切削原理与刀具/陈爱荣",
     "publishing": "中国商业"
 },
 {
     "subscribeCode": "18CJ0081117",
-    "bookname": "V技工院校机械类通用专业课教学大纲",
+    "bookname": "技工院校机械类通用专业课教学大纲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081118",
-    "bookname": "V汽车电气设备与修理习题集(汽车类)/陈作兴",
+    "bookname": "汽车电气设备与修理习题集(汽车类)/陈作兴",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081119",
-    "bookname": "V金属材料与热处理习题册(第六版)/陈志毅",
+    "bookname": "金属材料与热处理习题册(第六版)/陈志毅",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081120",
-    "bookname": "V现代企业管理/全国中等职业技术学校通用教",
+    "bookname": "现代企业管理/全国中等职业技术学校通用教",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081121",
-    "bookname": "V极限配合与技术测量基础(第四版)习题册",
+    "bookname": "极限配合与技术测量基础(第四版)习题册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081122",
-    "bookname": "V数学习题册-与数学(第五版上册配套)/徐娟珍",
+    "bookname": "数学习题册-与数学(第五版上册配套)/徐娟珍",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081123",
-    "bookname": "V金属材料与热处理课教学参考书(第五版)",
+    "bookname": "金属材料与热处理课教学参考书(第五版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081124",
-    "bookname": "V数控加工工艺学(第三版)习题册/崔兆华",
+    "bookname": "数控加工工艺学(第三版)习题册/崔兆华",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081125",
-    "bookname": "V工程力学习题集(第二版)/孙亚玲",
+    "bookname": "工程力学习题集(第二版)/孙亚玲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081126",
-    "bookname": "V电工基础习题(第五版)/邵展图",
+    "bookname": "电工基础习题(第五版)/邵展图",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081127",
-    "bookname": "V电工学(第五版)习题册/邵展图",
+    "bookname": "电工学(第五版)习题册/邵展图",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081128",
-    "bookname": "V变频调速技术/刘建华",
+    "bookname": "变频调速技术/刘建华",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081129",
-    "bookname": "V机械基础习题集(第四版)(机械类)/孙大俊",
+    "bookname": "机械基础习题集(第四版)(机械类)/孙大俊",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081130",
-    "bookname": "V极限配合与技术测量课教学参考书(第三版)",
+    "bookname": "极限配合与技术测量课教学参考书(第三版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081131",
-    "bookname": "V技工院校焊接加工专业教学计划和教学大纲",
+    "bookname": "技工院校焊接加工专业教学计划和教学大纲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081132",
-    "bookname": "V技工院校机床切削加工(车工)专业教学计划和大纲",
+    "bookname": "技工院校机床切削加工(车工)专业教学计划和大纲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081133",
-    "bookname": "V技工院校数控加工(数控车工)专业教学计划和教学大纲",
+    "bookname": "技工院校数控加工(数控车工)专业教学计划和教学大纲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081134",
-    "bookname": "V技工院校机械设备维修专业教学计划和教学大纲",
+    "bookname": "技工院校机械设备维修专业教学计划和教学大纲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081135",
-    "bookname": "V技工院校电气自动化设备安装与维修教学计划和教学大纲",
+    "bookname": "技工院校电气自动化设备安装与维修教学计划和教学大纲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081136",
-    "bookname": "V技工院校机械装备专业教学计划和教学大纲",
+    "bookname": "技工院校机械装备专业教学计划和教学大纲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081137",
-    "bookname": "V糕点制作/曲家兴",
+    "bookname": "糕点制作/曲家兴",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081138",
-    "bookname": "V机械制造工艺基础(少学时)习题册(双色印刷)/王希波",
+    "bookname": "机械制造工艺基础(少学时)习题册(双色印刷)/王希波",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081139",
-    "bookname": "V机械基础习题集(5版)/张梦欣",
+    "bookname": "机械基础习题集(5版)/张梦欣",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081140",
-    "bookname": "V数控车床编程与操作(第三版)数控铣床、加工中心分册",
+    "bookname": "数控车床编程与操作(第三版)数控铣床、加工中心分册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081141",
-    "bookname": "V数控机床编程与操作(第三版数控车床分册)习题册",
+    "bookname": "数控机床编程与操作(第三版数控车床分册)习题册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081142",
-    "bookname": "V机械设计基础习题第二册/张丽",
+    "bookname": "机械设计基础习题第二册/张丽",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081143",
-    "bookname": "V茶艺师基础知识",
+    "bookname": "茶艺师基础知识",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081144",
-    "bookname": "V铣工工艺与技能训练习题册(第二版)/陈臻",
+    "bookname": "铣工工艺与技能训练习题册(第二版)/陈臻",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081145",
-    "bookname": "V机械制造工艺基础第六版习题册/王公安",
+    "bookname": "机械制造工艺基础第六版习题册/王公安",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081146",
-    "bookname": "V机械知识(第四版)(电工类)/张立仁",
+    "bookname": "机械知识(第四版)(电工类)/张立仁",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081147",
-    "bookname": "V汽车概论/张梦欣",
+    "bookname": "汽车概论/张梦欣",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081148",
-    "bookname": "V机械基础(多学时)学生指导用书/宋军民",
+    "bookname": "机械基础(多学时)学生指导用书/宋军民",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081149",
-    "bookname": "V换冷作工工艺学(第四版)习题册",
+    "bookname": "换冷作工工艺学(第四版)习题册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081150",
-    "bookname": "V焊工工艺与技能学生用书1 学习任务/王长忠",
+    "bookname": "焊工工艺与技能学生用书1 学习任务/王长忠",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081151",
-    "bookname": "V车工工艺学(第五版)习题册(机械类)",
+    "bookname": "车工工艺学(第五版)习题册(机械类)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081152",
-    "bookname": "V电工学课教学参考书(第四版)(机械类)",
+    "bookname": "电工学课教学参考书(第四版)(机械类)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081153",
-    "bookname": "V汽车电路知识与基本操作技能/金君堂",
+    "bookname": "汽车电路知识与基本操作技能/金君堂",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081154",
-    "bookname": "V幼儿卫生与保健/赵丽丽",
+    "bookname": "幼儿卫生与保健/赵丽丽",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081155",
-    "bookname": "V极限配合与技术测量基础课教学参考书/王春梅等",
+    "bookname": "极限配合与技术测量基础课教学参考书/王春梅等",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081156",
-    "bookname": "V饭店管理基础知识(2版)/贺湘辉",
+    "bookname": "饭店管理基础知识(2版)/贺湘辉",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081157",
-    "bookname": "V汽车材料与金属加工",
+    "bookname": "汽车材料与金属加工",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081158",
-    "bookname": "V中国高技能人才楷模事迹读本(2缉)",
+    "bookname": "中国高技能人才楷模事迹读本(2缉)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081159",
-    "bookname": "V金属材料与热处理(少学时)/韩志勇",
+    "bookname": "金属材料与热处理(少学时)/韩志勇",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081160",
-    "bookname": "V朗读与说话(第2版)",
+    "bookname": "朗读与说话(第2版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081161",
-    "bookname": "V制冷设备维修工(初级)",
+    "bookname": "制冷设备维修工(初级)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081162",
-    "bookname": "V建筑预算与管理(第二版)(建筑类)/李洁",
+    "bookname": "建筑预算与管理(第二版)(建筑类)/李洁",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081163",
-    "bookname": "V企业供电系统及运行(第四版)",
+    "bookname": "企业供电系统及运行(第四版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081164",
-    "bookname": "V数学(第五版)(上册)/徐娟珍",
+    "bookname": "数学(第五版)(上册)/徐娟珍",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081165",
-    "bookname": "V德育(第二册)(第二版)—经济与政治常识/庄永敏",
+    "bookname": "德育(第二册)(第二版)—经济与政治常识/庄永敏",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081166",
-    "bookname": "V电工基础(第五版)/邵展图",
+    "bookname": "电工基础(第五版)/邵展图",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081167",
-    "bookname": "V金属材料与热处理(第六版)/陈志毅",
+    "bookname": "金属材料与热处理(第六版)/陈志毅",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081168",
-    "bookname": "V极限配合与技术测量基础(第四版)",
+    "bookname": "极限配合与技术测量基础(第四版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081169",
-    "bookname": "V汽车电工电子技术基础/吴刚",
+    "bookname": "汽车电工电子技术基础/吴刚",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081170",
-    "bookname": "V金属熔焊基础/张红兵",
+    "bookname": "金属熔焊基础/张红兵",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081171",
-    "bookname": "V车工工艺与技能训练(第二版)习题册/王公安",
+    "bookname": "车工工艺与技能训练(第二版)习题册/王公安",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081172",
-    "bookname": "V数控机床编程与操作课教学参考书(第三版数控车床分册配套使用)",
+    "bookname": "数控机床编程与操作课教学参考书(第三版数控车床分册配套使用)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081173",
-    "bookname": "V形体训练(第三版)/姚明焰 周智杰",
+    "bookname": "形体训练(第三版)/姚明焰 周智杰",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081174",
-    "bookname": "V国家职业资格培训教程.餐厅服务员(第二版)(基础知识)",
+    "bookname": "国家职业资格培训教程.餐厅服务员(第二版)(基础知识)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081175",
-    "bookname": "V照明线路安装与检修/朱学辉",
+    "bookname": "照明线路安装与检修/朱学辉",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081176",
-    "bookname": "V制冷与空调设备安装修理",
+    "bookname": "制冷与空调设备安装修理",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081177",
-    "bookname": "V汽车发动机拆装与维修实训(彩色)/刘峰",
+    "bookname": "汽车发动机拆装与维修实训(彩色)/刘峰",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081178",
-    "bookname": "V汽车营销",
+    "bookname": "汽车营销",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081179",
-    "bookname": "V工程力学(第二版)/徐明",
+    "bookname": "工程力学(第二版)/徐明",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081180",
-    "bookname": "V汽车文化/林平",
+    "bookname": "汽车文化/林平",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081181",
-    "bookname": "V数控车床编程与操作(第三版)(数控铣床、加工中心分册)习题册",
+    "bookname": "数控车床编程与操作(第三版)(数控铣床、加工中心分册)习题册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081182",
-    "bookname": "V电焊工技术初级",
+    "bookname": "电焊工技术初级",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081183",
-    "bookname": "V机械基础(第四版)(机械类)/孙大俊",
+    "bookname": "机械基础(第四版)(机械类)/孙大俊",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081184",
-    "bookname": "V汽车电气设备与修理/教材办",
+    "bookname": "汽车电气设备与修理/教材办",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081185",
-    "bookname": "V工具钳工 初级技能中级技能高级技能/中国就业培训就业指导中心",
+    "bookname": "工具钳工 初级技能中级技能高级技能/中国就业培训就业指导中心",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081186",
-    "bookname": "V数控机床编程与操作(第三版 数控车床分册)/张梦欣",
+    "bookname": "数控机床编程与操作(第三版 数控车床分册)/张梦欣",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081187",
-    "bookname": "V机械基础(5版)/张梦欣",
+    "bookname": "机械基础(5版)/张梦欣",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081188",
-    "bookname": "V车工工艺学(第五版)机械类",
+    "bookname": "车工工艺学(第五版)机械类",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081189",
-    "bookname": "V焊接结构生产/鲍勇祥",
+    "bookname": "焊接结构生产/鲍勇祥",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081190",
-    "bookname": "V数控车床编程与操作(广数GSK980TD车床数控系统)/黄丽芬",
+    "bookname": "数控车床编程与操作(广数GSK980TD车床数控系统)/黄丽芬",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081191",
-    "bookname": "V电工学(第五版)/邵展图",
+    "bookname": "电工学(第五版)/邵展图",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081192",
-    "bookname": "V机械基础(第3版)/祖国海",
+    "bookname": "机械基础(第3版)/祖国海",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081193",
-    "bookname": "V机械制图(第六版)习题册/果连成",
+    "bookname": "机械制图(第六版)习题册/果连成",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081194",
-    "bookname": "V机械制图(第六版)/果连成",
+    "bookname": "机械制图(第六版)/果连成",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081195",
-    "bookname": "V金属材料焊接/葛国政主编",
+    "bookname": "金属材料焊接/葛国政主编",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081196",
-    "bookname": "V钳工技能训练(第五版)",
+    "bookname": "钳工技能训练(第五版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081197",
-    "bookname": "V矿山机械运行与维护/赵汝星、陈希",
+    "bookname": "矿山机械运行与维护/赵汝星、陈希",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081198",
-    "bookname": "V汽车电气设备构造与维修/毛平",
+    "bookname": "汽车电气设备构造与维修/毛平",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081199",
-    "bookname": "V数控车工 中级/中国就业培训就业指导中心组织",
+    "bookname": "数控车工 中级/中国就业培训就业指导中心组织",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081200",
-    "bookname": "V茶艺师(初级)/刘启贵",
+    "bookname": "茶艺师(初级)/刘启贵",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081201",
-    "bookname": "V数控加工工艺学(第三版)/韩鸿鸾",
+    "bookname": "数控加工工艺学(第三版)/韩鸿鸾",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081202",
-    "bookname": "V铣工工艺与技能训练(机械类)/陈臻",
+    "bookname": "铣工工艺与技能训练(机械类)/陈臻",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081203",
-    "bookname": "V美容师(初级)",
+    "bookname": "美容师(初级)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081204",
-    "bookname": "V铣工工艺与技能训练",
+    "bookname": "铣工工艺与技能训练",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081205",
-    "bookname": "V烘焙工/人力资源和社会保障部教材编写办公室",
+    "bookname": "烘焙工/人力资源和社会保障部教材编写办公室",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081206",
-    "bookname": "V商品营业员 中级/肖昭延",
+    "bookname": "商品营业员 中级/肖昭延",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081207",
-    "bookname": "V换冷作工工艺学(第四版)",
+    "bookname": "换冷作工工艺学(第四版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081208",
-    "bookname": "V维修电工(初级)—教材/劳动和社会保障部教材办会室组织　编写",
+    "bookname": "维修电工(初级)—教材/劳动和社会保障部教材办会室组织　编写",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081209",
-    "bookname": "V机械制造工艺基础(第6版)/王公安",
+    "bookname": "机械制造工艺基础(第6版)/王公安",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081210",
-    "bookname": "V焊工工艺学(第4版)/邱葭菲等",
+    "bookname": "焊工工艺学(第4版)/邱葭菲等",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081211",
-    "bookname": "V钳工工艺与技能训练(机械类)—行动导向/王文显",
+    "bookname": "钳工工艺与技能训练(机械类)—行动导向/王文显",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081212",
-    "bookname": "V焊工 中级 第二版/中国就业培训就业指导中心组织",
+    "bookname": "焊工 中级 第二版/中国就业培训就业指导中心组织",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081213",
-    "bookname": "V焊工工艺与技能学生用书II 基础知识/王长忠",
+    "bookname": "焊工工艺与技能学生用书II 基础知识/王长忠",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081214",
-    "bookname": "V机械制造工艺基础(少学时)(双色印刷)/王希波",
+    "bookname": "机械制造工艺基础(少学时)(双色印刷)/王希波",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081215",
-    "bookname": "V机械设计基础(第二版)/张丽",
+    "bookname": "机械设计基础(第二版)/张丽",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081216",
-    "bookname": "V酒店管理基础知识/陈淑君",
+    "bookname": "酒店管理基础知识/陈淑君",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081217",
-    "bookname": "V汽车修理工 中级 第二版/卜显平",
+    "bookname": "汽车修理工 中级 第二版/卜显平",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081218",
-    "bookname": "V车工 第二版 中级/中国就业培训就业指导中心组织",
+    "bookname": "车工 第二版 中级/中国就业培训就业指导中心组织",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081219",
-    "bookname": "V模具钳工工艺与技能训练/王国钱",
+    "bookname": "模具钳工工艺与技能训练/王国钱",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081220",
-    "bookname": "V汽车修理与检测(第三版)/黎巧云",
+    "bookname": "汽车修理与检测(第三版)/黎巧云",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081221",
-    "bookname": "V汽车构造(第三版)/祖国海",
+    "bookname": "汽车构造(第三版)/祖国海",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081222",
-    "bookname": "V家用电子产品维修工(中级)",
+    "bookname": "家用电子产品维修工(中级)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081223",
-    "bookname": "V汽车底盘构造与维修/任东",
+    "bookname": "汽车底盘构造与维修/任东",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081224",
-    "bookname": "V机械基础(多学时)/刘京华",
+    "bookname": "机械基础(多学时)/刘京华",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081225",
-    "bookname": "V加工中心操作工 中级 第二版/中国就业培训就业指导中心组织",
+    "bookname": "加工中心操作工 中级 第二版/中国就业培训就业指导中心组织",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081226",
-    "bookname": "V车工技能训练(第5版)",
+    "bookname": "车工技能训练(第5版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081227",
-    "bookname": "V电力拖动控制线路与技能训练(第五版)/李敬梅",
+    "bookname": "电力拖动控制线路与技能训练(第五版)/李敬梅",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081228",
-    "bookname": "V电气基本控制线路安装与维修",
+    "bookname": "电气基本控制线路安装与维修",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081229",
-    "bookname": "V电动机继电控制线路安装与检修",
+    "bookname": "电动机继电控制线路安装与检修",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081230",
-    "bookname": "V车工工艺与技能训练(机械类行动导向教材)/王公安",
+    "bookname": "车工工艺与技能训练(机械类行动导向教材)/王公安",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081231",
-    "bookname": "V钳工工艺与技能训练(第二版)/蒋增福",
+    "bookname": "钳工工艺与技能训练(第二版)/蒋增福",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081232",
-    "bookname": "V车工工艺与技能训练(第二版)/王公安",
+    "bookname": "车工工艺与技能训练(第二版)/王公安",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081233",
-    "bookname": "V磁粉检测(第二版)/宋志哲",
+    "bookname": "磁粉检测(第二版)/宋志哲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081234",
-    "bookname": "V渗透检测(第二版)/胡学知",
+    "bookname": "渗透检测(第二版)/胡学知",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081235",
-    "bookname": "V射线检测(第二版)/强天鹏",
+    "bookname": "射线检测(第二版)/强天鹏",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081236",
-    "bookname": "V超声波检测(第二版)/郑辉",
+    "bookname": "超声波检测(第二版)/郑辉",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0081237",
-    "bookname": "V会计电算化/2014年全国会计从业资格考试辅导教材",
+    "bookname": "会计电算化/2014年全国会计从业资格考试辅导教材",
     "publishing": "经济科学"
 },
 {
     "subscribeCode": "18CJ0081238",
-    "bookname": "V毛泽东思想·邓小平理论和三个代表重要理论/傅宪华等",
+    "bookname": "毛泽东思想·邓小平理论和三个代表重要理论/傅宪华等",
     "publishing": "经济科学"
 },
 {
     "subscribeCode": "18CJ0081239",
-    "bookname": "V会计基础/2014年全国会计从业资格考试辅导教材",
+    "bookname": "会计基础/2014年全国会计从业资格考试辅导教材",
     "publishing": "经济科学"
 },
 {
     "subscribeCode": "18CJ0081240",
-    "bookname": "V绘画基础教程：几何形体.素描几何体/李忠祥",
+    "bookname": "绘画基础教程：几何形体.素描几何体/李忠祥",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081241",
-    "bookname": "V素描风暴系列造型基础石膏几何体(全因素)/李家友",
+    "bookname": "素描风暴系列造型基础石膏几何体(全因素)/李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081242",
-    "bookname": "V最强速写：速写基础.衣纹与形体/宋建明",
+    "bookname": "最强速写：速写基础.衣纹与形体/宋建明",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081243",
-    "bookname": "V最强素描系列美术丛书.：素描头像.找特征/陈安男",
+    "bookname": "最强素描系列美术丛书.：素描头像.找特征/陈安男",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081244",
-    "bookname": "V最强色彩 色彩静物·色稿教学/何玉凯",
+    "bookname": "最强色彩 色彩静物·色稿教学/何玉凯",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081245",
-    "bookname": "V师说：人物速写2.组合和场景速写/马小川",
+    "bookname": "师说：人物速写2.组合和场景速写/马小川",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081246",
-    "bookname": "V实践教学.师说：人物.速写1/马小川",
+    "bookname": "实践教学.师说：人物.速写1/马小川",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081247",
-    "bookname": "V速写《最爱描摹》/李家友",
+    "bookname": "速写《最爱描摹》/李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081248",
-    "bookname": "V色彩《全素材》/李家友",
+    "bookname": "色彩《全素材》/李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081249",
-    "bookname": "V敲门砖.最强素描系列美术丛书.素描基础训练(4)：素描静物(解构",
+    "bookname": "敲门砖.最强素描系列美术丛书.素描基础训练(4)：素描静物(解构",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081250",
-    "bookname": "V敲门砖系列美术丛书.描摹：人物速写2.速写1:1/丛羿霖",
+    "bookname": "敲门砖系列美术丛书.描摹：人物速写2.速写1:1/丛羿霖",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081251",
-    "bookname": "V色彩/李家友",
+    "bookname": "色彩/李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081252",
-    "bookname": "V最强色彩：色彩静物/迟明星",
+    "bookname": "最强色彩：色彩静物/迟明星",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081253",
-    "bookname": "V速写场景/李家友",
+    "bookname": "速写场景/李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081254",
-    "bookname": "V敲门砖色彩静物PHOTO/李家友",
+    "bookname": "敲门砖色彩静物PHOTO/李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0081255",
-    "bookname": "V藏语文培训教材(干部读本)",
+    "bookname": "藏语文培训教材(干部读本)",
     "publishing": "四川民族"
 },
 {
     "subscribeCode": "18CJ0081256",
-    "bookname": "V会计基本技能学习指导书/高彬",
+    "bookname": "会计基本技能学习指导书/高彬",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081257",
-    "bookname": "V会计基本技能训练/高彬",
+    "bookname": "会计基本技能训练/高彬",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081258",
-    "bookname": "V EXCEL财会中的应用/王兰兰",
+    "bookname": " EXCEL财会中的应用/王兰兰",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081259",
-    "bookname": "V财务会计习题集/卓茂荣 张慧琴",
+    "bookname": "财务会计习题集/卓茂荣 张慧琴",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081260",
-    "bookname": "V应用文写作/周志礼",
+    "bookname": "应用文写作/周志礼",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081261",
-    "bookname": "V会计电算化 训练题库",
+    "bookname": "会计电算化 训练题库",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081262",
-    "bookname": "V点钞与收银",
+    "bookname": "点钞与收银",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081263",
-    "bookname": "V珠算/韦雁玲",
+    "bookname": "珠算/韦雁玲",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081264",
-    "bookname": "V基础会计模拟实训/李新",
+    "bookname": "基础会计模拟实训/李新",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081265",
-    "bookname": "V财经法规与会计职业道德习题集",
+    "bookname": "财经法规与会计职业道德习题集",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081266",
-    "bookname": "V会计基本技能/张成武",
+    "bookname": "会计基本技能/张成武",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081267",
-    "bookname": "V纳税实务/梁湛　主编",
+    "bookname": "纳税实务/梁湛　主编",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081268",
-    "bookname": "V 2015财经法规与会计职业道德/会计从业资格考试辅导教材编委会",
+    "bookname": " 2015财经法规与会计职业道德/会计从业资格考试辅导教材编委会",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081269",
-    "bookname": "V初级会计电算化(用友T3)/会计丛业资格考试辅导教材编委会",
+    "bookname": "初级会计电算化(用友T3)/会计丛业资格考试辅导教材编委会",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081270",
-    "bookname": "V电子商务概论/张定方",
+    "bookname": "电子商务概论/张定方",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081271",
-    "bookname": "V财务管理(第二版)",
+    "bookname": "财务管理(第二版)",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081272",
-    "bookname": "V财务会计/卓茂荣 张慧琴",
+    "bookname": "财务会计/卓茂荣 张慧琴",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081273",
-    "bookname": "V初级会计电算化应试辅导/会计丛业资格考试辅导教材编委会",
+    "bookname": "初级会计电算化应试辅导/会计丛业资格考试辅导教材编委会",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081274",
-    "bookname": "V会计基础",
+    "bookname": "会计基础",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081275",
-    "bookname": "V财经法规与会计职业道德 训练题库",
+    "bookname": "财经法规与会计职业道德 训练题库",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081276",
-    "bookname": "V企业会计综合实训/余国艳",
+    "bookname": "企业会计综合实训/余国艳",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081277",
-    "bookname": "V财经法规与会计职业道德/会计丛业资格考试辅导教材编委会",
+    "bookname": "财经法规与会计职业道德/会计丛业资格考试辅导教材编委会",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081278",
-    "bookname": "V会计基础/本书编委会",
+    "bookname": "会计基础/本书编委会",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081279",
-    "bookname": "V会计基础应试指导/会计从业资格无纸化考试教研组编",
+    "bookname": "会计基础应试指导/会计从业资格无纸化考试教研组编",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081280",
-    "bookname": "V会计电算化/赵浚",
+    "bookname": "会计电算化/赵浚",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081281",
-    "bookname": "V会计电算化应试指导/徐仁俊",
+    "bookname": "会计电算化应试指导/徐仁俊",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081282",
-    "bookname": "V财经法规与会计职业道德/会计从业资格无纸化教研组",
+    "bookname": "财经法规与会计职业道德/会计从业资格无纸化教研组",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081283",
-    "bookname": "V会计基础(从业资格无纸化考试应试辅导)/会计从业资格考试辅导教",
+    "bookname": "会计基础(从业资格无纸化考试应试辅导)/会计从业资格考试辅导教",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081284",
-    "bookname": "V财经法规与会计职业道德应试辅导/会计丛业资格考试辅导教材编委",
+    "bookname": "财经法规与会计职业道德应试辅导/会计丛业资格考试辅导教材编委",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081285",
-    "bookname": "V会计电算化",
+    "bookname": "会计电算化",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081286",
-    "bookname": "V财经法规与会计职业道德应试指导/会计从业资格无纸化教研组",
+    "bookname": "财经法规与会计职业道德应试指导/会计从业资格无纸化教研组",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081287",
-    "bookname": "V财经法规与会计职业道德",
+    "bookname": "财经法规与会计职业道德",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081288",
-    "bookname": "V小企业财务会计/谢丽安",
+    "bookname": "小企业财务会计/谢丽安",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081289",
-    "bookname": "V会计电算化",
+    "bookname": "会计电算化",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0081290",
-    "bookname": "V普通话训练与测试教程/杨绍林",
+    "bookname": "普通话训练与测试教程/杨绍林",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0081291",
-    "bookname": "V劳动法学(第五版)/郭婕",
+    "bookname": "劳动法学(第五版)/郭婕",
     "publishing": "政法大学"
 },
 {
     "subscribeCode": "18CJ0081292",
-    "bookname": "V饭店服务礼仪训练手册/粟书河",
+    "bookname": "饭店服务礼仪训练手册/粟书河",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081293",
-    "bookname": "V饭店财务基础",
+    "bookname": "饭店财务基础",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081294",
-    "bookname": "V烹饪语文基础/陈婧",
+    "bookname": "烹饪语文基础/陈婧",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081295",
-    "bookname": "V旅游美学导论/王柯平",
+    "bookname": "旅游美学导论/王柯平",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081296",
-    "bookname": "V普通话及口语训练(旅游服务类)/陈怡君",
+    "bookname": "普通话及口语训练(旅游服务类)/陈怡君",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081297",
-    "bookname": "V旅游服务礼貌礼节/赵金铃",
+    "bookname": "旅游服务礼貌礼节/赵金铃",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081298",
-    "bookname": "V中国饮食文化/贺正柏",
+    "bookname": "中国饮食文化/贺正柏",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081299",
-    "bookname": "V模拟导游/马树生 许萍",
+    "bookname": "模拟导游/马树生 许萍",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081300",
-    "bookname": "V导游操作实务(平装)/梁中正",
+    "bookname": "导游操作实务(平装)/梁中正",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081301",
-    "bookname": "V导游实务实训教程/王春玲",
+    "bookname": "导游实务实训教程/王春玲",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081302",
-    "bookname": "V民航概论/黄永宁",
+    "bookname": "民航概论/黄永宁",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081303",
-    "bookname": "V导游业务/全国导游人员",
+    "bookname": "导游业务/全国导游人员",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081304",
-    "bookname": "V民航旅客运输概论/张晓明",
+    "bookname": "民航旅客运输概论/张晓明",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081305",
-    "bookname": "V化妆技巧与形象塑造/李勤",
+    "bookname": "化妆技巧与形象塑造/李勤",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081306",
-    "bookname": "V客源国概论/王兴斌",
+    "bookname": "客源国概论/王兴斌",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081307",
-    "bookname": "V酒店管理概论(第2版)/陈明",
+    "bookname": "酒店管理概论(第2版)/陈明",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081308",
-    "bookname": "V饭店营销学/钱炜",
+    "bookname": "饭店营销学/钱炜",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081309",
-    "bookname": "V模拟导游/陈蕾",
+    "bookname": "模拟导游/陈蕾",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081310",
-    "bookname": "V全国导游基础/全国导游人员",
+    "bookname": "全国导游基础/全国导游人员",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081311",
-    "bookname": "V旅游景区管理/李长秋等",
+    "bookname": "旅游景区管理/李长秋等",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0081312",
-    "bookname": "V中职语文/庄东明",
+    "bookname": "中职语文/庄东明",
     "publishing": "暨南大学"
 },
 {
     "subscribeCode": "18CJ0081313",
-    "bookname": "V幼师实用文体写作范例(中等职业教育规划教材)/谢韶晖 陈怡莺 陈",
+    "bookname": "幼师实用文体写作范例(中等职业教育规划教材)/谢韶晖 陈怡莺 陈",
     "publishing": "暨南大学"
 },
 {
     "subscribeCode": "18CJ0081314",
-    "bookname": "V公共关系学/黄曼青",
+    "bookname": "公共关系学/黄曼青",
     "publishing": "暨南大学"
 },
 {
     "subscribeCode": "18CJ0081315",
-    "bookname": "V信息资源检索与利用(第三版)/来玲、庞恩旭、吴凤玉",
+    "bookname": "信息资源检索与利用(第三版)/来玲、庞恩旭、吴凤玉",
     "publishing": "东北财大"
 },
 {
     "subscribeCode": "18CJ0081316",
-    "bookname": "V三农优惠政策一本通/李瑞芬",
+    "bookname": "三农优惠政策一本通/李瑞芬",
     "publishing": "东北财大"
 },
 {
     "subscribeCode": "18CJ0081317",
-    "bookname": "V旅游景区服务与管理/王瑜",
+    "bookname": "旅游景区服务与管理/王瑜",
     "publishing": "东北财大"
 },
 {
     "subscribeCode": "18CJ0081318",
-    "bookname": "V资产评估/朱柯",
+    "bookname": "资产评估/朱柯",
     "publishing": "东北财大"
 },
 {
     "subscribeCode": "18CJ0081319",
-    "bookname": "V成本会计/周云凌",
+    "bookname": "成本会计/周云凌",
     "publishing": "东北财大"
 },
 {
     "subscribeCode": "18CJ0081320",
-    "bookname": "V预算会计/邢俊英",
+    "bookname": "预算会计/邢俊英",
     "publishing": "东北财大"
 },
 {
     "subscribeCode": "18CJ0081321",
-    "bookname": "V车身修复(含课件)/刘毅斌、胡炜",
+    "bookname": "车身修复(含课件)/刘毅斌、胡炜",
     "publishing": "湖南大学"
 },
 {
     "subscribeCode": "18CJ0081322",
-    "bookname": "V旅游概论/何丽芳",
+    "bookname": "旅游概论/何丽芳",
     "publishing": "湖南大学"
 },
 {
     "subscribeCode": "18CJ0081323",
-    "bookname": "V学生现代文明礼仪实用教程",
+    "bookname": "学生现代文明礼仪实用教程",
     "publishing": "西南财大"
 },
 {
     "subscribeCode": "18CJ0081324",
-    "bookname": "V幼儿园教育指导纲要",
+    "bookname": "幼儿园教育指导纲要",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081325",
-    "bookname": "V哲学与人生 学习指导与能力训练/杨耕",
+    "bookname": "哲学与人生 学习指导与能力训练/杨耕",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081326",
-    "bookname": "V乐理/房功建",
+    "bookname": "乐理/房功建",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081327",
-    "bookname": "V经济政治与社会(黑白版)(第三版)/沈越、张可君",
+    "bookname": "经济政治与社会(黑白版)(第三版)/沈越、张可君",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081328",
-    "bookname": "V中职安全教育/编写组",
+    "bookname": "中职安全教育/编写组",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081329",
-    "bookname": "V现代礼仪/金正昆、刘才华",
+    "bookname": "现代礼仪/金正昆、刘才华",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081330",
-    "bookname": "V经济政治与社会学习指导与能力训练/张可君",
+    "bookname": "经济政治与社会学习指导与能力训练/张可君",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081331",
-    "bookname": "V钢琴(第一册)/王宝庆",
+    "bookname": "钢琴(第一册)/王宝庆",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081332",
-    "bookname": "V中职生实用法律案例教程/尹秀英",
+    "bookname": "中职生实用法律案例教程/尹秀英",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081333",
-    "bookname": "V哲学与人生/杨耕",
+    "bookname": "哲学与人生/杨耕",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081334",
-    "bookname": "V餐饮服务综合实训/唐学军",
+    "bookname": "餐饮服务综合实训/唐学军",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081335",
-    "bookname": "V演讲与口才/赵福君、张广德编著",
+    "bookname": "演讲与口才/赵福君、张广德编著",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081336",
-    "bookname": "V演讲与口才/范恒",
+    "bookname": "演讲与口才/范恒",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081337",
-    "bookname": "V钢琴第二册/王宝庆",
+    "bookname": "钢琴第二册/王宝庆",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081338",
-    "bookname": "V幼儿语言教育与活动指导/杭梅",
+    "bookname": "幼儿语言教育与活动指导/杭梅",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081339",
-    "bookname": "V经济政治与社会(彩色版)/沈越 、张可君",
+    "bookname": "经济政治与社会(彩色版)/沈越 、张可君",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081340",
-    "bookname": "V职业生涯设计—学习就业与创业指导/张元",
+    "bookname": "职业生涯设计—学习就业与创业指导/张元",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081341",
-    "bookname": "V前厅服务与管理/吴希敏，孙诗靓",
+    "bookname": "前厅服务与管理/吴希敏，孙诗靓",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081342",
-    "bookname": "V体态礼仪与形体训练/付桂英",
+    "bookname": "体态礼仪与形体训练/付桂英",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081343",
-    "bookname": "V幼儿园教师专业标准解读",
+    "bookname": "幼儿园教师专业标准解读",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081344",
-    "bookname": "V客房服务综合实训/彭慧",
+    "bookname": "客房服务综合实训/彭慧",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081345",
-    "bookname": "V通用职业素养训练/史晓鹤、杨桂华",
+    "bookname": "通用职业素养训练/史晓鹤、杨桂华",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081346",
-    "bookname": "V合作与创新能力训练/陈济",
+    "bookname": "合作与创新能力训练/陈济",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081347",
-    "bookname": "V现代商务",
+    "bookname": "现代商务",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081348",
-    "bookname": "V心理健康教育",
+    "bookname": "心理健康教育",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081349",
-    "bookname": "V调酒与服务",
+    "bookname": "调酒与服务",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081350",
-    "bookname": "V团队合作能力训练/胡秀霞",
+    "bookname": "团队合作能力训练/胡秀霞",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081351",
-    "bookname": "V民航安全检查实务 /魏全斌",
+    "bookname": "民航安全检查实务 /魏全斌",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081352",
-    "bookname": "V美术鉴赏/邵统平",
+    "bookname": "美术鉴赏/邵统平",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081353",
-    "bookname": "V舞蹈基础/杨乞 杨秀敏",
+    "bookname": "舞蹈基础/杨乞 杨秀敏",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081354",
-    "bookname": "V中国饮食文化",
+    "bookname": "中国饮食文化",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081355",
-    "bookname": "V幼儿教育学基础/胡箭、张根健",
+    "bookname": "幼儿教育学基础/胡箭、张根健",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081356",
-    "bookname": "V幼儿心理学/陈帼眉",
+    "bookname": "幼儿心理学/陈帼眉",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081357",
-    "bookname": "V旅游公关服务礼仪/陈艳",
+    "bookname": "旅游公关服务礼仪/陈艳",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081358",
-    "bookname": "V幼儿简笔画/张克顺",
+    "bookname": "幼儿简笔画/张克顺",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081359",
-    "bookname": "V美术基础教程(全一册)/高　铁",
+    "bookname": "美术基础教程(全一册)/高　铁",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081360",
-    "bookname": "V中职生职业生涯与就业指导/王金宝",
+    "bookname": "中职生职业生涯与就业指导/王金宝",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081361",
-    "bookname": "V职业健康与安全教育(赠教学课件)/桂富荣",
+    "bookname": "职业健康与安全教育(赠教学课件)/桂富荣",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081362",
-    "bookname": "V茶艺与服务",
+    "bookname": "茶艺与服务",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081363",
-    "bookname": "V职业礼仪/史锋",
+    "bookname": "职业礼仪/史锋",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081364",
-    "bookname": "V幼儿游戏与指导/梁周全、尚玉芳",
+    "bookname": "幼儿游戏与指导/梁周全、尚玉芳",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081365",
-    "bookname": "V儿童文学/王杰",
+    "bookname": "儿童文学/王杰",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081366",
-    "bookname": "V学前心理学/刘新学",
+    "bookname": "学前心理学/刘新学",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081367",
-    "bookname": "V幼儿园教育活动设计与指导/庄虹、陈瑶",
+    "bookname": "幼儿园教育活动设计与指导/庄虹、陈瑶",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081368",
-    "bookname": "V数学(拓展模块·综合复习)/曹一鸣、程旷",
+    "bookname": "数学(拓展模块·综合复习)/曹一鸣、程旷",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081369",
-    "bookname": "V幼儿教师口语/马宏",
+    "bookname": "幼儿教师口语/马宏",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081370",
-    "bookname": "V手工实用教程/孙华庚、邵筱凡",
+    "bookname": "手工实用教程/孙华庚、邵筱凡",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081371",
-    "bookname": "V大学生体育与健康/王炳清、钱生垣",
+    "bookname": "大学生体育与健康/王炳清、钱生垣",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081372",
-    "bookname": "V中国现当代文学史简明教程/席扬",
+    "bookname": "中国现当代文学史简明教程/席扬",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081373",
-    "bookname": "V经济政治与社会(教师用书)/沈越 、张可君",
+    "bookname": "经济政治与社会(教师用书)/沈越 、张可君",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081374",
-    "bookname": "V民航服务基本技能 /魏全斌",
+    "bookname": "民航服务基本技能 /魏全斌",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081375",
-    "bookname": "V教师口语实用技能训练教程(第2版) /章晓琴",
+    "bookname": "教师口语实用技能训练教程(第2版) /章晓琴",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081376",
-    "bookname": "V学前卫生学(第2版)/万钫",
+    "bookname": "学前卫生学(第2版)/万钫",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081377",
-    "bookname": "V特殊儿童病理学/刘艳虹",
+    "bookname": "特殊儿童病理学/刘艳虹",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081378",
-    "bookname": "V视唱练耳/尤阳",
+    "bookname": "视唱练耳/尤阳",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081379",
-    "bookname": "V反思性实践学前教育见习实习指南/卢伟",
+    "bookname": "反思性实践学前教育见习实习指南/卢伟",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081380",
-    "bookname": "V学前儿童发展心理学/陈帼眉 冯晓霜 庞丽娟",
+    "bookname": "学前儿童发展心理学/陈帼眉 冯晓霜 庞丽娟",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081381",
-    "bookname": "V小学教育政策与法规/石正义",
+    "bookname": "小学教育政策与法规/石正义",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081382",
-    "bookname": "V现代管理心理学(第4版)/程正方",
+    "bookname": "现代管理心理学(第4版)/程正方",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081383",
-    "bookname": "V学前心理学/陈帼眉",
+    "bookname": "学前心理学/陈帼眉",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0081384",
-    "bookname": "V(BX)普通铣工/张锐中 陈桂平",
+    "bookname": "(BX)普通铣工/张锐中 陈桂平",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0081385",
-    "bookname": "V军事理论教程/胡金波，张政文",
+    "bookname": "军事理论教程/胡金波，张政文",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0081386",
-    "bookname": "V经济数学基础/冯其明 黄金红",
+    "bookname": "经济数学基础/冯其明 黄金红",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0081387",
-    "bookname": "V网店运营专才/罗岚",
+    "bookname": "网店运营专才/罗岚",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0081388",
-    "bookname": "V观光农业与乡村旅游/骆高远",
+    "bookname": "观光农业与乡村旅游/骆高远",
     "publishing": "浙江大学"
 },
 {
     "subscribeCode": "18CJ0081389",
-    "bookname": "V护士人文修养/梁立",
+    "bookname": "护士人文修养/梁立",
     "publishing": "浙江大学"
 },
 {
     "subscribeCode": "18CJ0081390",
-    "bookname": "V机械综合实训教程/陈强",
+    "bookname": "机械综合实训教程/陈强",
     "publishing": "浙江大学"
 },
 {
     "subscribeCode": "18CJ0081391",
-    "bookname": "V电子商务与物流/王绍军",
+    "bookname": "电子商务与物流/王绍军",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0081392",
-    "bookname": "V全国中等艺术师范专业教材—舞蹈(上)",
+    "bookname": "全国中等艺术师范专业教材—舞蹈(上)",
     "publishing": "上海教育"
 },
 {
     "subscribeCode": "18CJ0081393",
-    "bookname": "V全国中等艺术师范专业教材—舞蹈(下)",
+    "bookname": "全国中等艺术师范专业教材—舞蹈(下)",
     "publishing": "上海教育"
 },
 {
     "subscribeCode": "18CJ0081394",
-    "bookname": "V合唱与指挥",
+    "bookname": "合唱与指挥",
     "publishing": "上海教育"
 },
 {
     "subscribeCode": "18CJ0081395",
-    "bookname": "V学前儿童游戏(第4版)/邱学青",
+    "bookname": "学前儿童游戏(第4版)/邱学青",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0081396",
-    "bookname": "V幼儿园教案设计与反思:新教师专业成长之路/潘娟 陈国强",
+    "bookname": "幼儿园教案设计与反思:新教师专业成长之路/潘娟 陈国强",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0081397",
-    "bookname": "V少儿歌曲全集/杨建中",
+    "bookname": "少儿歌曲全集/杨建中",
     "publishing": "山西教育"
 },
 {
     "subscribeCode": "18CJ0081398",
-    "bookname": "V英语练习册(职业模块·工科类)/陈琳",
+    "bookname": "英语练习册(职业模块·工科类)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081399",
-    "bookname": "V英语练习册(职业模块.财经服务类)/陈琳",
+    "bookname": "英语练习册(职业模块.财经服务类)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081400",
-    "bookname": "V英语基础模块（配光盘）练习册1册",
+    "bookname": "英语基础模块（配光盘）练习册1册",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081401",
-    "bookname": "V英语(基础模块)(第2册)(学生练习册)",
+    "bookname": "英语(基础模块)(第2册)(学生练习册)",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081402",
-    "bookname": "V英语练习册(第一册)(基础模块)(修订版)/陈琳",
+    "bookname": "英语练习册(第一册)(基础模块)(修订版)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081403",
-    "bookname": "V英语教学参考书(基础模块)第一册",
+    "bookname": "英语教学参考书(基础模块)第一册",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081404",
-    "bookname": "V英语(基础模块)(修订版)学生练习册 第二册/陈琳",
+    "bookname": "英语(基础模块)(修订版)学生练习册 第二册/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081405",
-    "bookname": "V计算机专业英语",
+    "bookname": "计算机专业英语",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081406",
-    "bookname": "V电子商务英语(中等职业学校行业英语系列教材)(含MP3 1张)/张海",
+    "bookname": "电子商务英语(中等职业学校行业英语系列教材)(含MP3 1张)/张海",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081407",
-    "bookname": "V英语(职业模块)(工科类)(学生)(中等职业教育课程改革国家规划新",
+    "bookname": "英语(职业模块)(工科类)(学生)(中等职业教育课程改革国家规划新",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081408",
-    "bookname": "V英语(练习册)(拓展模块)/陈琳",
+    "bookname": "英语(练习册)(拓展模块)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081409",
-    "bookname": "V英语(职业模块)(服务类)(学生用书)/陈琳",
+    "bookname": "英语(职业模块)(服务类)(学生用书)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081410",
-    "bookname": "V英语(基础模块)学生练习册(第三册)(修订版)(配光盘)/陈琳",
+    "bookname": "英语(基础模块)学生练习册(第三册)(修订版)(配光盘)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081411",
-    "bookname": "V新视野英语教程(第二版)综合练习1/陈永捷",
+    "bookname": "新视野英语教程(第二版)综合练习1/陈永捷",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081412",
-    "bookname": "V英语(职业模块)(工科类)(教师用书)/陈琳",
+    "bookname": "英语(职业模块)(工科类)(教师用书)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081413",
-    "bookname": "V英语(基础模块)(第2册)(教师)",
+    "bookname": "英语(基础模块)(第2册)(教师)",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081414",
-    "bookname": "V英语(拓展模块)",
+    "bookname": "英语(拓展模块)",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081415",
-    "bookname": "V英语第一册(基础模块)学生用书",
+    "bookname": "英语第一册(基础模块)学生用书",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081416",
-    "bookname": "V英语(基础模块)(学生用书)(第一册)(修订版)/陈琳",
+    "bookname": "英语(基础模块)(学生用书)(第一册)(修订版)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081417",
-    "bookname": "V英语(基础模块)(修订版) 第二册/陈琳",
+    "bookname": "英语(基础模块)(修订版) 第二册/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081418",
-    "bookname": "V英语(基础模块)(第2册)(学生)",
+    "bookname": "英语(基础模块)(第2册)(学生)",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081419",
-    "bookname": "V英语(职业模块)(服务类)(教师用书)/陈琳",
+    "bookname": "英语(职业模块)(服务类)(教师用书)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081420",
-    "bookname": "V汽车英语/郑毅",
+    "bookname": "汽车英语/郑毅",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081421",
-    "bookname": "V形成性评估手册2(通用版)/何永国 马俊波",
+    "bookname": "形成性评估手册2(通用版)/何永国 马俊波",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081422",
-    "bookname": "V英语(基础模块)教师用书(修订版)第一册/陈琳",
+    "bookname": "英语(基础模块)教师用书(修订版)第一册/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081423",
-    "bookname": "V新技能英语高级教程综合训练1/张连仲",
+    "bookname": "新技能英语高级教程综合训练1/张连仲",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081424",
-    "bookname": "V新视野英语教程(第二版)综合练习2/陈永捷",
+    "bookname": "新视野英语教程(第二版)综合练习2/陈永捷",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081425",
-    "bookname": "V形成性评估手册1/马俊波、何永国",
+    "bookname": "形成性评估手册1/马俊波、何永国",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081426",
-    "bookname": "V英语教参(基础模块)(修订版) 第二册/陈琳",
+    "bookname": "英语教参(基础模块)(修订版) 第二册/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081427",
-    "bookname": "V幼师英语/陈艳丽",
+    "bookname": "幼师英语/陈艳丽",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081428",
-    "bookname": "V英语(基础模块)教师用书第三册(修订版)/陈琳",
+    "bookname": "英语(基础模块)教师用书第三册(修订版)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081429",
-    "bookname": "V英语(基础模块)学生用书(第三册)(修订版)/陈琳",
+    "bookname": "英语(基础模块)学生用书(第三册)(修订版)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081430",
-    "bookname": "V中职入学教育/曾宁波 廖大凯",
+    "bookname": "中职入学教育/曾宁波 廖大凯",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081431",
-    "bookname": "V在实践中学礼仪/彭慧",
+    "bookname": "在实践中学礼仪/彭慧",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081432",
-    "bookname": "V新职场应用文/吕志敏主编",
+    "bookname": "新职场应用文/吕志敏主编",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081433",
-    "bookname": "V新职业英语—职业综合英语1(第2版）2017版含MP3 光盘一张)/谭海",
+    "bookname": "新职业英语—职业综合英语1(第2版）2017版含MP3 光盘一张)/谭海",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081434",
-    "bookname": "V英语(拓展模块)教师用书",
+    "bookname": "英语(拓展模块)教师用书",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081435",
-    "bookname": "V礼仪实训教程",
+    "bookname": "礼仪实训教程",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081436",
-    "bookname": "V新国规英语高职对口升学考试复习指导丛书--专项训练篇",
+    "bookname": "新国规英语高职对口升学考试复习指导丛书--专项训练篇",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081437",
-    "bookname": "V新技能英语高级教程学生用书1/张连仲",
+    "bookname": "新技能英语高级教程学生用书1/张连仲",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081438",
-    "bookname": "V新视野英语教程(第二版)读写教程1(含CD--ROM光盘1张)/周洁",
+    "bookname": "新视野英语教程(第二版)读写教程1(含CD--ROM光盘1张)/周洁",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081439",
-    "bookname": "V新技能英语高级教程教师用书1/张连仲",
+    "bookname": "新技能英语高级教程教师用书1/张连仲",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081440",
-    "bookname": "V旅游英语视听说/郑毅",
+    "bookname": "旅游英语视听说/郑毅",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081441",
-    "bookname": "V新视野英语教程读与写教程第二版/郑树棠",
+    "bookname": "新视野英语教程读与写教程第二版/郑树棠",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081442",
-    "bookname": "V四川省对口升学考试复习指导丛书(英语)",
+    "bookname": "四川省对口升学考试复习指导丛书(英语)",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081443",
-    "bookname": "V新国规英语高职对口升学考试复习指导用书-基础知识梳理篇",
+    "bookname": "新国规英语高职对口升学考试复习指导用书-基础知识梳理篇",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081444",
-    "bookname": "V新视野英语教程(第三版)(读写教程)(3)",
+    "bookname": "新视野英语教程(第三版)(读写教程)(3)",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081445",
-    "bookname": "V新视野英语教程(第二版)读写教程1教师用书/周洁",
+    "bookname": "新视野英语教程(第二版)读写教程1教师用书/周洁",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081446",
-    "bookname": "V新视野英语教程(第二版)读写教程2教师用书/周洁",
+    "bookname": "新视野英语教程(第二版)读写教程2教师用书/周洁",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081447",
-    "bookname": "V新视野英语教程读与写教程教师用书(3)第二版",
+    "bookname": "新视野英语教程读与写教程教师用书(3)第二版",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081448",
-    "bookname": "V英语教学资源包(基础模块)学生用书(第一册)/陈琳",
+    "bookname": "英语教学资源包(基础模块)学生用书(第一册)/陈琳",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081449",
-    "bookname": "V四川省高职单招考试文化素质复习指导书(语数外)",
+    "bookname": "四川省高职单招考试文化素质复习指导书(语数外)",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0081450",
-    "bookname": "V岩体力学/沈明荣 陈建峰编著",
+    "bookname": "岩体力学/沈明荣 陈建峰编著",
     "publishing": "同济大学"
 },
 {
     "subscribeCode": "18CJ0081451",
-    "bookname": "V高等数学/杨戟，冯影影",
+    "bookname": "高等数学/杨戟，冯影影",
     "publishing": "同济大学"
 },
 {
     "subscribeCode": "18CJ0081452",
-    "bookname": "V工程力学(第二版)/徐烈桓，王斌耀，顾惠琳",
+    "bookname": "工程力学(第二版)/徐烈桓，王斌耀，顾惠琳",
     "publishing": "同济大学"
 },
 {
     "subscribeCode": "18CJ0081453",
-    "bookname": "V数控加工技术习题集(车削加工)/郑兴华",
+    "bookname": "数控加工技术习题集(车削加工)/郑兴华",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081454",
-    "bookname": "V世纪英语综合教程练习1(第三版)",
+    "bookname": "世纪英语综合教程练习1(第三版)",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081455",
-    "bookname": "V世纪英语综合教程练习2(第三版)",
+    "bookname": "世纪英语综合教程练习2(第三版)",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081456",
-    "bookname": "V(新世纪中等职业教育)经济学基础(经济管理类)",
+    "bookname": "(新世纪中等职业教育)经济学基础(经济管理类)",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081457",
-    "bookname": "V办公软件的应用/张庚瑞",
+    "bookname": "办公软件的应用/张庚瑞",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081458",
-    "bookname": "V机械设备维修工艺/王洪志",
+    "bookname": "机械设备维修工艺/王洪志",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081459",
-    "bookname": "V新编财务报表分析/刘章胜、赵红英",
+    "bookname": "新编财务报表分析/刘章胜、赵红英",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081460",
-    "bookname": "V环境监测实训篇",
+    "bookname": "环境监测实训篇",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081461",
-    "bookname": "V供应链管理/邓汝春",
+    "bookname": "供应链管理/邓汝春",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081462",
-    "bookname": "V ZOOM LN(点击职业英语基础模块1)/刘黛琳",
+    "bookname": " ZOOM LN(点击职业英语基础模块1)/刘黛琳",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081463",
-    "bookname": "V ZOOM LN(点击职业英语基础模块2)/刘黛琳",
+    "bookname": " ZOOM LN(点击职业英语基础模块2)/刘黛琳",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081464",
-    "bookname": "V世纪英语综合教程1(第四版)",
+    "bookname": "世纪英语综合教程1(第四版)",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081465",
-    "bookname": "V世纪英语综合教程2(第四版)",
+    "bookname": "世纪英语综合教程2(第四版)",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081466",
-    "bookname": "V环境监测理论篇",
+    "bookname": "环境监测理论篇",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081467",
-    "bookname": "V通信工程制图及实训(第二版)/于正永",
+    "bookname": "通信工程制图及实训(第二版)/于正永",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081468",
-    "bookname": "V物流法规/沈荣耀 高志和",
+    "bookname": "物流法规/沈荣耀 高志和",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081469",
-    "bookname": "V数据结构",
+    "bookname": "数据结构",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0081470",
-    "bookname": "V大学语文 (教学用书)(第十版)/周圣伟",
+    "bookname": "大学语文 (教学用书)(第十版)/周圣伟",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081471",
-    "bookname": "V幼儿文学/吴其南",
+    "bookname": "幼儿文学/吴其南",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081472",
-    "bookname": "V物业绿化管理/康亮",
+    "bookname": "物业绿化管理/康亮",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081473",
-    "bookname": "V教师礼仪/杜凤岗",
+    "bookname": "教师礼仪/杜凤岗",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081474",
-    "bookname": "V学前儿童语言教育/张明红",
+    "bookname": "学前儿童语言教育/张明红",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081475",
-    "bookname": "V小学教育研究方法",
+    "bookname": "小学教育研究方法",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081476",
-    "bookname": "V幼儿园教育活动设计与指导(第2版)/黄瑾",
+    "bookname": "幼儿园教育活动设计与指导(第2版)/黄瑾",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081477",
-    "bookname": "V应用数学基础(第二版)(中)/邓俊谦",
+    "bookname": "应用数学基础(第二版)(中)/邓俊谦",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081478",
-    "bookname": "V应用数学基础(第二册)第三版/邓俊谦",
+    "bookname": "应用数学基础(第二册)第三版/邓俊谦",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081479",
-    "bookname": "V幼儿园环境创设指导与实例/汤志民",
+    "bookname": "幼儿园环境创设指导与实例/汤志民",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081480",
-    "bookname": "V学前儿童艺术教育(第二版)/许卓娅",
+    "bookname": "学前儿童艺术教育(第二版)/许卓娅",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081481",
-    "bookname": "V儿童发展与教育心理学/彭小虎",
+    "bookname": "儿童发展与教育心理学/彭小虎",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081482",
-    "bookname": "V大学语文(第十版)",
+    "bookname": "大学语文(第十版)",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081483",
-    "bookname": "V实用语文(第二册)/施也频",
+    "bookname": "实用语文(第二册)/施也频",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081484",
-    "bookname": "V实用语文(第一册)/施也频",
+    "bookname": "实用语文(第一册)/施也频",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081485",
-    "bookname": "V城市生态学/宋永昌",
+    "bookname": "城市生态学/宋永昌",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081486",
-    "bookname": "V实用语文(第四册)/施也频",
+    "bookname": "实用语文(第四册)/施也频",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081487",
-    "bookname": "V实用语文(第三册)/施也频",
+    "bookname": "实用语文(第三册)/施也频",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081488",
-    "bookname": "V应用数学基础(第一册)(第3版)/邓俊谦",
+    "bookname": "应用数学基础(第一册)(第3版)/邓俊谦",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0081489",
-    "bookname": "V音乐教育丛一基本乐理/贾方爵",
+    "bookname": "音乐教育丛一基本乐理/贾方爵",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081490",
-    "bookname": "V学前音乐教育 /王懿颖",
+    "bookname": "学前音乐教育 /王懿颖",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081491",
-    "bookname": "V酒店前厅服务/周炜、牟海燕",
+    "bookname": "酒店前厅服务/周炜、牟海燕",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081492",
-    "bookname": "V视唱练耳音乐高考丛书/杨大恩",
+    "bookname": "视唱练耳音乐高考丛书/杨大恩",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081493",
-    "bookname": "V哈农钢琴练指法(教学版)/金华",
+    "bookname": "哈农钢琴练指法(教学版)/金华",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081494",
-    "bookname": "V拜厄钢琴基本教程(教学版)/但功甫",
+    "bookname": "拜厄钢琴基本教程(教学版)/但功甫",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081495",
-    "bookname": "V车尔尼钢琴流畅练习曲(作品849)/金石",
+    "bookname": "车尔尼钢琴流畅练习曲(作品849)/金石",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081496",
-    "bookname": "V外国美术史纲要/陈洛加",
+    "bookname": "外国美术史纲要/陈洛加",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081497",
-    "bookname": "V中国音乐史/胡郁青、赵玲",
+    "bookname": "中国音乐史/胡郁青、赵玲",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081498",
-    "bookname": "V中外声乐曲选集(续集一)/胡郁",
+    "bookname": "中外声乐曲选集(续集一)/胡郁",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081499",
-    "bookname": "V车尔尼钢琴初级练习曲(作品599教学版)附光盘/金石",
+    "bookname": "车尔尼钢琴初级练习曲(作品599教学版)附光盘/金石",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081500",
-    "bookname": "V构图与创作/张启文",
+    "bookname": "构图与创作/张启文",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081501",
-    "bookname": "V中外声乐曲选集",
+    "bookname": "中外声乐曲选集",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081502",
-    "bookname": "V工笔花鸟画/李白玲",
+    "bookname": "工笔花鸟画/李白玲",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081503",
-    "bookname": "V合唱与指挥教程/何帆，姚春城，关继文",
+    "bookname": "合唱与指挥教程/何帆，姚春城，关继文",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0081504",
-    "bookname": "V单片机习题与试题解析",
+    "bookname": "单片机习题与试题解析",
     "publishing": "航空航天"
 },
 {
     "subscribeCode": "18CJ0081505",
-    "bookname": "V商务礼仪/张莹",
+    "bookname": "商务礼仪/张莹",
     "publishing": "航空航天"
 },
 {
     "subscribeCode": "18CJ0081506",
-    "bookname": "V平板电视原理与维修(第2版)/孙宏伟",
+    "bookname": "平板电视原理与维修(第2版)/孙宏伟",
     "publishing": "航空航天"
 },
 {
     "subscribeCode": "18CJ0081507",
-    "bookname": "V物理(修订版)(第一册)/刘盛烺",
+    "bookname": "物理(修订版)(第一册)/刘盛烺",
     "publishing": "苏州大学"
 },
 {
     "subscribeCode": "18CJ0081508",
-    "bookname": "V全国计算机等级考试一级MSOFFICE2010教程/金华",
+    "bookname": "全国计算机等级考试一级MSOFFICE2010教程/金华",
     "publishing": "苏州大学"
 },
 {
     "subscribeCode": "18CJ0081509",
-    "bookname": "V 3—6岁儿童学习与发展指南",
+    "bookname": " 3—6岁儿童学习与发展指南",
     "publishing": "首都师大"
 },
 {
     "subscribeCode": "18CJ0081510",
-    "bookname": "V 2016版幼儿园工作规程",
+    "bookname": " 2016版幼儿园工作规程",
     "publishing": "首都师大"
 },
 {
     "subscribeCode": "18CJ0081511",
-    "bookname": "V新课程理念小学语文课堂教学实施",
+    "bookname": "新课程理念小学语文课堂教学实施",
     "publishing": "首都师大"
 },
 {
     "subscribeCode": "18CJ0081512",
-    "bookname": "V新课程理念小学数学课堂教学实施",
+    "bookname": "新课程理念小学数学课堂教学实施",
     "publishing": "首都师大"
 },
 {
     "subscribeCode": "18CJ0081513",
-    "bookname": "V大学英语精读预备级/董亚芬",
+    "bookname": "大学英语精读预备级/董亚芬",
     "publishing": "上海外教"
 },
 {
     "subscribeCode": "18CJ0081514",
-    "bookname": "V大学英语(第二版)综合教程1 学生用书/李荫华",
+    "bookname": "大学英语(第二版)综合教程1 学生用书/李荫华",
     "publishing": "上海外教"
 },
 {
     "subscribeCode": "18CJ0081515",
-    "bookname": "V大学英语(第二版)综合教程2 学生用书/李荫华",
+    "bookname": "大学英语(第二版)综合教程2 学生用书/李荫华",
     "publishing": "上海外教"
 },
 {
     "subscribeCode": "18CJ0081516",
-    "bookname": "V钢琴实用教程(1)第3版/陈星",
+    "bookname": "钢琴实用教程(1)第3版/陈星",
     "publishing": "南京师大"
 },
 {
     "subscribeCode": "18CJ0081517",
-    "bookname": "V钢琴实用教程(2)第3版/陈星",
+    "bookname": "钢琴实用教程(2)第3版/陈星",
     "publishing": "南京师大"
 },
 {
     "subscribeCode": "18CJ0081518",
-    "bookname": "V钢琴即兴伴奏实用教程(第三版)/丁运东",
+    "bookname": "钢琴即兴伴奏实用教程(第三版)/丁运东",
     "publishing": "南京师大"
 },
 {
     "subscribeCode": "18CJ0081519",
-    "bookname": "V特殊儿童艺术治疗/金野",
+    "bookname": "特殊儿童艺术治疗/金野",
     "publishing": "南京师大"
 },
 {
     "subscribeCode": "18CJ0081520",
-    "bookname": "V陶艺/孔起英、庄新宇",
+    "bookname": "陶艺/孔起英、庄新宇",
     "publishing": "南京师大"
 },
 {
     "subscribeCode": "18CJ0081521",
-    "bookname": "V田英章硬笔楷书 标准教程/田英章",
+    "bookname": "田英章硬笔楷书 标准教程/田英章",
     "publishing": "北京体大"
 },
 {
     "subscribeCode": "18CJ0081522",
-    "bookname": "V小家电维修技术/马云丰 董国军",
+    "bookname": "小家电维修技术/马云丰 董国军",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081523",
-    "bookname": "V(BX)汽车底盘构造与维修工作页/吴立刚",
+    "bookname": "(BX)汽车底盘构造与维修工作页/吴立刚",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081524",
-    "bookname": "V汽车使用性能与检测/王卫兵",
+    "bookname": "汽车使用性能与检测/王卫兵",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0081525",
-    "bookname": "V汽车自动变速器原理与维修(双色版)(含教学课件)/田永江",
+    "bookname": "汽车自动变速器原理与维修(双色版)(含教学课件)/田永江",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081526",
-    "bookname": "V汽车保险与理赔 /庞成立",
+    "bookname": "汽车保险与理赔 /庞成立",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081527",
-    "bookname": "V汽车4S店经营管理/解莉",
+    "bookname": "汽车4S店经营管理/解莉",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081528",
-    "bookname": "V汽车构造/李亚",
+    "bookname": "汽车构造/李亚",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081529",
-    "bookname": "V汽车营销基础与实训/苏忆",
+    "bookname": "汽车营销基础与实训/苏忆",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081530",
-    "bookname": "V汽车底盘电控系统检修/庞成立",
+    "bookname": "汽车底盘电控系统检修/庞成立",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081531",
-    "bookname": "V汽车修理工技能鉴定指导书/孙希岗",
+    "bookname": "汽车修理工技能鉴定指导书/孙希岗",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081532",
-    "bookname": "V汽车电控发动机构造与检修/刘毅斌",
+    "bookname": "汽车电控发动机构造与检修/刘毅斌",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081533",
-    "bookname": "V(BX)汽车底盘构造与维修一体化教程/李丹",
+    "bookname": "(BX)汽车底盘构造与维修一体化教程/李丹",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081534",
-    "bookname": "V汽车电汽设备构造与维修/张柏荣",
+    "bookname": "汽车电汽设备构造与维修/张柏荣",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081535",
-    "bookname": "V汽车机械基础/王升平",
+    "bookname": "汽车机械基础/王升平",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0081536",
-    "bookname": "V汽车安全驾驶技术/冯力平",
+    "bookname": "汽车安全驾驶技术/冯力平",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0081537",
-    "bookname": "V艺术概论/顾晓梅",
+    "bookname": "艺术概论/顾晓梅",
     "publishing": "人民美术"
 },
 {
     "subscribeCode": "18CJ0081538",
-    "bookname": "V油画风景写生/潘晓东",
+    "bookname": "油画风景写生/潘晓东",
     "publishing": "人民美术"
 },
 {
     "subscribeCode": "18CJ0081539",
-    "bookname": "V中国美术史纲/黄宗贤",
+    "bookname": "中国美术史纲/黄宗贤",
     "publishing": "人民美术"
 },
 {
     "subscribeCode": "18CJ0081540",
-    "bookname": "V平面构成/王永春",
+    "bookname": "平面构成/王永春",
     "publishing": "辽宁美术"
 },
 {
     "subscribeCode": "18CJ0081541",
-    "bookname": "V色彩构成(修订版)/赵国志",
+    "bookname": "色彩构成(修订版)/赵国志",
     "publishing": "辽宁美术"
 },
 {
     "subscribeCode": "18CJ0081542",
-    "bookname": "V立体构成/关向伟",
+    "bookname": "立体构成/关向伟",
     "publishing": "辽宁美术"
 },
 {
     "subscribeCode": "18CJ0081543",
-    "bookname": "V色彩构成/王永春",
+    "bookname": "色彩构成/王永春",
     "publishing": "辽宁美术"
 },
 {
     "subscribeCode": "18CJ0081544",
-    "bookname": "V平面构成(十二五精品课程规划教材)/李丹马兰",
+    "bookname": "平面构成(十二五精品课程规划教材)/李丹马兰",
     "publishing": "辽宁美术"
 },
 {
     "subscribeCode": "18CJ0081545",
-    "bookname": "V动画角色与场景设计/王守平",
+    "bookname": "动画角色与场景设计/王守平",
     "publishing": "辽宁美术"
 },
 {
     "subscribeCode": "18CJ0081546",
-    "bookname": "V平面构成(有课件)/毛溪",
+    "bookname": "平面构成(有课件)/毛溪",
     "publishing": "上海人美"
 },
 {
     "subscribeCode": "18CJ0081547",
-    "bookname": "V动漫色彩基础(全彩)/林超、薛峰",
+    "bookname": "动漫色彩基础(全彩)/林超、薛峰",
     "publishing": "上海人美"
 },
 {
     "subscribeCode": "18CJ0081548",
-    "bookname": "V居住空间设计/谭长亮孙戈",
+    "bookname": "居住空间设计/谭长亮孙戈",
     "publishing": "上海人美"
 },
 {
     "subscribeCode": "18CJ0081549",
-    "bookname": "V高等院校设计学精品课程规划教材-基础素描/洪英",
+    "bookname": "高等院校设计学精品课程规划教材-基础素描/洪英",
     "publishing": "江苏美术"
 },
 {
     "subscribeCode": "18CJ0081550",
-    "bookname": "V小小美术创意 卡通画/黄茂荣",
+    "bookname": "小小美术创意 卡通画/黄茂荣",
     "publishing": "湖南美术"
 },
 {
     "subscribeCode": "18CJ0081551",
-    "bookname": "V小小美术创意油画棒画/徐一帆",
+    "bookname": "小小美术创意油画棒画/徐一帆",
     "publishing": "湖南美术"
 },
 {
     "subscribeCode": "18CJ0081552",
-    "bookname": "V小小美术家--创意线描画/胡笛",
+    "bookname": "小小美术家--创意线描画/胡笛",
     "publishing": "湖南美术"
 },
 {
     "subscribeCode": "18CJ0081553",
-    "bookname": "V小小美术家--创意水彩笔画/蒋文文",
+    "bookname": "小小美术家--创意水彩笔画/蒋文文",
     "publishing": "湖南美术"
 },
 {
     "subscribeCode": "18CJ0081554",
-    "bookname": "V儿童美术资料图库 上/程立雪 刘可 夏园园",
+    "bookname": "儿童美术资料图库 上/程立雪 刘可 夏园园",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0081555",
-    "bookname": "V儿童美术资料图库 下/程立雪 刘可 夏园园",
+    "bookname": "儿童美术资料图库 下/程立雪 刘可 夏园园",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0081556",
-    "bookname": "V图案《经典图案》风景综合篇/秦栗",
+    "bookname": "图案《经典图案》风景综合篇/秦栗",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0081557",
-    "bookname": "V素描《师说详解石膏小五官》/刘力",
+    "bookname": "素描《师说详解石膏小五官》/刘力",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0081558",
-    "bookname": "V完全绘本《服装速写技法》",
+    "bookname": "完全绘本《服装速写技法》",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0081559",
-    "bookname": "V高考音乐强化训练视唱练耳卷",
+    "bookname": "高考音乐强化训练视唱练耳卷",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081560",
-    "bookname": "V李重光—基本乐理书面作业/李重光",
+    "bookname": "李重光—基本乐理书面作业/李重光",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081561",
-    "bookname": "V幼儿师范钢琴即兴伴奏教程/夏志刚",
+    "bookname": "幼儿师范钢琴即兴伴奏教程/夏志刚",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081562",
-    "bookname": "V即学即会/任华",
+    "bookname": "即学即会/任华",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081563",
-    "bookname": "V幼儿师范经典儿童钢琴曲集/夏志刚",
+    "bookname": "幼儿师范经典儿童钢琴曲集/夏志刚",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081564",
-    "bookname": "V儿童视唱练耳教程/鹤青",
+    "bookname": "儿童视唱练耳教程/鹤青",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081565",
-    "bookname": "V节奏训练与旋律听写",
+    "bookname": "节奏训练与旋律听写",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081566",
-    "bookname": "V基础乐理/李重光",
+    "bookname": "基础乐理/李重光",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081567",
-    "bookname": "V基本乐理模拟试题及答案增订版/钱仁平",
+    "bookname": "基本乐理模拟试题及答案增订版/钱仁平",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081568",
-    "bookname": "V高考音乐强化训练 基本乐理卷(第八版)/黄洋波",
+    "bookname": "高考音乐强化训练 基本乐理卷(第八版)/黄洋波",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081569",
-    "bookname": "V高考音乐强化训练 视唱练耳卷（第13版）/陈玉香",
+    "bookname": "高考音乐强化训练 视唱练耳卷（第13版）/陈玉香",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081570",
-    "bookname": "V高考音乐强化训练 声乐卷(十二版)/余开基",
+    "bookname": "高考音乐强化训练 声乐卷(十二版)/余开基",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0081571",
-    "bookname": "V乐理知识五线谱本",
+    "bookname": "乐理知识五线谱本",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081572",
-    "bookname": "V乐理专题训练与综合测试(修订版)/王岚",
+    "bookname": "乐理专题训练与综合测试(修订版)/王岚",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081573",
-    "bookname": "V音乐(第1册)/中等师范学校课本",
+    "bookname": "音乐(第1册)/中等师范学校课本",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081574",
-    "bookname": "V音乐二",
+    "bookname": "音乐二",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081575",
-    "bookname": "V钢琴基础教程1/韩林申\李晓平等",
+    "bookname": "钢琴基础教程1/韩林申\李晓平等",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081576",
-    "bookname": "V单声部视唱教程下",
+    "bookname": "单声部视唱教程下",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081577",
-    "bookname": "V钢琴基础(4)/韩林申李小平",
+    "bookname": "钢琴基础(4)/韩林申李小平",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081578",
-    "bookname": "V钢琴基础教程2/韩林申\李晓平等",
+    "bookname": "钢琴基础教程2/韩林申\李晓平等",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081579",
-    "bookname": "V中国舞蹈艺术鉴赏指南?",
+    "bookname": "中国舞蹈艺术鉴赏指南?",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081580",
-    "bookname": "V单声部视唱教程上",
+    "bookname": "单声部视唱教程上",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081581",
-    "bookname": "V西方芭蕾史纲(舞蹈卷)上海音乐出版社/朱立人",
+    "bookname": "西方芭蕾史纲(舞蹈卷)上海音乐出版社/朱立人",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081582",
-    "bookname": "V舞蹈学导论(修订版)平装 /吕艺生",
+    "bookname": "舞蹈学导论(修订版)平装 /吕艺生",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081583",
-    "bookname": "V单声部视唱基础教程/谭惠玲",
+    "bookname": "单声部视唱基础教程/谭惠玲",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081584",
-    "bookname": "V键盘器乐2(钢琴基础教程1)/韩林申",
+    "bookname": "键盘器乐2(钢琴基础教程1)/韩林申",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081585",
-    "bookname": "V钢琴基础教程3(修订版)",
+    "bookname": "钢琴基础教程3(修订版)",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081586",
-    "bookname": "V音乐三",
+    "bookname": "音乐三",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081587",
-    "bookname": "V中外舞蹈作品赏析",
+    "bookname": "中外舞蹈作品赏析",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081588",
-    "bookname": "V中国民族民间舞教学法",
+    "bookname": "中国民族民间舞教学法",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081589",
-    "bookname": "V中外音乐简史及名作赏析/田明俊",
+    "bookname": "中外音乐简史及名作赏析/田明俊",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0081590",
-    "bookname": "V模拟电子技术/黄悦好",
+    "bookname": "模拟电子技术/黄悦好",
     "publishing": "知识产权"
 },
 {
     "subscribeCode": "18CJ0081591",
-    "bookname": "V英语上册练习册(基础模块)/王立善 戴宗显",
+    "bookname": "英语上册练习册(基础模块)/王立善 戴宗显",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081592",
-    "bookname": "V语文练习册上册中等职业学校文化基础课创新教材/阎战友",
+    "bookname": "语文练习册上册中等职业学校文化基础课创新教材/阎战友",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081593",
-    "bookname": "V英语练习册(基础模块)下册/王立善戴宗显",
+    "bookname": "英语练习册(基础模块)下册/王立善戴宗显",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081594",
-    "bookname": "V数学(基础模块)下练习册/张景斌",
+    "bookname": "数学(基础模块)下练习册/张景斌",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081595",
-    "bookname": "V语文练习册(职业模块服务类赵大鹏)",
+    "bookname": "语文练习册(职业模块服务类赵大鹏)",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081596",
-    "bookname": "V数学上册学生学习指导用书(基础模块)/张景斌",
+    "bookname": "数学上册学生学习指导用书(基础模块)/张景斌",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081597",
-    "bookname": "V语文练习册(基础模块)上册",
+    "bookname": "语文练习册(基础模块)上册",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081598",
-    "bookname": "V语文练习册(基础模块)下册",
+    "bookname": "语文练习册(基础模块)下册",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081599",
-    "bookname": "V数学学生学习指导用书(拓展模块)修订本/张景斌",
+    "bookname": "数学学生学习指导用书(拓展模块)修订本/张景斌",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081600",
-    "bookname": "V语文下册练习 中等职业学校文化基础课创新教材/阎战友",
+    "bookname": "语文下册练习 中等职业学校文化基础课创新教材/阎战友",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081601",
-    "bookname": "V语文练习册(拓展模块)/赵大鹏",
+    "bookname": "语文练习册(拓展模块)/赵大鹏",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081602",
-    "bookname": "V数学教学参考书(基础模块)下册(配光盘)/张景斌",
+    "bookname": "数学教学参考书(基础模块)下册(配光盘)/张景斌",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081603",
-    "bookname": "V英语(基础模块)上册教参/王立善",
+    "bookname": "英语(基础模块)上册教参/王立善",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081604",
-    "bookname": "V英语(基础模块)上册(修订版)/王立善.戴宗显",
+    "bookname": "英语(基础模块)上册(修订版)/王立善.戴宗显",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081605",
-    "bookname": "V数学下册(基础模块)(修订本)双色版/张景斌",
+    "bookname": "数学下册(基础模块)(修订本)双色版/张景斌",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081606",
-    "bookname": "V英语(拓展模块)(修订本)/王立善 戴宗显",
+    "bookname": "英语(拓展模块)(修订本)/王立善 戴宗显",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081607",
-    "bookname": "V英语(基础模块)下册(修订本)/王立善戴宗显",
+    "bookname": "英语(基础模块)下册(修订本)/王立善戴宗显",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081608",
-    "bookname": "V语文教师用书上册中等职业学校文化基础课创新教材/阎战友",
+    "bookname": "语文教师用书上册中等职业学校文化基础课创新教材/阎战友",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081609",
-    "bookname": "V语文(职业模块服务类赵大鹏)",
+    "bookname": "语文(职业模块服务类赵大鹏)",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081610",
-    "bookname": "V语文上册中等职业学校文化基础课创新教材/阎战友",
+    "bookname": "语文上册中等职业学校文化基础课创新教材/阎战友",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081611",
-    "bookname": "V语文升学考试复习与指导/赵大鹏",
+    "bookname": "语文升学考试复习与指导/赵大鹏",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081612",
-    "bookname": "V数学(基础模块)(上册)(双色)/张景斌/张景斌",
+    "bookname": "数学(基础模块)(上册)(双色)/张景斌/张景斌",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081613",
-    "bookname": "V数学教学参考书(基础模块)上册",
+    "bookname": "数学教学参考书(基础模块)上册",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081614",
-    "bookname": "V数学(拓展模块)/张景斌",
+    "bookname": "数学(拓展模块)/张景斌",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081615",
-    "bookname": "V语文教学参考书(职业模块服务类赵大鹏)",
+    "bookname": "语文教学参考书(职业模块服务类赵大鹏)",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081616",
-    "bookname": "V语文下册 中等职业学校文化基础课创新教材/阎战友",
+    "bookname": "语文下册 中等职业学校文化基础课创新教材/阎战友",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081617",
-    "bookname": "V语文拓展模块/赵大鹏",
+    "bookname": "语文拓展模块/赵大鹏",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081618",
-    "bookname": "V语文(基础模块)下册",
+    "bookname": "语文(基础模块)下册",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081619",
-    "bookname": "V语文(基础模块)(上册)(双色)/赵大鹏/赵大鹏",
+    "bookname": "语文(基础模块)(上册)(双色)/赵大鹏/赵大鹏",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081620",
-    "bookname": "V语文教学参考书(基础模块)上册/赵大鹏",
+    "bookname": "语文教学参考书(基础模块)上册/赵大鹏",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081621",
-    "bookname": "V语文教学参考书/拓展模块/赵大鹏",
+    "bookname": "语文教学参考书/拓展模块/赵大鹏",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081622",
-    "bookname": "V数学教学参考书(拓展模块)/张景斌",
+    "bookname": "数学教学参考书(拓展模块)/张景斌",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081623",
-    "bookname": "V语文教学参考书(基础模块)下册",
+    "bookname": "语文教学参考书(基础模块)下册",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081624",
-    "bookname": "V英语教学参考书(基础模块)下册(配光盘)/王立善戴宗显",
+    "bookname": "英语教学参考书(基础模块)下册(配光盘)/王立善戴宗显",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081625",
-    "bookname": "V数学升学总复习教程/陈继泽",
+    "bookname": "数学升学总复习教程/陈继泽",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081626",
-    "bookname": "V英语教学参考书(拓展模块)/王立善 戴宗显",
+    "bookname": "英语教学参考书(拓展模块)/王立善 戴宗显",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0081627",
-    "bookname": "V花卉生产技术 /吴志华",
+    "bookname": "花卉生产技术 /吴志华",
     "publishing": "中国林业"
 },
 {
     "subscribeCode": "18CJ0081628",
-    "bookname": "V实用园林绘画技法、素描、线描、铅笔画(第2版)/叶理",
+    "bookname": "实用园林绘画技法、素描、线描、铅笔画(第2版)/叶理",
     "publishing": "中国林业"
 },
 {
     "subscribeCode": "18CJ0081629",
-    "bookname": "V就业指导与训练/张智海",
+    "bookname": "就业指导与训练/张智海",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081630",
-    "bookname": "V幼儿教师专业化成长/高丽芳",
+    "bookname": "幼儿教师专业化成长/高丽芳",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081631",
-    "bookname": "V(BX)跟我学书法/张云仙",
+    "bookname": "(BX)跟我学书法/张云仙",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081632",
-    "bookname": "V电子技能与实训/刘科建",
+    "bookname": "电子技能与实训/刘科建",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081633",
-    "bookname": "V电子整机装配工艺与技能训练/梁定泉",
+    "bookname": "电子整机装配工艺与技能训练/梁定泉",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081634",
-    "bookname": "V市场营销基础/何志勇",
+    "bookname": "市场营销基础/何志勇",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081635",
-    "bookname": "V机械CAD/CAM(第二版)/柯吉友",
+    "bookname": "机械CAD/CAM(第二版)/柯吉友",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081636",
-    "bookname": "V机械制图习题集/胥进",
+    "bookname": "机械制图习题集/胥进",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081637",
-    "bookname": "V旅游心理学",
+    "bookname": "旅游心理学",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081638",
-    "bookname": "V极限配合与技术测量/文海滨",
+    "bookname": "极限配合与技术测量/文海滨",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081639",
-    "bookname": "V车工工艺与技能训练(双色)/蔡晓东",
+    "bookname": "车工工艺与技能训练(双色)/蔡晓东",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081640",
-    "bookname": "V服装CAD制版技术/郭鹤",
+    "bookname": "服装CAD制版技术/郭鹤",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081641",
-    "bookname": "V旅游概论/张武业",
+    "bookname": "旅游概论/张武业",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081642",
-    "bookname": "V幼儿卫生保健/宋洁",
+    "bookname": "幼儿卫生保健/宋洁",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081643",
-    "bookname": "V时装画技法/陈毛蕴",
+    "bookname": "时装画技法/陈毛蕴",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081644",
-    "bookname": "V会计基本技能训练/彭立明",
+    "bookname": "会计基本技能训练/彭立明",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081645",
-    "bookname": "V手工/郝振华",
+    "bookname": "手工/郝振华",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081646",
-    "bookname": "V旅行社服务与管理/段学成",
+    "bookname": "旅行社服务与管理/段学成",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081647",
-    "bookname": "V简笔画/刘洪霞",
+    "bookname": "简笔画/刘洪霞",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081648",
-    "bookname": "V舞蹈/高 民",
+    "bookname": "舞蹈/高 民",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081649",
-    "bookname": "V中职生入学教育读本/彭奇林",
+    "bookname": "中职生入学教育读本/彭奇林",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081650",
-    "bookname": "V音乐/吴宇",
+    "bookname": "音乐/吴宇",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081651",
-    "bookname": "V汽车电工电子/王海涛",
+    "bookname": "汽车电工电子/王海涛",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081652",
-    "bookname": "V书法教程(幼儿师范学校统编教材)/马温才、阙建华",
+    "bookname": "书法教程(幼儿师范学校统编教材)/马温才、阙建华",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081653",
-    "bookname": "V礼仪与职业素养/吴怡薇",
+    "bookname": "礼仪与职业素养/吴怡薇",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081654",
-    "bookname": "V形体训练/王晖晖",
+    "bookname": "形体训练/王晖晖",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081655",
-    "bookname": "V汽车材料/汪东",
+    "bookname": "汽车材料/汪东",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081656",
-    "bookname": "V中国旅游地理/吴晓春",
+    "bookname": "中国旅游地理/吴晓春",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081657",
-    "bookname": "V汽车机械制图习题集/文方",
+    "bookname": "汽车机械制图习题集/文方",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081658",
-    "bookname": "V汽车机械制图 /廖莺",
+    "bookname": "汽车机械制图 /廖莺",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081659",
-    "bookname": "V统计基础/徐彩虹",
+    "bookname": "统计基础/徐彩虹",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081660",
-    "bookname": "V客房服务与管理/王英哲",
+    "bookname": "客房服务与管理/王英哲",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081661",
-    "bookname": "V职业道德与法律/杨晓剑",
+    "bookname": "职业道德与法律/杨晓剑",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081662",
-    "bookname": "V汽车营销/李杰",
+    "bookname": "汽车营销/李杰",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081663",
-    "bookname": "V经济政治与社会(第2版)单色/王立志",
+    "bookname": "经济政治与社会(第2版)单色/王立志",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081664",
-    "bookname": "V汽车文化/任超",
+    "bookname": "汽车文化/任超",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081665",
-    "bookname": "V汽车概论/何高俊",
+    "bookname": "汽车概论/何高俊",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081666",
-    "bookname": "V中职生安全教育读本/陈露晓",
+    "bookname": "中职生安全教育读本/陈露晓",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081667",
-    "bookname": "V餐饮服务与管理/韩鹏",
+    "bookname": "餐饮服务与管理/韩鹏",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081668",
-    "bookname": "V网页设计与制作/卢鹏",
+    "bookname": "网页设计与制作/卢鹏",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081669",
-    "bookname": "V就业指导与创业教育（四色版）/段晓云",
+    "bookname": "就业指导与创业教育（四色版）/段晓云",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081670",
-    "bookname": "V汽车检测与故障诊断技术/郑立峰",
+    "bookname": "汽车检测与故障诊断技术/郑立峰",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081671",
-    "bookname": "V机械CAD/CAM",
+    "bookname": "机械CAD/CAM",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081672",
-    "bookname": "V汽车保险与理赔/万绍山",
+    "bookname": "汽车保险与理赔/万绍山",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081673",
-    "bookname": "V汽车维修前台接待/谭本忠",
+    "bookname": "汽车维修前台接待/谭本忠",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081674",
-    "bookname": "V基础会计及实务/李存义",
+    "bookname": "基础会计及实务/李存义",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081675",
-    "bookname": "V幼儿园管理(双色)/王晖晖",
+    "bookname": "幼儿园管理(双色)/王晖晖",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081676",
-    "bookname": "V编程语言基础--C++/刘炳松",
+    "bookname": "编程语言基础--C++/刘炳松",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081677",
-    "bookname": "V哲学与人生/蔡 禛",
+    "bookname": "哲学与人生/蔡 禛",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081678",
-    "bookname": "V基础会计/郑竹安",
+    "bookname": "基础会计/郑竹安",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081679",
-    "bookname": "V汽车电气设备构造与维修/王鹏举",
+    "bookname": "汽车电气设备构造与维修/王鹏举",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081680",
-    "bookname": "V导游基础/刘春霞",
+    "bookname": "导游基础/刘春霞",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081681",
-    "bookname": "V汽车保养与维护/彭光乔 姚博瀚",
+    "bookname": "汽车保养与维护/彭光乔 姚博瀚",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081682",
-    "bookname": "V应用文写作/周泉",
+    "bookname": "应用文写作/周泉",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081683",
-    "bookname": "V心理健康教育/李伟民",
+    "bookname": "心理健康教育/李伟民",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081684",
-    "bookname": "V汽车钣金与喷漆 /周贺",
+    "bookname": "汽车钣金与喷漆 /周贺",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081685",
-    "bookname": "V汽车构造/陈波",
+    "bookname": "汽车构造/陈波",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081686",
-    "bookname": "V金工实训/颜伟、熊娟",
+    "bookname": "金工实训/颜伟、熊娟",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081687",
-    "bookname": "V变频器技术应用/陈王克",
+    "bookname": "变频器技术应用/陈王克",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081688",
-    "bookname": "V设施蔬菜种植与病虫害防治技术",
+    "bookname": "设施蔬菜种植与病虫害防治技术",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081689",
-    "bookname": "V电焊工工艺与技能训练/童庆东",
+    "bookname": "电焊工工艺与技能训练/童庆东",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081690",
-    "bookname": "V汽车整车结构认知/王秋梅",
+    "bookname": "汽车整车结构认知/王秋梅",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081691",
-    "bookname": "V机械制图/胥进 夏洪国",
+    "bookname": "机械制图/胥进 夏洪国",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081692",
-    "bookname": "V汽车文化/刘希艳 高元伟",
+    "bookname": "汽车文化/刘希艳 高元伟",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081693",
-    "bookname": "V汽车车身焊接技术/高元伟",
+    "bookname": "汽车车身焊接技术/高元伟",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081694",
-    "bookname": "V幼儿教育心理学/刘凤莲、宋洁",
+    "bookname": "幼儿教育心理学/刘凤莲、宋洁",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081695",
-    "bookname": "V电力拖动控制技术及实训/无",
+    "bookname": "电力拖动控制技术及实训/无",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081696",
-    "bookname": "V职业素养读本 /林声超",
+    "bookname": "职业素养读本 /林声超",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081697",
-    "bookname": "V财经法规与会计职业道德/周君霞",
+    "bookname": "财经法规与会计职业道德/周君霞",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081698",
-    "bookname": "V汽车发动机构造与拆装(维修)/董顺志",
+    "bookname": "汽车发动机构造与拆装(维修)/董顺志",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081699",
-    "bookname": "V财务报表分析/庄小欧",
+    "bookname": "财务报表分析/庄小欧",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081700",
-    "bookname": "V汽车商务礼仪/姚飞",
+    "bookname": "汽车商务礼仪/姚飞",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081701",
-    "bookname": "V畜禽繁殖技术/仝军 墨锋涛",
+    "bookname": "畜禽繁殖技术/仝军 墨锋涛",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081702",
-    "bookname": "V汽车发动机构造与维修/靳学君",
+    "bookname": "汽车发动机构造与维修/靳学君",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081703",
-    "bookname": "V建筑装饰制图/聂立武、齐亚丽",
+    "bookname": "建筑装饰制图/聂立武、齐亚丽",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081704",
-    "bookname": "V汽车底盘构造与拆装(维修)",
+    "bookname": "汽车底盘构造与拆装(维修)",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081705",
-    "bookname": "V汽车电气构造与维修/马书宏 周立红",
+    "bookname": "汽车电气构造与维修/马书宏 周立红",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081706",
-    "bookname": "V汽车机械制图/孙璐",
+    "bookname": "汽车机械制图/孙璐",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081707",
-    "bookname": "V网络营销/王永莲",
+    "bookname": "网络营销/王永莲",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081708",
-    "bookname": "V幼儿文学/李晓红",
+    "bookname": "幼儿文学/李晓红",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081709",
-    "bookname": "V汽车电气设备与维修 赵培召",
+    "bookname": "汽车电气设备与维修 赵培召",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081710",
-    "bookname": "V普通话水平测试专用教材",
+    "bookname": "普通话水平测试专用教材",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081711",
-    "bookname": "V市场营销/郑屹立",
+    "bookname": "市场营销/郑屹立",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081712",
-    "bookname": "V数控车床操作与编程/翟斌元",
+    "bookname": "数控车床操作与编程/翟斌元",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081713",
-    "bookname": "V ILLUSTRATOR图形设计与案例应用/裴春录、李百灵",
+    "bookname": " ILLUSTRATOR图形设计与案例应用/裴春录、李百灵",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081714",
-    "bookname": "V PHOTOSHOP 4实用教程/范春霞",
+    "bookname": " PHOTOSHOP 4实用教程/范春霞",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0081715",
-    "bookname": "V经济法基础(第3版)/王永济",
+    "bookname": "经济法基础(第3版)/王永济",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081716",
-    "bookname": "V审计基础知识(第2版)/宫相荣.耿金岭",
+    "bookname": "审计基础知识(第2版)/宫相荣.耿金岭",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081717",
-    "bookname": "V财政与金融基础知识(3版)/徐景泰",
+    "bookname": "财政与金融基础知识(3版)/徐景泰",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081718",
-    "bookname": "V会计电算化/张洪波",
+    "bookname": "会计电算化/张洪波",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081719",
-    "bookname": "V经济政治与社会/张雷声 王树春",
+    "bookname": "经济政治与社会/张雷声 王树春",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081720",
-    "bookname": "V企业财务会计练习与实训(第6版)/程运木",
+    "bookname": "企业财务会计练习与实训(第6版)/程运木",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081721",
-    "bookname": "V国家教师资格统一考试规划教材:2015最新版综合素质(小学)标准命",
+    "bookname": "国家教师资格统一考试规划教材:2015最新版综合素质(小学)标准命",
     "publishing": "中国经济"
 },
 {
     "subscribeCode": "18CJ0081722",
-    "bookname": "V商品流通企业会计(第7版)/陈玲霞",
+    "bookname": "商品流通企业会计(第7版)/陈玲霞",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081723",
-    "bookname": "V会计从业资格无纸化考试辅导教材-会计基础(2014版)/会计从业资",
+    "bookname": "会计从业资格无纸化考试辅导教材-会计基础(2014版)/会计从业资",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081724",
-    "bookname": "V财经法规与职业道德(3版)/丛业资格办公室",
+    "bookname": "财经法规与职业道德(3版)/丛业资格办公室",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081725",
-    "bookname": "V会计从业资格无纸化考试辅导教材-会计电算化(2015版)/会计从业",
+    "bookname": "会计从业资格无纸化考试辅导教材-会计电算化(2015版)/会计从业",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081726",
-    "bookname": "V小学数学教学法",
+    "bookname": "小学数学教学法",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081727",
-    "bookname": "V初级会计实务：初级会计资格(2016版教材)",
+    "bookname": "初级会计实务：初级会计资格(2016版教材)",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081728",
-    "bookname": "V网络内容编辑(第一版)/刘冬美",
+    "bookname": "网络内容编辑(第一版)/刘冬美",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081729",
-    "bookname": "V审计实务/李代俊",
+    "bookname": "审计实务/李代俊",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081730",
-    "bookname": "V财经法规与会计职业道德(第二版)",
+    "bookname": "财经法规与会计职业道德(第二版)",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0081731",
-    "bookname": "V生物学(实验册)(第二册)",
+    "bookname": "生物学(实验册)(第二册)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081732",
-    "bookname": "V物理学实验册二",
+    "bookname": "物理学实验册二",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081733",
-    "bookname": "V物理学实验册一/中师用",
+    "bookname": "物理学实验册一/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081734",
-    "bookname": "V生物学实验册一",
+    "bookname": "生物学实验册一",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081735",
-    "bookname": "V化学实验册二/中师用",
+    "bookname": "化学实验册二/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081736",
-    "bookname": "V物理第二册(提高版)练习册(修订版)",
+    "bookname": "物理第二册(提高版)练习册(修订版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081737",
-    "bookname": "V化学实验册一",
+    "bookname": "化学实验册一",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081738",
-    "bookname": "V幼师学校教材 幼儿常识教学法(试用本 全一册(三年级)/郑慧英 等",
+    "bookname": "幼师学校教材 幼儿常识教学法(试用本 全一册(三年级)/郑慧英 等",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081739",
-    "bookname": "V几何教参(第二册)/中师用",
+    "bookname": "几何教参(第二册)/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081740",
-    "bookname": "V幼儿师范学校教科书(试用本)_绘画(第三册)",
+    "bookname": "幼儿师范学校教科书(试用本)_绘画(第三册)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081741",
-    "bookname": "V几何教参(第一册)/中师用",
+    "bookname": "几何教参(第一册)/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081742",
-    "bookname": "V幼儿计算教学法",
+    "bookname": "幼儿计算教学法",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081743",
-    "bookname": "V课改新教材数学(拓展模块) 同步练习",
+    "bookname": "课改新教材数学(拓展模块) 同步练习",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081744",
-    "bookname": "V幼儿歌曲创编(第二版)/马成",
+    "bookname": "幼儿歌曲创编(第二版)/马成",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081745",
-    "bookname": "V物理第二册(提高版)(修订版)",
+    "bookname": "物理第二册(提高版)(修订版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081746",
-    "bookname": "V课改新教材语文(职业模块 服务类)同步练习",
+    "bookname": "课改新教材语文(职业模块 服务类)同步练习",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081747",
-    "bookname": "V英语1练习册/刘黛琳",
+    "bookname": "英语1练习册/刘黛琳",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081748",
-    "bookname": "V师德常识/中师用",
+    "bookname": "师德常识/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081749",
-    "bookname": "V地理(全一册)",
+    "bookname": "地理(全一册)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081750",
-    "bookname": "V体育三/中师用",
+    "bookname": "体育三/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081751",
-    "bookname": "V课改新教材职业道德与法律 学习指导",
+    "bookname": "课改新教材职业道德与法律 学习指导",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081752",
-    "bookname": "V安全教育读本/人教职教中心",
+    "bookname": "安全教育读本/人教职教中心",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081753",
-    "bookname": "V几何一/中师用",
+    "bookname": "几何一/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081754",
-    "bookname": "V政治常识/中师用",
+    "bookname": "政治常识/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081755",
-    "bookname": "V钢笔书法训练/人教职教中心",
+    "bookname": "钢笔书法训练/人教职教中心",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081756",
-    "bookname": "V几何二/中师用",
+    "bookname": "几何二/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081757",
-    "bookname": "V心理学教程(第三版)(中师学校教材)",
+    "bookname": "心理学教程(第三版)(中师学校教材)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081758",
-    "bookname": "V幼师学校教材 乐理视唱练耳(试用本) 第三册 (三年级)",
+    "bookname": "幼师学校教材 乐理视唱练耳(试用本) 第三册 (三年级)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081759",
-    "bookname": "V小学语文教学法(三、四年级一学年)/中师用",
+    "bookname": "小学语文教学法(三、四年级一学年)/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081760",
-    "bookname": "V课改新教材数学(基础模块)上册 同步练习",
+    "bookname": "课改新教材数学(基础模块)上册 同步练习",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081761",
-    "bookname": "V代数与初等函数(试用本)(教学参考书)(第二册)/中师用",
+    "bookname": "代数与初等函数(试用本)(教学参考书)(第二册)/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081762",
-    "bookname": "V经济常识/中师用",
+    "bookname": "经济常识/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081763",
-    "bookname": "V体育二/中师用",
+    "bookname": "体育二/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081764",
-    "bookname": "V钢(风)琴",
+    "bookname": "钢(风)琴",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081765",
-    "bookname": "V小学数学教材教法(一)/中师用",
+    "bookname": "小学数学教材教法(一)/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081766",
-    "bookname": "V课改新教材语文(基础模块)上册 同步练习",
+    "bookname": "课改新教材语文(基础模块)上册 同步练习",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081767",
-    "bookname": "V阅读和写作五/中师用",
+    "bookname": "阅读和写作五/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081768",
-    "bookname": "V课改新教材语文(拓展模块)同步练习",
+    "bookname": "课改新教材语文(拓展模块)同步练习",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081769",
-    "bookname": "V课改新教材语文(基础模块)下册 同步练习",
+    "bookname": "课改新教材语文(基础模块)下册 同步练习",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081770",
-    "bookname": "V课改新教材数学(基础模块)下册 同步练习",
+    "bookname": "课改新教材数学(基础模块)下册 同步练习",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081771",
-    "bookname": "V幼儿唱歌第一册(幼师学校教材)",
+    "bookname": "幼儿唱歌第一册(幼师学校教材)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081772",
-    "bookname": "V手工(试用本)(第三册)/美术室",
+    "bookname": "手工(试用本)(第三册)/美术室",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081773",
-    "bookname": "V器乐(钢琴 风琴)(试用本)第一册/陈伟 杜永寿",
+    "bookname": "器乐(钢琴 风琴)(试用本)第一册/陈伟 杜永寿",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081774",
-    "bookname": "V代数与初等函数二/中师用",
+    "bookname": "代数与初等函数二/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081775",
-    "bookname": "V阅读和写作第2册/中等师范用书",
+    "bookname": "阅读和写作第2册/中等师范用书",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081776",
-    "bookname": "V体育一(中师用)",
+    "bookname": "体育一(中师用)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081777",
-    "bookname": "V美术鉴赏三/幼师用",
+    "bookname": "美术鉴赏三/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081778",
-    "bookname": "V幼儿乐理视唱练耳 第二册(幼师学校教材)",
+    "bookname": "幼儿乐理视唱练耳 第二册(幼师学校教材)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081779",
-    "bookname": "V阅读和写作六/中师用",
+    "bookname": "阅读和写作六/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081780",
-    "bookname": "V阅读和写作一/中师用",
+    "bookname": "阅读和写作一/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081781",
-    "bookname": "V课改新教材语文(拓展模块)(单色)",
+    "bookname": "课改新教材语文(拓展模块)(单色)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081782",
-    "bookname": "V美术鉴赏(第一册)/幼师用",
+    "bookname": "美术鉴赏(第一册)/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081783",
-    "bookname": "V语文(基础版)第三册(修订本)",
+    "bookname": "语文(基础版)第三册(修订本)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081784",
-    "bookname": "V化学二/中师用",
+    "bookname": "化学二/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081785",
-    "bookname": "V幼儿园音乐教育活动指导",
+    "bookname": "幼儿园音乐教育活动指导",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081786",
-    "bookname": "V化学一/中师用",
+    "bookname": "化学一/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081787",
-    "bookname": "V幼儿乐理视唱练耳 第一册(幼师学校教材)",
+    "bookname": "幼儿乐理视唱练耳 第一册(幼师学校教材)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081788",
-    "bookname": "V小学体育理论与方法",
+    "bookname": "小学体育理论与方法",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081789",
-    "bookname": "V课改新教材语文(基础模块)下册",
+    "bookname": "课改新教材语文(基础模块)下册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081790",
-    "bookname": "V课改新教材数学(拓展模块) 教师教学用书",
+    "bookname": "课改新教材数学(拓展模块) 教师教学用书",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081791",
-    "bookname": "V课改新教材数学(拓展模块)",
+    "bookname": "课改新教材数学(拓展模块)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081792",
-    "bookname": "V课改新教材体育与健康(南方版)",
+    "bookname": "课改新教材体育与健康(南方版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081793",
-    "bookname": "V礼仪/黄才华",
+    "bookname": "礼仪/黄才华",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081794",
-    "bookname": "V公关与礼仪修养/董地轴等",
+    "bookname": "公关与礼仪修养/董地轴等",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081795",
-    "bookname": "V阅读和写作教师用书第二册(幼师用)/刘真福",
+    "bookname": "阅读和写作教师用书第二册(幼师用)/刘真福",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081796",
-    "bookname": "V器乐(钢琴、风琴、手风琴第二册(幼师学校教材)",
+    "bookname": "器乐(钢琴、风琴、手风琴第二册(幼师学校教材)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081797",
-    "bookname": "V代数与初等函数(试用本)(教学参考书)(第一册)/中师用",
+    "bookname": "代数与初等函数(试用本)(教学参考书)(第一册)/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081798",
-    "bookname": "V幼儿园健康教育活动指导/范惠静",
+    "bookname": "幼儿园健康教育活动指导/范惠静",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081799",
-    "bookname": "V物理学二/中师用",
+    "bookname": "物理学二/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081800",
-    "bookname": "V语文(必修)第一册",
+    "bookname": "语文(必修)第一册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081801",
-    "bookname": "V应用写作",
+    "bookname": "应用写作",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081802",
-    "bookname": "V幼儿卫生学(第三版)",
+    "bookname": "幼儿卫生学(第三版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081803",
-    "bookname": "V课改新教材语文(基础模块)上册",
+    "bookname": "课改新教材语文(基础模块)上册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081804",
-    "bookname": "V心理健康教育/姚本先",
+    "bookname": "心理健康教育/姚本先",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081805",
-    "bookname": "V心理健康(附网络资源帐号)(单色)/邹泓、黄才华",
+    "bookname": "心理健康(附网络资源帐号)(单色)/邹泓、黄才华",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081806",
-    "bookname": "V阅读和写作三/中师用",
+    "bookname": "阅读和写作三/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081807",
-    "bookname": "V职业道德与法律/人教教材中心",
+    "bookname": "职业道德与法律/人教教材中心",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081808",
-    "bookname": "V小学数学教材教法(二)/中师用",
+    "bookname": "小学数学教材教法(二)/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081809",
-    "bookname": "V课改新教材物理(电子电工类)学生练习册",
+    "bookname": "课改新教材物理(电子电工类)学生练习册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081810",
-    "bookname": "V课改新教材数学(基础模块)上册",
+    "bookname": "课改新教材数学(基础模块)上册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081811",
-    "bookname": "V应用文写作教程/金振邦",
+    "bookname": "应用文写作教程/金振邦",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081812",
-    "bookname": "V素质与修养/徐曙光",
+    "bookname": "素质与修养/徐曙光",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081813",
-    "bookname": "V哲学常识(中师用)",
+    "bookname": "哲学常识(中师用)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081814",
-    "bookname": "V幼儿园语言教育活动指导/周兢",
+    "bookname": "幼儿园语言教育活动指导/周兢",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081815",
-    "bookname": "V绘画一(新版)/幼师学校教材",
+    "bookname": "绘画一(新版)/幼师学校教材",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081816",
-    "bookname": "V阅读和写作第4册/中等师范用书",
+    "bookname": "阅读和写作第4册/中等师范用书",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081817",
-    "bookname": "V手工一(新版)/幼师学校教材",
+    "bookname": "手工一(新版)/幼师学校教材",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081818",
-    "bookname": "V课改新教材语文(职业模块 服务类)(彩色版)",
+    "bookname": "课改新教材语文(职业模块 服务类)(彩色版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081819",
-    "bookname": "V公共艺术音乐篇/杜永寿",
+    "bookname": "公共艺术音乐篇/杜永寿",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081820",
-    "bookname": "V代数与初等函数一/中师用",
+    "bookname": "代数与初等函数一/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081821",
-    "bookname": "V阅读和写作三/幼师用",
+    "bookname": "阅读和写作三/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081822",
-    "bookname": "V小学教育学(中师用)",
+    "bookname": "小学教育学(中师用)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081823",
-    "bookname": "V现代汉语知识二(中师用)",
+    "bookname": "现代汉语知识二(中师用)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081824",
-    "bookname": "V语文(职业模块)(理工类附网络资源帐号)/郑国民 赵君虎",
+    "bookname": "语文(职业模块)(理工类附网络资源帐号)/郑国民 赵君虎",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081825",
-    "bookname": "V课改新教材数学(基础模块)下册",
+    "bookname": "课改新教材数学(基础模块)下册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081826",
-    "bookname": "V英语1/刘黛琳",
+    "bookname": "英语1/刘黛琳",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081827",
-    "bookname": "V阅读和写作(试用本)教学参考书第四册(刘真福)/幼师用",
+    "bookname": "阅读和写作(试用本)教学参考书第四册(刘真福)/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081828",
-    "bookname": "V英语 (走向未来) 第四册 学生用书/人教职教中心",
+    "bookname": "英语 (走向未来) 第四册 学生用书/人教职教中心",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081829",
-    "bookname": "V音乐欣赏一册(幼师用)",
+    "bookname": "音乐欣赏一册(幼师用)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081830",
-    "bookname": "V图案2册(新版)",
+    "bookname": "图案2册(新版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081831",
-    "bookname": "V幼儿图案第一册(幼师学校教材)",
+    "bookname": "幼儿图案第一册(幼师学校教材)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081832",
-    "bookname": "V物理(通用类)教师教学用书/尚志平",
+    "bookname": "物理(通用类)教师教学用书/尚志平",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081833",
-    "bookname": "V生物学二",
+    "bookname": "生物学二",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081834",
-    "bookname": "V幼儿心理学新编教师参考书/王振宇",
+    "bookname": "幼儿心理学新编教师参考书/王振宇",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081835",
-    "bookname": "V手工2册(新版)",
+    "bookname": "手工2册(新版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081836",
-    "bookname": "V课改新教材心理健康 教师教学用书(配盘)/邹泓",
+    "bookname": "课改新教材心理健康 教师教学用书(配盘)/邹泓",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081837",
-    "bookname": "V现代汉语知识一/中师用",
+    "bookname": "现代汉语知识一/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081838",
-    "bookname": "V英语(走向未来)教学参考书第一册",
+    "bookname": "英语(走向未来)教学参考书第一册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081839",
-    "bookname": "V语文(拓展模块)学生用书(彩色版)(附学习卡帐号)/郑国民 赵君虎",
+    "bookname": "语文(拓展模块)学生用书(彩色版)(附学习卡帐号)/郑国民 赵君虎",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081840",
-    "bookname": "V听话和说话第二册",
+    "bookname": "听话和说话第二册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081841",
-    "bookname": "V阅读和写作二/幼师用",
+    "bookname": "阅读和写作二/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081842",
-    "bookname": "V课改新教材语文(基础模块)下册(彩色版)",
+    "bookname": "课改新教材语文(基础模块)下册(彩色版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081843",
-    "bookname": "V幼儿文学/幼师用",
+    "bookname": "幼儿文学/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081844",
-    "bookname": "V幼师学校教材 化学(试用本)上册 一年级第一学期/冷燕平",
+    "bookname": "幼师学校教材 化学(试用本)上册 一年级第一学期/冷燕平",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081845",
-    "bookname": "V阅读和写作(第1册)/刘真福",
+    "bookname": "阅读和写作(第1册)/刘真福",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081846",
-    "bookname": "V幼儿唱歌第二册(幼师学校教材)",
+    "bookname": "幼儿唱歌第二册(幼师学校教材)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081847",
-    "bookname": "V物理学一/中师用",
+    "bookname": "物理学一/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081848",
-    "bookname": "V英语 (走向未来) 第四册 教师用书 /人教职教中心",
+    "bookname": "英语 (走向未来) 第四册 教师用书 /人教职教中心",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081849",
-    "bookname": "V英语 (走向未来) 第三册 教师用书 /人教英语课程开发中心 培生",
+    "bookname": "英语 (走向未来) 第三册 教师用书 /人教英语课程开发中心 培生",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081850",
-    "bookname": "V英语 (走向未来) 第三册 学生用书/人教英语课程开发中心 培生教",
+    "bookname": "英语 (走向未来) 第三册 学生用书/人教英语课程开发中心 培生教",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081851",
-    "bookname": "V公共艺术美术篇/刘冬辉",
+    "bookname": "公共艺术美术篇/刘冬辉",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081852",
-    "bookname": "V幼儿师范学校教材幼儿心理学(第二版)/王振宇",
+    "bookname": "幼儿师范学校教材幼儿心理学(第二版)/王振宇",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081853",
-    "bookname": "V课改新教材物理(电子电工类)教师教学用书(配盘)",
+    "bookname": "课改新教材物理(电子电工类)教师教学用书(配盘)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081854",
-    "bookname": "V幼师学校教材 阅读文选 (试用本) 第一册 (一年级第一学期)/刘真",
+    "bookname": "幼师学校教材 阅读文选 (试用本) 第一册 (一年级第一学期)/刘真",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081855",
-    "bookname": "V语文(基础模块)(上册)国规新教材/郑国民",
+    "bookname": "语文(基础模块)(上册)国规新教材/郑国民",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081856",
-    "bookname": "V阅读文选三/幼师用",
+    "bookname": "阅读文选三/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081857",
-    "bookname": "V学前教育学(人教版)/陈幸军",
+    "bookname": "学前教育学(人教版)/陈幸军",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081858",
-    "bookname": "V中国历史(全)/中师用",
+    "bookname": "中国历史(全)/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081859",
-    "bookname": "V英语(走向未来第二册)第一学年第二学期使用",
+    "bookname": "英语(走向未来第二册)第一学年第二学期使用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081860",
-    "bookname": "V生物学第一册 中等师范学校教科书(试用本)",
+    "bookname": "生物学第一册 中等师范学校教科书(试用本)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081861",
-    "bookname": "V英语(走向未来第二册)第二学期使用教参",
+    "bookname": "英语(走向未来第二册)第二学期使用教参",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081862",
-    "bookname": "V课改新教材物理(通用类)",
+    "bookname": "课改新教材物理(通用类)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081863",
-    "bookname": "V心理健康/邹弘 黄才华",
+    "bookname": "心理健康/邹弘 黄才华",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081864",
-    "bookname": "V体育与健康(南方版)/耿培新",
+    "bookname": "体育与健康(南方版)/耿培新",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081865",
-    "bookname": "V幼儿园美术教育活动指导",
+    "bookname": "幼儿园美术教育活动指导",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081866",
-    "bookname": "V课改新教材语文(职业模块 理工类)教师教学用书/郑国民 赵君虎",
+    "bookname": "课改新教材语文(职业模块 理工类)教师教学用书/郑国民 赵君虎",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081867",
-    "bookname": "V课改新教材职业道德与法律 教师教学用书(配盘)",
+    "bookname": "课改新教材职业道德与法律 教师教学用书(配盘)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081868",
-    "bookname": "V语文(基础模块)(上册)(教师教学用书)(配教学光盘)国规新教材/郑",
+    "bookname": "语文(基础模块)(上册)(教师教学用书)(配教学光盘)国规新教材/郑",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081869",
-    "bookname": "V课改新教材数学(基础模块)上册 教师教学用书(配盘)",
+    "bookname": "课改新教材数学(基础模块)上册 教师教学用书(配盘)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081870",
-    "bookname": "V课改新教材语文(职业模块 服务类)教师教学用书",
+    "bookname": "课改新教材语文(职业模块 服务类)教师教学用书",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081871",
-    "bookname": "V数学(上册)",
+    "bookname": "数学(上册)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081872",
-    "bookname": "V音乐(试用本)第一册(中师用)(一年级一学年)/陈伟 杜永寿",
+    "bookname": "音乐(试用本)第一册(中师用)(一年级一学年)/陈伟 杜永寿",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081873",
-    "bookname": "V阅读文选二/幼师用",
+    "bookname": "阅读文选二/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081874",
-    "bookname": "V听话和说话(第一册)/刘真福",
+    "bookname": "听话和说话(第一册)/刘真福",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081875",
-    "bookname": "V美术第一册 中等师范学校教科书(试用本)",
+    "bookname": "美术第一册 中等师范学校教科书(试用本)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081876",
-    "bookname": "V幼儿文学作品选读/幼师用",
+    "bookname": "幼儿文学作品选读/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081877",
-    "bookname": "V幼师学校教材 世界历史 (试用本) 全一册/陈其",
+    "bookname": "幼师学校教材 世界历史 (试用本) 全一册/陈其",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081878",
-    "bookname": "V中华传统文化篇诵读导引(第一册)",
+    "bookname": "中华传统文化篇诵读导引(第一册)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081879",
-    "bookname": "V课改新教材语文(基础模块)下册 教师教学用书(配盘)",
+    "bookname": "课改新教材语文(基础模块)下册 教师教学用书(配盘)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081880",
-    "bookname": "V舞蹈(全一册)/幼儿师范学校教科书(试用本)",
+    "bookname": "舞蹈(全一册)/幼儿师范学校教科书(试用本)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081881",
-    "bookname": "V音乐欣赏(第二册)/陈伟(幼师学校教材)",
+    "bookname": "音乐欣赏(第二册)/陈伟(幼师学校教材)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081882",
-    "bookname": "V幼儿园教师教育技能/陈幸军",
+    "bookname": "幼儿园教师教育技能/陈幸军",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081883",
-    "bookname": "V中华传统文化篇诵读导引(第二册)",
+    "bookname": "中华传统文化篇诵读导引(第二册)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081884",
-    "bookname": "V课改新教材语文(拓展模块)教师教学用书",
+    "bookname": "课改新教材语文(拓展模块)教师教学用书",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081885",
-    "bookname": "V课改新教材物理(机械建筑类)",
+    "bookname": "课改新教材物理(机械建筑类)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081886",
-    "bookname": "V美术二(中师用)",
+    "bookname": "美术二(中师用)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081887",
-    "bookname": "V美术三/中师用",
+    "bookname": "美术三/中师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081888",
-    "bookname": "V阅读和写作四/幼师用",
+    "bookname": "阅读和写作四/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081889",
-    "bookname": "V课改新教材数学(基础模块)下册 教师教学用书 (配盘)",
+    "bookname": "课改新教材数学(基础模块)下册 教师教学用书 (配盘)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081890",
-    "bookname": "V课改新教材物理(电子电工类)",
+    "bookname": "课改新教材物理(电子电工类)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081891",
-    "bookname": "V地理/韦志榕",
+    "bookname": "地理/韦志榕",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081892",
-    "bookname": "V数学(下册)",
+    "bookname": "数学(下册)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081893",
-    "bookname": "V幼师学校课本 幼儿教育学(第三版)",
+    "bookname": "幼师学校课本 幼儿教育学(第三版)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081894",
-    "bookname": "V中师地理(试用本全一册)",
+    "bookname": "中师地理(试用本全一册)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081895",
-    "bookname": "V摄影技术与数码照片处理 职业教育国家规划教材 /石翠红",
+    "bookname": "摄影技术与数码照片处理 职业教育国家规划教材 /石翠红",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081896",
-    "bookname": "V物理/尚志平",
+    "bookname": "物理/尚志平",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081897",
-    "bookname": "V阅读文选四/幼师用",
+    "bookname": "阅读文选四/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081898",
-    "bookname": "V英语1教师教学用书/刘黛琳",
+    "bookname": "英语1教师教学用书/刘黛琳",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081899",
-    "bookname": "V体育与健康(南方版)教师教学用书",
+    "bookname": "体育与健康(南方版)教师教学用书",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081900",
-    "bookname": "V幼师学校教材 中国历史 (试用本) 全一册 (二年级)/余桂元 等",
+    "bookname": "幼师学校教材 中国历史 (试用本) 全一册 (二年级)/余桂元 等",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081901",
-    "bookname": "V 3DS MAX 2010三维设计与制作 寇义锋/职业教育国家规划教材",
+    "bookname": " 3DS MAX 2010三维设计与制作 寇义锋/职业教育国家规划教材",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081902",
-    "bookname": "V职业教育国家规划教材 常用工具软件/李斌",
+    "bookname": "职业教育国家规划教材 常用工具软件/李斌",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0081903",
-    "bookname": "V幼师生职业规划与就业指导",
+    "bookname": "幼师生职业规划与就业指导",
     "publishing": "华中师大"
 },
 {
     "subscribeCode": "18CJ0081904",
-    "bookname": "V幼儿园环境创设与利用/陈志超",
+    "bookname": "幼儿园环境创设与利用/陈志超",
     "publishing": "华中师大"
 },
 {
     "subscribeCode": "18CJ0081905",
-    "bookname": "V课堂教学简笔画绘制技能/蒋啸镝",
+    "bookname": "课堂教学简笔画绘制技能/蒋啸镝",
     "publishing": "湖南师大"
 },
 {
     "subscribeCode": "18CJ0081906",
-    "bookname": "V钢琴即兴伴奏儿童68首",
+    "bookname": "钢琴即兴伴奏儿童68首",
     "publishing": "上音学院"
 },
 {
     "subscribeCode": "18CJ0081907",
-    "bookname": "V简谱钢琴即兴伴奏儿歌68首/辛笛",
+    "bookname": "简谱钢琴即兴伴奏儿歌68首/辛笛",
     "publishing": "上音学院"
 },
 {
     "subscribeCode": "18CJ0081908",
-    "bookname": "V快乐音符",
+    "bookname": "快乐音符",
     "publishing": "上音学院"
 },
 {
     "subscribeCode": "18CJ0081909",
-    "bookname": "V基本乐理综合练习与模拟试题(第五版)/蒋军荣",
+    "bookname": "基本乐理综合练习与模拟试题(第五版)/蒋军荣",
     "publishing": "上音学院"
 },
 {
     "subscribeCode": "18CJ0081910",
-    "bookname": "V中西方音乐史考试纲要/田可文",
+    "bookname": "中西方音乐史考试纲要/田可文",
     "publishing": "上音学院"
 },
 {
     "subscribeCode": "18CJ0081911",
-    "bookname": "V物理教学参考书(机械建筑类)(修订版)/丁振华",
+    "bookname": "物理教学参考书(机械建筑类)(修订版)/丁振华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081912",
-    "bookname": "V色彩(三年级)/姚魏",
+    "bookname": "色彩(三年级)/姚魏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081913",
-    "bookname": "V秘书英语(2版)/何群",
+    "bookname": "秘书英语(2版)/何群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081914",
-    "bookname": "V英语基础教程3",
+    "bookname": "英语基础教程3",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081915",
-    "bookname": "V英语基础教程同步练习3",
+    "bookname": "英语基础教程同步练习3",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081916",
-    "bookname": "V幼儿园教学活动设计与实施",
+    "bookname": "幼儿园教学活动设计与实施",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081917",
-    "bookname": "V中等职业学校专业教学标准教育类(第二辑)",
+    "bookname": "中等职业学校专业教学标准教育类(第二辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081918",
-    "bookname": "V化学实验与实践活动(农林牧渔类)(附学习卡/防伪标)/刘斌、徐莹",
+    "bookname": "化学实验与实践活动(农林牧渔类)(附学习卡/防伪标)/刘斌、徐莹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081919",
-    "bookname": "V英语练习册预备级(引进版)(第2版)(另配录音带1盒)/编写组",
+    "bookname": "英语练习册预备级(引进版)(第2版)(另配录音带1盒)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081920",
-    "bookname": "V CAD/CAM实训指导—UG软件应用实例/凌萃祥",
+    "bookname": " CAD/CAM实训指导—UG软件应用实例/凌萃祥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081921",
-    "bookname": "V中等职业学校专业教学标准(试行)-文化艺术类(第一辑)",
+    "bookname": "中等职业学校专业教学标准(试行)-文化艺术类(第一辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081922",
-    "bookname": "V建筑制图与识图习题集(第2版)/陆叔华",
+    "bookname": "建筑制图与识图习题集(第2版)/陆叔华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081923",
-    "bookname": "V茶艺服务/郑春英",
+    "bookname": "茶艺服务/郑春英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081924",
-    "bookname": "V旅行社服务案例分析(徐云松)",
+    "bookname": "旅行社服务案例分析(徐云松)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081925",
-    "bookname": "V液压与气压传动学习指导与练习(第2版)",
+    "bookname": "液压与气压传动学习指导与练习(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081926",
-    "bookname": "V电工基础学习指导与练习/周邵敏",
+    "bookname": "电工基础学习指导与练习/周邵敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081927",
-    "bookname": "V中等职业学校专业教学标准土木水利类(第二辑)",
+    "bookname": "中等职业学校专业教学标准土木水利类(第二辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081928",
-    "bookname": "V机械基础学习指导与练习/编写组",
+    "bookname": "机械基础学习指导与练习/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081929",
-    "bookname": "V英语练习册(1)(基本版) /中等职业学校英语教材编写组",
+    "bookname": "英语练习册(1)(基本版) /中等职业学校英语教材编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081930",
-    "bookname": "V文件档案整理规范及实训(附学习卡/防伪标",
+    "bookname": "文件档案整理规范及实训(附学习卡/防伪标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081931",
-    "bookname": "V语文教学参考书(提高版)(第一册)/顾黄初、谢海泉",
+    "bookname": "语文教学参考书(提高版)(第一册)/顾黄初、谢海泉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081932",
-    "bookname": "V英语练习册(服务类)(职业模块)/编写组",
+    "bookname": "英语练习册(服务类)(职业模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081933",
-    "bookname": "V金属加工与实训—车工实训练习册/蒋增福",
+    "bookname": "金属加工与实训—车工实训练习册/蒋增福",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081934",
-    "bookname": "V财务管理教学参考书(第3版)/张海林",
+    "bookname": "财务管理教学参考书(第3版)/张海林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081935",
-    "bookname": "V烹饪基本功训练(附学习卡/防伪标)/王启武",
+    "bookname": "烹饪基本功训练(附学习卡/防伪标)/王启武",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081936",
-    "bookname": "V汽车电工电子基础学习指导与练习(第2版)国规配套/沈忆宁",
+    "bookname": "汽车电工电子基础学习指导与练习(第2版)国规配套/沈忆宁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081937",
-    "bookname": "V金属加工与实训练习册(第2版)",
+    "bookname": "金属加工与实训练习册(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081938",
-    "bookname": "V企业财务会计教学参考书(第4版)/耿金岭、李春友",
+    "bookname": "企业财务会计教学参考书(第4版)/耿金岭、李春友",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081939",
-    "bookname": "V公共关系基础(第2版)教参/孙宝水",
+    "bookname": "公共关系基础(第2版)教参/孙宝水",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081940",
-    "bookname": "V车工工艺与技能训练",
+    "bookname": "车工工艺与技能训练",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081941",
-    "bookname": "V金属加工与实训—钳工实训练习册/蒋增福",
+    "bookname": "金属加工与实训—钳工实训练习册/蒋增福",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081942",
-    "bookname": "V英语练习册(2)(基本版)",
+    "bookname": "英语练习册(2)(基本版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081943",
-    "bookname": "V建筑构造学习指导与练习/孙鲁",
+    "bookname": "建筑构造学习指导与练习/孙鲁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081944",
-    "bookname": "V英语练习册(工科类)(职业模块)/编写组",
+    "bookname": "英语练习册(工科类)(职业模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081945",
-    "bookname": "V英语练习册1(基本版)(第2版)/编写组",
+    "bookname": "英语练习册1(基本版)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081946",
-    "bookname": "V钳工工艺与技能训练题集/徐冬元",
+    "bookname": "钳工工艺与技能训练题集/徐冬元",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081947",
-    "bookname": "V中等职业学校数学测评卷(下册)(附学习卡/防仿标)/金长发",
+    "bookname": "中等职业学校数学测评卷(下册)(附学习卡/防仿标)/金长发",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081948",
-    "bookname": "V饭店服务与管理英语(第2版)/郭兆康",
+    "bookname": "饭店服务与管理英语(第2版)/郭兆康",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081949",
-    "bookname": "V珠算技术练习册/孙明德",
+    "bookname": "珠算技术练习册/孙明德",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081950",
-    "bookname": "V土木工程力学基础学习指导与练习/王仁田",
+    "bookname": "土木工程力学基础学习指导与练习/王仁田",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081951",
-    "bookname": "V保安服务概述/徐振雷",
+    "bookname": "保安服务概述/徐振雷",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081952",
-    "bookname": "V餐饮成本核算(第3版)(附学习卡/防伪标)/黄丹、何海兰",
+    "bookname": "餐饮成本核算(第3版)(附学习卡/防伪标)/黄丹、何海兰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081953",
-    "bookname": "V建筑装饰设计基础/崔贺亭、童霞",
+    "bookname": "建筑装饰设计基础/崔贺亭、童霞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081954",
-    "bookname": "V砌筑工初级技能/韩洪彬、苏军",
+    "bookname": "砌筑工初级技能/韩洪彬、苏军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081955",
-    "bookname": "V英语练习册1(基础模块)/编写组",
+    "bookname": "英语练习册1(基础模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081956",
-    "bookname": "V编制财务报表及分析",
+    "bookname": "编制财务报表及分析",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081957",
-    "bookname": "V机械制造技术基础教学参考书/葛金印",
+    "bookname": "机械制造技术基础教学参考书/葛金印",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081958",
-    "bookname": "V文字录入/赵殊",
+    "bookname": "文字录入/赵殊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081959",
-    "bookname": "V化学学习指导与练习(通用类)(附学习卡/防伪标)/刘斌、张龙",
+    "bookname": "化学学习指导与练习(通用类)(附学习卡/防伪标)/刘斌、张龙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081960",
-    "bookname": "V企业管理基础知识学习指导与练习/张荣胜",
+    "bookname": "企业管理基础知识学习指导与练习/张荣胜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081961",
-    "bookname": "V计算机英语(第二版)/汤惠民",
+    "bookname": "计算机英语(第二版)/汤惠民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081962",
-    "bookname": "V金属加工与实训—焊工实训/李荣雪",
+    "bookname": "金属加工与实训—焊工实训/李荣雪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081963",
-    "bookname": "V化工制图习题集(第2版)/韩玉秀",
+    "bookname": "化工制图习题集(第2版)/韩玉秀",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081964",
-    "bookname": "V全国中职汽车运用与维修技能大赛完全训练手册/侯文胜",
+    "bookname": "全国中职汽车运用与维修技能大赛完全训练手册/侯文胜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081965",
-    "bookname": "V硬笔书法/杜继双 左其琨",
+    "bookname": "硬笔书法/杜继双 左其琨",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081966",
-    "bookname": "V礼仪修养(第二版)(防伪标)/李柠",
+    "bookname": "礼仪修养(第二版)(防伪标)/李柠",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081967",
-    "bookname": "V语文练习册(基础版)第三册(修订版)/苏立康",
+    "bookname": "语文练习册(基础版)第三册(修订版)/苏立康",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081968",
-    "bookname": "V中等职业学校专业教学标准(试行)-旅游服务类(第一辑)",
+    "bookname": "中等职业学校专业教学标准(试行)-旅游服务类(第一辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081969",
-    "bookname": "V金属加工与实训—铣工实训(附光盘)(附学习卡/防伪标)/冯国强",
+    "bookname": "金属加工与实训—铣工实训(附光盘)(附学习卡/防伪标)/冯国强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081970",
-    "bookname": "V机械制图习题集(机械类)第2版冯秋官",
+    "bookname": "机械制图习题集(机械类)第2版冯秋官",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081971",
-    "bookname": "V中等职业学校专业教学标准旅游服务类(第二辑)",
+    "bookname": "中等职业学校专业教学标准旅游服务类(第二辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081972",
-    "bookname": "V汽车电气结构与拆装/江国奋",
+    "bookname": "汽车电气结构与拆装/江国奋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081973",
-    "bookname": "V饭店服务英语(第二版)/陈根培",
+    "bookname": "饭店服务英语(第二版)/陈根培",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081974",
-    "bookname": "V建筑工程测量/魏静、李明庚",
+    "bookname": "建筑工程测量/魏静、李明庚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081975",
-    "bookname": "V珠算技术/孙明德",
+    "bookname": "珠算技术/孙明德",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081976",
-    "bookname": "V英语1 基础模块练习册(第2版)/编写组",
+    "bookname": "英语1 基础模块练习册(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081977",
-    "bookname": "V财务会计习题集/毛波军",
+    "bookname": "财务会计习题集/毛波军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081978",
-    "bookname": "V计算机绘图-AUTOCAD2004习题集/赵国增",
+    "bookname": "计算机绘图-AUTOCAD2004习题集/赵国增",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081979",
-    "bookname": "V服装材料习题集(第三版)(附学习卡/防伪标)/刘小君",
+    "bookname": "服装材料习题集(第三版)(附学习卡/防伪标)/刘小君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081980",
-    "bookname": "V数控机床维修/蒋红平",
+    "bookname": "数控机床维修/蒋红平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081981",
-    "bookname": "V数学基础能力训练(拓展模块)/范波，潘万伟",
+    "bookname": "数学基础能力训练(拓展模块)/范波，潘万伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081982",
-    "bookname": "V ACCESS学习辅导上机实习(第二版)/孙瑞新",
+    "bookname": " ACCESS学习辅导上机实习(第二版)/孙瑞新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081983",
-    "bookname": "V保安人文素养/李祖辉",
+    "bookname": "保安人文素养/李祖辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081984",
-    "bookname": "V数控铣床和加工中心操作与编程技能训练/宋昀",
+    "bookname": "数控铣床和加工中心操作与编程技能训练/宋昀",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081985",
-    "bookname": "V幼师英语教师参考书(邱耀德)",
+    "bookname": "幼师英语教师参考书(邱耀德)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081986",
-    "bookname": "V语文练习册(基础版)第一册(修订版)/苏立康",
+    "bookname": "语文练习册(基础版)第一册(修订版)/苏立康",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081987",
-    "bookname": "V导游语言技巧/刘伟",
+    "bookname": "导游语言技巧/刘伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081988",
-    "bookname": "V物流法律法规/郑彬",
+    "bookname": "物流法律法规/郑彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081989",
-    "bookname": "V旅游概论(第三版)(附学习卡/防伪标)/李光坚",
+    "bookname": "旅游概论(第三版)(附学习卡/防伪标)/李光坚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081990",
-    "bookname": "V酒店公共关系(第二版)(附学习卡/防伪标)/余春容 王少棠",
+    "bookname": "酒店公共关系(第二版)(附学习卡/防伪标)/余春容 王少棠",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081991",
-    "bookname": "V车工工艺与技能训练题集教育部规划配套/蒋增福",
+    "bookname": "车工工艺与技能训练题集教育部规划配套/蒋增福",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081992",
-    "bookname": "V英语1(基本版)/编写组",
+    "bookname": "英语1(基本版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081993",
-    "bookname": "V统计基础实训/娄庆松",
+    "bookname": "统计基础实训/娄庆松",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081994",
-    "bookname": "V养殖场环境卫生与控制/李蕴玉",
+    "bookname": "养殖场环境卫生与控制/李蕴玉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081995",
-    "bookname": "V农产品储藏与加工/龚双江",
+    "bookname": "农产品储藏与加工/龚双江",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081996",
-    "bookname": "V公共关系基础练习册(第二版)/孙宝水",
+    "bookname": "公共关系基础练习册(第二版)/孙宝水",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081997",
-    "bookname": "V英语预备级练习册(基础模块)/编写组",
+    "bookname": "英语预备级练习册(基础模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081998",
-    "bookname": "V英语3练习册(基础模块)(第2版)/编写组",
+    "bookname": "英语3练习册(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0081999",
-    "bookname": "V汽车营销/杜英姿",
+    "bookname": "汽车营销/杜英姿",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082000",
-    "bookname": "V硬笔楷书练习册/编写组",
+    "bookname": "硬笔楷书练习册/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082001",
-    "bookname": "V电子产品检验(第二版)(附学习卡/防伪标)/刘豫东 李春雷 曹德跃",
+    "bookname": "电子产品检验(第二版)(附学习卡/防伪标)/刘豫东 李春雷 曹德跃",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082002",
-    "bookname": "V职业生涯规划学习指导(修订版)(附学习卡/防伪标)/蒋乃平、杜爱",
+    "bookname": "职业生涯规划学习指导(修订版)(附学习卡/防伪标)/蒋乃平、杜爱",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082003",
-    "bookname": "V中等职业学校专业教学标准(试行)-交通运输类(第一辑)",
+    "bookname": "中等职业学校专业教学标准(试行)-交通运输类(第一辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082004",
-    "bookname": "V民航服务概论/汪燕",
+    "bookname": "民航服务概论/汪燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082005",
-    "bookname": "V英语2(基本版)/编写组",
+    "bookname": "英语2(基本版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082006",
-    "bookname": "V物流客户服务/李满玉",
+    "bookname": "物流客户服务/李满玉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082007",
-    "bookname": "V中式烹调技艺同步练习/洪晓勇",
+    "bookname": "中式烹调技艺同步练习/洪晓勇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082008",
-    "bookname": "V语文(提高版)第一册(附学习卡/防伪标)/顾黄初，谢海泉",
+    "bookname": "语文(提高版)第一册(附学习卡/防伪标)/顾黄初，谢海泉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082009",
-    "bookname": "V汽车维修基础/王殿中",
+    "bookname": "汽车维修基础/王殿中",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082010",
-    "bookname": "V中职生安全知识读本/蒋乃平",
+    "bookname": "中职生安全知识读本/蒋乃平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082011",
-    "bookname": "V汽车附属电气设备及车身电控系统/张智",
+    "bookname": "汽车附属电气设备及车身电控系统/张智",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082012",
-    "bookname": "V幼儿教育心理学学习与指导/于翠华 冯波",
+    "bookname": "幼儿教育心理学学习与指导/于翠华 冯波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082013",
-    "bookname": "V幼儿文学教学指导与实践/刘惠红",
+    "bookname": "幼儿文学教学指导与实践/刘惠红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082014",
-    "bookname": "V中国饮食文化(第二版)(附学习卡/防伪标)/李曦",
+    "bookname": "中国饮食文化(第二版)(附学习卡/防伪标)/李曦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082015",
-    "bookname": "V机械制图与计算机绘图习题集/赵国增等",
+    "bookname": "机械制图与计算机绘图习题集/赵国增等",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082016",
-    "bookname": "V护理概论 /齐秀泽",
+    "bookname": "护理概论 /齐秀泽",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082017",
-    "bookname": "V幼儿歌曲弹唱教程（附学习卡/防伪标）/李倩",
+    "bookname": "幼儿歌曲弹唱教程（附学习卡/防伪标）/李倩",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082018",
-    "bookname": "V CAD/CAM实训—CAXA软件应用上机指导(附光盘)/李超",
+    "bookname": " CAD/CAM实训—CAXA软件应用上机指导(附光盘)/李超",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082019",
-    "bookname": "V美育基础知识(第二版)/刘爱益",
+    "bookname": "美育基础知识(第二版)/刘爱益",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082020",
-    "bookname": "V物理练习册(机械建筑类)(修订版)(附学习卡/防伪标)/丁振华",
+    "bookname": "物理练习册(机械建筑类)(修订版)(附学习卡/防伪标)/丁振华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082021",
-    "bookname": "V现代快餐/杨铭泽",
+    "bookname": "现代快餐/杨铭泽",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082022",
-    "bookname": "V菜单设计/邵万宽",
+    "bookname": "菜单设计/邵万宽",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082023",
-    "bookname": "V语文(基础版)(第二册)(修订版)(附学习卡)/倪文锦",
+    "bookname": "语文(基础版)(第二册)(修订版)(附学习卡)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082024",
-    "bookname": "V物理(基础版)(下册)(第二版)(附学习卡)/邵长泰",
+    "bookname": "物理(基础版)(下册)(第二版)(附学习卡)/邵长泰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082025",
-    "bookname": "V机械基础练习册(第2版)/吴联兴",
+    "bookname": "机械基础练习册(第2版)/吴联兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082026",
-    "bookname": "V机械制图习题集 /作者钱可强",
+    "bookname": "机械制图习题集 /作者钱可强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082027",
-    "bookname": "V汽车使用性能与检测(第二版)/王勇",
+    "bookname": "汽车使用性能与检测(第二版)/王勇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082028",
-    "bookname": "V极限配合与技术测量学习与实验指导(第2版)(附学习卡/防伪标)/李",
+    "bookname": "极限配合与技术测量学习与实验指导(第2版)(附学习卡/防伪标)/李",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082029",
-    "bookname": "V钢筋翻样及加工/陈安生",
+    "bookname": "钢筋翻样及加工/陈安生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082030",
-    "bookname": "V语文学习指导与能力训练(共用基础平台) 第一册(修订版)/于黔勋",
+    "bookname": "语文学习指导与能力训练(共用基础平台) 第一册(修订版)/于黔勋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082031",
-    "bookname": "V语文(职业模块财经、商贸及服务类)(黑白)(修订版)(附学习卡/防",
+    "bookname": "语文(职业模块财经、商贸及服务类)(黑白)(修订版)(附学习卡/防",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082032",
-    "bookname": "V汽车营销(第2版)/杜英姿 杨晓燕",
+    "bookname": "汽车营销(第2版)/杜英姿 杨晓燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082033",
-    "bookname": "V职业指导与创业教育/尚志平",
+    "bookname": "职业指导与创业教育/尚志平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082034",
-    "bookname": "V应用写作练习册/孙宝水",
+    "bookname": "应用写作练习册/孙宝水",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082035",
-    "bookname": "V幼儿口语沟通技巧/陈怡茑",
+    "bookname": "幼儿口语沟通技巧/陈怡茑",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082036",
-    "bookname": "V建筑制图与识图学习指导与练习/陆叔华",
+    "bookname": "建筑制图与识图学习指导与练习/陆叔华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082037",
-    "bookname": "V物理练习册(通用类)(修订版)(附学习卡/防伪标) /张明明",
+    "bookname": "物理练习册(通用类)(修订版)(附学习卡/防伪标) /张明明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082038",
-    "bookname": "V服装缝制工艺习题集(第二版)(教育部)(附学习卡/防伪标)/刘运生",
+    "bookname": "服装缝制工艺习题集(第二版)(教育部)(附学习卡/防伪标)/刘运生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082039",
-    "bookname": "V民航服务礼仪/刘宇虹",
+    "bookname": "民航服务礼仪/刘宇虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082040",
-    "bookname": "V基础会计教学参考书(第4版)/张玉森",
+    "bookname": "基础会计教学参考书(第4版)/张玉森",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082041",
-    "bookname": "V计算机网络技术(第2版)",
+    "bookname": "计算机网络技术(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082042",
-    "bookname": "V化学学习指导与练习(农林牧渔类)(附学习卡/防伪标)/刘斌、徐莹",
+    "bookname": "化学学习指导与练习(农林牧渔类)(附学习卡/防伪标)/刘斌、徐莹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082043",
-    "bookname": "V自然科学基础知识练习与指导(附学习卡/防伪标)/毕毓俊",
+    "bookname": "自然科学基础知识练习与指导(附学习卡/防伪标)/毕毓俊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082044",
-    "bookname": "V中等职业学校学生安全教育读本(双色)/编写组",
+    "bookname": "中等职业学校学生安全教育读本(双色)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082045",
-    "bookname": "V汽车机械基础学习指导与练习/张让莘",
+    "bookname": "汽车机械基础学习指导与练习/张让莘",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082046",
-    "bookname": "V配送作业实训/蓝仁昌",
+    "bookname": "配送作业实训/蓝仁昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082047",
-    "bookname": "V语文学习指导与能力训练(共用基础平台)(第二册)(修订版)/于黔勋",
+    "bookname": "语文学习指导与能力训练(共用基础平台)(第二册)(修订版)/于黔勋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082048",
-    "bookname": "V汽车机械制图习题集(汽车运用与维修专业)(第2版)/霍振生",
+    "bookname": "汽车机械制图习题集(汽车运用与维修专业)(第2版)/霍振生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082049",
-    "bookname": "V中等职业学校专业教学标准(试行)-财经商贸类(第一辑)",
+    "bookname": "中等职业学校专业教学标准(试行)-财经商贸类(第一辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082050",
-    "bookname": "V中等职业学校专业教学标准(试行)-公共管理与服务类(第一辑)",
+    "bookname": "中等职业学校专业教学标准(试行)-公共管理与服务类(第一辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082051",
-    "bookname": "V英语预备级(引进版)(第2版)/中等职业学校英语改编组",
+    "bookname": "英语预备级(引进版)(第2版)/中等职业学校英语改编组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082052",
-    "bookname": "V数学学习与训练(基础模块)(下册)(修订版)(附学习卡/防伪标)/李",
+    "bookname": "数学学习与训练(基础模块)(下册)(修订版)(附学习卡/防伪标)/李",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082053",
-    "bookname": "V数学学习与训练(基础模块)(上册)(修订版)/李广全 陈士芹",
+    "bookname": "数学学习与训练(基础模块)(上册)(修订版)/李广全 陈士芹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082054",
-    "bookname": "V农业科学实验与新技术推广/王同坤",
+    "bookname": "农业科学实验与新技术推广/王同坤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082055",
-    "bookname": "V数学(拓展模块)(不含光盘)(修订版)/李广全",
+    "bookname": "数学(拓展模块)(不含光盘)(修订版)/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082056",
-    "bookname": "V中等职业学校专业教学标准信息技术类(第二辑)",
+    "bookname": "中等职业学校专业教学标准信息技术类(第二辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082057",
-    "bookname": "V中等职业学校专业教学标准农林牧渔类(第二辑)",
+    "bookname": "中等职业学校专业教学标准农林牧渔类(第二辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082058",
-    "bookname": "V可编程控制器技术(第二版)/张国林",
+    "bookname": "可编程控制器技术(第二版)/张国林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082059",
-    "bookname": "V数学-中职生对口升学考试总复习(综合练习册)",
+    "bookname": "数学-中职生对口升学考试总复习(综合练习册)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082060",
-    "bookname": "V建筑工程测量学习指导与练习/魏静",
+    "bookname": "建筑工程测量学习指导与练习/魏静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082061",
-    "bookname": "V语文(基础版) 第一册(修订版)/倪文锦",
+    "bookname": "语文(基础版) 第一册(修订版)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082062",
-    "bookname": "V服装结构制图习题集(第3版)(附学习卡/防伪标)/孔庆",
+    "bookname": "服装结构制图习题集(第3版)(附学习卡/防伪标)/孔庆",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082063",
-    "bookname": "V语文(职业模块工科类)(修订版)(黑白)马永飞",
+    "bookname": "语文(职业模块工科类)(修订版)(黑白)马永飞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082064",
-    "bookname": "V商务礼仪与公关/徐克美",
+    "bookname": "商务礼仪与公关/徐克美",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082065",
-    "bookname": "V语文(基础版)第四册(修订版)/倪文锦",
+    "bookname": "语文(基础版)第四册(修订版)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082066",
-    "bookname": "V公共关系基础(第2版)(附学习卡/防伪标)孙宝水",
+    "bookname": "公共关系基础(第2版)(附学习卡/防伪标)孙宝水",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082067",
-    "bookname": "V机械基础练习册(少学时)/吴联兴",
+    "bookname": "机械基础练习册(少学时)/吴联兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082068",
-    "bookname": "V传感器及其应用(第二版)(附防伪标)/谢文和、刘蕊",
+    "bookname": "传感器及其应用(第二版)(附防伪标)/谢文和、刘蕊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082069",
-    "bookname": "V演讲与口才(2版)(附学习卡/防伪标)/程在伦",
+    "bookname": "演讲与口才(2版)(附学习卡/防伪标)/程在伦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082070",
-    "bookname": "V收银员岗位技能/于家嗪",
+    "bookname": "收银员岗位技能/于家嗪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082071",
-    "bookname": "V电子技术基础学习辅导与练习/张龙兴",
+    "bookname": "电子技术基础学习辅导与练习/张龙兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082072",
-    "bookname": "V旅行社业务(第二版)(附学习卡/防伪标)/徐云松",
+    "bookname": "旅行社业务(第二版)(附学习卡/防伪标)/徐云松",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082073",
-    "bookname": "V速写基础/韩世骅",
+    "bookname": "速写基础/韩世骅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082074",
-    "bookname": "V职业能力拓展训练(附学习卡/防伪标)/杨文尧",
+    "bookname": "职业能力拓展训练(附学习卡/防伪标)/杨文尧",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082075",
-    "bookname": "V数学教学参考书(拓展模块)(附光盘)(附学习卡/防伪标)/李广全",
+    "bookname": "数学教学参考书(拓展模块)(附光盘)(附学习卡/防伪标)/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082076",
-    "bookname": "V土壤肥料(第二版)/郝玉华",
+    "bookname": "土壤肥料(第二版)/郝玉华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082077",
-    "bookname": "V职业道德与法律(修订版)(单色)(附学习卡/防伪标)/张伟",
+    "bookname": "职业道德与法律(修订版)(单色)(附学习卡/防伪标)/张伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082078",
-    "bookname": "V数学教学参考书(拓展模块)(修订版)(附光盘)(附学习卡/防伪标)/",
+    "bookname": "数学教学参考书(拓展模块)(修订版)(附光盘)(附学习卡/防伪标)/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082079",
-    "bookname": "V客户服务基础/何毓颖",
+    "bookname": "客户服务基础/何毓颖",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082080",
-    "bookname": "V数学基础能力训练(上册)/范波 潘万伟",
+    "bookname": "数学基础能力训练(上册)/范波 潘万伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082081",
-    "bookname": "V(停用)焊工工艺与技能训练/李荣雪",
+    "bookname": "(停用)焊工工艺与技能训练/李荣雪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082082",
-    "bookname": "V物理(基础版)(上册)(第二版)(附学习卡)/邵长泰",
+    "bookname": "物理(基础版)(上册)(第二版)(附学习卡)/邵长泰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082083",
-    "bookname": "V英语预备级(基础模块)/编写组",
+    "bookname": "英语预备级(基础模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082084",
-    "bookname": "V体能、队列与防卫技能训练(配盘)/吴志坚",
+    "bookname": "体能、队列与防卫技能训练(配盘)/吴志坚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082085",
-    "bookname": "V烹饪营养与卫生(2版)学习指导与训练/张怀玉",
+    "bookname": "烹饪营养与卫生(2版)学习指导与训练/张怀玉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082086",
-    "bookname": "V动物微生物及检验(第二版)(附学习卡/防伪标)/张彦明",
+    "bookname": "动物微生物及检验(第二版)(附学习卡/防伪标)/张彦明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082087",
-    "bookname": "V幼儿园活动设计与实践/杨文尧",
+    "bookname": "幼儿园活动设计与实践/杨文尧",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082088",
-    "bookname": "V建筑电工与电气设备(于承君)",
+    "bookname": "建筑电工与电气设备(于承君)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082089",
-    "bookname": "V航空港旅客服务/张黎宁",
+    "bookname": "航空港旅客服务/张黎宁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082090",
-    "bookname": "V医学遗传与优生/王学民",
+    "bookname": "医学遗传与优生/王学民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082091",
-    "bookname": "V幼儿体育(第2版)/李金泉 李荣",
+    "bookname": "幼儿体育(第2版)/李金泉 李荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082092",
-    "bookname": "V秘书礼仪基础(第二版)",
+    "bookname": "秘书礼仪基础(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082093",
-    "bookname": "V英语基础能力训练1",
+    "bookname": "英语基础能力训练1",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082094",
-    "bookname": "V中国舞蹈编导教程",
+    "bookname": "中国舞蹈编导教程",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082095",
-    "bookname": "V电工基础(第三版)/周绍敏",
+    "bookname": "电工基础(第三版)/周绍敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082096",
-    "bookname": "V学前儿童卫生保健学习与指导",
+    "bookname": "学前儿童卫生保健学习与指导",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082097",
-    "bookname": "V民航客舱服务/张黎宁 刘丽新",
+    "bookname": "民航客舱服务/张黎宁 刘丽新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082098",
-    "bookname": "V哲学与人生学习指导(修订版)/张伟、陈济",
+    "bookname": "哲学与人生学习指导(修订版)/张伟、陈济",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082099",
-    "bookname": "V英语基础教程同步练习2/诸凌虹",
+    "bookname": "英语基础教程同步练习2/诸凌虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082100",
-    "bookname": "V素描(二年级)/姬建民",
+    "bookname": "素描(二年级)/姬建民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082101",
-    "bookname": "V蔬菜生产技术(南方版)(罗东熙向才毅)",
+    "bookname": "蔬菜生产技术(南方版)(罗东熙向才毅)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082102",
-    "bookname": "V会计电算化(第3版)/赵合喜",
+    "bookname": "会计电算化(第3版)/赵合喜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082103",
-    "bookname": "V数控技术英语--职业英语系列",
+    "bookname": "数控技术英语--职业英语系列",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082104",
-    "bookname": "V畜禽产品加工(养殖.畜牧兽医专业)龚双江",
+    "bookname": "畜禽产品加工(养殖.畜牧兽医专业)龚双江",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082105",
-    "bookname": "V幼儿游戏与玩具/刘薇",
+    "bookname": "幼儿游戏与玩具/刘薇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082106",
-    "bookname": "V数控机床操作与维护技术基础--基本常识(2版)李桂云",
+    "bookname": "数控机床操作与维护技术基础--基本常识(2版)李桂云",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082107",
-    "bookname": "V货物知识/李艳霞",
+    "bookname": "货物知识/李艳霞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082108",
-    "bookname": "V汽车概论(第二版)/苏伟",
+    "bookname": "汽车概论(第二版)/苏伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082109",
-    "bookname": "V英语基础能力训练3(基础模块)",
+    "bookname": "英语基础能力训练3(基础模块)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082110",
-    "bookname": "V幼儿园活动教程(第二版)/赵玉惠",
+    "bookname": "幼儿园活动教程(第二版)/赵玉惠",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082111",
-    "bookname": "V幼儿园管理(第二版)/张宏亮",
+    "bookname": "幼儿园管理(第二版)/张宏亮",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082112",
-    "bookname": "V英语基础能力训练2(基础模块)",
+    "bookname": "英语基础能力训练2(基础模块)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082113",
-    "bookname": "V计算机网络技术（第3版）",
+    "bookname": "计算机网络技术（第3版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082114",
-    "bookname": "V美术练习与辅导/承芹",
+    "bookname": "美术练习与辅导/承芹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082115",
-    "bookname": "V语文(基础版)(第三册)(修订版)(附学习卡)/倪文锦",
+    "bookname": "语文(基础版)(第三册)(修订版)(附学习卡)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082116",
-    "bookname": "V小型制冷空调装置主编/林钢",
+    "bookname": "小型制冷空调装置主编/林钢",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082117",
-    "bookname": "V焊工初级技能/谢泽敏",
+    "bookname": "焊工初级技能/谢泽敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082118",
-    "bookname": "V应用写作(第3版)(附学习卡/防伪标)/孙宝水",
+    "bookname": "应用写作(第3版)(附学习卡/防伪标)/孙宝水",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082119",
-    "bookname": "V金属工艺学(第2版.附学习卡/防伪标)/王英杰",
+    "bookname": "金属工艺学(第2版.附学习卡/防伪标)/王英杰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082120",
-    "bookname": "V焊接技能训练(初级工)/王若愚",
+    "bookname": "焊接技能训练(初级工)/王若愚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082121",
-    "bookname": "V导游基础知识练习册/刘伟",
+    "bookname": "导游基础知识练习册/刘伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082122",
-    "bookname": "V土木工程识图习题集(房屋建筑类)/吴舒琛",
+    "bookname": "土木工程识图习题集(房屋建筑类)/吴舒琛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082123",
-    "bookname": "V饭店服务活动策划/邓敏",
+    "bookname": "饭店服务活动策划/邓敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082124",
-    "bookname": "V电子商务基础—走进电子商务/李志宏",
+    "bookname": "电子商务基础—走进电子商务/李志宏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082125",
-    "bookname": "V工程制图基础/钱克强",
+    "bookname": "工程制图基础/钱克强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082126",
-    "bookname": "V物流营销实务/程越敏",
+    "bookname": "物流营销实务/程越敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082127",
-    "bookname": "V有机化学/刘尧",
+    "bookname": "有机化学/刘尧",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082128",
-    "bookname": "V数学教学参考书(基础模块)(上册)(修订版)(附光盘)/李广全",
+    "bookname": "数学教学参考书(基础模块)(上册)(修订版)(附光盘)/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082129",
-    "bookname": "V饭店管理概论(第二版)(附学习卡/防伪标)/杜建华",
+    "bookname": "饭店管理概论(第二版)(附学习卡/防伪标)/杜建华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082130",
-    "bookname": "V汽车美容(彩色)",
+    "bookname": "汽车美容(彩色)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082131",
-    "bookname": "V舞蹈(提高版)(第2版)(附学习卡/防伪标)/陶娅",
+    "bookname": "舞蹈(提高版)(第2版)(附学习卡/防伪标)/陶娅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082132",
-    "bookname": "V语文学习指导与能力训练(基础模块)(上册)(附光盘)(修订版)/于黔",
+    "bookname": "语文学习指导与能力训练(基础模块)(上册)(附光盘)(修订版)/于黔",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082133",
-    "bookname": "V机械制图习题集(多学时)/柳燕君等",
+    "bookname": "机械制图习题集(多学时)/柳燕君等",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082134",
-    "bookname": "V汽车机械基础学习指导与练习(第2版)/张让莘",
+    "bookname": "汽车机械基础学习指导与练习(第2版)/张让莘",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082135",
-    "bookname": "V物流与配送/陈志群",
+    "bookname": "物流与配送/陈志群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082136",
-    "bookname": "V中等职业学校专业教学标准加工制造类(第二辑)",
+    "bookname": "中等职业学校专业教学标准加工制造类(第二辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082137",
-    "bookname": "V旅游应用文写作/陈怡君",
+    "bookname": "旅游应用文写作/陈怡君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082138",
-    "bookname": "V健康教育/陆涛",
+    "bookname": "健康教育/陆涛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082139",
-    "bookname": "V基础会计习题集(第三版)(基础会计(第三版)配套用书) /樊行健",
+    "bookname": "基础会计习题集(第三版)(基础会计(第三版)配套用书) /樊行健",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082140",
-    "bookname": "V前厅服务与管理练习册(第二版)/陈莹 易四清",
+    "bookname": "前厅服务与管理练习册(第二版)/陈莹 易四清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082141",
-    "bookname": "V财务管理实务",
+    "bookname": "财务管理实务",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082142",
-    "bookname": "V禽病防治(第2版)(附学习卡/防伪标)/王宝英",
+    "bookname": "禽病防治(第2版)(附学习卡/防伪标)/王宝英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082143",
-    "bookname": "V数学教学参考书(职业模块 财经、商贸与服务类)(附光盘)(附学习",
+    "bookname": "数学教学参考书(职业模块 财经、商贸与服务类)(附光盘)(附学习",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082144",
-    "bookname": "V旅游饭店教学案例分析/杨富荣",
+    "bookname": "旅游饭店教学案例分析/杨富荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082145",
-    "bookname": "V旅游资源开发与规划/赖良杰",
+    "bookname": "旅游资源开发与规划/赖良杰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082146",
-    "bookname": "V物理练习册(基础版)(第二版)/邵长泰",
+    "bookname": "物理练习册(基础版)(第二版)/邵长泰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082147",
-    "bookname": "V应用文情景写作训练/钱和生",
+    "bookname": "应用文情景写作训练/钱和生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082148",
-    "bookname": "V立体裁剪基础/戴建国",
+    "bookname": "立体裁剪基础/戴建国",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082149",
-    "bookname": "V机械制图·非机类(第2版)(附学习卡/防伪标)/毛之颖",
+    "bookname": "机械制图·非机类(第2版)(附学习卡/防伪标)/毛之颖",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082150",
-    "bookname": "V数学练习册(基础模块)(上册)",
+    "bookname": "数学练习册(基础模块)(上册)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082151",
-    "bookname": "V英语1(基础模块)(附学习卡/防伪标)/编写组",
+    "bookname": "英语1(基础模块)(附学习卡/防伪标)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082152",
-    "bookname": "V机械常识与钳工技能(第2版)/戚长政",
+    "bookname": "机械常识与钳工技能(第2版)/戚长政",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082153",
-    "bookname": "V心理健康教育(学生读本)(修订版)(附学习卡/防伪标)/黄希庭",
+    "bookname": "心理健康教育(学生读本)(修订版)(附学习卡/防伪标)/黄希庭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082154",
-    "bookname": "V经济法律法规教学参考书(第2版)/陈炳勋",
+    "bookname": "经济法律法规教学参考书(第2版)/陈炳勋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082155",
-    "bookname": "V概率论与数理统计(第2版)/金炳陶",
+    "bookname": "概率论与数理统计(第2版)/金炳陶",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082156",
-    "bookname": "V审计基础知识(第二版)/朴根虎 朱承祖",
+    "bookname": "审计基础知识(第二版)/朴根虎 朱承祖",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082157",
-    "bookname": "V民航服务专业英语/孙艳芬",
+    "bookname": "民航服务专业英语/孙艳芬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082158",
-    "bookname": "V应用文写作基础学练同步(第2版)/张金英",
+    "bookname": "应用文写作基础学练同步(第2版)/张金英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082159",
-    "bookname": "V汽车电工电子基础(第2版)/沈忆宁",
+    "bookname": "汽车电工电子基础(第2版)/沈忆宁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082160",
-    "bookname": "V英语(工科类)(职业模块)/编写组",
+    "bookname": "英语(工科类)(职业模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082161",
-    "bookname": "V书法(第2版)/王仁树",
+    "bookname": "书法(第2版)/王仁树",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082162",
-    "bookname": "V数学教学参考书(基础模块)(下册)(修订版)(附光盘)/李广全",
+    "bookname": "数学教学参考书(基础模块)(下册)(修订版)(附光盘)/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082163",
-    "bookname": "V数学教学参考书(基础模块)(下册)(附光盘)(附学习卡/防伪标)/李",
+    "bookname": "数学教学参考书(基础模块)(下册)(附光盘)(附学习卡/防伪标)/李",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082164",
-    "bookname": "V建筑力学学习指导与练习/范继昭",
+    "bookname": "建筑力学学习指导与练习/范继昭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082165",
-    "bookname": "V经济政治.职业生活(第二版)/张伟",
+    "bookname": "经济政治.职业生活(第二版)/张伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082166",
-    "bookname": "V哲学与人生(修订版)(黑白)(附学习卡/防伪标)/王霁",
+    "bookname": "哲学与人生(修订版)(黑白)(附学习卡/防伪标)/王霁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082167",
-    "bookname": "V旅游地理(第三版)(附学习卡/防伪标)/沈世忠 邹海晶/教育部规划",
+    "bookname": "旅游地理(第三版)(附学习卡/防伪标)/沈世忠 邹海晶/教育部规划",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082168",
-    "bookname": "V现代企业管理知识/张荣胜",
+    "bookname": "现代企业管理知识/张荣胜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082169",
-    "bookname": "V物理练习册(电工电子类)(修订版)(附学习卡/防伪标)/文春帆",
+    "bookname": "物理练习册(电工电子类)(修订版)(附学习卡/防伪标)/文春帆",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082170",
-    "bookname": "V传票翻打技术与训练方法/徐雷",
+    "bookname": "传票翻打技术与训练方法/徐雷",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082171",
-    "bookname": "V字体设计(第二版)/陈耀明",
+    "bookname": "字体设计(第二版)/陈耀明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082172",
-    "bookname": "V幼儿歌曲弹唱简易编配(双色) /宋萍萍",
+    "bookname": "幼儿歌曲弹唱简易编配(双色) /宋萍萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082173",
-    "bookname": "V学前儿童艺术教育(美术)/许大梅",
+    "bookname": "学前儿童艺术教育(美术)/许大梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082174",
-    "bookname": "V幼儿园活动教程/李丽娥",
+    "bookname": "幼儿园活动教程/李丽娥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082175",
-    "bookname": "V音乐基础理论/高希",
+    "bookname": "音乐基础理论/高希",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082176",
-    "bookname": "V猪的生产与经营(2版)/吴建华",
+    "bookname": "猪的生产与经营(2版)/吴建华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082177",
-    "bookname": "V数学教学参考书(职业模块 工科类)(附光盘)/李广全",
+    "bookname": "数学教学参考书(职业模块 工科类)(附光盘)/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082178",
-    "bookname": "V电子商务基础学习辅导与练习（配盘）/尤洋 许长华",
+    "bookname": "电子商务基础学习辅导与练习（配盘）/尤洋 许长华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082179",
-    "bookname": "V语文练习册(提高版)(第一册)(附学习卡/防伪标)/王虹",
+    "bookname": "语文练习册(提高版)(第一册)(附学习卡/防伪标)/王虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082180",
-    "bookname": "V烹饪英语(附光盘)(附学习卡/防伪标)/孙诚",
+    "bookname": "烹饪英语(附光盘)(附学习卡/防伪标)/孙诚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082181",
-    "bookname": "V外线安装实习(项目式教学)(附学习卡/防伪标)/曹义广",
+    "bookname": "外线安装实习(项目式教学)(附学习卡/防伪标)/曹义广",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082182",
-    "bookname": "V婴幼儿保育/周昶",
+    "bookname": "婴幼儿保育/周昶",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082183",
-    "bookname": "V导游业务练习册(附学习卡/防伪标)国规配套/王雁",
+    "bookname": "导游业务练习册(附学习卡/防伪标)国规配套/王雁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082184",
-    "bookname": "V电动机应用与维修(项目式教学)(附学习卡/防伪标)/李乃夫",
+    "bookname": "电动机应用与维修(项目式教学)(附学习卡/防伪标)/李乃夫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082185",
-    "bookname": "V数控加工技术/朱鹏超",
+    "bookname": "数控加工技术/朱鹏超",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082186",
-    "bookname": "V中国民族民俗(第二版)/姜若愚、鞠海虹",
+    "bookname": "中国民族民俗(第二版)/姜若愚、鞠海虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082187",
-    "bookname": "V数学基础能力训练(基础模块)下册/范波 潘万伟",
+    "bookname": "数学基础能力训练(基础模块)下册/范波 潘万伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082188",
-    "bookname": "V园林植物栽培养护",
+    "bookname": "园林植物栽培养护",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082189",
-    "bookname": "V汽车维修工具选择与使用/马永斌",
+    "bookname": "汽车维修工具选择与使用/马永斌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082190",
-    "bookname": "V液压与气压传动(第2版)",
+    "bookname": "液压与气压传动(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082191",
-    "bookname": "V英语3(基础模块)编写组",
+    "bookname": "英语3(基础模块)编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082192",
-    "bookname": "V职业道德与法律(修订版)(双色)(附学习卡/防伪标)/朱力宇、张伟",
+    "bookname": "职业道德与法律(修订版)(双色)(附学习卡/防伪标)/朱力宇、张伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082193",
-    "bookname": "V时装画技法/刘元风",
+    "bookname": "时装画技法/刘元风",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082194",
-    "bookname": "V英语(第一册)二版(基础模块)\编写组",
+    "bookname": "英语(第一册)二版(基础模块)\编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082195",
-    "bookname": "V金属工艺学(第二版)/郁兆昌",
+    "bookname": "金属工艺学(第二版)/郁兆昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082196",
-    "bookname": "V土木工程力学基础教学参考/王仁田、韩萱",
+    "bookname": "土木工程力学基础教学参考/王仁田、韩萱",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082197",
-    "bookname": "V收银员岗位实训(配盘)/陈凌",
+    "bookname": "收银员岗位实训(配盘)/陈凌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082198",
-    "bookname": "V就业指导与创业教育(第二版)/尚志平",
+    "bookname": "就业指导与创业教育(第二版)/尚志平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082199",
-    "bookname": "V电子整机装配与调试(附光盘)/王玫",
+    "bookname": "电子整机装配与调试(附光盘)/王玫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082200",
-    "bookname": "V诵读诗文 奠基职场(上卷)于漪(修订版)中等职业学校诗文诵读读本",
+    "bookname": "诵读诗文 奠基职场(上卷)于漪(修订版)中等职业学校诗文诵读读本",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082201",
-    "bookname": "V农村创业与项目选择/常秀坤",
+    "bookname": "农村创业与项目选择/常秀坤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082202",
-    "bookname": "V经济管理基础(第2版)(附学卡/防伪标)/俞建文",
+    "bookname": "经济管理基础(第2版)(附学卡/防伪标)/俞建文",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082203",
-    "bookname": "V建筑测量(第2版)(业衍璞)",
+    "bookname": "建筑测量(第2版)(业衍璞)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082204",
-    "bookname": "V土木工程力学基础(少学时)(双色) 新国家规划/韩萱、王怀珍",
+    "bookname": "土木工程力学基础(少学时)(双色) 新国家规划/韩萱、王怀珍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082205",
-    "bookname": "V数学(职业模块 工科类)(修订版)/李广全 李尚志",
+    "bookname": "数学(职业模块 工科类)(修订版)/李广全 李尚志",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082206",
-    "bookname": "V水粉静物技法/王光辉",
+    "bookname": "水粉静物技法/王光辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082207",
-    "bookname": "V物理(电工电子类)(修订版)(附学习卡/防伪标)/文春帆",
+    "bookname": "物理(电工电子类)(修订版)(附学习卡/防伪标)/文春帆",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082208",
-    "bookname": "V机械基础(少学时)/栾学钢",
+    "bookname": "机械基础(少学时)/栾学钢",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082209",
-    "bookname": "V会计电算化/孙莲香",
+    "bookname": "会计电算化/孙莲香",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082210",
-    "bookname": "V中等职业学校数学测评卷(上册)(附学习卡/防伪标)/金长发",
+    "bookname": "中等职业学校数学测评卷(上册)(附学习卡/防伪标)/金长发",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082211",
-    "bookname": "V康乐服务与管理(第二版)(配盘)(附学习卡/防伪标)/张庆菊、朱瑞",
+    "bookname": "康乐服务与管理(第二版)(配盘)(附学习卡/防伪标)/张庆菊、朱瑞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082212",
-    "bookname": "V机械基础(第2版)(双色)(机械类)/李世维",
+    "bookname": "机械基础(第2版)(双色)(机械类)/李世维",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082213",
-    "bookname": "V语文学习指导与能力训练(基础模块)(下册)(附光盘)(修订版)(附学",
+    "bookname": "语文学习指导与能力训练(基础模块)(下册)(附光盘)(修订版)(附学",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082214",
-    "bookname": "V现代餐饮经营管理基础(第2版)(附学习卡/防伪标)于樑洪/于梁洪",
+    "bookname": "现代餐饮经营管理基础(第2版)(附学习卡/防伪标)于樑洪/于梁洪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082215",
-    "bookname": "V汽车故障诊断（第2版）",
+    "bookname": "汽车故障诊断（第2版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082216",
-    "bookname": "V全国中职汽车运用与维修技能大赛备赛指导/程玉光",
+    "bookname": "全国中职汽车运用与维修技能大赛备赛指导/程玉光",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082217",
-    "bookname": "V物流基础",
+    "bookname": "物流基础",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082218",
-    "bookname": "V饭店英语听说(上册)/王琴茹",
+    "bookname": "饭店英语听说(上册)/王琴茹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082219",
-    "bookname": "V英语2(基础模块)(第2版)(双色版)",
+    "bookname": "英语2(基础模块)(第2版)(双色版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082220",
-    "bookname": "V建筑工程施工测量/郭耀邦",
+    "bookname": "建筑工程施工测量/郭耀邦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082221",
-    "bookname": "V物流技能备赛指导(第2版)(配盘)/蓝仁昌",
+    "bookname": "物流技能备赛指导(第2版)(配盘)/蓝仁昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082222",
-    "bookname": "V速写/王赤丹、陈峥",
+    "bookname": "速写/王赤丹、陈峥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082223",
-    "bookname": "V电工电子技术及应用(第2版)(附学习卡/防伪标)/杜德昌",
+    "bookname": "电工电子技术及应用(第2版)(附学习卡/防伪标)/杜德昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082224",
-    "bookname": "V内线安装实习(项目式教学)(附学习卡/防伪标)/赵淑芝",
+    "bookname": "内线安装实习(项目式教学)(附学习卡/防伪标)/赵淑芝",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082225",
-    "bookname": "V建筑工程技术资料编制与归档/王莉",
+    "bookname": "建筑工程技术资料编制与归档/王莉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082226",
-    "bookname": "V数学-中职生对口升学考试总复习/李广全",
+    "bookname": "数学-中职生对口升学考试总复习/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082227",
-    "bookname": "V机械制图习题集(第4版)/王幼龙",
+    "bookname": "机械制图习题集(第4版)/王幼龙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082228",
-    "bookname": "V服装人体素描(第二版)",
+    "bookname": "服装人体素描(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082229",
-    "bookname": "V电子产品制造工艺/严晓林",
+    "bookname": "电子产品制造工艺/严晓林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082230",
-    "bookname": "V装饰工程施工 /崔东方",
+    "bookname": "装饰工程施工 /崔东方",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082231",
-    "bookname": "V鱼病防治/陈锦富",
+    "bookname": "鱼病防治/陈锦富",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082232",
-    "bookname": "V宇龙数控仿真软件使用指导(附光盘)/李桂云",
+    "bookname": "宇龙数控仿真软件使用指导(附光盘)/李桂云",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082233",
-    "bookname": "V生物基础/王社光 刘强",
+    "bookname": "生物基础/王社光 刘强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082234",
-    "bookname": "V珠算与点钞(第二版)/崔栋",
+    "bookname": "珠算与点钞(第二版)/崔栋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082235",
-    "bookname": "V电子商务实务模拟(第二版)(配盘)/张雪",
+    "bookname": "电子商务实务模拟(第二版)(配盘)/张雪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082236",
-    "bookname": "V办公设备原理与维修(工作过程系统化)/邱勇进",
+    "bookname": "办公设备原理与维修(工作过程系统化)/邱勇进",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082237",
-    "bookname": "V极限配合与技术测量/范梅梅、肖友才",
+    "bookname": "极限配合与技术测量/范梅梅、肖友才",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082238",
-    "bookname": "V旅游心理学(第四版)(附学习卡/防伪标)/李灿佳",
+    "bookname": "旅游心理学(第四版)(附学习卡/防伪标)/李灿佳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082239",
-    "bookname": "V数学学习与训练(职业模块 工科类)(附光盘)/李广全",
+    "bookname": "数学学习与训练(职业模块 工科类)(附光盘)/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082240",
-    "bookname": "V服装设备使用与维护(第二版)(配盘)(附学习卡/防伪标)/蔡慈明",
+    "bookname": "服装设备使用与维护(第二版)(配盘)(附学习卡/防伪标)/蔡慈明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082241",
-    "bookname": "V饭店概论/杜建华",
+    "bookname": "饭店概论/杜建华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082242",
-    "bookname": "V表面贴装技术/林红华",
+    "bookname": "表面贴装技术/林红华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082243",
-    "bookname": "V服装结构制图习题集(第二版)(刘运生)",
+    "bookname": "服装结构制图习题集(第二版)(刘运生)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082244",
-    "bookname": "V单片机原理与应用(第二版)(附学习卡/防伪标)/梁洁婷",
+    "bookname": "单片机原理与应用(第二版)(附学习卡/防伪标)/梁洁婷",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082245",
-    "bookname": "V电子商务实务/程越敏",
+    "bookname": "电子商务实务/程越敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082246",
-    "bookname": "V汽车机械识图(第2版)/霍振生",
+    "bookname": "汽车机械识图(第2版)/霍振生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082247",
-    "bookname": "V电工与电子技术基础(非电类，第2版)/杜德昌",
+    "bookname": "电工与电子技术基础(非电类，第2版)/杜德昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082248",
-    "bookname": "V财务管理习题集(第3版)(会计专业)/张海林",
+    "bookname": "财务管理习题集(第3版)(会计专业)/张海林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082249",
-    "bookname": "V电工技术基础与技能教学参考(附光盘)(新大纲)/周绍敏",
+    "bookname": "电工技术基础与技能教学参考(附光盘)(新大纲)/周绍敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082250",
-    "bookname": "V英语(服务类)(职业模块)/编写组",
+    "bookname": "英语(服务类)(职业模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082251",
-    "bookname": "V旅游政策与法规练习册/张琥",
+    "bookname": "旅游政策与法规练习册/张琥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082252",
-    "bookname": "V财经应用文写作/张业余、张志义",
+    "bookname": "财经应用文写作/张业余、张志义",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082253",
-    "bookname": "V计算机网络实训(附学习卡/防伪标)(双色版)/韩立凡",
+    "bookname": "计算机网络实训(附学习卡/防伪标)(双色版)/韩立凡",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082254",
-    "bookname": "V传感器及其应用(第2版)/吴旗",
+    "bookname": "传感器及其应用(第2版)/吴旗",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082255",
-    "bookname": "V统计基础知识(第3版)/娄庆松",
+    "bookname": "统计基础知识(第3版)/娄庆松",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082256",
-    "bookname": "V客房服务与管理练习册(第二版)李玫 廖建",
+    "bookname": "客房服务与管理练习册(第二版)李玫 廖建",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082257",
-    "bookname": "V餐饮服务与管理练习册(第二版)(附学习卡/防伪标)/李琦",
+    "bookname": "餐饮服务与管理练习册(第二版)(附学习卡/防伪标)/李琦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082258",
-    "bookname": "V职业道德与法律学习指导(修订版)张伟(附学习卡/防伪标)含光盘",
+    "bookname": "职业道德与法律学习指导(修订版)张伟(附学习卡/防伪标)含光盘",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082259",
-    "bookname": "V规范汉字书写方法与训练(第二版)/曹长远",
+    "bookname": "规范汉字书写方法与训练(第二版)/曹长远",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082260",
-    "bookname": "V会计电算化(第2版)(附学习卡/防伪标)/赵合喜、王吾",
+    "bookname": "会计电算化(第2版)(附学习卡/防伪标)/赵合喜、王吾",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082261",
-    "bookname": "V学前教育学/杭梅",
+    "bookname": "学前教育学/杭梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082262",
-    "bookname": "V职业生涯规划(修订版)(双色)/蒋乃平(附学习卡/防伪标)",
+    "bookname": "职业生涯规划(修订版)(双色)/蒋乃平(附学习卡/防伪标)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082263",
-    "bookname": "V会议实务(附学习卡/防伪标)/钟铮",
+    "bookname": "会议实务(附学习卡/防伪标)/钟铮",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082264",
-    "bookname": "V金属加工与实训—车工实训/张国军",
+    "bookname": "金属加工与实训—车工实训/张国军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082265",
-    "bookname": "V导游业务与技巧/张明清",
+    "bookname": "导游业务与技巧/张明清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082266",
-    "bookname": "V英语基础模块预备级(彩色版)/编写组",
+    "bookname": "英语基础模块预备级(彩色版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082267",
-    "bookname": "V英语基础模块预备级(第2版)/编写组",
+    "bookname": "英语基础模块预备级(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082268",
-    "bookname": "V会计电算化上机指导/孙莲香",
+    "bookname": "会计电算化上机指导/孙莲香",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082269",
-    "bookname": "V语文(基础模块)(上册)(修订版)(单色)(附学习卡/防伪标)/倪文锦",
+    "bookname": "语文(基础模块)(上册)(修订版)(单色)(附学习卡/防伪标)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082270",
-    "bookname": "V数学(基础模块)(上册)(修订版)/李广全 李尚志",
+    "bookname": "数学(基础模块)(上册)(修订版)/李广全 李尚志",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082271",
-    "bookname": "V服务语言艺术(第二版)(附学习卡/防伪标)/黄文清",
+    "bookname": "服务语言艺术(第二版)(附学习卡/防伪标)/黄文清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082272",
-    "bookname": "V物理(机械建筑类)(附学习卡/防伪标)",
+    "bookname": "物理(机械建筑类)(附学习卡/防伪标)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082273",
-    "bookname": "V叉车操作实务(附光盘)/于鸿彬",
+    "bookname": "叉车操作实务(附光盘)/于鸿彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082274",
-    "bookname": "V常用工具软件",
+    "bookname": "常用工具软件",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082275",
-    "bookname": "V分析化学实验(第四版)/高职高专化学教材编写组",
+    "bookname": "分析化学实验(第四版)/高职高专化学教材编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082276",
-    "bookname": "V会计基本技能",
+    "bookname": "会计基本技能",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082277",
-    "bookname": "V幼儿舞蹈基础教程初级教材(适用于3～4.5岁) /全国幼教舞蹈",
+    "bookname": "幼儿舞蹈基础教程初级教材(适用于3～4.5岁) /全国幼教舞蹈",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082278",
-    "bookname": "V服装设计(配盘)(加防伪标)/于国瑞",
+    "bookname": "服装设计(配盘)(加防伪标)/于国瑞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082279",
-    "bookname": "V服装制作工业习题集第三版/孙丽",
+    "bookname": "服装制作工业习题集第三版/孙丽",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082280",
-    "bookname": "V语文教学参考书(基础版)(第四册)(修订版)(附光盘)/倪文锦",
+    "bookname": "语文教学参考书(基础版)(第四册)(修订版)(附光盘)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082281",
-    "bookname": "V文书与档案管理基础练习与训练(附学习卡/防伪标)/黄立新",
+    "bookname": "文书与档案管理基础练习与训练(附学习卡/防伪标)/黄立新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082282",
-    "bookname": "V电梯电气系统安装与调试/张小明 李乃夫",
+    "bookname": "电梯电气系统安装与调试/张小明 李乃夫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082283",
-    "bookname": "V钳工项目训练教程(中职技能大赛教学用书)/徐斌",
+    "bookname": "钳工项目训练教程(中职技能大赛教学用书)/徐斌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082284",
-    "bookname": "V电子技术基础与技能教学参考(附光盘)/耿淬",
+    "bookname": "电子技术基础与技能教学参考(附光盘)/耿淬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082285",
-    "bookname": "V语文学习指导与能力训练(职业模块工科类)(修订版)马永飞",
+    "bookname": "语文学习指导与能力训练(职业模块工科类)(修订版)马永飞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082286",
-    "bookname": "V建筑工程测量/许宝良",
+    "bookname": "建筑工程测量/许宝良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082287",
-    "bookname": "V语文教学参考书(基础版)(第二册)(修订版)(附光盘)/倪文锦",
+    "bookname": "语文教学参考书(基础版)(第二册)(修订版)(附光盘)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082288",
-    "bookname": "V计算机绘图-AUTOCAD2008上机指导/赵国增",
+    "bookname": "计算机绘图-AUTOCAD2008上机指导/赵国增",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082289",
-    "bookname": "V中等职业学校专业教学标准(土木水利类)",
+    "bookname": "中等职业学校专业教学标准(土木水利类)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082290",
-    "bookname": "V电工技术基础与技能实训指导(第2版)(双色)(附光盘)",
+    "bookname": "电工技术基础与技能实训指导(第2版)(双色)(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082291",
-    "bookname": "V机械制图教学指导/ 柳燕君 辜东莲",
+    "bookname": "机械制图教学指导/ 柳燕君 辜东莲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082292",
-    "bookname": "V秘书基础练习与训练/黄立新、钟铮",
+    "bookname": "秘书基础练习与训练/黄立新、钟铮",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082293",
-    "bookname": "V服务业英语800句/郭兆康",
+    "bookname": "服务业英语800句/郭兆康",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082294",
-    "bookname": "V生理学基础(第2版)(附学习卡/防伪标)/花先",
+    "bookname": "生理学基础(第2版)(附学习卡/防伪标)/花先",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082295",
-    "bookname": "V数控机床加工技术(第2版)/孙建东、袁锋",
+    "bookname": "数控机床加工技术(第2版)/孙建东、袁锋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082296",
-    "bookname": "V汽车结构与拆装(下)(第2版) /周亚",
+    "bookname": "汽车结构与拆装(下)(第2版) /周亚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082297",
-    "bookname": "V物理教学参考书(通用类)(附光盘)(附学习卡/防伪标)/张明明",
+    "bookname": "物理教学参考书(通用类)(附光盘)(附学习卡/防伪标)/张明明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082298",
-    "bookname": "V数学(职业模块财经、商贸与服务类)(双色)(修订版)(附学习卡/防",
+    "bookname": "数学(职业模块财经、商贸与服务类)(双色)(修订版)(附学习卡/防",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082299",
-    "bookname": "V电气CAD/牛桂平",
+    "bookname": "电气CAD/牛桂平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082300",
-    "bookname": "V计算机录入与排版技术(第2版)(附光盘)",
+    "bookname": "计算机录入与排版技术(第2版)(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082301",
-    "bookname": "V CAD/CAM实训-CAXA软件应用(第2版)/李超",
+    "bookname": " CAD/CAM实训-CAXA软件应用(第2版)/李超",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082302",
-    "bookname": "V饭店财务基础/景诚",
+    "bookname": "饭店财务基础/景诚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082303",
-    "bookname": "V食品营养与卫生/余桂恩",
+    "bookname": "食品营养与卫生/余桂恩",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082304",
-    "bookname": "V色彩(二年级)/严林",
+    "bookname": "色彩(二年级)/严林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082305",
-    "bookname": "V村级财务管理与集体资产经营/郭继宏",
+    "bookname": "村级财务管理与集体资产经营/郭继宏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082306",
-    "bookname": "V菜点酒水知识(第2版)(附学习卡/防伪标)/高富良、孟帅",
+    "bookname": "菜点酒水知识(第2版)(附学习卡/防伪标)/高富良、孟帅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082307",
-    "bookname": "V心理健康自测与指导(修订版)(附学习卡/防伪标)",
+    "bookname": "心理健康自测与指导(修订版)(附学习卡/防伪标)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082308",
-    "bookname": "V音乐欣赏/刘玉华",
+    "bookname": "音乐欣赏/刘玉华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082309",
-    "bookname": "V现代物流基础学习指导与练习(第二版)/杨穗萍",
+    "bookname": "现代物流基础学习指导与练习(第二版)/杨穗萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082310",
-    "bookname": "V机械制图(少学时)/辜东莲",
+    "bookname": "机械制图(少学时)/辜东莲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082311",
-    "bookname": "V土木工程力学基础(多学时)/王仁田、李怡",
+    "bookname": "土木工程力学基础(多学时)/王仁田、李怡",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082312",
-    "bookname": "V机械制图习题集(少学时)/于光明(含光盘)",
+    "bookname": "机械制图习题集(少学时)/于光明(含光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082313",
-    "bookname": "V服装结构设计练习册(附光盘)/魏静",
+    "bookname": "服装结构设计练习册(附光盘)/魏静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082314",
-    "bookname": "V幼儿园健康教育与活动设计/郑晓边",
+    "bookname": "幼儿园健康教育与活动设计/郑晓边",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082315",
-    "bookname": "V体育与健康(南方版)(双色)(修订版)(附学习卡/防伪标)/郑厚成",
+    "bookname": "体育与健康(南方版)(双色)(修订版)(附学习卡/防伪标)/郑厚成",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082316",
-    "bookname": "V旅游概论",
+    "bookname": "旅游概论",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082317",
-    "bookname": "V仓储作业实训(附光盘)/蓝仁昌",
+    "bookname": "仓储作业实训(附光盘)/蓝仁昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082318",
-    "bookname": "V数学(基础模块)(修订版)(双色)下册/李广全",
+    "bookname": "数学(基础模块)(修订版)(双色)下册/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082319",
-    "bookname": "V建筑材料(第3版)",
+    "bookname": "建筑材料(第3版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082320",
-    "bookname": "V电子商务基础 /常建成",
+    "bookname": "电子商务基础 /常建成",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082321",
-    "bookname": "V照明线路安装与检修/林如军",
+    "bookname": "照明线路安装与检修/林如军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082322",
-    "bookname": "V英语教师用书(工科类)(职业模块)/编写组",
+    "bookname": "英语教师用书(工科类)(职业模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082323",
-    "bookname": "V幼师英语",
+    "bookname": "幼师英语",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082324",
-    "bookname": "V现代物流基础(附学习卡/防伪标)/杨穗萍",
+    "bookname": "现代物流基础(附学习卡/防伪标)/杨穗萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082325",
-    "bookname": "V常用工具软件(第4版)(附学习卡/防伪标)/段欣",
+    "bookname": "常用工具软件(第4版)(附学习卡/防伪标)/段欣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082326",
-    "bookname": "V电子商务活动体验(B2B模式)(配盘)/莫丽梅",
+    "bookname": "电子商务活动体验(B2B模式)(配盘)/莫丽梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082327",
-    "bookname": "V CORELDRAWX5平面设计应用(第2版)附学习卡/防伪标/荣涛",
+    "bookname": " CORELDRAWX5平面设计应用(第2版)附学习卡/防伪标/荣涛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082328",
-    "bookname": "V点菜服务技艺/苏波儿",
+    "bookname": "点菜服务技艺/苏波儿",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082329",
-    "bookname": "V数学学习与训练(拓展模块)(附光盘)(修订版)/李广全",
+    "bookname": "数学学习与训练(拓展模块)(附光盘)(修订版)/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082330",
-    "bookname": "V计算机录入技术(第2版)",
+    "bookname": "计算机录入技术(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082331",
-    "bookname": "V光电器件技术及应用/程立群",
+    "bookname": "光电器件技术及应用/程立群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082332",
-    "bookname": "V现代商务学习指导与练习(第2版)何毓颖/附光盘",
+    "bookname": "现代商务学习指导与练习(第2版)何毓颖/附光盘",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082333",
-    "bookname": "V动物防疫与检疫技术/张彦明",
+    "bookname": "动物防疫与检疫技术/张彦明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082334",
-    "bookname": "V建筑力学(第2版，附防伪标/学习卡)/范继昭",
+    "bookname": "建筑力学(第2版，附防伪标/学习卡)/范继昭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082335",
-    "bookname": "V汽车文化(彩色版)/张文华.王明辉",
+    "bookname": "汽车文化(彩色版)/张文华.王明辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082336",
-    "bookname": "V计算机组装与维修实训(第3版)(附学习卡/防伪标) /何文华 许义海",
+    "bookname": "计算机组装与维修实训(第3版)(附学习卡/防伪标) /何文华 许义海",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082337",
-    "bookname": "V建筑材料(第2版)/毕万利",
+    "bookname": "建筑材料(第2版)/毕万利",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082338",
-    "bookname": "V计算机平面设计实训(第2版)/赵荣 胡昌杰",
+    "bookname": "计算机平面设计实训(第2版)/赵荣 胡昌杰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082339",
-    "bookname": "V保安实务—守护",
+    "bookname": "保安实务—守护",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082340",
-    "bookname": "V心理健康(修订版)俞国良",
+    "bookname": "心理健康(修订版)俞国良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082341",
-    "bookname": "V畜禽疫病防治(第二版)(养殖/畜牧兽医专业)/朱俊平",
+    "bookname": "畜禽疫病防治(第二版)(养殖/畜牧兽医专业)/朱俊平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082342",
-    "bookname": "V服装市场营销(第二版)/张福良",
+    "bookname": "服装市场营销(第二版)/张福良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082343",
-    "bookname": "V化学(通用类)(修订版)/刘斌、张龙",
+    "bookname": "化学(通用类)(修订版)/刘斌、张龙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082344",
-    "bookname": "V建筑材料学习指导与练习(第2版)(双色)/毕万利、孙恩禹",
+    "bookname": "建筑材料学习指导与练习(第2版)(双色)/毕万利、孙恩禹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082345",
-    "bookname": "V物流客户服务(第二版)/郑彬",
+    "bookname": "物流客户服务(第二版)/郑彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082346",
-    "bookname": "V服装结构制图习题集(第5版)/王跃进",
+    "bookname": "服装结构制图习题集(第5版)/王跃进",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082347",
-    "bookname": "V钣金基本工艺与设备/汤酞则",
+    "bookname": "钣金基本工艺与设备/汤酞则",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082348",
-    "bookname": "V服装结构设计(配盘)(加防伪标/换封面)/魏静",
+    "bookname": "服装结构设计(配盘)(加防伪标/换封面)/魏静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082349",
-    "bookname": "V影视动画造型基础/丁海祥姚桂萍",
+    "bookname": "影视动画造型基础/丁海祥姚桂萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082350",
-    "bookname": "V物理(通用类)(修订版)/张明明",
+    "bookname": "物理(通用类)(修订版)/张明明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082351",
-    "bookname": "V实用汽车电工电子技术2版/黄志荣 田光达",
+    "bookname": "实用汽车电工电子技术2版/黄志荣 田光达",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082352",
-    "bookname": "V焊接工艺/张毅敏",
+    "bookname": "焊接工艺/张毅敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082353",
-    "bookname": "V基础会计(第三版)/樊行健",
+    "bookname": "基础会计(第三版)/樊行健",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082354",
-    "bookname": "V计算机常用工具软件(附学习卡/防伪标)/赵殊",
+    "bookname": "计算机常用工具软件(附学习卡/防伪标)/赵殊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082355",
-    "bookname": "V电工技术基础与技能学习辅导与练习（第2版）(电气电力类)/苏永",
+    "bookname": "电工技术基础与技能学习辅导与练习（第2版）(电气电力类)/苏永",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082356",
-    "bookname": "V MULTISIM 8电子工作平台及应用/高青",
+    "bookname": " MULTISIM 8电子工作平台及应用/高青",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082357",
-    "bookname": "V应用文写作基础(第2版)(附学习卡/防伪标)/张金英",
+    "bookname": "应用文写作基础(第2版)(附学习卡/防伪标)/张金英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082358",
-    "bookname": "V化学(农林牧渔类)(修订版)/徐英岚 郭峰",
+    "bookname": "化学(农林牧渔类)(修订版)/徐英岚 郭峰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082359",
-    "bookname": "V金属加工与实训—钳工实训/闻健萍",
+    "bookname": "金属加工与实训—钳工实训/闻健萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082360",
-    "bookname": "V汽车使用与日常养护/邱伟明 沈云鹤",
+    "bookname": "汽车使用与日常养护/邱伟明 沈云鹤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082361",
-    "bookname": "V数控车工实习与考绩/孙伟伟",
+    "bookname": "数控车工实习与考绩/孙伟伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082362",
-    "bookname": "V机械基础练习册(多学时)(附光盘)(附学习卡/防伪标)/吴联兴",
+    "bookname": "机械基础练习册(多学时)(附光盘)(附学习卡/防伪标)/吴联兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082363",
-    "bookname": "V建筑概论/郭耀邦 楼江明",
+    "bookname": "建筑概论/郭耀邦 楼江明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082364",
-    "bookname": "V机械制图与计算机绘图/赵国增 岳进",
+    "bookname": "机械制图与计算机绘图/赵国增 岳进",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082365",
-    "bookname": "V数控车床操作与编程技能训练(第2版)/关亮、张向京",
+    "bookname": "数控车床操作与编程技能训练(第2版)/关亮、张向京",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082366",
-    "bookname": "V病原生物与免疫学基础(第三版)",
+    "bookname": "病原生物与免疫学基础(第三版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082367",
-    "bookname": "V小家电原理使用与维修(第二版)(附光盘)/初厚绪",
+    "bookname": "小家电原理使用与维修(第二版)(附光盘)/初厚绪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082368",
-    "bookname": "V CAXA制造工程师2008项目训练教程/张莉洁 李超",
+    "bookname": " CAXA制造工程师2008项目训练教程/张莉洁 李超",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082369",
-    "bookname": "V物理教学参考(基础版)(下册)(第二版)(附光盘)/邵长泰",
+    "bookname": "物理教学参考(基础版)(下册)(第二版)(附光盘)/邵长泰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082370",
-    "bookname": "V西餐零点服务",
+    "bookname": "西餐零点服务",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082371",
-    "bookname": "V键盘和声与即兴伴奏(第2版)/周慕俊",
+    "bookname": "键盘和声与即兴伴奏(第2版)/周慕俊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082372",
-    "bookname": "V汽车结构与拆装(上)(第2版) /左适够",
+    "bookname": "汽车结构与拆装(上)(第2版) /左适够",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082373",
-    "bookname": "V幼儿园教育活动设计与实践练习册(第二版)/张琳",
+    "bookname": "幼儿园教育活动设计与实践练习册(第二版)/张琳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082374",
-    "bookname": "V电工电子技术与技能实训指导(第2版)(附光盘)(新大纲，双色)/程",
+    "bookname": "电工电子技术与技能实训指导(第2版)(附光盘)(新大纲，双色)/程",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082375",
-    "bookname": "V幼儿教师礼仪/李以盛",
+    "bookname": "幼儿教师礼仪/李以盛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082376",
-    "bookname": "V英语教师用书(预备级+1)(引进版)(第2版)/编写组",
+    "bookname": "英语教师用书(预备级+1)(引进版)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082377",
-    "bookname": "V餐饮服务实训教程",
+    "bookname": "餐饮服务实训教程",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082378",
-    "bookname": "V速写/张望",
+    "bookname": "速写/张望",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082379",
-    "bookname": "V数学练习册(基础模块)下册/傅建军、吴春禹",
+    "bookname": "数学练习册(基础模块)下册/傅建军、吴春禹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082380",
-    "bookname": "V电子技术基础与技能学习指导与同步练习(电类专业通用)/张金华",
+    "bookname": "电子技术基础与技能学习指导与同步练习(电类专业通用)/张金华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082381",
-    "bookname": "V英语3(基础模块)(第2版)/中等职业学校英语教材编写组",
+    "bookname": "英语3(基础模块)(第2版)/中等职业学校英语教材编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082382",
-    "bookname": "V英语1(基础模块)(第2版)/编写组",
+    "bookname": "英语1(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082383",
-    "bookname": "V英语2(基础模块)(第2版)/编写组",
+    "bookname": "英语2(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082384",
-    "bookname": "V英语(拓展模块)(第2版)",
+    "bookname": "英语(拓展模块)(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082385",
-    "bookname": "V网页设计与制作-- FRONTPAGE2003(第2版)/段标",
+    "bookname": "网页设计与制作-- FRONTPAGE2003(第2版)/段标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082386",
-    "bookname": "V物流客户服务学习指导与练习(第二版)/郑彬",
+    "bookname": "物流客户服务学习指导与练习(第二版)/郑彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082387",
-    "bookname": "V农作物生产技术(北方本)第二版/马新明、郭国侠",
+    "bookname": "农作物生产技术(北方本)第二版/马新明、郭国侠",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082388",
-    "bookname": "V企业财务会计习题集(第4版)(配盘)/耿金岭、赵芦华",
+    "bookname": "企业财务会计习题集(第4版)(配盘)/耿金岭、赵芦华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082389",
-    "bookname": "V烹饪原料知识同步练习/杨正华",
+    "bookname": "烹饪原料知识同步练习/杨正华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082390",
-    "bookname": "V市场营销基础学习指导与练习/张润琴",
+    "bookname": "市场营销基础学习指导与练习/张润琴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082391",
-    "bookname": "V统计基础知识习题集(第三版)(配盘)/娄庆松、祝刚",
+    "bookname": "统计基础知识习题集(第三版)(配盘)/娄庆松、祝刚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082392",
-    "bookname": "V市场营销知识(第3版)/冯金祥",
+    "bookname": "市场营销知识(第3版)/冯金祥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082393",
-    "bookname": "V出纳会计实务操作/林云刚",
+    "bookname": "出纳会计实务操作/林云刚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082394",
-    "bookname": "V幼师英语//中等职业学校幼教专业",
+    "bookname": "幼师英语//中等职业学校幼教专业",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082395",
-    "bookname": "V电器及PLC控制技术技能训练(附光盘)/张同苏",
+    "bookname": "电器及PLC控制技术技能训练(附光盘)/张同苏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082396",
-    "bookname": "V服装美术设计基础(第四版)(加防伪标)/丁杏子",
+    "bookname": "服装美术设计基础(第四版)(加防伪标)/丁杏子",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082397",
-    "bookname": "V珠算与点钞学习指导与练习(配盘)国规配套/张莉",
+    "bookname": "珠算与点钞学习指导与练习(配盘)国规配套/张莉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082398",
-    "bookname": "V电子商务法律基础知识(第2版)/王芸",
+    "bookname": "电子商务法律基础知识(第2版)/王芸",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082399",
-    "bookname": "V基础会计习题集(第四版)",
+    "bookname": "基础会计习题集(第四版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082400",
-    "bookname": "V色彩/顾振华",
+    "bookname": "色彩/顾振华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082401",
-    "bookname": "V金属加工常识(第2版)/曹元俊",
+    "bookname": "金属加工常识(第2版)/曹元俊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082402",
-    "bookname": "V数学学习与训(职业模块财经、商贸与服务类)(修订版)(附光盘)/丁",
+    "bookname": "数学学习与训(职业模块财经、商贸与服务类)(修订版)(附光盘)/丁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082403",
-    "bookname": "V英语教师手册1(基本版)(第二版)/编写组",
+    "bookname": "英语教师手册1(基本版)(第二版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082404",
-    "bookname": "V机械设计基础(第2版)/黄森彬",
+    "bookname": "机械设计基础(第2版)/黄森彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082405",
-    "bookname": "V电子商务技能备赛指导(附光盘)/电子商务技能备赛指导编写组",
+    "bookname": "电子商务技能备赛指导(附光盘)/电子商务技能备赛指导编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082406",
-    "bookname": "V医学生物学基础(第2版)/李诚涛",
+    "bookname": "医学生物学基础(第2版)/李诚涛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082407",
-    "bookname": "V环境法规与标准/陈喜红",
+    "bookname": "环境法规与标准/陈喜红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082408",
-    "bookname": "V食品分析与检验/杜苏英",
+    "bookname": "食品分析与检验/杜苏英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082409",
-    "bookname": "V英语基础模块预备级教师用书新国规配套(附光盘)/编写组",
+    "bookname": "英语基础模块预备级教师用书新国规配套(附光盘)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082410",
-    "bookname": "V语文教学参考书(基础版)(第三册)(修订版)(附光盘)/倪文锦",
+    "bookname": "语文教学参考书(基础版)(第三册)(修订版)(附光盘)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082411",
-    "bookname": "V财务管理(第4版)(附学习卡/防伪标)/张海林",
+    "bookname": "财务管理(第4版)(附学习卡/防伪标)/张海林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082412",
-    "bookname": "V语文学习指导与能力训练(职业模块财经、商贸及服务类)(修订版)(",
+    "bookname": "语文学习指导与能力训练(职业模块财经、商贸及服务类)(修订版)(",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082413",
-    "bookname": "V金属加工与实训/基础常识与技能训练(第2版)王英杰 陈礁",
+    "bookname": "金属加工与实训/基础常识与技能训练(第2版)王英杰 陈礁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082414",
-    "bookname": "V建筑施工组织与管理(第二版)/周国恩",
+    "bookname": "建筑施工组织与管理(第二版)/周国恩",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082415",
-    "bookname": "V配送中心运营管理/江少文",
+    "bookname": "配送中心运营管理/江少文",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082416",
-    "bookname": "V服装模特表演备赛指导",
+    "bookname": "服装模特表演备赛指导",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082417",
-    "bookname": "V税收基础学习指导与练习(会计专业)(第2版)/邓冬青",
+    "bookname": "税收基础学习指导与练习(会计专业)(第2版)/邓冬青",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082418",
-    "bookname": "V饭店管理概论(第2版)/沈建龙",
+    "bookname": "饭店管理概论(第2版)/沈建龙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082419",
-    "bookname": "V农业经营与管理(第二版/附防伪标/刘强乔永信",
+    "bookname": "农业经营与管理(第二版/附防伪标/刘强乔永信",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082420",
-    "bookname": "V形象设计(附学习卡/防伪标)/熊茵",
+    "bookname": "形象设计(附学习卡/防伪标)/熊茵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082421",
-    "bookname": "V学前儿童发展心理学(学前教育专业)/张丹枫",
+    "bookname": "学前儿童发展心理学(学前教育专业)/张丹枫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082422",
-    "bookname": "V中等职业学校专业教学标准 财经商贸类(第二辑)/",
+    "bookname": "中等职业学校专业教学标准 财经商贸类(第二辑)/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082423",
-    "bookname": "V旅行社经营管理/陈永发",
+    "bookname": "旅行社经营管理/陈永发",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082424",
-    "bookname": "V舞蹈(第二版)十二五职业教育国家规划教材/王印英",
+    "bookname": "舞蹈(第二版)十二五职业教育国家规划教材/王印英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082425",
-    "bookname": "V语文-中职生对口升学考试总复习/苏立康",
+    "bookname": "语文-中职生对口升学考试总复习/苏立康",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082426",
-    "bookname": "V EXCEL在会计中的应用(第2版)(附光盘) /孙万军",
+    "bookname": " EXCEL在会计中的应用(第2版)(附光盘) /孙万军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082427",
-    "bookname": "V展示设计与制作/罗越",
+    "bookname": "展示设计与制作/罗越",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082428",
-    "bookname": "V饭店服务心理学/张志毅、李灿佳",
+    "bookname": "饭店服务心理学/张志毅、李灿佳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082429",
-    "bookname": "V汽车维修质量检验/李全",
+    "bookname": "汽车维修质量检验/李全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082430",
-    "bookname": "V数学(基础版)(第二册)(修订版)(附学习卡)/丘维声",
+    "bookname": "数学(基础版)(第二册)(修订版)(附学习卡)/丘维声",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082431",
-    "bookname": "V数学(基础版)第一册(修订版)/丘维声/丘维声",
+    "bookname": "数学(基础版)第一册(修订版)/丘维声/丘维声",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082432",
-    "bookname": "V化工制图(第2版)/韩玉秀",
+    "bookname": "化工制图(第2版)/韩玉秀",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082433",
-    "bookname": "V服装结构设计(下册)/魏静",
+    "bookname": "服装结构设计(下册)/魏静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082434",
-    "bookname": "V计算机动画设计—FLASH CS5(第3版)(附学习卡/防伪标))/史少飞",
+    "bookname": "计算机动画设计—FLASH CS5(第3版)(附学习卡/防伪标))/史少飞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082435",
-    "bookname": "V植物保护技术(第二版)(附防伪标)/肖启明 欧阳河",
+    "bookname": "植物保护技术(第二版)(附防伪标)/肖启明 欧阳河",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082436",
-    "bookname": "V畜禽营养与饲料(第二版)(附防伪标)(邱以亮)",
+    "bookname": "畜禽营养与饲料(第二版)(附防伪标)(邱以亮)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082437",
-    "bookname": "V应用文写作基础(第四版)/孙宝水",
+    "bookname": "应用文写作基础(第四版)/孙宝水",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082438",
-    "bookname": "V计算机应用基础(WINDOWSXP+OFFICE2007)(第2版)(附学习卡/防伪标",
+    "bookname": "计算机应用基础(WINDOWSXP+OFFICE2007)(第2版)(附学习卡/防伪标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082439",
-    "bookname": "V旅行社服务与管理(附学习卡/防伪标)/韩振华",
+    "bookname": "旅行社服务与管理(附学习卡/防伪标)/韩振华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082440",
-    "bookname": "V前厅服务与管理(第3版)(附学习卡/防伪标)/吴梅、陈春燕",
+    "bookname": "前厅服务与管理(第3版)(附学习卡/防伪标)/吴梅、陈春燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082441",
-    "bookname": "V变频器技术(附光盘)/孙传森",
+    "bookname": "变频器技术(附光盘)/孙传森",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082442",
-    "bookname": "V健康评估/刘旭平",
+    "bookname": "健康评估/刘旭平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082443",
-    "bookname": "V图形创意/王泽旭",
+    "bookname": "图形创意/王泽旭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082444",
-    "bookname": "V特殊需要儿童的心理与教育(第2版)(赠送辅教光盘)",
+    "bookname": "特殊需要儿童的心理与教育(第2版)(赠送辅教光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082445",
-    "bookname": "V心理健康教育案例集(附学习卡/防伪标)/俞国良",
+    "bookname": "心理健康教育案例集(附学习卡/防伪标)/俞国良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082446",
-    "bookname": "V池塘养鱼/戈贤平",
+    "bookname": "池塘养鱼/戈贤平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082447",
-    "bookname": "V语文(拓展模块)/陆迎真",
+    "bookname": "语文(拓展模块)/陆迎真",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082448",
-    "bookname": "V电工电子技术与技能练习册(非电类少学时)(第2版)(双色)(附光盘)",
+    "bookname": "电工电子技术与技能练习册(非电类少学时)(第2版)(双色)(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082449",
-    "bookname": "V速写教程/张春新",
+    "bookname": "速写教程/张春新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082450",
-    "bookname": "V计算机应用基础综合实训(WINDOWSXP+OFFICE 2007)/黄国兴、周南",
+    "bookname": "计算机应用基础综合实训(WINDOWSXP+OFFICE 2007)/黄国兴、周南",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082451",
-    "bookname": "V哲学与人生精选故事读本/常晋芳",
+    "bookname": "哲学与人生精选故事读本/常晋芳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082452",
-    "bookname": "V数学练习册(基础版)(第二册)(修订版)/顾平声",
+    "bookname": "数学练习册(基础版)(第二册)(修订版)/顾平声",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082453",
-    "bookname": "V传感器技术及应用(项目式教学)/赵珺蓉",
+    "bookname": "传感器技术及应用(项目式教学)/赵珺蓉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082454",
-    "bookname": "V电子整机原理-音响设备（第2版）/杨海祥",
+    "bookname": "电子整机原理-音响设备（第2版）/杨海祥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082455",
-    "bookname": "V园林制图习题集(第2版)(附光盘)(附学习卡/防伪标)/董南",
+    "bookname": "园林制图习题集(第2版)(附光盘)(附学习卡/防伪标)/董南",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082456",
-    "bookname": "V中等职业学校专业教学标准(试行)-信息技术类(第一辑)",
+    "bookname": "中等职业学校专业教学标准(试行)-信息技术类(第一辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082457",
-    "bookname": "V服装设计制作备赛指导",
+    "bookname": "服装设计制作备赛指导",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082458",
-    "bookname": "V机械常识与钳工实训/王猛 崔陵",
+    "bookname": "机械常识与钳工实训/王猛 崔陵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082459",
-    "bookname": "V哲学与人生教学设计指导/陈济",
+    "bookname": "哲学与人生教学设计指导/陈济",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082460",
-    "bookname": "V英语教师用书2(基础模块)/编写组",
+    "bookname": "英语教师用书2(基础模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082461",
-    "bookname": "V汽车电气设备构造与维修学习指导与练习/孙五一",
+    "bookname": "汽车电气设备构造与维修学习指导与练习/孙五一",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082462",
-    "bookname": "V学前儿童语言教育/姜晓燕",
+    "bookname": "学前儿童语言教育/姜晓燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082463",
-    "bookname": "V电子测量仪器(双色)(附学习卡/防伪标)/辜小兵、沈文琴",
+    "bookname": "电子测量仪器(双色)(附学习卡/防伪标)/辜小兵、沈文琴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082464",
-    "bookname": "V语文教学参考书(基础模块)上册(修订版)(附光盘)(附学习卡/防伪",
+    "bookname": "语文教学参考书(基础模块)上册(修订版)(附光盘)(附学习卡/防伪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082465",
-    "bookname": "V基础会计(第4版)/张玉森、陈伟清",
+    "bookname": "基础会计(第4版)/张玉森、陈伟清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082466",
-    "bookname": "V哲学与人生(修订版)王霁(彩色)附学习卡/防伪标",
+    "bookname": "哲学与人生(修订版)王霁(彩色)附学习卡/防伪标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082467",
-    "bookname": "V心理学(第2版) 高等院校心理学公共课教材/郑雪",
+    "bookname": "心理学(第2版) 高等院校心理学公共课教材/郑雪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082468",
-    "bookname": "V面试技巧与案例(2010修订版)/谭林妃",
+    "bookname": "面试技巧与案例(2010修订版)/谭林妃",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082469",
-    "bookname": "V旅游景区服务与管理(第二版)(附学习卡/防伪标)/李长秋",
+    "bookname": "旅游景区服务与管理(第二版)(附学习卡/防伪标)/李长秋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082470",
-    "bookname": "V康复治疗技术·言语治疗与假肢矫形器分册/王左生",
+    "bookname": "康复治疗技术·言语治疗与假肢矫形器分册/王左生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082471",
-    "bookname": "V二维动画制作/汪可 余贵鸿",
+    "bookname": "二维动画制作/汪可 余贵鸿",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082472",
-    "bookname": "V PHOTOSHOP CS6平面图像设计(第2版)(附学习卡，防伪标)/杨习彬",
+    "bookname": " PHOTOSHOP CS6平面图像设计(第2版)(附学习卡，防伪标)/杨习彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082473",
-    "bookname": "V五笔字型基础与练习/戴凤弟",
+    "bookname": "五笔字型基础与练习/戴凤弟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082474",
-    "bookname": "V OFFICE 2003应用基础(第2版)/四川省中等职业教育教学指导委员",
+    "bookname": " OFFICE 2003应用基础(第2版)/四川省中等职业教育教学指导委员",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082475",
-    "bookname": "V语文(职业模块财经、商贸及服务类)(彩色)(修订版)(附学习卡防伪",
+    "bookname": "语文(职业模块财经、商贸及服务类)(彩色)(修订版)(附学习卡防伪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082476",
-    "bookname": "V AUTO CAD应用--机械图样绘制/浙江省教育厅",
+    "bookname": " AUTO CAD应用--机械图样绘制/浙江省教育厅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082477",
-    "bookname": "V网络营销/彭纯宪",
+    "bookname": "网络营销/彭纯宪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082478",
-    "bookname": "V形体训练(第二版)(配盘)(附学习卡/防伪标)常薏",
+    "bookname": "形体训练(第二版)(配盘)(附学习卡/防伪标)常薏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082479",
-    "bookname": "V电子产品组装与检验/张友桥主编",
+    "bookname": "电子产品组装与检验/张友桥主编",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082480",
-    "bookname": "V网络营销学习指导与练习/彭纯宪",
+    "bookname": "网络营销学习指导与练习/彭纯宪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082481",
-    "bookname": "V企业财务会计(第4版)/葛家澍、耿金岭",
+    "bookname": "企业财务会计(第4版)/葛家澍、耿金岭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082482",
-    "bookname": "V铣工工艺与技能训练/蒋增福",
+    "bookname": "铣工工艺与技能训练/蒋增福",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082483",
-    "bookname": "V机械基础教学指导(少学时)/吴联兴",
+    "bookname": "机械基础教学指导(少学时)/吴联兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082484",
-    "bookname": "V旅游市场营销(第2版)(附学习卡/防伪标)/彭萍",
+    "bookname": "旅游市场营销(第2版)(附学习卡/防伪标)/彭萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082485",
-    "bookname": "V税收基础(第四版)何珍芳",
+    "bookname": "税收基础(第四版)何珍芳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082486",
-    "bookname": "V VISUAL FOXPRO学习辅导与上机实习(第3版)/周察金",
+    "bookname": " VISUAL FOXPRO学习辅导与上机实习(第3版)/周察金",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082487",
-    "bookname": "V会计综合模拟实习/许长华",
+    "bookname": "会计综合模拟实习/许长华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082488",
-    "bookname": "V保安法律事务",
+    "bookname": "保安法律事务",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082489",
-    "bookname": "V CORELDRAW X4实战教程(附学习卡/防伪标) /倪彤",
+    "bookname": " CORELDRAW X4实战教程(附学习卡/防伪标) /倪彤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082490",
-    "bookname": "V电工技术基础与技能学习辅导与练习(电类专业通用)(第2版)(双色)",
+    "bookname": "电工技术基础与技能学习辅导与练习(电类专业通用)(第2版)(双色)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082491",
-    "bookname": "V冷菜、冷拼与食品雕刻技艺(第二版)(配修订光盘)/周妙林 夏庆荣",
+    "bookname": "冷菜、冷拼与食品雕刻技艺(第二版)(配修订光盘)/周妙林 夏庆荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082492",
-    "bookname": "V图形图像处理—PHOTOSHOP CS6平面设计案例教程(第3版)/段欣",
+    "bookname": "图形图像处理—PHOTOSHOP CS6平面设计案例教程(第3版)/段欣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082493",
-    "bookname": "V图片拍摄与处理/赵志军",
+    "bookname": "图片拍摄与处理/赵志军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082494",
-    "bookname": "V花卉装饰技术(彩色版)/朱迎迎",
+    "bookname": "花卉装饰技术(彩色版)/朱迎迎",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082495",
-    "bookname": "V制图基础第三版/乔友杰",
+    "bookname": "制图基础第三版/乔友杰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082496",
-    "bookname": "V基本乐理通用教材(新封面)/李重光",
+    "bookname": "基本乐理通用教材(新封面)/李重光",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082497",
-    "bookname": "V职业生涯规划(修订版彩色)蒋乃平 杜爱玲(附学习卡/防伪标)",
+    "bookname": "职业生涯规划(修订版彩色)蒋乃平 杜爱玲(附学习卡/防伪标)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082498",
-    "bookname": "V AUTOCAD2007(附光盘)",
+    "bookname": " AUTOCAD2007(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082499",
-    "bookname": "V钢琴综合教程/孙国芳",
+    "bookname": "钢琴综合教程/孙国芳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082500",
-    "bookname": "V推销与沟通技巧/崔利群 苏巧娜",
+    "bookname": "推销与沟通技巧/崔利群 苏巧娜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082501",
-    "bookname": "V动漫美术基础(第二版)/郑向虹",
+    "bookname": "动漫美术基础(第二版)/郑向虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082502",
-    "bookname": "V ASP动态网页设计与应用(第2版)/李书标",
+    "bookname": " ASP动态网页设计与应用(第2版)/李书标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082503",
-    "bookname": "V色彩(一年级)/张园",
+    "bookname": "色彩(一年级)/张园",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082504",
-    "bookname": "V商品知识(第二版)/张智清",
+    "bookname": "商品知识(第二版)/张智清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082505",
-    "bookname": "V服务礼仪(第二版)/张建国",
+    "bookname": "服务礼仪(第二版)/张建国",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082506",
-    "bookname": "V OFFICE 2007办公软件综合应用/周忠林",
+    "bookname": " OFFICE 2007办公软件综合应用/周忠林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082507",
-    "bookname": "V礼仪规范教程(第三版)(配修订盘)/张朝辉",
+    "bookname": "礼仪规范教程(第三版)(配修订盘)/张朝辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082508",
-    "bookname": "V办公设备使用与维护(第2版)(附学习卡/防伪标)",
+    "bookname": "办公设备使用与维护(第2版)(附学习卡/防伪标)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082509",
-    "bookname": "V公共艺术—音乐篇/刘五华",
+    "bookname": "公共艺术—音乐篇/刘五华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082510",
-    "bookname": "V机械基础/编写组",
+    "bookname": "机械基础/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082511",
-    "bookname": "V音乐欣赏(第2版)(配修订盘)(附学习卡/防伪标)/高铁",
+    "bookname": "音乐欣赏(第2版)(配修订盘)(附学习卡/防伪标)/高铁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082512",
-    "bookname": "V建筑制图与识图(第2版)/陆叔华",
+    "bookname": "建筑制图与识图(第2版)/陆叔华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082513",
-    "bookname": "V数控铣削编程与操作训练(第二版)/郑书华",
+    "bookname": "数控铣削编程与操作训练(第二版)/郑书华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082514",
-    "bookname": "V电控发动机维修(第二版)/解福泉",
+    "bookname": "电控发动机维修(第二版)/解福泉",
     "publishing": "高等教育"
 },
 {
@@ -12576,13077 +12576,13077 @@ module.exports.books = [{
 },
 {
     "subscribeCode": "18CJ0082516",
-    "bookname": "V可视化编程应用—VISUAL BASIC(第3版)(附学习卡/防伪标)/贾长云",
+    "bookname": "可视化编程应用—VISUAL BASIC(第3版)(附学习卡/防伪标)/贾长云",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082517",
-    "bookname": "V“毛泽东思想和中国特色社会主义理论体系概论”课教学要点和教",
+    "bookname": "“毛泽东思想和中国特色社会主义理论体系概论”课教学要点和教",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082518",
-    "bookname": "V“毛泽东思想和中国特色社会主义理论体系概论”课教学要点和教",
+    "bookname": "“毛泽东思想和中国特色社会主义理论体系概论”课教学要点和教",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082519",
-    "bookname": "V语文教学参考书(职业模块 工科类)(附光盘、附学习卡)/马永飞",
+    "bookname": "语文教学参考书(职业模块 工科类)(附光盘、附学习卡)/马永飞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082520",
-    "bookname": "V电子线路(第二版)(附学习卡/防伪标)/陈其纯",
+    "bookname": "电子线路(第二版)(附学习卡/防伪标)/陈其纯",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082521",
-    "bookname": "V经济法律法规习题集(第3版)(配盘)/陈炳勋",
+    "bookname": "经济法律法规习题集(第3版)(配盘)/陈炳勋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082522",
-    "bookname": "V动画设计基础(2009年版) /赵前",
+    "bookname": "动画设计基础(2009年版) /赵前",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082523",
-    "bookname": "V市场营销(第2版) /张润琴",
+    "bookname": "市场营销(第2版) /张润琴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082524",
-    "bookname": "V英语评价手册(基础模块)",
+    "bookname": "英语评价手册(基础模块)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082525",
-    "bookname": "V空调实用检修技术/汪韬",
+    "bookname": "空调实用检修技术/汪韬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082526",
-    "bookname": "V语文练习册(基础版)第4册(修订版)(新封面)(附学习卡/防伪标) /",
+    "bookname": "语文练习册(基础版)第4册(修订版)(新封面)(附学习卡/防伪标) /",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082527",
-    "bookname": "V装饰画/远宏",
+    "bookname": "装饰画/远宏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082528",
-    "bookname": "V学前儿童语言教育/姜晓燕 郭咏梅",
+    "bookname": "学前儿童语言教育/姜晓燕 郭咏梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082529",
-    "bookname": "V框架结构施工图及11G101平法识图解析/任波远",
+    "bookname": "框架结构施工图及11G101平法识图解析/任波远",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082530",
-    "bookname": "V畜禽生产/王恬、陈桂银",
+    "bookname": "畜禽生产/王恬、陈桂银",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082531",
-    "bookname": "V电工技术基础(第二版)/刘志平",
+    "bookname": "电工技术基础(第二版)/刘志平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082532",
-    "bookname": "V中式烹调技艺(第2版)(配修订盘)(附学习卡/防伪标)/李刚、王月智",
+    "bookname": "中式烹调技艺(第2版)(配修订盘)(附学习卡/防伪标)/李刚、王月智",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082533",
-    "bookname": "V电子商务网页制作(第二版)/刘焰",
+    "bookname": "电子商务网页制作(第二版)/刘焰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082534",
-    "bookname": "V电气控制与PLC技术/程周",
+    "bookname": "电气控制与PLC技术/程周",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082535",
-    "bookname": "V变频调速技术/王兆义",
+    "bookname": "变频调速技术/王兆义",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082536",
-    "bookname": "V综合素质、保教知识与能力模拟试卷及应试技巧(幼儿园)/王长倩",
+    "bookname": "综合素质、保教知识与能力模拟试卷及应试技巧(幼儿园)/王长倩",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082537",
-    "bookname": "V计算机应用基础(WINDOWS XP+OFFICE 2003)(第2版)(黑白版)(附学",
+    "bookname": "计算机应用基础(WINDOWS XP+OFFICE 2003)(第2版)(黑白版)(附学",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082538",
-    "bookname": "V财务会计/毛波军",
+    "bookname": "财务会计/毛波军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082539",
-    "bookname": "V兽医基础(第二版)/张进林",
+    "bookname": "兽医基础(第二版)/张进林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082540",
-    "bookname": "V现代物流基础(第二版)/杨穗萍",
+    "bookname": "现代物流基础(第二版)/杨穗萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082541",
-    "bookname": "V数控机床操作与维护技术基础—操作训练(第2版)",
+    "bookname": "数控机床操作与维护技术基础—操作训练(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082542",
-    "bookname": "V学前儿童数学教育(第二版)/徐青 刘",
+    "bookname": "学前儿童数学教育(第二版)/徐青 刘",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082543",
-    "bookname": "V应用写作(第一版)/张耀辉",
+    "bookname": "应用写作(第一版)/张耀辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082544",
-    "bookname": "V美术设计基础(彩色版)(第3版)(附学习卡/防伪标)/郑向虹",
+    "bookname": "美术设计基础(彩色版)(第3版)(附学习卡/防伪标)/郑向虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082545",
-    "bookname": "V初级会计电算化(金蝶KIS V9.0版)(附光盘) /梁毅炜、王悦",
+    "bookname": "初级会计电算化(金蝶KIS V9.0版)(附光盘) /梁毅炜、王悦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082546",
-    "bookname": "V文学鉴赏(附防伪标)/尹缉熙",
+    "bookname": "文学鉴赏(附防伪标)/尹缉熙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082547",
-    "bookname": "V数据库应用基础---ACCESS(第3版)(附学习卡/防伪标)/孙瑞新",
+    "bookname": "数据库应用基础---ACCESS(第3版)(附学习卡/防伪标)/孙瑞新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082548",
-    "bookname": "V电工基础学习辅导与练习(第二版)(附光盘)/周绍敏",
+    "bookname": "电工基础学习辅导与练习(第二版)(附光盘)/周绍敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082549",
-    "bookname": "V计算机组装与维修(第3版)(附学习卡/防伪标)/ 柳青",
+    "bookname": "计算机组装与维修(第3版)(附学习卡/防伪标)/ 柳青",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082550",
-    "bookname": "V计算机组装与维修(第3版)(黑白)/刘红卫 蒋慧勤",
+    "bookname": "计算机组装与维修(第3版)(黑白)/刘红卫 蒋慧勤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082551",
-    "bookname": "V简笔画(第二版)/ 潘春华 董明",
+    "bookname": "简笔画(第二版)/ 潘春华 董明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082552",
-    "bookname": "V电器及PLC控制技术(第2版)/高勤",
+    "bookname": "电器及PLC控制技术(第2版)/高勤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082553",
-    "bookname": "V电子CAD项目实训/姬梅素",
+    "bookname": "电子CAD项目实训/姬梅素",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082554",
-    "bookname": "V烹饪工艺美术(第二版)/周文涌",
+    "bookname": "烹饪工艺美术(第二版)/周文涌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082555",
-    "bookname": "V素描(三年级)/潘虎、高尚文",
+    "bookname": "素描(三年级)/潘虎、高尚文",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082556",
-    "bookname": "V电子商务网络技术基础/刘羿 谢先彬",
+    "bookname": "电子商务网络技术基础/刘羿 谢先彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082557",
-    "bookname": "V电工电子技术与技能教学参考(附光盘)/程周",
+    "bookname": "电工电子技术与技能教学参考(附光盘)/程周",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082558",
-    "bookname": "V幼儿园课程概论/阮素莲",
+    "bookname": "幼儿园课程概论/阮素莲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082559",
-    "bookname": "V钢琴/时晓红",
+    "bookname": "钢琴/时晓红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082560",
-    "bookname": "V物理教学参考(基础版)(上册)(第二版)(附光盘)/邵长泰",
+    "bookname": "物理教学参考(基础版)(上册)(第二版)(附光盘)/邵长泰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082561",
-    "bookname": "V会计电算化习题集与上机训练(第2版)/彭英穗",
+    "bookname": "会计电算化习题集与上机训练(第2版)/彭英穗",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082562",
-    "bookname": "V汽车机械制图(第2版)/霍振生",
+    "bookname": "汽车机械制图(第2版)/霍振生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082563",
-    "bookname": "V PROTEL DXP 2004项目实训及应用(双色)(附学习卡/防伪标) /沈水",
+    "bookname": " PROTEL DXP 2004项目实训及应用(双色)(附学习卡/防伪标) /沈水",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082564",
-    "bookname": "V机械制图(第3版)(双色版)(附学习卡/防伪标)/王幼龙",
+    "bookname": "机械制图(第3版)(双色版)(附学习卡/防伪标)/王幼龙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082565",
-    "bookname": "V服装结构设计(上册)/魏静",
+    "bookname": "服装结构设计(上册)/魏静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082566",
-    "bookname": "V经济政治.职业生活教学参考书(第二版)/张伟",
+    "bookname": "经济政治.职业生活教学参考书(第二版)/张伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082567",
-    "bookname": "V畜禽繁殖与改良(第二版)/李青旺 胡建宏",
+    "bookname": "畜禽繁殖与改良(第二版)/李青旺 胡建宏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082568",
-    "bookname": "V普通车床加工技术(第2版)(附学习卡/防伪标)/杨宗斌",
+    "bookname": "普通车床加工技术(第2版)(附学习卡/防伪标)/杨宗斌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082569",
-    "bookname": "V服装设计基础(配盘)(加防伪标)(换封面)杨树彬于国瑞)",
+    "bookname": "服装设计基础(配盘)(加防伪标)(换封面)杨树彬于国瑞)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082570",
-    "bookname": "V公共艺术—美术篇(彩色)(附学习卡/防伪标)/刘五华",
+    "bookname": "公共艺术—美术篇(彩色)(附学习卡/防伪标)/刘五华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082571",
-    "bookname": "V心理健康(修订版)(彩色)(附学习卡/防伪标)/俞国良",
+    "bookname": "心理健康(修订版)(彩色)(附学习卡/防伪标)/俞国良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082572",
-    "bookname": "V数字影音编辑与合成:PREMIERE PRO CS6(第3版)",
+    "bookname": "数字影音编辑与合成:PREMIERE PRO CS6(第3版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082573",
-    "bookname": "V园林制图(第二版)(附学习卡/防伪标)/董南",
+    "bookname": "园林制图(第二版)(附学习卡/防伪标)/董南",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082574",
-    "bookname": "V单片机技术及应用(第2版)/王凯旋",
+    "bookname": "单片机技术及应用(第2版)/王凯旋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082575",
-    "bookname": "V计算机应用基础综合实训(职业模块)WINDOWSXP+OFFICE2010第三版(",
+    "bookname": "计算机应用基础综合实训(职业模块)WINDOWSXP+OFFICE2010第三版(",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082576",
-    "bookname": "V汽车底盘检测与维修/孙焕利",
+    "bookname": "汽车底盘检测与维修/孙焕利",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082577",
-    "bookname": "V英语教师用书(服务类)(职业模块)/编写组",
+    "bookname": "英语教师用书(服务类)(职业模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082578",
-    "bookname": "V病原生物与免疫学基础(修订版)(附学习卡/防伪标)/吕瑞芳",
+    "bookname": "病原生物与免疫学基础(修订版)(附学习卡/防伪标)/吕瑞芳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082579",
-    "bookname": "V单片机控制装置安装与调试备赛指导/刘春龙",
+    "bookname": "单片机控制装置安装与调试备赛指导/刘春龙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082580",
-    "bookname": "V服装人体与时装画(第2版)/刘元风",
+    "bookname": "服装人体与时装画(第2版)/刘元风",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082581",
-    "bookname": "V电工电子技术与技能(第2版)(非电类少学时)(新大纲双色)/程周",
+    "bookname": "电工电子技术与技能(第2版)(非电类少学时)(新大纲双色)/程周",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082582",
-    "bookname": "V礼貌礼节(第2版)(附学习卡/防伪标)/吴宝华、张杨莉",
+    "bookname": "礼貌礼节(第2版)(附学习卡/防伪标)/吴宝华、张杨莉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082583",
-    "bookname": "V物流服务营销(第二版)(附学习卡) /郭伟业",
+    "bookname": "物流服务营销(第二版)(附学习卡) /郭伟业",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082584",
-    "bookname": "V幼儿园教育活动设计与指导",
+    "bookname": "幼儿园教育活动设计与指导",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082585",
-    "bookname": "V烹饪原料知识(第2版)(附学习卡/防伪标)/ 孙一慰",
+    "bookname": "烹饪原料知识(第2版)(附学习卡/防伪标)/ 孙一慰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082586",
-    "bookname": "V电工技术基础与技能(第2版)(电类)/周绍敏",
+    "bookname": "电工技术基础与技能(第2版)(电类)/周绍敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082587",
-    "bookname": "V幼儿园管理(第二版)/王普华",
+    "bookname": "幼儿园管理(第二版)/王普华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082588",
-    "bookname": "V OFFICE 2010办公软件综合应用(第2版)/周忠林 田鹏君",
+    "bookname": " OFFICE 2010办公软件综合应用(第2版)/周忠林 田鹏君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082589",
-    "bookname": "V IT 产品营销案例实训(第2版)(附光盘，附学习卡/防伪标)/席克工",
+    "bookname": " IT 产品营销案例实训(第2版)(附光盘，附学习卡/防伪标)/席克工",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082590",
-    "bookname": "V小学语文新课程教学法(修订版)/倪文锦",
+    "bookname": "小学语文新课程教学法(修订版)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082591",
-    "bookname": "V说说.画画.做做",
+    "bookname": "说说.画画.做做",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082592",
-    "bookname": "V电子测量仪器(第3版)/李明生",
+    "bookname": "电子测量仪器(第3版)/李明生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082593",
-    "bookname": "V语文教学参考书(职业模块工科类)(修订版)(附光盘)马永飞",
+    "bookname": "语文教学参考书(职业模块工科类)(修订版)(附光盘)马永飞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082594",
-    "bookname": "V模拟导游/宫庆伟",
+    "bookname": "模拟导游/宫庆伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082595",
-    "bookname": "V社区卫生服务/周建军",
+    "bookname": "社区卫生服务/周建军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082596",
-    "bookname": "V农作物生产技术(南方版)(肖君泽)",
+    "bookname": "农作物生产技术(南方版)(肖君泽)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082597",
-    "bookname": "V计算机网络应用基础(第3版)/夏时木、钱芬、先义华",
+    "bookname": "计算机网络应用基础(第3版)/夏时木、钱芬、先义华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082598",
-    "bookname": "V汽车车身结构与附件拆装/钟文浩",
+    "bookname": "汽车车身结构与附件拆装/钟文浩",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082599",
-    "bookname": "V体育与健康教学参考书",
+    "bookname": "体育与健康教学参考书",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082600",
-    "bookname": "V财务管理习题集(第4版)/张海林",
+    "bookname": "财务管理习题集(第4版)/张海林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082601",
-    "bookname": "V素描技法/王光辉",
+    "bookname": "素描技法/王光辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082602",
-    "bookname": "V植物及生态基础/陈坚",
+    "bookname": "植物及生态基础/陈坚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082603",
-    "bookname": "V单片机技术与应用",
+    "bookname": "单片机技术与应用",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082604",
-    "bookname": "V会计技能备赛指导(附光盘)/杜怡萍、陈建瑜、谢丽萍",
+    "bookname": "会计技能备赛指导(附光盘)/杜怡萍、陈建瑜、谢丽萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082605",
-    "bookname": "V英语基础教程1/诸凌虹",
+    "bookname": "英语基础教程1/诸凌虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082606",
-    "bookname": "V市场营销基础/杨丽佳",
+    "bookname": "市场营销基础/杨丽佳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082607",
-    "bookname": "V电工工艺训练(项目式教学)(附学习卡/防伪标)/刘玉章",
+    "bookname": "电工工艺训练(项目式教学)(附学习卡/防伪标)/刘玉章",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082608",
-    "bookname": "V电工技术基础与技能学习辅导与练习(电子信息类)(第2版)(附光盘)",
+    "bookname": "电工技术基础与技能学习辅导与练习(电子信息类)(第2版)(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082609",
-    "bookname": "V金属加工与实训教学指导(附光盘1张)/郁兆昌",
+    "bookname": "金属加工与实训教学指导(附光盘1张)/郁兆昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082610",
-    "bookname": "V计算机组装与维护(双色版)/杨泉波 张巍",
+    "bookname": "计算机组装与维护(双色版)/杨泉波 张巍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082611",
-    "bookname": "V电子产品装配与调试项目实训(第2版)/李关华 聂辉海",
+    "bookname": "电子产品装配与调试项目实训(第2版)/李关华 聂辉海",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082612",
-    "bookname": "V中国画(第三版)/沈重",
+    "bookname": "中国画(第三版)/沈重",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082613",
-    "bookname": "V计算机应用基础(WINDOWS7+OFFICE2010)(第3版)/陈建军",
+    "bookname": "计算机应用基础(WINDOWS7+OFFICE2010)(第3版)/陈建军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082614",
-    "bookname": "V建筑工程定额与预算/袁建新",
+    "bookname": "建筑工程定额与预算/袁建新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082615",
-    "bookname": "V语文(职业模块)(工科类)(修订版)/马永飞",
+    "bookname": "语文(职业模块)(工科类)(修订版)/马永飞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082616",
-    "bookname": "V景区导游(配盘)/唐由庆",
+    "bookname": "景区导游(配盘)/唐由庆",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082617",
-    "bookname": "V电工技术基础与技能(第2版)(电气电力类)/苏永昌",
+    "bookname": "电工技术基础与技能(第2版)(电气电力类)/苏永昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082618",
-    "bookname": "V幼儿教师口语(第二版)/隋雯、高昕",
+    "bookname": "幼儿教师口语(第二版)/隋雯、高昕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082619",
-    "bookname": "V机械制图与CAD/彭晓兰",
+    "bookname": "机械制图与CAD/彭晓兰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082620",
-    "bookname": "V DREAMWEAVER网页制作(第2版) /王树平",
+    "bookname": " DREAMWEAVER网页制作(第2版) /王树平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082621",
-    "bookname": "V数控车削编程与操作训练(第2版)/高枫",
+    "bookname": "数控车削编程与操作训练(第2版)/高枫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082622",
-    "bookname": "V钢琴/时晓红",
+    "bookname": "钢琴/时晓红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082623",
-    "bookname": "V钢琴基础与弹唱/刘红",
+    "bookname": "钢琴基础与弹唱/刘红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082624",
-    "bookname": "V饭店礼仪/张杨莉 吴宝华",
+    "bookname": "饭店礼仪/张杨莉 吴宝华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082625",
-    "bookname": "V酒水知识与酒吧管理 附光盘/李晓东",
+    "bookname": "酒水知识与酒吧管理 附光盘/李晓东",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082626",
-    "bookname": "V语文综合实践活动集锦(上)(附光盘)/陈金海",
+    "bookname": "语文综合实践活动集锦(上)(附光盘)/陈金海",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082627",
-    "bookname": "V建筑工程安全管理",
+    "bookname": "建筑工程安全管理",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082628",
-    "bookname": "V电工电子技术与技能学习指导与练习(非电类多学时)(第2版)(双色)",
+    "bookname": "电工电子技术与技能学习指导与练习(非电类多学时)(第2版)(双色)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082629",
-    "bookname": "V R文学写做教程第二版",
+    "bookname": " R文学写做教程第二版",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082630",
-    "bookname": "V收银实务(第2版)(配盘)/于家臻",
+    "bookname": "收银实务(第2版)(配盘)/于家臻",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082631",
-    "bookname": "V AUTOCAD2010基础与应用技术/孙篗/孙篗",
+    "bookname": " AUTOCAD2010基础与应用技术/孙篗/孙篗",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082632",
-    "bookname": "V建筑材料与检测/毕万利",
+    "bookname": "建筑材料与检测/毕万利",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082633",
-    "bookname": "V低压电气设备运行与维修/宋健雄",
+    "bookname": "低压电气设备运行与维修/宋健雄",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082634",
-    "bookname": "V美容化妆(第2版)(附光盘)(附学习卡/防伪标)/郭秋彤、林静涛",
+    "bookname": "美容化妆(第2版)(附光盘)(附学习卡/防伪标)/郭秋彤、林静涛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082635",
-    "bookname": "V网络性能测试与分析(第2 版)/李冰梅",
+    "bookname": "网络性能测试与分析(第2 版)/李冰梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082636",
-    "bookname": "V影视鉴赏/田卉群",
+    "bookname": "影视鉴赏/田卉群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082637",
-    "bookname": "V计算机应用基础综合实训(WINDOWS7+OFFICE 2010)(第3版)/黄国兴",
+    "bookname": "计算机应用基础综合实训(WINDOWS7+OFFICE 2010)(第3版)/黄国兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082638",
-    "bookname": "V服装材料练习册(第2版)/庞小涟",
+    "bookname": "服装材料练习册(第2版)/庞小涟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082639",
-    "bookname": "V幼儿歌曲弹唱/杨践明",
+    "bookname": "幼儿歌曲弹唱/杨践明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082640",
-    "bookname": "V中职生青春期心理健康自助手册/颜苏勤",
+    "bookname": "中职生青春期心理健康自助手册/颜苏勤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082641",
-    "bookname": "V广告创意(第2版)/叶凤琴",
+    "bookname": "广告创意(第2版)/叶凤琴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082642",
-    "bookname": "V网络编辑员岗位实训/王力先",
+    "bookname": "网络编辑员岗位实训/王力先",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082643",
-    "bookname": "V服装CAD(附软件)/宋玉生",
+    "bookname": "服装CAD(附软件)/宋玉生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082644",
-    "bookname": "V语文教学参考书(基础模块)(下册)(修订版)(附光盘/附学习卡/防伪",
+    "bookname": "语文教学参考书(基础模块)(下册)(修订版)(附光盘/附学习卡/防伪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082645",
-    "bookname": "V工程建设法规(第2版)/王锁荣",
+    "bookname": "工程建设法规(第2版)/王锁荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082646",
-    "bookname": "V语文教学参考书(职业模块财经、商贸及服务类)(修订版)(附光盘)/",
+    "bookname": "语文教学参考书(职业模块财经、商贸及服务类)(修订版)(附光盘)/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082647",
-    "bookname": "V食品安全与营养(第二版)配修订盘/王尔茂",
+    "bookname": "食品安全与营养(第二版)配修订盘/王尔茂",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082648",
-    "bookname": "V会计专业技能强化训练(附光盘)/杜怡萍",
+    "bookname": "会计专业技能强化训练(附光盘)/杜怡萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082649",
-    "bookname": "V汽车机械基础/胡琼",
+    "bookname": "汽车机械基础/胡琼",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082650",
-    "bookname": "V服装生产管理/姜蕾、傅月清",
+    "bookname": "服装生产管理/姜蕾、傅月清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082651",
-    "bookname": "V西餐烹调技术(第二版)(学习卡/防伪标)/闫文胜",
+    "bookname": "西餐烹调技术(第二版)(学习卡/防伪标)/闫文胜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082652",
-    "bookname": "V动画运动规律(附光盘)/许宝良",
+    "bookname": "动画运动规律(附光盘)/许宝良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082653",
-    "bookname": "V色彩(第3版)(附学习卡/防伪标)/叶小青",
+    "bookname": "色彩(第3版)(附学习卡/防伪标)/叶小青",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082654",
-    "bookname": "V英语基础教程2/诸凌虹",
+    "bookname": "英语基础教程2/诸凌虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082655",
-    "bookname": "V舞蹈基础与幼儿舞蹈/邹琳玲",
+    "bookname": "舞蹈基础与幼儿舞蹈/邹琳玲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082656",
-    "bookname": "V建筑结构施工图识读/王仁田",
+    "bookname": "建筑结构施工图识读/王仁田",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082657",
-    "bookname": "V二维动画制作—FLASH CS5/杨慧",
+    "bookname": "二维动画制作—FLASH CS5/杨慧",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082658",
-    "bookname": "V学前儿童发展心理学/张永红",
+    "bookname": "学前儿童发展心理学/张永红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082659",
-    "bookname": "V幼儿教育政策法规/李红霞",
+    "bookname": "幼儿教育政策法规/李红霞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082660",
-    "bookname": "V传感器应用技术/秦伟华 王戈静",
+    "bookname": "传感器应用技术/秦伟华 王戈静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082661",
-    "bookname": "V网络布线与小型局域网搭建(第2版)/姜惠民",
+    "bookname": "网络布线与小型局域网搭建(第2版)/姜惠民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082662",
-    "bookname": "V中国古典舞基本功训练教程/王伟",
+    "bookname": "中国古典舞基本功训练教程/王伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082663",
-    "bookname": "V英语教师用书3(基础模块)(附光盘)/编写组",
+    "bookname": "英语教师用书3(基础模块)(附光盘)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082664",
-    "bookname": "V单片机技术及应用(MS—51系列)/姜治臻",
+    "bookname": "单片机技术及应用(MS—51系列)/姜治臻",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082665",
-    "bookname": "V英语教师用书(拓展模块)",
+    "bookname": "英语教师用书(拓展模块)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082666",
-    "bookname": "V自然科学基础知识(附学习卡/防伪标) /毕毓俊",
+    "bookname": "自然科学基础知识(附学习卡/防伪标) /毕毓俊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082667",
-    "bookname": "V英语3教师用书(基础模块)(第2版)(附光盘)/编写组",
+    "bookname": "英语3教师用书(基础模块)(第2版)(附光盘)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082668",
-    "bookname": "V英语教师用书2(基础模块)(第2版)/编写组",
+    "bookname": "英语教师用书2(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082669",
-    "bookname": "V英语教师用书(拓展模块)(第2版)",
+    "bookname": "英语教师用书(拓展模块)(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082670",
-    "bookname": "V导游业务",
+    "bookname": "导游业务",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082671",
-    "bookname": "V秘书基础(第2版)(附学习卡/防伪标)/高海生",
+    "bookname": "秘书基础(第2版)(附学习卡/防伪标)/高海生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082672",
-    "bookname": "V书法(第2版)(配VCD)(附学习卡/防伪标)/欧阳中石",
+    "bookname": "书法(第2版)(配VCD)(附学习卡/防伪标)/欧阳中石",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082673",
-    "bookname": "V机械基础(多学时)新国家规划/孪学钢",
+    "bookname": "机械基础(多学时)新国家规划/孪学钢",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082674",
-    "bookname": "V电工技术基础与技能(电子信息类)(第2版)(双色)/陈雅萍",
+    "bookname": "电工技术基础与技能(电子信息类)(第2版)(双色)/陈雅萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082675",
-    "bookname": "V机修钳工工艺与技能训练",
+    "bookname": "机修钳工工艺与技能训练",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082676",
-    "bookname": "V常用工具软件(第2版)/毕国强",
+    "bookname": "常用工具软件(第2版)/毕国强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082677",
-    "bookname": "V AUTOCAD 2008基础与应用",
+    "bookname": " AUTOCAD 2008基础与应用",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082678",
-    "bookname": "V中文3DS MAX 2012案例应用教程(第2版)/姚金桓、陈伟",
+    "bookname": "中文3DS MAX 2012案例应用教程(第2版)/姚金桓、陈伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082679",
-    "bookname": "V幼儿园科学教育与活动设计/朱家雄 高一敏",
+    "bookname": "幼儿园科学教育与活动设计/朱家雄 高一敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082680",
-    "bookname": "V全国英语等级考试标准教程(一级B)",
+    "bookname": "全国英语等级考试标准教程(一级B)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082681",
-    "bookname": "V旅游美学基础(第三版)/祁颖",
+    "bookname": "旅游美学基础(第三版)/祁颖",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082682",
-    "bookname": "V学前教育学/虞永平、王春燕",
+    "bookname": "学前教育学/虞永平、王春燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082683",
-    "bookname": "V基础会计实训(第二版)/陈凌",
+    "bookname": "基础会计实训(第二版)/陈凌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082684",
-    "bookname": "V财会基础知识(非会计专业)第2版/杜怡萍",
+    "bookname": "财会基础知识(非会计专业)第2版/杜怡萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082685",
-    "bookname": "V PHOTOSHOP CS5图形图像处理(附学习卡/防伪标)/龙天才",
+    "bookname": " PHOTOSHOP CS5图形图像处理(附学习卡/防伪标)/龙天才",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082686",
-    "bookname": "V数据库应用基础—ACCESS 2010(第3版)/张巍",
+    "bookname": "数据库应用基础—ACCESS 2010(第3版)/张巍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082687",
-    "bookname": "V学前儿童科学教育(2版)/郦燕君",
+    "bookname": "学前儿童科学教育(2版)/郦燕君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082688",
-    "bookname": "V机械制图(第4版)(双色)/王幼龙",
+    "bookname": "机械制图(第4版)(双色)/王幼龙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082689",
-    "bookname": "V机械制图(双色)/钱可强",
+    "bookname": "机械制图(双色)/钱可强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082690",
-    "bookname": "V汽车发动机构造与维修(附学习卡/防伪标)/沈云鹤",
+    "bookname": "汽车发动机构造与维修(附学习卡/防伪标)/沈云鹤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082691",
-    "bookname": "V摄影摄像入门教程(彩色)(附学习卡/防伪标)/周光平",
+    "bookname": "摄影摄像入门教程(彩色)(附学习卡/防伪标)/周光平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082692",
-    "bookname": "V经济法律法规(第三版)陈炳勋",
+    "bookname": "经济法律法规(第三版)陈炳勋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082693",
-    "bookname": "V哲学与人生教学参考书(附光盘)(修订版)/张伟",
+    "bookname": "哲学与人生教学参考书(附光盘)(修订版)/张伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082694",
-    "bookname": "V幼儿教育心理学(第2版)(附学习卡防伪标)/姚梅林.郭芳芳",
+    "bookname": "幼儿教育心理学(第2版)(附学习卡防伪标)/姚梅林.郭芳芳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082695",
-    "bookname": "V畜禽解剖生理(第三版)/王会香 孟婷",
+    "bookname": "畜禽解剖生理(第三版)/王会香 孟婷",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082696",
-    "bookname": "V语文(基础模块)上册(修订版)(四色)(附学习卡/防伪标)/倪文锦 于",
+    "bookname": "语文(基础模块)上册(修订版)(四色)(附学习卡/防伪标)/倪文锦 于",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082697",
-    "bookname": "V物流综合实训/潘炎建",
+    "bookname": "物流综合实训/潘炎建",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082698",
-    "bookname": "V电子技术基础学习指导与同步训练(附光盘)/陈振源",
+    "bookname": "电子技术基础学习指导与同步训练(附光盘)/陈振源",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082699",
-    "bookname": "V INVENTOR 2009三维机械设计应用基础 (配光盘)/许睦旬",
+    "bookname": " INVENTOR 2009三维机械设计应用基础 (配光盘)/许睦旬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082700",
-    "bookname": "V电子商务网页制作上机实验指导(第2版)(附光盘)/刘焰",
+    "bookname": "电子商务网页制作上机实验指导(第2版)(附光盘)/刘焰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082701",
-    "bookname": "V计算机绘图—AUTOCAD2004/赵国增",
+    "bookname": "计算机绘图—AUTOCAD2004/赵国增",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082702",
-    "bookname": "V商务文案写作(第三版)/李玉珊",
+    "bookname": "商务文案写作(第三版)/李玉珊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082703",
-    "bookname": "V电力拖动与自动控制线路技能训练(第2版)(双色)(附学习卡/防伪标",
+    "bookname": "电力拖动与自动控制线路技能训练(第2版)(双色)(附学习卡/防伪标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082704",
-    "bookname": "V数据库应用基础--VISUAL FOXPRO(第2版)(附学习卡/防伪标)/周察",
+    "bookname": "数据库应用基础--VISUAL FOXPRO(第2版)(附学习卡/防伪标)/周察",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082705",
-    "bookname": "V电视机原理与维修(第3版)(附学习卡/防伪标)/章夔",
+    "bookname": "电视机原理与维修(第3版)(附学习卡/防伪标)/章夔",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082706",
-    "bookname": "V健身健美/张先松",
+    "bookname": "健身健美/张先松",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082707",
-    "bookname": "V禽的生产与经营(第二版)/尤明珍",
+    "bookname": "禽的生产与经营(第二版)/尤明珍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082708",
-    "bookname": "V动漫角色设计与制作(彩色版，附光盘)/刘洋",
+    "bookname": "动漫角色设计与制作(彩色版，附光盘)/刘洋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082709",
-    "bookname": "V园林绿地规划设计(第二版)(附学习卡/ 防伪标)/黄东兵",
+    "bookname": "园林绿地规划设计(第二版)(附学习卡/ 防伪标)/黄东兵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082710",
-    "bookname": "V计算机应用基础(WINDOWS7+OFFICE 2010)(含职业模块)(第3版)(附",
+    "bookname": "计算机应用基础(WINDOWS7+OFFICE 2010)(含职业模块)(第3版)(附",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082711",
-    "bookname": "V地基与基础工程施工/朱家祥",
+    "bookname": "地基与基础工程施工/朱家祥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082712",
-    "bookname": "V新编出纳员岗位实训/沈宝燕",
+    "bookname": "新编出纳员岗位实训/沈宝燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082713",
-    "bookname": "V电工仪表与测量(第3版)(附光盘)(附学习卡/防伪标)/文春帆",
+    "bookname": "电工仪表与测量(第3版)(附光盘)(附学习卡/防伪标)/文春帆",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082714",
-    "bookname": "V旅游文化",
+    "bookname": "旅游文化",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082715",
-    "bookname": "V常用工具软件应用教程",
+    "bookname": "常用工具软件应用教程",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082716",
-    "bookname": "V建筑力学与结构平法识图/王仁田",
+    "bookname": "建筑力学与结构平法识图/王仁田",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082717",
-    "bookname": "V电子技术基础(第二版)/张龙兴",
+    "bookname": "电子技术基础(第二版)/张龙兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082718",
-    "bookname": "V教育学(第2版)/张乐天",
+    "bookname": "教育学(第2版)/张乐天",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082719",
-    "bookname": "V饭店插花艺术(彩色版)/严明明",
+    "bookname": "饭店插花艺术(彩色版)/严明明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082720",
-    "bookname": "V PROTEL DXP实用教程/王正勇",
+    "bookname": " PROTEL DXP实用教程/王正勇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082721",
-    "bookname": "V咖啡技艺(配盘)(彩色版)(附学习卡/防伪标)/荣晓坤.汪珊珊",
+    "bookname": "咖啡技艺(配盘)(彩色版)(附学习卡/防伪标)/荣晓坤.汪珊珊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082722",
-    "bookname": "V声乐(第二版)/徐浩 刘世音",
+    "bookname": "声乐(第二版)/徐浩 刘世音",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082723",
-    "bookname": "V导游实务(第三版)/黄明亮 殷剑",
+    "bookname": "导游实务(第三版)/黄明亮 殷剑",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082724",
-    "bookname": "V幼儿科学教育与活动指导/陈虹",
+    "bookname": "幼儿科学教育与活动指导/陈虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082725",
-    "bookname": "V幼儿园教育环境与创设(附光盘)(附学习卡/防伪标)/汝茵佳",
+    "bookname": "幼儿园教育环境与创设(附光盘)(附学习卡/防伪标)/汝茵佳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082726",
-    "bookname": "V办公自动化应用(第2版)(附学习卡/防伪标)/段标",
+    "bookname": "办公自动化应用(第2版)(附学习卡/防伪标)/段标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082727",
-    "bookname": "V饭店专业英语/王琴茹",
+    "bookname": "饭店专业英语/王琴茹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082728",
-    "bookname": "V小学教育学/黄甫文",
+    "bookname": "小学教育学/黄甫文",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082729",
-    "bookname": "V酒店产品营销/刘悦",
+    "bookname": "酒店产品营销/刘悦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082730",
-    "bookname": "V DREAMWEAVER CS6网页制作案例应用(第2版)(附光盘)/蔡薇",
+    "bookname": " DREAMWEAVER CS6网页制作案例应用(第2版)(附光盘)/蔡薇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082731",
-    "bookname": "V电子产品结构工艺(第2版)(附光盘)/钟名湖",
+    "bookname": "电子产品结构工艺(第2版)(附光盘)/钟名湖",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082732",
-    "bookname": "V学前儿童游戏(第二版)/杨枫",
+    "bookname": "学前儿童游戏(第二版)/杨枫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082733",
-    "bookname": "V现代教育技术(配盘)/周跃良",
+    "bookname": "现代教育技术(配盘)/周跃良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082734",
-    "bookname": "V免疫学检验/吴俊英",
+    "bookname": "免疫学检验/吴俊英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082735",
-    "bookname": "V计算机绘图-AUTOCAD2008/赵国增",
+    "bookname": "计算机绘图-AUTOCAD2008/赵国增",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082736",
-    "bookname": "V舞蹈(基础版)(附学习卡/防伪标)/吴彬",
+    "bookname": "舞蹈(基础版)(附学习卡/防伪标)/吴彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082737",
-    "bookname": "V建筑构造(第3版)/ 孙鲁、甘佩兰",
+    "bookname": "建筑构造(第3版)/ 孙鲁、甘佩兰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082738",
-    "bookname": "V电子技能与实训(基础版)－项目式教学(附学习卡)/陈雅萍",
+    "bookname": "电子技能与实训(基础版)－项目式教学(附学习卡)/陈雅萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082739",
-    "bookname": "V中国历史文化(第2版)(附学习卡/防伪标)/袁晓国",
+    "bookname": "中国历史文化(第2版)(附学习卡/防伪标)/袁晓国",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082740",
-    "bookname": "V电子基础/陈振源",
+    "bookname": "电子基础/陈振源",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082741",
-    "bookname": "V电工电子技术与技能(非电类多学时)(第2版)(双色)/杜德昌",
+    "bookname": "电工电子技术与技能(非电类多学时)(第2版)(双色)/杜德昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082742",
-    "bookname": "V汽车机械基础(第2版)/崔振民 张让莘",
+    "bookname": "汽车机械基础(第2版)/崔振民 张让莘",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082743",
-    "bookname": "V汽车专业英语/黄立新",
+    "bookname": "汽车专业英语/黄立新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082744",
-    "bookname": "V电子技术基础与技能实训(第二版)/张建如",
+    "bookname": "电子技术基础与技能实训(第二版)/张建如",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082745",
-    "bookname": "V液压与气压传动/刘延俊 关浩 周德繁",
+    "bookname": "液压与气压传动/刘延俊 关浩 周德繁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082746",
-    "bookname": "V建筑工程施工组织管理(第2版)/蔡雪峰",
+    "bookname": "建筑工程施工组织管理(第2版)/蔡雪峰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082747",
-    "bookname": "V装饰绘画/吕璇",
+    "bookname": "装饰绘画/吕璇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082748",
-    "bookname": "V造型基础/焦灵",
+    "bookname": "造型基础/焦灵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082749",
-    "bookname": "V职业道德与法律教学参考书(修订版)(附光盘)(附学习卡/防伪标)/",
+    "bookname": "职业道德与法律教学参考书(修订版)(附光盘)(附学习卡/防伪标)/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082750",
-    "bookname": "V学前卫生学",
+    "bookname": "学前卫生学",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082751",
-    "bookname": "V金属加工与实训-钳工中级实训(附学习卡)/蒋增福",
+    "bookname": "金属加工与实训-钳工中级实训(附学习卡)/蒋增福",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082752",
-    "bookname": "V电子技术基础与技能学习辅导与练习(电子信息类)(第2版)(附光盘)",
+    "bookname": "电子技术基础与技能学习辅导与练习(电子信息类)(第2版)(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082753",
-    "bookname": "V中文WORD 2003与EXCEL 2003应用基础(第二版)/周察金",
+    "bookname": "中文WORD 2003与EXCEL 2003应用基础(第二版)/周察金",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082754",
-    "bookname": "V声乐/陶黎明",
+    "bookname": "声乐/陶黎明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082755",
-    "bookname": "V机械制图(多学时，附学习卡/防伪标)/柳燕君等(双色)",
+    "bookname": "机械制图(多学时，附学习卡/防伪标)/柳燕君等(双色)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082756",
-    "bookname": "V电工技术基础与技能实训(第二版)/沈林",
+    "bookname": "电工技术基础与技能实训(第二版)/沈林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082757",
-    "bookname": "V电机与拖动(双色)(附学习卡/防伪标)/杜德昌",
+    "bookname": "电机与拖动(双色)(附学习卡/防伪标)/杜德昌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082758",
-    "bookname": "V外国文学/刘建军",
+    "bookname": "外国文学/刘建军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082759",
-    "bookname": "V电子技术/尹常永",
+    "bookname": "电子技术/尹常永",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082760",
-    "bookname": "V计算机应用基础(WINDOWS7+OFFICE 2010)(第3版)/黄国兴、周南岳",
+    "bookname": "计算机应用基础(WINDOWS7+OFFICE 2010)(第3版)/黄国兴、周南岳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082761",
-    "bookname": "V汽车文化/郎全栋、曹晓光",
+    "bookname": "汽车文化/郎全栋、曹晓光",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082762",
-    "bookname": "V电子技术基础/张龙兴",
+    "bookname": "电子技术基础/张龙兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082763",
-    "bookname": "V中国旅游地理/芦爱英",
+    "bookname": "中国旅游地理/芦爱英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082764",
-    "bookname": "V PROTEL 2004项目实训/陈雅萍",
+    "bookname": " PROTEL 2004项目实训/陈雅萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082765",
-    "bookname": "V财经法规与会计职业道德 /韩菲",
+    "bookname": "财经法规与会计职业道德 /韩菲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082766",
-    "bookname": "V微型计算机组装升级与维护教程(第3版)",
+    "bookname": "微型计算机组装升级与维护教程(第3版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082767",
-    "bookname": "V企业网络搭建及应用/张裕生",
+    "bookname": "企业网络搭建及应用/张裕生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082768",
-    "bookname": "V二维动画制作-ADOBEFLASH CS5/陈振源",
+    "bookname": "二维动画制作-ADOBEFLASH CS5/陈振源",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082769",
-    "bookname": "V网络营销/许宝良",
+    "bookname": "网络营销/许宝良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082770",
-    "bookname": "V客房服务与管理/陈莹、范运铭",
+    "bookname": "客房服务与管理/陈莹、范运铭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082771",
-    "bookname": "V ACCESS2003应用基础(第二版)",
+    "bookname": " ACCESS2003应用基础(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082772",
-    "bookname": "V计算机应用基础教学参考书WINDOWS7+OFFICE2010第三版/周南岳",
+    "bookname": "计算机应用基础教学参考书WINDOWS7+OFFICE2010第三版/周南岳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082773",
-    "bookname": "V茶艺/张楠宁",
+    "bookname": "茶艺/张楠宁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082774",
-    "bookname": "V现代推销技术(附学习卡)/尹彬",
+    "bookname": "现代推销技术(附学习卡)/尹彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082775",
-    "bookname": "V职业道德与法律教学设计选(附光盘)/汪永智.蒋淑雯",
+    "bookname": "职业道德与法律教学设计选(附光盘)/汪永智.蒋淑雯",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082776",
-    "bookname": "V国际金融(第三版)(双色)/孙连铮",
+    "bookname": "国际金融(第三版)(双色)/孙连铮",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082777",
-    "bookname": "V职业生涯规划教学参考书/蒋乃平 杜爱玲(修订版)(附光盘)",
+    "bookname": "职业生涯规划教学参考书/蒋乃平 杜爱玲(修订版)(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082778",
-    "bookname": "V电子技术基础与技能/张金华",
+    "bookname": "电子技术基础与技能/张金华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082779",
-    "bookname": "V学前教育研究方法(第二版)",
+    "bookname": "学前教育研究方法(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082780",
-    "bookname": "V计算机录入与排版(修订版)/周南岳",
+    "bookname": "计算机录入与排版(修订版)/周南岳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082781",
-    "bookname": "V形体训练基础(附学习卡/防伪标)/胡凌燕",
+    "bookname": "形体训练基础(附学习卡/防伪标)/胡凌燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082782",
-    "bookname": "V中国饮食文化概论(第2版)/赵荣光",
+    "bookname": "中国饮食文化概论(第2版)/赵荣光",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082783",
-    "bookname": "V音响设备维修实训(第2版)(附光盘)/王军伟、徐治乐",
+    "bookname": "音响设备维修实训(第2版)(附光盘)/王军伟、徐治乐",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082784",
-    "bookname": "V网页设计与制作教程(第3版) /徐国平",
+    "bookname": "网页设计与制作教程(第3版) /徐国平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082785",
-    "bookname": "V英语高职入学考试复习指导(拓展模块)第2版/编写组",
+    "bookname": "英语高职入学考试复习指导(拓展模块)第2版/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082786",
-    "bookname": "V课件制作/杨国建",
+    "bookname": "课件制作/杨国建",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082787",
-    "bookname": "V职业英语系列--幼儿英语课堂教学实训教程/编写组",
+    "bookname": "职业英语系列--幼儿英语课堂教学实训教程/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082788",
-    "bookname": "V服装手工工艺(第二版)(附学习卡/防伪标)/潘凝",
+    "bookname": "服装手工工艺(第二版)(附学习卡/防伪标)/潘凝",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082789",
-    "bookname": "V汽车发动机构造与维修(第二版)(配盘)/孔宪峰",
+    "bookname": "汽车发动机构造与维修(第二版)(配盘)/孔宪峰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082790",
-    "bookname": "V建筑施工技术与机械(第2版，附防伪标/学习卡)/杨澄宇",
+    "bookname": "建筑施工技术与机械(第2版，附防伪标/学习卡)/杨澄宇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082791",
-    "bookname": "V政治经济学/夏子贵、罗余九",
+    "bookname": "政治经济学/夏子贵、罗余九",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082792",
-    "bookname": "V幼儿园实习指导(第二版)/高铁",
+    "bookname": "幼儿园实习指导(第二版)/高铁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082793",
-    "bookname": "V数字服装画技法/高松 王琴",
+    "bookname": "数字服装画技法/高松 王琴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082794",
-    "bookname": "V PLC技术应用(第2版)/初厚绪 薛凯",
+    "bookname": " PLC技术应用(第2版)/初厚绪 薛凯",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082795",
-    "bookname": "V PLC技术项目实训及应用/刘克军",
+    "bookname": " PLC技术项目实训及应用/刘克军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082796",
-    "bookname": "V办公设备使用与维护(第2版)(配盘)(附学习卡/防伪标)/曹迪、朱国",
+    "bookname": "办公设备使用与维护(第2版)(配盘)(附学习卡/防伪标)/曹迪、朱国",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082797",
-    "bookname": "V建筑CAD/丁文化",
+    "bookname": "建筑CAD/丁文化",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082798",
-    "bookname": "V语文—中职生对口升学考试总复习综合练习册/于黔勋",
+    "bookname": "语文—中职生对口升学考试总复习综合练习册/于黔勋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082799",
-    "bookname": "V电气绘图与电子CAD(第2版)",
+    "bookname": "电气绘图与电子CAD(第2版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082800",
-    "bookname": "V实用电子技术技能与制作/王国祥、程茂林",
+    "bookname": "实用电子技术技能与制作/王国祥、程茂林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082801",
-    "bookname": "V电子技术基础与技能(第2版)/陈振源",
+    "bookname": "电子技术基础与技能(第2版)/陈振源",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082802",
-    "bookname": "V纳税实务/张敏 周建共",
+    "bookname": "纳税实务/张敏 周建共",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082803",
-    "bookname": "V基础会计(第四版)/高香林",
+    "bookname": "基础会计(第四版)/高香林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082804",
-    "bookname": "V导游基础知识/沈民权",
+    "bookname": "导游基础知识/沈民权",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082805",
-    "bookname": "V动态网页编程基础/郑国强",
+    "bookname": "动态网页编程基础/郑国强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082806",
-    "bookname": "V电子元器件与电路基础",
+    "bookname": "电子元器件与电路基础",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082807",
-    "bookname": "V园林美术(第二版)(附光盘)(附学习卡/防伪标)/蒋长虹",
+    "bookname": "园林美术(第二版)(附光盘)(附学习卡/防伪标)/蒋长虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082808",
-    "bookname": "V教玩具制作/高红星",
+    "bookname": "教玩具制作/高红星",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082809",
-    "bookname": "V电工技能与实训(基础版)－项目式教学/陈雅萍",
+    "bookname": "电工技能与实训(基础版)－项目式教学/陈雅萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082810",
-    "bookname": "V计算机组装与维护(附学习卡/防伪标) /黄敏/宋小标/胡洁",
+    "bookname": "计算机组装与维护(附学习卡/防伪标) /黄敏/宋小标/胡洁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082811",
-    "bookname": "V小企业会计模拟实习(附光盘)/朱玲娇",
+    "bookname": "小企业会计模拟实习(附光盘)/朱玲娇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082812",
-    "bookname": "V导游基础知识(第三版)(附学习卡/防伪标)/范运铭",
+    "bookname": "导游基础知识(第三版)(附学习卡/防伪标)/范运铭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082813",
-    "bookname": "V电子技术基础与技能(电子信息类)(第2版)(双色)/伍湘彬",
+    "bookname": "电子技术基础与技能(电子信息类)(第2版)(双色)/伍湘彬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082814",
-    "bookname": "V大学计算机基础(WINDOWS 7+OFFICE 2010)/林加论",
+    "bookname": "大学计算机基础(WINDOWS 7+OFFICE 2010)/林加论",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082815",
-    "bookname": "V汽车底盘构造与维修(第2版)/李晓",
+    "bookname": "汽车底盘构造与维修(第2版)/李晓",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082816",
-    "bookname": "V中等职业学校专业教学标准交通运输类(第二辑)",
+    "bookname": "中等职业学校专业教学标准交通运输类(第二辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082817",
-    "bookname": "V中等职业学校专业教学标准文化艺术类(第二辑)",
+    "bookname": "中等职业学校专业教学标准文化艺术类(第二辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082818",
-    "bookname": "V机械制造技术基础—基本常识(第2版)/葛金印",
+    "bookname": "机械制造技术基础—基本常识(第2版)/葛金印",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082819",
-    "bookname": "V经济法基础(第2版)/吕勇",
+    "bookname": "经济法基础(第2版)/吕勇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082820",
-    "bookname": "V财政与金融(第三版)/倪成伟",
+    "bookname": "财政与金融(第三版)/倪成伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082821",
-    "bookname": "V建筑结构(第二版)/龚伟",
+    "bookname": "建筑结构(第二版)/龚伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082822",
-    "bookname": "V实用美术基础/崔建成",
+    "bookname": "实用美术基础/崔建成",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082823",
-    "bookname": "V音乐学习与指导(第2版)(附学习卡/防伪标)/谢莉莉",
+    "bookname": "音乐学习与指导(第2版)(附学习卡/防伪标)/谢莉莉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082824",
-    "bookname": "V计算机组装与维护/陈承欢",
+    "bookname": "计算机组装与维护/陈承欢",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082825",
-    "bookname": "V电子基本电路安装与测试/崔陵 王炳荣",
+    "bookname": "电子基本电路安装与测试/崔陵 王炳荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082826",
-    "bookname": "V企业财务会计实训(第2版)(附光盘)/杨蕊",
+    "bookname": "企业财务会计实训(第2版)(附光盘)/杨蕊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082827",
-    "bookname": "V电子商务基础(附学习卡/防伪标)/张卫民",
+    "bookname": "电子商务基础(附学习卡/防伪标)/张卫民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082828",
-    "bookname": "V电子商务实务",
+    "bookname": "电子商务实务",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082829",
-    "bookname": "V物流设备操作(附光盘)/陈雄寅",
+    "bookname": "物流设备操作(附光盘)/陈雄寅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082830",
-    "bookname": "V教师口语教程/程培元",
+    "bookname": "教师口语教程/程培元",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082831",
-    "bookname": "V植物生产与环境(第三版)/宋志伟",
+    "bookname": "植物生产与环境(第三版)/宋志伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082832",
-    "bookname": "V学前教育简史/郝建英",
+    "bookname": "学前教育简史/郝建英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082833",
-    "bookname": "V普通话口语交际(第三版)(双色)/李珉",
+    "bookname": "普通话口语交际(第三版)(双色)/李珉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082834",
-    "bookname": "V计算机局域网组建与维护案例教程(第2版)(双色)/罗维",
+    "bookname": "计算机局域网组建与维护案例教程(第2版)(双色)/罗维",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082835",
-    "bookname": "V建筑CAD绘图(双色) /徐伟良",
+    "bookname": "建筑CAD绘图(双色) /徐伟良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082836",
-    "bookname": "V会计单项模拟实习(第2版)/许长华",
+    "bookname": "会计单项模拟实习(第2版)/许长华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082837",
-    "bookname": "V机械制造技术基础/曾志新、刘旺玉",
+    "bookname": "机械制造技术基础/曾志新、刘旺玉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082838",
-    "bookname": "V医科高等教学/张选群",
+    "bookname": "医科高等教学/张选群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082839",
-    "bookname": "V建筑CAD/许宝良",
+    "bookname": "建筑CAD/许宝良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082840",
-    "bookname": "V特殊儿童发展与学习(配国家级精品资源共享课)",
+    "bookname": "特殊儿童发展与学习(配国家级精品资源共享课)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082841",
-    "bookname": "V电子商务活动体验(C2C模式)(附光盘)/莫海燕",
+    "bookname": "电子商务活动体验(C2C模式)(附光盘)/莫海燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082842",
-    "bookname": "V建筑施工技术(第2版，附防伪标/学习卡)/杭有声",
+    "bookname": "建筑施工技术(第2版，附防伪标/学习卡)/杭有声",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082843",
-    "bookname": "V机械制图与AUTOCAD",
+    "bookname": "机械制图与AUTOCAD",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082844",
-    "bookname": "V汽车底盘构造与维修(第二版)(配盘)/杜瑞丰 李忠凯",
+    "bookname": "汽车底盘构造与维修(第二版)(配盘)/杜瑞丰 李忠凯",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082845",
-    "bookname": "V动画设计软件应用—FLASH CS6(第3版)(彩色)(附学习卡/防伪标)/",
+    "bookname": "动画设计软件应用—FLASH CS6(第3版)(彩色)(附学习卡/防伪标)/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082846",
-    "bookname": "V电子技术基础与技能学习指导与同步训练(第2版)(双色)(附光盘)/",
+    "bookname": "电子技术基础与技能学习指导与同步训练(第2版)(双色)(附光盘)/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082847",
-    "bookname": "V程序设计基础/余苏宁",
+    "bookname": "程序设计基础/余苏宁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082848",
-    "bookname": "V机电一体化设备组装与调试备赛指导/程周",
+    "bookname": "机电一体化设备组装与调试备赛指导/程周",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082849",
-    "bookname": "V构成艺术/崔齐、朱霖、刘小超",
+    "bookname": "构成艺术/崔齐、朱霖、刘小超",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082850",
-    "bookname": "V电子线路辅助设计PROTEL99 SE(第2版)/王廷才",
+    "bookname": "电子线路辅助设计PROTEL99 SE(第2版)/王廷才",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082851",
-    "bookname": "V花卉生产技术(第2版)(附学习卡/防伪标)/罗镪",
+    "bookname": "花卉生产技术(第2版)(附学习卡/防伪标)/罗镪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082852",
-    "bookname": "V蔬菜栽培/陈杏禹",
+    "bookname": "蔬菜栽培/陈杏禹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082853",
-    "bookname": "V汽车电气设备构造与维修(第二版)/于明进 于光明",
+    "bookname": "汽车电气设备构造与维修(第二版)/于明进 于光明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082854",
-    "bookname": "V建筑结构(第2版)/吴承霞",
+    "bookname": "建筑结构(第2版)/吴承霞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082855",
-    "bookname": "V素描(附学习卡/防伪标)(魏诗国)",
+    "bookname": "素描(附学习卡/防伪标)(魏诗国)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082856",
-    "bookname": "V康复功能评定/张绍岚",
+    "bookname": "康复功能评定/张绍岚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082857",
-    "bookname": "V企业网络搭建与应用/杨泉波",
+    "bookname": "企业网络搭建与应用/杨泉波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082858",
-    "bookname": "V建筑工程施工图范例(附光盘)/傅刚斌",
+    "bookname": "建筑工程施工图范例(附光盘)/傅刚斌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082859",
-    "bookname": "V普通话与教师口语艺术 /刘焕阳",
+    "bookname": "普通话与教师口语艺术 /刘焕阳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082860",
-    "bookname": "V幼儿文学实用教程(第2版)/高格禔",
+    "bookname": "幼儿文学实用教程(第2版)/高格禔",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082861",
-    "bookname": "V美术(下册)(手工部分)(第二版)(附光盘)/许大梅 马雪萍",
+    "bookname": "美术(下册)(手工部分)(第二版)(附光盘)/许大梅 马雪萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082862",
-    "bookname": "V儿童发展与教育心理学(第2版)/伍新春",
+    "bookname": "儿童发展与教育心理学(第2版)/伍新春",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082863",
-    "bookname": "V钢琴基础与弹唱/刘红",
+    "bookname": "钢琴基础与弹唱/刘红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082864",
-    "bookname": "V OFFICE2010办公自动化高级应用/向健极 肖静",
+    "bookname": " OFFICE2010办公自动化高级应用/向健极 肖静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082865",
-    "bookname": "V钳工工艺与技能训练(第3版)/徐冬元",
+    "bookname": "钳工工艺与技能训练(第3版)/徐冬元",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082866",
-    "bookname": "V自动变速器维修(二版)/屠卫星",
+    "bookname": "自动变速器维修(二版)/屠卫星",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082867",
-    "bookname": "V遥感导论/梅安新",
+    "bookname": "遥感导论/梅安新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082868",
-    "bookname": "V采购管理(第二版)/梁世翔",
+    "bookname": "采购管理(第二版)/梁世翔",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082869",
-    "bookname": "V家用电器技术基础与维修技术(三版)/麦汉光",
+    "bookname": "家用电器技术基础与维修技术(三版)/麦汉光",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082870",
-    "bookname": "V汽车自动变速器维修/陈建军",
+    "bookname": "汽车自动变速器维修/陈建军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082871",
-    "bookname": "V艺术概论(第二版)/郑锦扬",
+    "bookname": "艺术概论(第二版)/郑锦扬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082872",
-    "bookname": "V商品学基础(第二版)/谢瑞玲",
+    "bookname": "商品学基础(第二版)/谢瑞玲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082873",
-    "bookname": "V电子商务实用教程(第五版)/宋文官",
+    "bookname": "电子商务实用教程(第五版)/宋文官",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082874",
-    "bookname": "V电热电动器具原理与维修(第3版)(双色)(附光盘)(附学习卡/防伪标",
+    "bookname": "电热电动器具原理与维修(第3版)(双色)(附光盘)(附学习卡/防伪标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082875",
-    "bookname": "V路由与交换技术/洪应 李京文",
+    "bookname": "路由与交换技术/洪应 李京文",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082876",
-    "bookname": "V地理(全一册)/李新平",
+    "bookname": "地理(全一册)/李新平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082877",
-    "bookname": "V建筑工程预算(第3版)/袁建新",
+    "bookname": "建筑工程预算(第3版)/袁建新",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082878",
-    "bookname": "V维修电工技术--MES模块式教学(附光盘中等职业学校电气运用与维",
+    "bookname": "维修电工技术--MES模块式教学(附光盘中等职业学校电气运用与维",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082879",
-    "bookname": "V摄影基础/邵大浪",
+    "bookname": "摄影基础/邵大浪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082880",
-    "bookname": "V数字影音处理-PREMIER PROCS5/赵英杰",
+    "bookname": "数字影音处理-PREMIER PROCS5/赵英杰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082881",
-    "bookname": "V电子技能与实训(第三版)/石小法",
+    "bookname": "电子技能与实训(第三版)/石小法",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082882",
-    "bookname": "V办公软件应用/魏茂林",
+    "bookname": "办公软件应用/魏茂林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082883",
-    "bookname": "V PLC原理及应用/谢孝良",
+    "bookname": " PLC原理及应用/谢孝良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082884",
-    "bookname": "V机床电气控制与排故/李兴莲等",
+    "bookname": "机床电气控制与排故/李兴莲等",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082885",
-    "bookname": "V电子产品装配及工艺(双色)(附学习卡/防伪标)/胡峥",
+    "bookname": "电子产品装配及工艺(双色)(附学习卡/防伪标)/胡峥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082886",
-    "bookname": "V沟通技巧/邬向群",
+    "bookname": "沟通技巧/邬向群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082887",
-    "bookname": "V电工技能与实训(第3版)(附光盘)/曾祥富",
+    "bookname": "电工技能与实训(第3版)(附光盘)/曾祥富",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082888",
-    "bookname": "V音响设备原理与维修(附学习卡/防伪标)/孙立群",
+    "bookname": "音响设备原理与维修(附学习卡/防伪标)/孙立群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082889",
-    "bookname": "V服装缝制工艺/孙丽",
+    "bookname": "服装缝制工艺/孙丽",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082890",
-    "bookname": "V餐饮服务与管理/樊平、李琦",
+    "bookname": "餐饮服务与管理/樊平、李琦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082891",
-    "bookname": "V社会科学基础知识(第2版)(附学习卡/防伪标)/刘海燕",
+    "bookname": "社会科学基础知识(第2版)(附学习卡/防伪标)/刘海燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082892",
-    "bookname": "V旅游概论(第三版)",
+    "bookname": "旅游概论(第三版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082893",
-    "bookname": "V DREAMWEAVER CS5网页制作项目实践/徐锋",
+    "bookname": " DREAMWEAVER CS5网页制作项目实践/徐锋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082894",
-    "bookname": "V键盘乐器演奏基础(教育部推荐)/王秀敏",
+    "bookname": "键盘乐器演奏基础(教育部推荐)/王秀敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082895",
-    "bookname": "V面点技艺实训精解/周文涌",
+    "bookname": "面点技艺实训精解/周文涌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082896",
-    "bookname": "V PHOTOSHOP动漫制作案例教程(双色)/孙项洁",
+    "bookname": " PHOTOSHOP动漫制作案例教程(双色)/孙项洁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082897",
-    "bookname": "V语文综合实践活动集锦(下册)(附光盘)(附学习卡/防伪标)/陈金海",
+    "bookname": "语文综合实践活动集锦(下册)(附光盘)(附学习卡/防伪标)/陈金海",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082898",
-    "bookname": "V制冷与空调设备组装与调试备赛指导/杨象忠",
+    "bookname": "制冷与空调设备组装与调试备赛指导/杨象忠",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082899",
-    "bookname": "V高等数学(第7版)(上册)/同济大学数学系",
+    "bookname": "高等数学(第7版)(上册)/同济大学数学系",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082900",
-    "bookname": "V幼儿园管理(第二版)/罗长国 胡玉智",
+    "bookname": "幼儿园管理(第二版)/罗长国 胡玉智",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082901",
-    "bookname": "V中等职业学校专业教学标准(试行)-加工制造类(第一辑)",
+    "bookname": "中等职业学校专业教学标准(试行)-加工制造类(第一辑)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082902",
-    "bookname": "V企业财务会计(第二版)(双色)(有条件赠送智能备课系统)/孔德兰",
+    "bookname": "企业财务会计(第二版)(双色)(有条件赠送智能备课系统)/孔德兰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082903",
-    "bookname": "V美发与造型(第2版)(彩色)(附学习卡/防伪标)/黄源、周京红",
+    "bookname": "美发与造型(第2版)(彩色)(附学习卡/防伪标)/黄源、周京红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082904",
-    "bookname": "V财务管理(第五版)/张玉英",
+    "bookname": "财务管理(第五版)/张玉英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082905",
-    "bookname": "V管理学基础(第五版)/单风儒",
+    "bookname": "管理学基础(第五版)/单风儒",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082906",
-    "bookname": "V纳税实务(第三版)/ 乔梦虎",
+    "bookname": "纳税实务(第三版)/ 乔梦虎",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082907",
-    "bookname": "V建筑装饰绘画基础/梁植标",
+    "bookname": "建筑装饰绘画基础/梁植标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082908",
-    "bookname": "V病理学基础/靳晓丽",
+    "bookname": "病理学基础/靳晓丽",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082909",
-    "bookname": "V特殊儿童发展与学习(另赠教学课件)",
+    "bookname": "特殊儿童发展与学习(另赠教学课件)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082910",
-    "bookname": "V制冷与低温技术原理(第一版)/吴业正",
+    "bookname": "制冷与低温技术原理(第一版)/吴业正",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082911",
-    "bookname": "V电梯安装与保养(项目式教学)/于磊",
+    "bookname": "电梯安装与保养(项目式教学)/于磊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082912",
-    "bookname": "V电子线路计算机辅助设计(PROTEL2004)(附学习卡/防伪标)(第二版)",
+    "bookname": "电子线路计算机辅助设计(PROTEL2004)(附学习卡/防伪标)(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082913",
-    "bookname": "V幼儿教师口语(附学习卡/防伪标)/苑望",
+    "bookname": "幼儿教师口语(附学习卡/防伪标)/苑望",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082914",
-    "bookname": "V素描(第二版)(换封面)(配盘)/王珉",
+    "bookname": "素描(第二版)(换封面)(配盘)/王珉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082915",
-    "bookname": "V动漫手绘与上色技术(彩色)(附学习卡/防伪标)/陈蔚",
+    "bookname": "动漫手绘与上色技术(彩色)(附学习卡/防伪标)/陈蔚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082916",
-    "bookname": "V网络营销实训(附光盘)/闵亨锋",
+    "bookname": "网络营销实训(附光盘)/闵亨锋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082917",
-    "bookname": "V运筹学基础及应用/胡运权",
+    "bookname": "运筹学基础及应用/胡运权",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082918",
-    "bookname": "V语文教学参考书(拓展模块)(附光盘/附学习卡/防伪标)/陆迎真",
+    "bookname": "语文教学参考书(拓展模块)(附光盘/附学习卡/防伪标)/陆迎真",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082919",
-    "bookname": "V护理学基础(第2版)/庄红",
+    "bookname": "护理学基础(第2版)/庄红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082920",
-    "bookname": "V市场营销(第四版)/吴勇",
+    "bookname": "市场营销(第四版)/吴勇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082921",
-    "bookname": "V环境生态学导论/盛连喜",
+    "bookname": "环境生态学导论/盛连喜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082922",
-    "bookname": "V心理健康教学参考书",
+    "bookname": "心理健康教学参考书",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082923",
-    "bookname": "V广告设计与制作(第3版)(附光盘)(附学习卡/防伪标)/赵玉晶",
+    "bookname": "广告设计与制作(第3版)(附光盘)(附学习卡/防伪标)/赵玉晶",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082924",
-    "bookname": "V AUTOCAD2012建筑绘图教程(附光盘)/曾刚",
+    "bookname": " AUTOCAD2012建筑绘图教程(附光盘)/曾刚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082925",
-    "bookname": "V社会能力训练/曹明元",
+    "bookname": "社会能力训练/曹明元",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082926",
-    "bookname": "V手工制作教程/邱秀君、吕袁媛",
+    "bookname": "手工制作教程/邱秀君、吕袁媛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082927",
-    "bookname": "V乐理与视唱练耳(第二版)/金哲",
+    "bookname": "乐理与视唱练耳(第二版)/金哲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082928",
-    "bookname": "V英语教师职业技能训练简明教程/肖惜",
+    "bookname": "英语教师职业技能训练简明教程/肖惜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082929",
-    "bookname": "V服装CAD(富怡)(附教学软件)/董伟英",
+    "bookname": "服装CAD(富怡)(附教学软件)/董伟英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082930",
-    "bookname": "V AUTOCAD 2006基础设计与3D应用(附光盘)",
+    "bookname": " AUTOCAD 2006基础设计与3D应用(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082931",
-    "bookname": "V车工工艺与技能训练(第3版)/蒋增福",
+    "bookname": "车工工艺与技能训练(第3版)/蒋增福",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082932",
-    "bookname": "V服装CAD(第二版)/傅月清 龙琳",
+    "bookname": "服装CAD(第二版)/傅月清 龙琳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082933",
-    "bookname": "V食品雕刻技艺实训精解(第二版)(附学习卡/防伪标)/周文涌",
+    "bookname": "食品雕刻技艺实训精解(第二版)(附学习卡/防伪标)/周文涌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082934",
-    "bookname": "V服装缝制工艺(第三版)(加防伪标)(换封面)/张明德",
+    "bookname": "服装缝制工艺(第三版)(加防伪标)(换封面)/张明德",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082935",
-    "bookname": "V市场营销(附新学习卡)三版/毕思勇",
+    "bookname": "市场营销(附新学习卡)三版/毕思勇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082936",
-    "bookname": "V单片机原理及应用(第二版)/张毅刚 彭喜元 彭宇",
+    "bookname": "单片机原理及应用(第二版)/张毅刚 彭喜元 彭宇",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082937",
-    "bookname": "V服装结构制图(第三版)(配盘)(学习卡/防伪标)/骆振楣 孔庆",
+    "bookname": "服装结构制图(第三版)(配盘)(学习卡/防伪标)/骆振楣 孔庆",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082938",
-    "bookname": "V室内设计(第二版)(另赠教学课件)/汤重熹",
+    "bookname": "室内设计(第二版)(另赠教学课件)/汤重熹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082939",
-    "bookname": "V茶艺概论(第二版)郑春英(配盘)(附学习卡/防伪标)",
+    "bookname": "茶艺概论(第二版)郑春英(配盘)(附学习卡/防伪标)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082940",
-    "bookname": "V职业生涯规划教学设计选(附光盘)(附学习卡/防伪标)/蒋乃平、杜",
+    "bookname": "职业生涯规划教学设计选(附光盘)(附学习卡/防伪标)/蒋乃平、杜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082941",
-    "bookname": "V机械制图与CAD/彭晓兰",
+    "bookname": "机械制图与CAD/彭晓兰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082942",
-    "bookname": "V化妆",
+    "bookname": "化妆",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082943",
-    "bookname": "V二维动画设计软件应用──FLASH CS6(第2版",
+    "bookname": "二维动画设计软件应用──FLASH CS6(第2版",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082944",
-    "bookname": "V中文版CORELDRAW X4标准教程/方红琴 雷波",
+    "bookname": "中文版CORELDRAW X4标准教程/方红琴 雷波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082945",
-    "bookname": "V动漫造型(附光盘)/许宝良、商田筱",
+    "bookname": "动漫造型(附光盘)/许宝良、商田筱",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082946",
-    "bookname": "V计算机网络实训教程(第3版)(附学习卡/防伪标)/付阳光",
+    "bookname": "计算机网络实训教程(第3版)(附学习卡/防伪标)/付阳光",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082947",
-    "bookname": "V环境工程微生物学(第4版)/周群英王士芬",
+    "bookname": "环境工程微生物学(第4版)/周群英王士芬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082948",
-    "bookname": "V数码服装设计与表现技法—CORELDRAW(附光盘)(彩色)/贺景卫、胡",
+    "bookname": "数码服装设计与表现技法—CORELDRAW(附光盘)(彩色)/贺景卫、胡",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082949",
-    "bookname": "V PHOTOSHOP CS6基础与案例教程(第二版)(双色)(附光盘)(附学习卡",
+    "bookname": " PHOTOSHOP CS6基础与案例教程(第二版)(双色)(附光盘)(附学习卡",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082950",
-    "bookname": "V会计实务操作(第2版)(附光盘)/杨蕊",
+    "bookname": "会计实务操作(第2版)(附光盘)/杨蕊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082951",
-    "bookname": "V图形图像处理—PHOTOSHOP CS6基础与案例教程(第2版)/龚道敏",
+    "bookname": "图形图像处理—PHOTOSHOP CS6基础与案例教程(第2版)/龚道敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082952",
-    "bookname": "V视频编辑技术--会声会影X4/姜全生",
+    "bookname": "视频编辑技术--会声会影X4/姜全生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082953",
-    "bookname": "V中小企业会计实训(第3版)(附光盘)/杨蕊",
+    "bookname": "中小企业会计实训(第3版)(附光盘)/杨蕊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082954",
-    "bookname": "V基础素描(引进版)/蔡益泉",
+    "bookname": "基础素描(引进版)/蔡益泉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082955",
-    "bookname": "V AUTOCAD2012 建筑及室内装饰绘图基础/赵建英",
+    "bookname": " AUTOCAD2012 建筑及室内装饰绘图基础/赵建英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082956",
-    "bookname": "V电冰箱、空调器原理与维修(第3版)/林金泉",
+    "bookname": "电冰箱、空调器原理与维修(第3版)/林金泉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082957",
-    "bookname": "V全国计算机等级考试一级教程--计算机基础及MS OFFICE应用(2015",
+    "bookname": "全国计算机等级考试一级教程--计算机基础及MS OFFICE应用(2015",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082958",
-    "bookname": "V全国计算机等级考试一级教程 计算机基础及MS OFFICE应用(2016年",
+    "bookname": "全国计算机等级考试一级教程 计算机基础及MS OFFICE应用(2016年",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082959",
-    "bookname": "V计算机组装与维护(彩色版)/杨泉波",
+    "bookname": "计算机组装与维护(彩色版)/杨泉波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082960",
-    "bookname": "V构成基础(第三版)(附学习卡/防伪标)/郑军",
+    "bookname": "构成基础(第三版)(附学习卡/防伪标)/郑军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082961",
-    "bookname": "V图形图像处理-CORELDRAW X6基础与案例教程-(第2版)/龚道敏",
+    "bookname": "图形图像处理-CORELDRAW X6基础与案例教程-(第2版)/龚道敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082962",
-    "bookname": "V计算机组装与维护/浙江省教育厅职成教教研室",
+    "bookname": "计算机组装与维护/浙江省教育厅职成教教研室",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082963",
-    "bookname": "V建筑施工技术(第三版)/郑传明 宁仁岐",
+    "bookname": "建筑施工技术(第三版)/郑传明 宁仁岐",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082964",
-    "bookname": "V手语会话(配盘)",
+    "bookname": "手语会话(配盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082965",
-    "bookname": "V幼师英语(配盘)/邱耀德",
+    "bookname": "幼师英语(配盘)/邱耀德",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082966",
-    "bookname": "V图形图像处理PHOTOSHOP CS5(附学习卡/防伪标)(附光盘)/王健",
+    "bookname": "图形图像处理PHOTOSHOP CS5(附学习卡/防伪标)(附光盘)/王健",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082967",
-    "bookname": "V网店装修与管理/杨波",
+    "bookname": "网店装修与管理/杨波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082968",
-    "bookname": "V网页设计与制作(第2版)/钱锋",
+    "bookname": "网页设计与制作(第2版)/钱锋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082969",
-    "bookname": "V建筑力学(配习题集)/沈养中、陈年和",
+    "bookname": "建筑力学(配习题集)/沈养中、陈年和",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082970",
-    "bookname": "V林果生产技术/殷华林",
+    "bookname": "林果生产技术/殷华林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082971",
-    "bookname": "V素描/于艳灵",
+    "bookname": "素描/于艳灵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082972",
-    "bookname": "V康复治疗技术物理治疗分册/于靖",
+    "bookname": "康复治疗技术物理治疗分册/于靖",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082973",
-    "bookname": "V服装结构制图(第5版)(配盘/附学习卡/防伪标)/徐雅琴",
+    "bookname": "服装结构制图(第5版)(配盘/附学习卡/防伪标)/徐雅琴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082974",
-    "bookname": "V自然地理/伍光和",
+    "bookname": "自然地理/伍光和",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082975",
-    "bookname": "V混凝土结构(第三版)/罗向荣",
+    "bookname": "混凝土结构(第三版)/罗向荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082976",
-    "bookname": "V美术/王中州",
+    "bookname": "美术/王中州",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082977",
-    "bookname": "V食用菌栽培(全一册)(第三版)/黄毅",
+    "bookname": "食用菌栽培(全一册)(第三版)/黄毅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082978",
-    "bookname": "V兽医诊断学 /王哲，姜玉富",
+    "bookname": "兽医诊断学 /王哲，姜玉富",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082979",
-    "bookname": "V视唱练耳/宋成贵",
+    "bookname": "视唱练耳/宋成贵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082980",
-    "bookname": "V全国计算机等级考试二级教程--MS OFFICE高级应用(2015年版)/教",
+    "bookname": "全国计算机等级考试二级教程--MS OFFICE高级应用(2015年版)/教",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082981",
-    "bookname": "V保教知识与能力(幼儿园)/教师资格考试统编教材题库编委会",
+    "bookname": "保教知识与能力(幼儿园)/教师资格考试统编教材题库编委会",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082982",
-    "bookname": "V综合素质(幼儿园)/教师资格考试统编教材题库编委会",
+    "bookname": "综合素质(幼儿园)/教师资格考试统编教材题库编委会",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082983",
-    "bookname": "V全国计算机等级考试二级教程—MS OFFICE高级应用(2016年版)",
+    "bookname": "全国计算机等级考试二级教程—MS OFFICE高级应用(2016年版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082984",
-    "bookname": "V PHOTOSHOP+INDESIGH/IIIUSTRATOR书籍装帧及包装设计与制作/雷",
+    "bookname": " PHOTOSHOP+INDESIGH/IIIUSTRATOR书籍装帧及包装设计与制作/雷",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082985",
-    "bookname": "V外国舞蹈史及作品鉴赏/欧建平",
+    "bookname": "外国舞蹈史及作品鉴赏/欧建平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082986",
-    "bookname": "V会计全真模拟实习(附光盘)/曾红卫",
+    "bookname": "会计全真模拟实习(附光盘)/曾红卫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082987",
-    "bookname": "V环境学/左玉辉",
+    "bookname": "环境学/左玉辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082988",
-    "bookname": "V中国美术史十五讲/杨琪",
+    "bookname": "中国美术史十五讲/杨琪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082989",
-    "bookname": "V PHOTOSHOP CS5中文版案例教程/李涛",
+    "bookname": " PHOTOSHOP CS5中文版案例教程/李涛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082990",
-    "bookname": "V美术/张晓嘉/魏明坤",
+    "bookname": "美术/张晓嘉/魏明坤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082991",
-    "bookname": "V美术(上册)(第二版)/林玮",
+    "bookname": "美术(上册)(第二版)/林玮",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082992",
-    "bookname": "V水污染控制工程(第4版)下册/高廷耀",
+    "bookname": "水污染控制工程(第4版)下册/高廷耀",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082993",
-    "bookname": "V计算机文化基础(第3版)/龙天才",
+    "bookname": "计算机文化基础(第3版)/龙天才",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082994",
-    "bookname": "V数字视频编辑—ADOBE PREMIERE CS5(彩色)(附光盘)/刘天真",
+    "bookname": "数字视频编辑—ADOBE PREMIERE CS5(彩色)(附光盘)/刘天真",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082995",
-    "bookname": "V音乐(基础版) 二版谢莉莉/配盘附学习卡AO",
+    "bookname": "音乐(基础版) 二版谢莉莉/配盘附学习卡AO",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082996",
-    "bookname": "V中小型网络构建与管理(第2版)(彩色)(附学习卡/防伪标)",
+    "bookname": "中小型网络构建与管理(第2版)(彩色)(附学习卡/防伪标)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082997",
-    "bookname": "V PHOTOSHOP数码照片后期技术精粹(彩色版)(第2版)/雷波",
+    "bookname": " PHOTOSHOP数码照片后期技术精粹(彩色版)(第2版)/雷波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082998",
-    "bookname": "V外国美术史及作品鉴赏(第二版)(附辅学光盘)",
+    "bookname": "外国美术史及作品鉴赏(第二版)(附辅学光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0082999",
-    "bookname": "V建筑工程毕业设计指南",
+    "bookname": "建筑工程毕业设计指南",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083000",
-    "bookname": "V现代园林景观设计/马克幸 李科",
+    "bookname": "现代园林景观设计/马克幸 李科",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083001",
-    "bookname": "V会计模拟实习(第三版)/许长华",
+    "bookname": "会计模拟实习(第三版)/许长华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083002",
-    "bookname": "V数字电子技术基础(第5版) /阎石",
+    "bookname": "数字电子技术基础(第5版) /阎石",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083003",
-    "bookname": "V COREDRAW X5平面设计与制作(第3版)(附光盘)(彩色)(附学习卡/防",
+    "bookname": " COREDRAW X5平面设计与制作(第3版)(附光盘)(彩色)(附学习卡/防",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083004",
-    "bookname": "V美术基础/张燕",
+    "bookname": "美术基础/张燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083005",
-    "bookname": "V CORELDRAW X4应用教程",
+    "bookname": " CORELDRAW X4应用教程",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083006",
-    "bookname": "V中国舞蹈史及作品鉴赏/冯双白 茅慧",
+    "bookname": "中国舞蹈史及作品鉴赏/冯双白 茅慧",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083007",
-    "bookname": "V PHOTOSHOP广告创意与制作(彩色版)(附光盘)(附学习卡/防伪标)/",
+    "bookname": " PHOTOSHOP广告创意与制作(彩色版)(附光盘)(附学习卡/防伪标)/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083008",
-    "bookname": "V模拟电子技术基础(第四版)/童诗白",
+    "bookname": "模拟电子技术基础(第四版)/童诗白",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083009",
-    "bookname": "V PHOTOSHOPCS3案例应用教程(第2版)/雷波",
+    "bookname": " PHOTOSHOPCS3案例应用教程(第2版)/雷波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083010",
-    "bookname": "V DREAMWEAVER CS5网页设计与制作(第3版)(彩色)(附光盘)(附学习",
+    "bookname": " DREAMWEAVER CS5网页设计与制作(第3版)(彩色)(附光盘)(附学习",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083011",
-    "bookname": "V英语2(基础模块)教学资源包",
+    "bookname": "英语2(基础模块)教学资源包",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083012",
-    "bookname": "V英语3(基础模块)教学资源包",
+    "bookname": "英语3(基础模块)教学资源包",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083013",
-    "bookname": "V汽车保养/邹明森",
+    "bookname": "汽车保养/邹明森",
     "publishing": "江苏大学"
 },
 {
     "subscribeCode": "18CJ0083014",
-    "bookname": "V遥感技术与应用/汪金花",
+    "bookname": "遥感技术与应用/汪金花",
     "publishing": "测绘"
 },
 {
     "subscribeCode": "18CJ0083015",
-    "bookname": "V英语高职入学考试复习指导录音带(拓展模块)新国规配套/编写组",
+    "bookname": "英语高职入学考试复习指导录音带(拓展模块)新国规配套/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083016",
-    "bookname": "V英语练习册3录音带(基础模块)/编写组",
+    "bookname": "英语练习册3录音带(基础模块)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083017",
-    "bookname": "V英语练习册录音带(职业模块)(服务类)(1盒)/编写组",
+    "bookname": "英语练习册录音带(职业模块)(服务类)(1盒)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083018",
-    "bookname": "V英语练习册录音带2(基础模块)(第2版)/编写组",
+    "bookname": "英语练习册录音带2(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083019",
-    "bookname": "V英语练习册录音带3(基础模块)(第2版)/编写组",
+    "bookname": "英语练习册录音带3(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083020",
-    "bookname": "V普通话口语交际(第三版)录音带/李珉",
+    "bookname": "普通话口语交际(第三版)录音带/李珉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083021",
-    "bookname": "V英语录音带(职业模块)(服务类)(2盒)/编写组",
+    "bookname": "英语录音带(职业模块)(服务类)(2盒)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083022",
-    "bookname": "V英语1录音带(基础模块)/编写组",
+    "bookname": "英语1录音带(基础模块)/编写组",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083023",
-    "bookname": "V英语录音带2(基础模块)(第2版)/编写组",
+    "bookname": "英语录音带2(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083024",
-    "bookname": "V英语电子教案3(基础模块)/制作组",
+    "bookname": "英语电子教案3(基础模块)/制作组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083025",
-    "bookname": "V英语电子教案2(基础模块)(第2版)/编写组",
+    "bookname": "英语电子教案2(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083026",
-    "bookname": "V英语电子教案3(基础模块)(第2版)/编写组",
+    "bookname": "英语电子教案3(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083027",
-    "bookname": "V英语电子教案1(基础模块)(第2版)/编写组",
+    "bookname": "英语电子教案1(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083028",
-    "bookname": "V幼师英语(录音带4盒)",
+    "bookname": "幼师英语(录音带4盒)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083029",
-    "bookname": "V民航英语基础教程/尹静",
+    "bookname": "民航英语基础教程/尹静",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083030",
-    "bookname": "V汽车美容",
+    "bookname": "汽车美容",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083031",
-    "bookname": "V建筑结构抗震设计/苏永强、刘晓敏",
+    "bookname": "建筑结构抗震设计/苏永强、刘晓敏",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083032",
-    "bookname": "V(BX) PHOROSHOP平面设计与实例/甄幕华",
+    "bookname": "(BX) PHOROSHOP平面设计与实例/甄幕华",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083033",
-    "bookname": "V饭店管理概论/杜建华",
+    "bookname": "饭店管理概论/杜建华",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083034",
-    "bookname": "V旅行社经营管理/张君科、张宝星",
+    "bookname": "旅行社经营管理/张君科、张宝星",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083035",
-    "bookname": "V FLASH CS4动画设计与实训/纪伟娟",
+    "bookname": " FLASH CS4动画设计与实训/纪伟娟",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083036",
-    "bookname": "V物流运输作业实务",
+    "bookname": "物流运输作业实务",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083037",
-    "bookname": "V名菜名点赏析/杨存根",
+    "bookname": "名菜名点赏析/杨存根",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083038",
-    "bookname": "V旅游学概论/冯霞敏",
+    "bookname": "旅游学概论/冯霞敏",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083039",
-    "bookname": "V ACCESS2010数据库基础习题集及实验指导/刘丽",
+    "bookname": " ACCESS2010数据库基础习题集及实验指导/刘丽",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083040",
-    "bookname": "V商务沟通与谈判(第二版）/李雅乐",
+    "bookname": "商务沟通与谈判(第二版）/李雅乐",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083041",
-    "bookname": "V旅游情境英语/王明强",
+    "bookname": "旅游情境英语/王明强",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083042",
-    "bookname": "V车工工艺技能训练/葛志凯",
+    "bookname": "车工工艺技能训练/葛志凯",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083043",
-    "bookname": "V PLC应用技术项目教程(第二版)/刑贵宁 赵进学",
+    "bookname": " PLC应用技术项目教程(第二版)/刑贵宁 赵进学",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083044",
-    "bookname": "V制冷与空调设备安装及维修/辜小兵",
+    "bookname": "制冷与空调设备安装及维修/辜小兵",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083045",
-    "bookname": "V财政与税收",
+    "bookname": "财政与税收",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083046",
-    "bookname": "V大学信息技术基础/陈建国、李勤",
+    "bookname": "大学信息技术基础/陈建国、李勤",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083047",
-    "bookname": "V建筑装饰材料/李燕 任淑霞",
+    "bookname": "建筑装饰材料/李燕 任淑霞",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083048",
-    "bookname": "V汽车底盘构造与维修/信悦",
+    "bookname": "汽车底盘构造与维修/信悦",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083049",
-    "bookname": "V PLC技术基础与编程实训(第二版)(含光盘)/许孟烈",
+    "bookname": " PLC技术基础与编程实训(第二版)(含光盘)/许孟烈",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083050",
-    "bookname": "V民航国内客票销售 /唐忍雪",
+    "bookname": "民航国内客票销售 /唐忍雪",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083051",
-    "bookname": "V PROTEL DXP2004应用与实训/倪燕",
+    "bookname": " PROTEL DXP2004应用与实训/倪燕",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083052",
-    "bookname": "V美术(第二版)/余绍田",
+    "bookname": "美术(第二版)/余绍田",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083053",
-    "bookname": "V(BX)医学遗传学/马用信",
+    "bookname": "(BX)医学遗传学/马用信",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083054",
-    "bookname": "V(BX)生物化学/钱民章",
+    "bookname": "(BX)生物化学/钱民章",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083055",
-    "bookname": "V(BX)药理学/杨俊卿",
+    "bookname": "(BX)药理学/杨俊卿",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083056",
-    "bookname": "V(BX)医学免疫学/邬于川",
+    "bookname": "(BX)医学免疫学/邬于川",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083057",
-    "bookname": "V(BX)医学微生物/李明远",
+    "bookname": "(BX)医学微生物/李明远",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083058",
-    "bookname": "V实用大学英语初级教程/吴定敏",
+    "bookname": "实用大学英语初级教程/吴定敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083059",
-    "bookname": "V(BX)礼仪规范教程/孙慧竹",
+    "bookname": "(BX)礼仪规范教程/孙慧竹",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0083060",
-    "bookname": "V(BX)普通话水平测试教程 /四川省普通话水平测试中心",
+    "bookname": "(BX)普通话水平测试教程 /四川省普通话水平测试中心",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083061",
-    "bookname": "V美术",
+    "bookname": "美术",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083062",
-    "bookname": "V计算机应用基础(基础模块)(WINDOWSXP+OFFICE2007)",
+    "bookname": "计算机应用基础(基础模块)(WINDOWSXP+OFFICE2007)",
     "publishing": "国防科大"
 },
 {
     "subscribeCode": "18CJ0083063",
-    "bookname": "V汽车发动机构造与维修(修订版)",
+    "bookname": "汽车发动机构造与维修(修订版)",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083064",
-    "bookname": "V(BX)管理学基础/刘素军、刘洪亮",
+    "bookname": "(BX)管理学基础/刘素军、刘洪亮",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083065",
-    "bookname": "V(BX)硬笔书法等级考试教程(行楷)/华夏万卷",
+    "bookname": "(BX)硬笔书法等级考试教程(行楷)/华夏万卷",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083066",
-    "bookname": "V(BX)硬笔书法等级考试教程(楷书)/华夏万卷",
+    "bookname": "(BX)硬笔书法等级考试教程(楷书)/华夏万卷",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083067",
-    "bookname": "V我的书法家教",
+    "bookname": "我的书法家教",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083068",
-    "bookname": "V田英章硬笔书法入门教程(楷书笔画偏旁)/田英章",
+    "bookname": "田英章硬笔书法入门教程(楷书笔画偏旁)/田英章",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083069",
-    "bookname": "V田英章硬笔楷书技法 /田英章",
+    "bookname": "田英章硬笔楷书技法 /田英章",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083070",
-    "bookname": "V2016-2017学年度上学期时事报告大学生版/总第77期",
+    "bookname": "2016-2017学年度上学期时事报告大学生版/总第77期",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083071",
-    "bookname": "V(BX)汽车文化/杨子坤",
+    "bookname": "(BX)汽车文化/杨子坤",
     "publishing": "大象"
 },
 {
     "subscribeCode": "18CJ0083072",
-    "bookname": "V(BX)汽车识图/乌福尧",
+    "bookname": "(BX)汽车识图/乌福尧",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083073",
-    "bookname": "V(BX)汽车识图练习册/宰守香",
+    "bookname": "(BX)汽车识图练习册/宰守香",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083074",
-    "bookname": "V(BX)汽车电工电子应用技能练习册/周涌鑫 周佩颖",
+    "bookname": "(BX)汽车电工电子应用技能练习册/周涌鑫 周佩颖",
     "publishing": "大象"
 },
 {
     "subscribeCode": "18CJ0083075",
-    "bookname": "V(BX)汽车电工与电子应用技能/杨子坤",
+    "bookname": "(BX)汽车电工与电子应用技能/杨子坤",
     "publishing": "大象"
 },
 {
     "subscribeCode": "18CJ0083076",
-    "bookname": "V(BX)汽车底盘构造与维修/陈旗",
+    "bookname": "(BX)汽车底盘构造与维修/陈旗",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083077",
-    "bookname": "V(BX)幼儿科学教育活动指导",
+    "bookname": "(BX)幼儿科学教育活动指导",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083078",
-    "bookname": "V(BX)幼儿教师礼仪/潘华",
+    "bookname": "(BX)幼儿教师礼仪/潘华",
     "publishing": "南京师大"
 },
 {
     "subscribeCode": "18CJ0083079",
-    "bookname": "V(BX)汽车电气设备/宋波舰",
+    "bookname": "(BX)汽车电气设备/宋波舰",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083080",
-    "bookname": "V(BX)基础手工",
+    "bookname": "(BX)基础手工",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083081",
-    "bookname": "V(BX)电工技能与实训",
+    "bookname": "(BX)电工技能与实训",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083082",
-    "bookname": "V(BX)管理会计实务/甘岱琳",
+    "bookname": "(BX)管理会计实务/甘岱琳",
     "publishing": "天津教育"
 },
 {
     "subscribeCode": "18CJ0083083",
-    "bookname": "V(BX)汽车空调原理与维修(教学课件)/蒋志伟",
+    "bookname": "(BX)汽车空调原理与维修(教学课件)/蒋志伟",
     "publishing": "吉林科技"
 },
 {
     "subscribeCode": "18CJ0083084",
-    "bookname": "V(BX)汽车整车维护与检修/杨国庆 蒋志伟",
+    "bookname": "(BX)汽车整车维护与检修/杨国庆 蒋志伟",
     "publishing": "吉林科技"
 },
 {
     "subscribeCode": "18CJ0083085",
-    "bookname": "V(BX)液压与气压传动",
+    "bookname": "(BX)液压与气压传动",
     "publishing": "吉林科技"
 },
 {
     "subscribeCode": "18CJ0083086",
-    "bookname": "V(BX)汽车底盘构造与维修/王扬",
+    "bookname": "(BX)汽车底盘构造与维修/王扬",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083087",
-    "bookname": "V(BX)汽车整车维护与检修/符小泽 吴敏",
+    "bookname": "(BX)汽车整车维护与检修/符小泽 吴敏",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083088",
-    "bookname": "V(BX)汽车自动变速器原理与维修(第一版)/王辉、田建军",
+    "bookname": "(BX)汽车自动变速器原理与维修(第一版)/王辉、田建军",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083089",
-    "bookname": "V(BX)汽车销售与服务流程",
+    "bookname": "(BX)汽车销售与服务流程",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083090",
-    "bookname": "V(BX)汽车养护/田国祥",
+    "bookname": "(BX)汽车养护/田国祥",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083091",
-    "bookname": "V(BX)汽车底盘构造与维修/汪学秋",
+    "bookname": "(BX)汽车底盘构造与维修/汪学秋",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083092",
-    "bookname": "V(BX)汽车涂装与车身修复/龙四清，袁牧",
+    "bookname": "(BX)汽车涂装与车身修复/龙四清，袁牧",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083093",
-    "bookname": "V(BX)汽车钣金/邱霖、陈昉莉",
+    "bookname": "(BX)汽车钣金/邱霖、陈昉莉",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083094",
-    "bookname": "V(BX)汽车发动机构造与维修/陶金忠",
+    "bookname": "(BX)汽车发动机构造与维修/陶金忠",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083095",
-    "bookname": "V(BX)汽车文化/胡建峰",
+    "bookname": "(BX)汽车文化/胡建峰",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083096",
-    "bookname": "V汽车装饰与美容/张月异",
+    "bookname": "汽车装饰与美容/张月异",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083097",
-    "bookname": "V汽车自动变速器原理与维修/王辉",
+    "bookname": "汽车自动变速器原理与维修/王辉",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0083098",
-    "bookname": "V(BX)汽车发动机构造与维修(含教学课件)/孙长录",
+    "bookname": "(BX)汽车发动机构造与维修(含教学课件)/孙长录",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083099",
-    "bookname": "V(BX)电气控制与PLC应用技术/周丽梅",
+    "bookname": "(BX)电气控制与PLC应用技术/周丽梅",
     "publishing": "吉林科技"
 },
 {
     "subscribeCode": "18CJ0083100",
-    "bookname": "V汽车营销/韩明祖",
+    "bookname": "汽车营销/韩明祖",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083101",
-    "bookname": "V汽车使用性能与检测/赵胜全",
+    "bookname": "汽车使用性能与检测/赵胜全",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083102",
-    "bookname": "V(BX)汽车故障诊断与排除/吴立安",
+    "bookname": "(BX)汽车故障诊断与排除/吴立安",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083103",
-    "bookname": "V中医基础学/袁银根",
+    "bookname": "中医基础学/袁银根",
     "publishing": "江苏科技"
 },
 {
     "subscribeCode": "18CJ0083104",
-    "bookname": "V(BX)焊接技术与焊接工艺/施庆平 陈中杰",
+    "bookname": "(BX)焊接技术与焊接工艺/施庆平 陈中杰",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083105",
-    "bookname": "V(BX)幼儿歌曲即兴配弹/孙思源",
+    "bookname": "(BX)幼儿歌曲即兴配弹/孙思源",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083106",
-    "bookname": "V(BX)职业指导习题册/陈顺刚",
+    "bookname": "(BX)职业指导习题册/陈顺刚",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083107",
-    "bookname": "V(BX)数控车床编程与加工训练/王守亮",
+    "bookname": "(BX)数控车床编程与加工训练/王守亮",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083108",
-    "bookname": "V(BX)金属材料与热处理/薛文军",
+    "bookname": "(BX)金属材料与热处理/薛文军",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083109",
-    "bookname": "V(BX)职业道德与法律/傅绍周",
+    "bookname": "(BX)职业道德与法律/傅绍周",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083110",
-    "bookname": "V(BX)汽车认识/张珉",
+    "bookname": "(BX)汽车认识/张珉",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083111",
-    "bookname": "V(BX)汽车机械识图习题集/石长刚",
+    "bookname": "(BX)汽车机械识图习题集/石长刚",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083112",
-    "bookname": "V(BX)市场营销实务(附课件)/刘幸福",
+    "bookname": "(BX)市场营销实务(附课件)/刘幸福",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083113",
-    "bookname": "V(BX)商务谈判(附课件)/刘幸福刘全涛",
+    "bookname": "(BX)商务谈判(附课件)/刘幸福刘全涛",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083114",
-    "bookname": "V(BX)幼儿园保教实习指导/许传忠",
+    "bookname": "(BX)幼儿园保教实习指导/许传忠",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083115",
-    "bookname": "V(BX)职业生涯规划/覃珍兰",
+    "bookname": "(BX)职业生涯规划/覃珍兰",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083116",
-    "bookname": "V(BX)国学经典诵读",
+    "bookname": "(BX)国学经典诵读",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083117",
-    "bookname": "V(BX)公差配合与质量控制/张志民",
+    "bookname": "(BX)公差配合与质量控制/张志民",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083118",
-    "bookname": "V(BX)车工(理论及实训一体化模块教材)/杨涌泉、李小强",
+    "bookname": "(BX)车工(理论及实训一体化模块教材)/杨涌泉、李小强",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083119",
-    "bookname": "V(BX)机械基础/周元忠 关蕙",
+    "bookname": "(BX)机械基础/周元忠 关蕙",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083120",
-    "bookname": "V(BX)汽车电工电子基础/张兴华",
+    "bookname": "(BX)汽车电工电子基础/张兴华",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083121",
-    "bookname": "V(BX)数控设备与编程/何立.朱金灿",
+    "bookname": "(BX)数控设备与编程/何立.朱金灿",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083122",
-    "bookname": "V焊接技能",
+    "bookname": "焊接技能",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083123",
-    "bookname": "V(BX)汽车维护与保养/兰国龙 常小凯",
+    "bookname": "(BX)汽车维护与保养/兰国龙 常小凯",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083124",
-    "bookname": "V(BX)体育与健康/朱必琴",
+    "bookname": "(BX)体育与健康/朱必琴",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083125",
-    "bookname": "V(BX)中职生实用书法字帖/谢昭然",
+    "bookname": "(BX)中职生实用书法字帖/谢昭然",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083126",
-    "bookname": "V(BX)心理健康教育/颜明伟",
+    "bookname": "(BX)心理健康教育/颜明伟",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083127",
-    "bookname": "V(BX)电工基本技能与实训/高红灵.李先知",
+    "bookname": "(BX)电工基本技能与实训/高红灵.李先知",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083128",
-    "bookname": "V(BX)汽车机械识图/伍鸿平",
+    "bookname": "(BX)汽车机械识图/伍鸿平",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083129",
-    "bookname": "V(BX)汽车营销实务/刘幸福",
+    "bookname": "(BX)汽车营销实务/刘幸福",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083130",
-    "bookname": "V数控加工基础",
+    "bookname": "数控加工基础",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083131",
-    "bookname": "V(BX)幼儿卫生与保健/林俐",
+    "bookname": "(BX)幼儿卫生与保健/林俐",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083132",
-    "bookname": "V(BX)现代礼仪规范教程/曲桂蓉 范延松",
+    "bookname": "(BX)现代礼仪规范教程/曲桂蓉 范延松",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083133",
-    "bookname": "V(BX)幼儿文学",
+    "bookname": "(BX)幼儿文学",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083134",
-    "bookname": "V(BX)计算机组装与维护/张建村",
+    "bookname": "(BX)计算机组装与维护/张建村",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083135",
-    "bookname": "V(BX)幼儿游戏实践与操作/王琦",
+    "bookname": "(BX)幼儿游戏实践与操作/王琦",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083136",
-    "bookname": "V(BX)体育与健康/王小平 雷卫东",
+    "bookname": "(BX)体育与健康/王小平 雷卫东",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083137",
-    "bookname": "V(BX)就业指导与创业教育/杜卫建",
+    "bookname": "(BX)就业指导与创业教育/杜卫建",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083138",
-    "bookname": "V中职生实用书法教程/谢昭然",
+    "bookname": "中职生实用书法教程/谢昭然",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083139",
-    "bookname": "V(BX)幼儿英语/刘翊",
+    "bookname": "(BX)幼儿英语/刘翊",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083140",
-    "bookname": "V(BX)应用文写作基础/王佳，林源",
+    "bookname": "(BX)应用文写作基础/王佳，林源",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083141",
-    "bookname": "V(BX)网络操作系统 WINDOWS SERVER 2008//马松平、汤金刚",
+    "bookname": "(BX)网络操作系统 WINDOWS SERVER 2008//马松平、汤金刚",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083142",
-    "bookname": "V(BX)影视制作技能训练项目教程/江志鹏",
+    "bookname": "(BX)影视制作技能训练项目教程/江志鹏",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083143",
-    "bookname": "V(BX)职业指导(附光盘)/陈顺刚",
+    "bookname": "(BX)职业指导(附光盘)/陈顺刚",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083144",
-    "bookname": "V供应链管理/贺彩玲、曹丽娜",
+    "bookname": "供应链管理/贺彩玲、曹丽娜",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083145",
-    "bookname": "V(BX)钳工工艺与技能训练/刘翠红",
+    "bookname": "(BX)钳工工艺与技能训练/刘翠红",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083146",
-    "bookname": "V计算机应用基础项目式教程",
+    "bookname": "计算机应用基础项目式教程",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083147",
-    "bookname": "V(BX)数控车工技能训练项目教程/董光宗",
+    "bookname": "(BX)数控车工技能训练项目教程/董光宗",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083148",
-    "bookname": "V(BX)计算应用基础/纪彩凤",
+    "bookname": "(BX)计算应用基础/纪彩凤",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083149",
-    "bookname": "V(BX)钳工工艺与技能训练/朱金仙 何力",
+    "bookname": "(BX)钳工工艺与技能训练/朱金仙 何力",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083150",
-    "bookname": "V(BX)汽车发动机维修/张习泉",
+    "bookname": "(BX)汽车发动机维修/张习泉",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083151",
-    "bookname": "V(BX)零件车削加工与检测/魏欣",
+    "bookname": "(BX)零件车削加工与检测/魏欣",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083152",
-    "bookname": "V(BX)四川省普通话水平测试与培训教程/吴雨时艾虹",
+    "bookname": "(BX)四川省普通话水平测试与培训教程/吴雨时艾虹",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083153",
-    "bookname": "V税收基础知识/蔡少优",
+    "bookname": "税收基础知识/蔡少优",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083154",
-    "bookname": "V(BX)汽车发动机构造与维修/张习泉",
+    "bookname": "(BX)汽车发动机构造与维修/张习泉",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083155",
-    "bookname": "V(BX)汽车底盘构造与维修/黄昌辉、窦玉青",
+    "bookname": "(BX)汽车底盘构造与维修/黄昌辉、窦玉青",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083156",
-    "bookname": "V财务会计实训项目教程/于青",
+    "bookname": "财务会计实训项目教程/于青",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083157",
-    "bookname": "V(BX)幼儿园实用美术(全彩)",
+    "bookname": "(BX)幼儿园实用美术(全彩)",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083158",
-    "bookname": "V现代市场营销/刘辉、王粉萍",
+    "bookname": "现代市场营销/刘辉、王粉萍",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083159",
-    "bookname": "V(BX)会计电算化实务/王旭忠",
+    "bookname": "(BX)会计电算化实务/王旭忠",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083160",
-    "bookname": "V(BX)数控车床编程、加工与实训(含习题册)/李建华 常春 马海彦",
+    "bookname": "(BX)数控车床编程、加工与实训(含习题册)/李建华 常春 马海彦",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083161",
-    "bookname": "V德育",
+    "bookname": "德育",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083162",
-    "bookname": "V(BX)马克思主义基本原理概论",
+    "bookname": "(BX)马克思主义基本原理概论",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083163",
-    "bookname": "V(BX)商务谈判与推销/杨雪青",
+    "bookname": "(BX)商务谈判与推销/杨雪青",
     "publishing": "北京交大"
 },
 {
     "subscribeCode": "18CJ0083164",
-    "bookname": "V(BX)汽车钣金基础/龙志军",
+    "bookname": "(BX)汽车钣金基础/龙志军",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083165",
-    "bookname": "V(BX)汽车维护与保养/樊永强",
+    "bookname": "(BX)汽车维护与保养/樊永强",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083166",
-    "bookname": "V(BX)应用文写作 /何锦旭",
+    "bookname": "(BX)应用文写作 /何锦旭",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083167",
-    "bookname": "V(BX)形体训练/向虹云",
+    "bookname": "(BX)形体训练/向虹云",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083168",
-    "bookname": "V(BX)中等职业学校高考与毕业会考复习指导丛书－机械",
+    "bookname": "(BX)中等职业学校高考与毕业会考复习指导丛书－机械",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083169",
-    "bookname": "V(BX)礼仪与生活(二版)(教师手册)/邓丽萍",
+    "bookname": "(BX)礼仪与生活(二版)(教师手册)/邓丽萍",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083170",
-    "bookname": "V学前儿童数学教育",
+    "bookname": "学前儿童数学教育",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083171",
-    "bookname": "V帐薄书写/励丹",
+    "bookname": "帐薄书写/励丹",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083172",
-    "bookname": "V(BX)婴幼儿保教实训与指导/曹美华",
+    "bookname": "(BX)婴幼儿保教实训与指导/曹美华",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083173",
-    "bookname": "V会计岗位实务.习题集/吕福智",
+    "bookname": "会计岗位实务.习题集/吕福智",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083174",
-    "bookname": "V(BX)计算机录入与排版3版/沙申",
+    "bookname": "(BX)计算机录入与排版3版/沙申",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083175",
-    "bookname": "V(BX)市场营销基础习题集/孙天福",
+    "bookname": "(BX)市场营销基础习题集/孙天福",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083176",
-    "bookname": "V(BX)礼仪与生活(二版)(双色，有配教师手册，光盘)/邓丽萍",
+    "bookname": "(BX)礼仪与生活(二版)(双色，有配教师手册，光盘)/邓丽萍",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083177",
-    "bookname": "V(BX)珠算与点钞/张方镇",
+    "bookname": "(BX)珠算与点钞/张方镇",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083178",
-    "bookname": "V(BX)人际沟通与礼仪教参(第四版)",
+    "bookname": "(BX)人际沟通与礼仪教参(第四版)",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083179",
-    "bookname": "V(BX)统计基础知识习题集/黄胜辉等",
+    "bookname": "(BX)统计基础知识习题集/黄胜辉等",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083180",
-    "bookname": "V(BX)成本会计(第四版)(双色)/蒋耀琴",
+    "bookname": "(BX)成本会计(第四版)(双色)/蒋耀琴",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083181",
-    "bookname": "V(BX)纳税实务习题集/蒋耀琴",
+    "bookname": "(BX)纳税实务习题集/蒋耀琴",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083182",
-    "bookname": "V(BX)财务会计习题集第五版/陈志红",
+    "bookname": "(BX)财务会计习题集第五版/陈志红",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083183",
-    "bookname": "V(BX)人际沟通与礼仪(第四版)",
+    "bookname": "(BX)人际沟通与礼仪(第四版)",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083184",
-    "bookname": "V(BX)职业生涯规划/丁学利",
+    "bookname": "(BX)职业生涯规划/丁学利",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083185",
-    "bookname": "V(BX)成本会计习题(第四版)/蒋耀琴",
+    "bookname": "(BX)成本会计习题(第四版)/蒋耀琴",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083186",
-    "bookname": "V(BX)书法教程—钢笔楷书字帖/李为国",
+    "bookname": "(BX)书法教程—钢笔楷书字帖/李为国",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083187",
-    "bookname": "V(BX)物理练习册/侯继慧",
+    "bookname": "(BX)物理练习册/侯继慧",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083188",
-    "bookname": "V(BX)机械基础习题集/徐彪",
+    "bookname": "(BX)机械基础习题集/徐彪",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083189",
-    "bookname": "V(BX)机械制图习题集/郎喆.周武祥",
+    "bookname": "(BX)机械制图习题集/郎喆.周武祥",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083190",
-    "bookname": "V(BX)会计制单/陈志红",
+    "bookname": "(BX)会计制单/陈志红",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083191",
-    "bookname": "V(BX)会计岗位模拟实训(第二版)/吕福智",
+    "bookname": "(BX)会计岗位模拟实训(第二版)/吕福智",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083192",
-    "bookname": "V(BX)平面设计实训--(PHTOTOSHOP)/王维",
+    "bookname": "(BX)平面设计实训--(PHTOTOSHOP)/王维",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083193",
-    "bookname": "V(BX)经济政治与社会/高彦军、马武庆",
+    "bookname": "(BX)经济政治与社会/高彦军、马武庆",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083194",
-    "bookname": "V(BX)中职数学导读(基础模块)/梁金龙.韩云峰.刘桂兰",
+    "bookname": "(BX)中职数学导读(基础模块)/梁金龙.韩云峰.刘桂兰",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083195",
-    "bookname": "V(BX)中等职业学校对口升学考试模拟数学试卷/刘秀兰",
+    "bookname": "(BX)中等职业学校对口升学考试模拟数学试卷/刘秀兰",
     "publishing": "哈工程大"
 },
 {
     "subscribeCode": "18CJ0083196",
-    "bookname": "V(BX)中等职业学校对口升学考试模拟语文试卷/李红雨",
+    "bookname": "(BX)中等职业学校对口升学考试模拟语文试卷/李红雨",
     "publishing": "哈工程大"
 },
 {
     "subscribeCode": "18CJ0083197",
-    "bookname": "V(BX)中等职业学校对口升学考试模拟英语试卷/薛志华",
+    "bookname": "(BX)中等职业学校对口升学考试模拟英语试卷/薛志华",
     "publishing": "哈工程大"
 },
 {
     "subscribeCode": "18CJ0083198",
-    "bookname": "V(BX)幼儿体育游戏创编/胡红玲",
+    "bookname": "(BX)幼儿体育游戏创编/胡红玲",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083199",
-    "bookname": "V(BX)简笔画/钟海宏",
+    "bookname": "(BX)简笔画/钟海宏",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083200",
-    "bookname": "V(BX)电子商务模拟实训/郑莹",
+    "bookname": "(BX)电子商务模拟实训/郑莹",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083201",
-    "bookname": "V(BX)金属切削机床一级维护/方淑君",
+    "bookname": "(BX)金属切削机床一级维护/方淑君",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083202",
-    "bookname": "V(BX)出纳岗位实务/杨春英",
+    "bookname": "(BX)出纳岗位实务/杨春英",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083203",
-    "bookname": "V(BX)职业生涯设计/廖利华",
+    "bookname": "(BX)职业生涯设计/廖利华",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083204",
-    "bookname": "V(BX)语文周测月考单元练(拓展模块)",
+    "bookname": "(BX)语文周测月考单元练(拓展模块)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083205",
-    "bookname": "V(BX)数学周测月考单元练(拓展模块)",
+    "bookname": "(BX)数学周测月考单元练(拓展模块)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083206",
-    "bookname": "V(BX)英语周测月考单元练(拓展模块)",
+    "bookname": "(BX)英语周测月考单元练(拓展模块)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083207",
-    "bookname": "V(BX)语文周测月考单元练基础模块(上)",
+    "bookname": "(BX)语文周测月考单元练基础模块(上)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083208",
-    "bookname": "V(BX)数学周测月考单元练基础模块(上)",
+    "bookname": "(BX)数学周测月考单元练基础模块(上)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083209",
-    "bookname": "V(BX)英语周测月考单元练基础模块(上)",
+    "bookname": "(BX)英语周测月考单元练基础模块(上)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083210",
-    "bookname": "V(BX)机械基础 周测月考(活页卷)(上)",
+    "bookname": "(BX)机械基础 周测月考(活页卷)(上)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083211",
-    "bookname": "V(BX)机械基础 周测月考(活页卷)(下)",
+    "bookname": "(BX)机械基础 周测月考(活页卷)(下)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083212",
-    "bookname": "V(BX)机械制图 周测月考(活页卷)(上)",
+    "bookname": "(BX)机械制图 周测月考(活页卷)(上)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083213",
-    "bookname": "V(BX)机械制图 周测月考(活页卷)(下)",
+    "bookname": "(BX)机械制图 周测月考(活页卷)(下)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083214",
-    "bookname": "V(BX)经济法律法规 周测月考(活页卷)",
+    "bookname": "(BX)经济法律法规 周测月考(活页卷)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083215",
-    "bookname": "V(BX)中等职业学校对口升学考试练习册英语/刘运昭",
+    "bookname": "(BX)中等职业学校对口升学考试练习册英语/刘运昭",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083216",
-    "bookname": "V(BX)基础会计习题集(第四版)/励丹",
+    "bookname": "(BX)基础会计习题集(第四版)/励丹",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083217",
-    "bookname": "V(BX)哲学与人生/蔺立强、陈静、冯磊",
+    "bookname": "(BX)哲学与人生/蔺立强、陈静、冯磊",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083218",
-    "bookname": "V(BX)弟子规选修课本/杨晓华.刘建明",
+    "bookname": "(BX)弟子规选修课本/杨晓华.刘建明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083219",
-    "bookname": "V(BX)机械零部件加工实训/米明",
+    "bookname": "(BX)机械零部件加工实训/米明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083220",
-    "bookname": "V(BX)宜宾旅游/李桢",
+    "bookname": "(BX)宜宾旅游/李桢",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083221",
-    "bookname": "V(BX)电工电子技术实训/何斌",
+    "bookname": "(BX)电工电子技术实训/何斌",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083222",
-    "bookname": "V(BX)对口升学考试练习册--数学练习册/程爱梅",
+    "bookname": "(BX)对口升学考试练习册--数学练习册/程爱梅",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083223",
-    "bookname": "V牛羊生产技术/王福刚 张德玉",
+    "bookname": "牛羊生产技术/王福刚 张德玉",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083224",
-    "bookname": "V(BX)就业指导与创业教育/徐承斌、苗其刚、冉启全",
+    "bookname": "(BX)就业指导与创业教育/徐承斌、苗其刚、冉启全",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083225",
-    "bookname": "V猪禽生产技术/刘召乾 段会勇",
+    "bookname": "猪禽生产技术/刘召乾 段会勇",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083226",
-    "bookname": "V(BX)对口升学考试模拟试卷--数学模拟试卷/程爱梅",
+    "bookname": "(BX)对口升学考试模拟试卷--数学模拟试卷/程爱梅",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083227",
-    "bookname": "V(BX)酒店服务礼仪/尹 璐",
+    "bookname": "(BX)酒店服务礼仪/尹 璐",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083228",
-    "bookname": "V(BX)模拟导游/王叔杰",
+    "bookname": "(BX)模拟导游/王叔杰",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083229",
-    "bookname": "V(BX)数控铣工技术/刘圣庆 吕金梁",
+    "bookname": "(BX)数控铣工技术/刘圣庆 吕金梁",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083230",
-    "bookname": "V(BX)护理管理学/王惠珍",
+    "bookname": "(BX)护理管理学/王惠珍",
     "publishing": "协和医大"
 },
 {
     "subscribeCode": "18CJ0083231",
-    "bookname": "V(BX)全国英语等级考试全真模拟试卷及解析(第一级)/苏利群",
+    "bookname": "(BX)全国英语等级考试全真模拟试卷及解析(第一级)/苏利群",
     "publishing": "河北大学"
 },
 {
     "subscribeCode": "18CJ0083232",
-    "bookname": "V(BX)生命教育读本(上册)/钱金星",
+    "bookname": "(BX)生命教育读本(上册)/钱金星",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083233",
-    "bookname": "V(BX)幼儿园活动设计/马彦利",
+    "bookname": "(BX)幼儿园活动设计/马彦利",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083234",
-    "bookname": "V(BX)纳税实务/蒋耀琴",
+    "bookname": "(BX)纳税实务/蒋耀琴",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083235",
-    "bookname": "V(BX)市场营销基础",
+    "bookname": "(BX)市场营销基础",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083236",
-    "bookname": "V(BX)幼儿园音舞艺术教育/刘力平",
+    "bookname": "(BX)幼儿园音舞艺术教育/刘力平",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083237",
-    "bookname": "V(BX)幼儿歌曲弹唱/雷静",
+    "bookname": "(BX)幼儿歌曲弹唱/雷静",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083238",
-    "bookname": "V钢琴基础上册/李和平",
+    "bookname": "钢琴基础上册/李和平",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083239",
-    "bookname": "V(BX)公差配合与技术测量一体化/李仁娇",
+    "bookname": "(BX)公差配合与技术测量一体化/李仁娇",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083240",
-    "bookname": "V(BX)网页制作—DREAMWEAVERCS5实战基础/王玉龙",
+    "bookname": "(BX)网页制作—DREAMWEAVERCS5实战基础/王玉龙",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083241",
-    "bookname": "V(BX)安全教育知识读本/唐永富、许平",
+    "bookname": "(BX)安全教育知识读本/唐永富、许平",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083242",
-    "bookname": "V畜禽疾病防治/黄 颖",
+    "bookname": "畜禽疾病防治/黄 颖",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083243",
-    "bookname": "V(BX)电商文案策划/张永丽.李霞.易艳",
+    "bookname": "(BX)电商文案策划/张永丽.李霞.易艳",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083244",
-    "bookname": "V(BX)应用文写作基础/宋作德.王春明",
+    "bookname": "(BX)应用文写作基础/宋作德.王春明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083245",
-    "bookname": "V(BX)中职英语/王景新",
+    "bookname": "(BX)中职英语/王景新",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083246",
-    "bookname": "V(BX)企业文化案例教程/张继军",
+    "bookname": "(BX)企业文化案例教程/张继军",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083247",
-    "bookname": "V(BX)电工技术基础实训指导书/张海东",
+    "bookname": "(BX)电工技术基础实训指导书/张海东",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083248",
-    "bookname": "V(BX)基础会计/何仁聘、王少泽",
+    "bookname": "(BX)基础会计/何仁聘、王少泽",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083249",
-    "bookname": "V(BX)统计基础知识/李建发",
+    "bookname": "(BX)统计基础知识/李建发",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083250",
-    "bookname": "V(BX)护理心理学/翟惠敏",
+    "bookname": "(BX)护理心理学/翟惠敏",
     "publishing": "协和医大"
 },
 {
     "subscribeCode": "18CJ0083251",
-    "bookname": "V(BX)传感器技术与应用/王玉军",
+    "bookname": "(BX)传感器技术与应用/王玉军",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083252",
-    "bookname": "V(BX)计算机组装与维护/姚国旺.胡建军",
+    "bookname": "(BX)计算机组装与维护/姚国旺.胡建军",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083253",
-    "bookname": "V(BX)数控车削编程与操作/刘文娟",
+    "bookname": "(BX)数控车削编程与操作/刘文娟",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083254",
-    "bookname": "V(BX)变频式安装、调试与维护实验实训指导",
+    "bookname": "(BX)变频式安装、调试与维护实验实训指导",
     "publishing": "冶金工业"
 },
 {
     "subscribeCode": "18CJ0083255",
-    "bookname": "V(BX)实用电工仪表与测量/陶健.吴凤斌",
+    "bookname": "(BX)实用电工仪表与测量/陶健.吴凤斌",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083256",
-    "bookname": "V(BX)铣工工艺学/李宝智",
+    "bookname": "(BX)铣工工艺学/李宝智",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083257",
-    "bookname": "V(BX)电子商务基础/王贻建",
+    "bookname": "(BX)电子商务基础/王贻建",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083258",
-    "bookname": "V(BX)车工工艺学/李世伟",
+    "bookname": "(BX)车工工艺学/李世伟",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083259",
-    "bookname": "V基础会计实训教程/张秀君",
+    "bookname": "基础会计实训教程/张秀君",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083260",
-    "bookname": "V(BX)财务会计教师手册(第四版)/陈志红",
+    "bookname": "(BX)财务会计教师手册(第四版)/陈志红",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083261",
-    "bookname": "V钢笔楷书字帖---修身篇/张兴华",
+    "bookname": "钢笔楷书字帖---修身篇/张兴华",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083262",
-    "bookname": "V(BX)汽车美容/封宗武",
+    "bookname": "(BX)汽车美容/封宗武",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083263",
-    "bookname": "V(BX)幼儿教育学基础/李艺",
+    "bookname": "(BX)幼儿教育学基础/李艺",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083264",
-    "bookname": "V(BX)局域网组成实用教程/张远飞、刘丁、周飞舟",
+    "bookname": "(BX)局域网组成实用教程/张远飞、刘丁、周飞舟",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083265",
-    "bookname": "V(BX)职业素养校企双元训练/王守涛",
+    "bookname": "(BX)职业素养校企双元训练/王守涛",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083266",
-    "bookname": "V(BX)安全教育指导与实践(有配套教师手册)/雷思明",
+    "bookname": "(BX)安全教育指导与实践(有配套教师手册)/雷思明",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083267",
-    "bookname": "V(BX)钳工工艺与技能训练/刘波",
+    "bookname": "(BX)钳工工艺与技能训练/刘波",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083268",
-    "bookname": "V(BX)经典晨读/李世昌",
+    "bookname": "(BX)经典晨读/李世昌",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083269",
-    "bookname": "V(BX)心理健康教育读本/孙鸿玉",
+    "bookname": "(BX)心理健康教育读本/孙鸿玉",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083270",
-    "bookname": "V(BX)职业道德与法律（双色）/邹助荣、梅彪、杨诗远",
+    "bookname": "(BX)职业道德与法律（双色）/邹助荣、梅彪、杨诗远",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083271",
-    "bookname": "V(BX)哲学与人生/陈天菊",
+    "bookname": "(BX)哲学与人生/陈天菊",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083272",
-    "bookname": "V(BX)计算机网络技术/吴 旭",
+    "bookname": "(BX)计算机网络技术/吴 旭",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083273",
-    "bookname": "V(BX)中职语文导读(基础模块)/郭建刚.王永贵.付广林",
+    "bookname": "(BX)中职语文导读(基础模块)/郭建刚.王永贵.付广林",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083274",
-    "bookname": "V(BX)职业素养/陆志松",
+    "bookname": "(BX)职业素养/陆志松",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083275",
-    "bookname": "V(BX)审计基础知识/于兰英",
+    "bookname": "(BX)审计基础知识/于兰英",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083276",
-    "bookname": "V会计岗位实务.教师手册/吕福智",
+    "bookname": "会计岗位实务.教师手册/吕福智",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083277",
-    "bookname": "V(BX)幼儿园手工制作/刘洪波",
+    "bookname": "(BX)幼儿园手工制作/刘洪波",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083278",
-    "bookname": "V(BX)演讲与口才教程/陈军、王成",
+    "bookname": "(BX)演讲与口才教程/陈军、王成",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083279",
-    "bookname": "V(BX)幼儿语言教育与活动指导/张明红",
+    "bookname": "(BX)幼儿语言教育与活动指导/张明红",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083280",
-    "bookname": "V音乐欣赏/钟萍、黄琳",
+    "bookname": "音乐欣赏/钟萍、黄琳",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083281",
-    "bookname": "V(BX)体育教学与应用/王永成",
+    "bookname": "(BX)体育教学与应用/王永成",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083282",
-    "bookname": "V(BX)基础会计(第四版)/励丹",
+    "bookname": "(BX)基础会计(第四版)/励丹",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083283",
-    "bookname": "V(BX)多媒体技术应用/林斌、伍佳慧",
+    "bookname": "(BX)多媒体技术应用/林斌、伍佳慧",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083284",
-    "bookname": "V(BX)电子技术基础与技能/张卫平",
+    "bookname": "(BX)电子技术基础与技能/张卫平",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083285",
-    "bookname": "V(BX)经济法基础/杨柳 马国华",
+    "bookname": "(BX)经济法基础/杨柳 马国华",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083286",
-    "bookname": "V(BX)电子产品质量检测简明教程/张玉良",
+    "bookname": "(BX)电子产品质量检测简明教程/张玉良",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083287",
-    "bookname": "V(BX)钳工技能实训教程/秦福强 种法州",
+    "bookname": "(BX)钳工技能实训教程/秦福强 种法州",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083288",
-    "bookname": "V(BX)钢笔字楷书教程帖/李为国",
+    "bookname": "(BX)钢笔字楷书教程帖/李为国",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083289",
-    "bookname": "V(BX)单片机原理与应用(第一版)/吴围 刘名琪",
+    "bookname": "(BX)单片机原理与应用(第一版)/吴围 刘名琪",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083290",
-    "bookname": "V(BX)电力拖动控制线路及技能训练/江雪薇 张邦谦",
+    "bookname": "(BX)电力拖动控制线路及技能训练/江雪薇 张邦谦",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083291",
-    "bookname": "V(BX)儿童歌曲简易即兴伴奏/阳崇礼",
+    "bookname": "(BX)儿童歌曲简易即兴伴奏/阳崇礼",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083292",
-    "bookname": "V(BX)幼儿舞蹈创编/曲雪艳",
+    "bookname": "(BX)幼儿舞蹈创编/曲雪艳",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083293",
-    "bookname": "V(BX)声乐/蒋新俭",
+    "bookname": "(BX)声乐/蒋新俭",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083294",
-    "bookname": "V(BX)幼儿社会教育与活动指导/张明红",
+    "bookname": "(BX)幼儿社会教育与活动指导/张明红",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083295",
-    "bookname": "V(BX)数控机械加工技术/卢英超 王凯 王胜男",
+    "bookname": "(BX)数控机械加工技术/卢英超 王凯 王胜男",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083296",
-    "bookname": "V平面设计实训PHOTSHOPCS6/王维",
+    "bookname": "平面设计实训PHOTSHOPCS6/王维",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083297",
-    "bookname": "V哲学与人生/姚长江",
+    "bookname": "哲学与人生/姚长江",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083298",
-    "bookname": "V(BX)电工基础/佘明辉",
+    "bookname": "(BX)电工基础/佘明辉",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083299",
-    "bookname": "V(BX)餐饮服务与管理(餐饮类别)/胡绍荣",
+    "bookname": "(BX)餐饮服务与管理(餐饮类别)/胡绍荣",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083300",
-    "bookname": "V钢琴基础下册 /李和平",
+    "bookname": "钢琴基础下册 /李和平",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083301",
-    "bookname": "V(BX)机床电气控制与技能训练/田伟 张子波",
+    "bookname": "(BX)机床电气控制与技能训练/田伟 张子波",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083302",
-    "bookname": "V(BX)体育与健康/刘义保.刘小香",
+    "bookname": "(BX)体育与健康/刘义保.刘小香",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083303",
-    "bookname": "V(BX)计算机应用基础/赵志伟",
+    "bookname": "(BX)计算机应用基础/赵志伟",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0083304",
-    "bookname": "V(BX)礼仪规范教程/高珊.刘金红",
+    "bookname": "(BX)礼仪规范教程/高珊.刘金红",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083305",
-    "bookname": "V(BX)汽车电器维修/王宏亮",
+    "bookname": "(BX)汽车电器维修/王宏亮",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083306",
-    "bookname": "V(BX)数据库应用技术—ACCESS 2003/王文华、冯希荆",
+    "bookname": "(BX)数据库应用技术—ACCESS 2003/王文华、冯希荆",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083307",
-    "bookname": "V(BX)普通话口语交际教程/陈军.王成",
+    "bookname": "(BX)普通话口语交际教程/陈军.王成",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083308",
-    "bookname": "V(BX)初级电子产品组装与调试实训",
+    "bookname": "(BX)初级电子产品组装与调试实训",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083309",
-    "bookname": "V(BX)单片机技术应用(C语言版)",
+    "bookname": "(BX)单片机技术应用(C语言版)",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083310",
-    "bookname": "V(BX)医学免疫学(一版)/李成文",
+    "bookname": "(BX)医学免疫学(一版)/李成文",
     "publishing": "协和医大"
 },
 {
     "subscribeCode": "18CJ0083311",
-    "bookname": "V(BX)推开窗给自己一片蓝天(上、下册)/王昕明",
+    "bookname": "(BX)推开窗给自己一片蓝天(上、下册)/王昕明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083312",
-    "bookname": "V(BX)汽车维护与保养实务/张少华",
+    "bookname": "(BX)汽车维护与保养实务/张少华",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083313",
-    "bookname": "V(BX)普通话口语交际/虞上塑等/虞上塑",
+    "bookname": "(BX)普通话口语交际/虞上塑等/虞上塑",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083314",
-    "bookname": "V(BX)幼儿卫生学/李玮",
+    "bookname": "(BX)幼儿卫生学/李玮",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0083315",
-    "bookname": "V(BX)机械基础/徐彪",
+    "bookname": "(BX)机械基础/徐彪",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083316",
-    "bookname": "V(BX)AUTO CAD2008与机械制图/王戟",
+    "bookname": "(BX)AUTO CAD2008与机械制图/王戟",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083317",
-    "bookname": "V(BX)实用电工电子技术/陶健 耿一波",
+    "bookname": "(BX)实用电工电子技术/陶健 耿一波",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083318",
-    "bookname": "V(BX)酒店服务英语/黄 丽",
+    "bookname": "(BX)酒店服务英语/黄 丽",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083319",
-    "bookname": "V(BX)畜禽营养与饲料/袁俊益",
+    "bookname": "(BX)畜禽营养与饲料/袁俊益",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083320",
-    "bookname": "V(BX)畜禽解剖生理/周涛",
+    "bookname": "(BX)畜禽解剖生理/周涛",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083321",
-    "bookname": "V(BX)绘画基础(彩色)/钟海宏",
+    "bookname": "(BX)绘画基础(彩色)/钟海宏",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083322",
-    "bookname": "V(BX)电机与变压器/魏玉红",
+    "bookname": "(BX)电机与变压器/魏玉红",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083323",
-    "bookname": "V(BX)机械制造基础/张月强",
+    "bookname": "(BX)机械制造基础/张月强",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083324",
-    "bookname": "V(BX)机械制图/刘超.陈金伟.唐国雄",
+    "bookname": "(BX)机械制图/刘超.陈金伟.唐国雄",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083325",
-    "bookname": "V(BX)普通话教程/陈良彬.梁红梅",
+    "bookname": "(BX)普通话教程/陈良彬.梁红梅",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083326",
-    "bookname": "V(BX)会计岗位实务(第二版)/吕福智",
+    "bookname": "(BX)会计岗位实务(第二版)/吕福智",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083327",
-    "bookname": "V(BX)普通话实训教程/孙其刚",
+    "bookname": "(BX)普通话实训教程/孙其刚",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083328",
-    "bookname": "V(BX)中职生成才修养/田伟.王伯宝",
+    "bookname": "(BX)中职生成才修养/田伟.王伯宝",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083329",
-    "bookname": "V(BX)药理学/王晖",
+    "bookname": "(BX)药理学/王晖",
     "publishing": "协和医大"
 },
 {
     "subscribeCode": "18CJ0083330",
-    "bookname": "V(BX)计算机专业英语",
+    "bookname": "(BX)计算机专业英语",
     "publishing": "国防科大"
 },
 {
     "subscribeCode": "18CJ0083331",
-    "bookname": "V(BX)前厅服务与管理/侯 琳",
+    "bookname": "(BX)前厅服务与管理/侯 琳",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083332",
-    "bookname": "V(BX)汽车电气与控制系统/杜洪智、李在高",
+    "bookname": "(BX)汽车电气与控制系统/杜洪智、李在高",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083333",
-    "bookname": "V(BX)物理/侯继慧",
+    "bookname": "(BX)物理/侯继慧",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083334",
-    "bookname": "V导游基础知识/周海燕",
+    "bookname": "导游基础知识/周海燕",
     "publishing": "西南财大"
 },
 {
     "subscribeCode": "18CJ0083335",
-    "bookname": "V(BX)对口升学考试复习指导--数学指导/程爱梅",
+    "bookname": "(BX)对口升学考试复习指导--数学指导/程爱梅",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083336",
-    "bookname": "V(BX)数控车工加工基础(FANUC OI-TC系统)/于英梅.方建京",
+    "bookname": "(BX)数控车工加工基础(FANUC OI-TC系统)/于英梅.方建京",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083337",
-    "bookname": "V(BX)计算机应用基础WIN7+OFFICE2010/徐海英",
+    "bookname": "(BX)计算机应用基础WIN7+OFFICE2010/徐海英",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083338",
-    "bookname": "V(BX)幼儿心理学/侯朝阳",
+    "bookname": "(BX)幼儿心理学/侯朝阳",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083339",
-    "bookname": "V(BX)学前教育专业英语/李金兰",
+    "bookname": "(BX)学前教育专业英语/李金兰",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083340",
-    "bookname": "V(BX)兽医基础/张 勇",
+    "bookname": "(BX)兽医基础/张 勇",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083341",
-    "bookname": "V(BX)案例教程 EXCEL 2010电子表格制作/王小林 郭燕",
+    "bookname": "(BX)案例教程 EXCEL 2010电子表格制作/王小林 郭燕",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083342",
-    "bookname": "V(BX)财务会计/孙会芳",
+    "bookname": "(BX)财务会计/孙会芳",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083343",
-    "bookname": "V(BX)毛泽东思想和中国特色社会主义理论体系概",
+    "bookname": "(BX)毛泽东思想和中国特色社会主义理论体系概",
     "publishing": "中央党校"
 },
 {
     "subscribeCode": "18CJ0083344",
-    "bookname": "V(BX)PLC技术与应用/郭惠霞",
+    "bookname": "(BX)PLC技术与应用/郭惠霞",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083345",
-    "bookname": "V(BX)财务会计第五版/陈志红",
+    "bookname": "(BX)财务会计第五版/陈志红",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083346",
-    "bookname": "V(BX)电子线路/倪元兵",
+    "bookname": "(BX)电子线路/倪元兵",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083347",
-    "bookname": "V(BX)中职体育与健康教程/李享等",
+    "bookname": "(BX)中职体育与健康教程/李享等",
     "publishing": "北京体大"
 },
 {
     "subscribeCode": "18CJ0083348",
-    "bookname": "V(BX)餐饮服务与管理/魏微",
+    "bookname": "(BX)餐饮服务与管理/魏微",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083349",
-    "bookname": "V(BX)市场营销/熊红星",
+    "bookname": "(BX)市场营销/熊红星",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083350",
-    "bookname": "V(BX)乐理视唱练耳/王工念",
+    "bookname": "(BX)乐理视唱练耳/王工念",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083351",
-    "bookname": "V(BX)舞蹈/杜瑞丽",
+    "bookname": "(BX)舞蹈/杜瑞丽",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083352",
-    "bookname": "V(BX)焊工工艺与技能训练一体化项目教程",
+    "bookname": "(BX)焊工工艺与技能训练一体化项目教程",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083353",
-    "bookname": "V会计电算化/莫绮霞",
+    "bookname": "会计电算化/莫绮霞",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083354",
-    "bookname": "V(BX)职业生涯规划/路小军",
+    "bookname": "(BX)职业生涯规划/路小军",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083355",
-    "bookname": "V安全教育知识读本/张剑虹",
+    "bookname": "安全教育知识读本/张剑虹",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083356",
-    "bookname": "V(BX)计算机组装与维护/石磊 傅纲 郭勇",
+    "bookname": "(BX)计算机组装与维护/石磊 傅纲 郭勇",
     "publishing": "中国书籍"
 },
 {
     "subscribeCode": "18CJ0083357",
-    "bookname": "V(BX)育婴师/闫珂",
+    "bookname": "(BX)育婴师/闫珂",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083358",
-    "bookname": "V(BX)幼儿园班级管理/张金陵",
+    "bookname": "(BX)幼儿园班级管理/张金陵",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083359",
-    "bookname": "V汽车发动机拆装与维修/韦森",
+    "bookname": "汽车发动机拆装与维修/韦森",
     "publishing": "地质大学"
 },
 {
     "subscribeCode": "18CJ0083360",
-    "bookname": "V(BX)动画制作基础FLASH/张蓓瑾",
+    "bookname": "(BX)动画制作基础FLASH/张蓓瑾",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083361",
-    "bookname": "V(BX)幼儿科学教育与活动指导/施燕",
+    "bookname": "(BX)幼儿科学教育与活动指导/施燕",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083362",
-    "bookname": "V(BX)幼儿游戏活动指导/么娜",
+    "bookname": "(BX)幼儿游戏活动指导/么娜",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083363",
-    "bookname": "V幼儿教师口语/宋玮 李哲",
+    "bookname": "幼儿教师口语/宋玮 李哲",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083364",
-    "bookname": "V(BX)计算机网络技术基础/赵军 邓鸿卿",
+    "bookname": "(BX)计算机网络技术基础/赵军 邓鸿卿",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083365",
-    "bookname": "V(BX)经济法/杨月锋 邢伟 李小安",
+    "bookname": "(BX)经济法/杨月锋 邢伟 李小安",
     "publishing": "中国商业"
 },
 {
     "subscribeCode": "18CJ0083366",
-    "bookname": "V(BX)大学生心理健康/周睿",
+    "bookname": "(BX)大学生心理健康/周睿",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083367",
-    "bookname": "V(BX)旅游英语/李彦",
+    "bookname": "(BX)旅游英语/李彦",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083368",
-    "bookname": "V(BX)机械CAD/孙伏",
+    "bookname": "(BX)机械CAD/孙伏",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083369",
-    "bookname": "V(BX)中国旅游文化/王玉",
+    "bookname": "(BX)中国旅游文化/王玉",
     "publishing": "西南财大"
 },
 {
     "subscribeCode": "18CJ0083370",
-    "bookname": "V(BX)电工技术基础技能/王先佑 李浩雄 徐力",
+    "bookname": "(BX)电工技术基础技能/王先佑 李浩雄 徐力",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083371",
-    "bookname": "V(BX)电控发动机检测/田永江",
+    "bookname": "(BX)电控发动机检测/田永江",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083372",
-    "bookname": "V(BX)幼儿简笔画/方永敢",
+    "bookname": "(BX)幼儿简笔画/方永敢",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083373",
-    "bookname": "V(BX)数控加工实训课题图册/张安明",
+    "bookname": "(BX)数控加工实训课题图册/张安明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083374",
-    "bookname": "V(BX)幼儿教师口语/周泉新",
+    "bookname": "(BX)幼儿教师口语/周泉新",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083375",
-    "bookname": "V(BX)汽车认识/郭碧宝",
+    "bookname": "(BX)汽车认识/郭碧宝",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083376",
-    "bookname": "V(BX)数控机床基本操作与维护/廖志财",
+    "bookname": "(BX)数控机床基本操作与维护/廖志财",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083377",
-    "bookname": "V(BX)幼儿艺术教育与活动指导/黄瑾 林琳",
+    "bookname": "(BX)幼儿艺术教育与活动指导/黄瑾 林琳",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083378",
-    "bookname": "V(BX)现代物流管理概论/杨国明 尹衍波主编",
+    "bookname": "(BX)现代物流管理概论/杨国明 尹衍波主编",
     "publishing": "北京交大"
 },
 {
     "subscribeCode": "18CJ0083379",
-    "bookname": "V(BX)大学语文/杨忠策 闫召锋 李海潮",
+    "bookname": "(BX)大学语文/杨忠策 闫召锋 李海潮",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083380",
-    "bookname": "V(BX)初级会计电算化实务(配光盘)/黄维新",
+    "bookname": "(BX)初级会计电算化实务(配光盘)/黄维新",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083381",
-    "bookname": "V(BX)机械制图/李秀娟、许晓陆、陈秋霞",
+    "bookname": "(BX)机械制图/李秀娟、许晓陆、陈秋霞",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083382",
-    "bookname": "V(BX)应用文写作/林青春",
+    "bookname": "(BX)应用文写作/林青春",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083383",
-    "bookname": "V(BX)现代礼仪",
+    "bookname": "(BX)现代礼仪",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083384",
-    "bookname": "V(BX)欧阳询楷书训练教程",
+    "bookname": "(BX)欧阳询楷书训练教程",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083385",
-    "bookname": "V(BX)建筑施工组织/张萍",
+    "bookname": "(BX)建筑施工组织/张萍",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083386",
-    "bookname": "V(BX)纳税实务教师手册/蒋耀琴",
+    "bookname": "(BX)纳税实务教师手册/蒋耀琴",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083387",
-    "bookname": "V(BX)幼儿卫生与保健/张薇",
+    "bookname": "(BX)幼儿卫生与保健/张薇",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083388",
-    "bookname": "V(BX)幼儿心理学/刘福莲",
+    "bookname": "(BX)幼儿心理学/刘福莲",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083389",
-    "bookname": "V(BX)市场营销/张亚玲 田辉鹏",
+    "bookname": "(BX)市场营销/张亚玲 田辉鹏",
     "publishing": "中国商业"
 },
 {
     "subscribeCode": "18CJ0083390",
-    "bookname": "V(BX)汽车保险与理赔/黄旭，任晓光",
+    "bookname": "(BX)汽车保险与理赔/黄旭，任晓光",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083391",
-    "bookname": "V(BX)大学生就业与创业指导",
+    "bookname": "(BX)大学生就业与创业指导",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083392",
-    "bookname": "V军事理论与技能训练/赵俊锋",
+    "bookname": "军事理论与技能训练/赵俊锋",
     "publishing": "兵器工业"
 },
 {
     "subscribeCode": "18CJ0083393",
-    "bookname": "V(BX)幼儿游戏教育与活动指导/张琳",
+    "bookname": "(BX)幼儿游戏教育与活动指导/张琳",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083394",
-    "bookname": "V(BX) PHOTOSHOPCS4(中文版)图形图像处理技术/张素珍 胡晓 江峰",
+    "bookname": "(BX) PHOTOSHOPCS4(中文版)图形图像处理技术/张素珍 胡晓 江峰",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083395",
-    "bookname": "V(BX)客房服务与管理/韩军",
+    "bookname": "(BX)客房服务与管理/韩军",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083396",
-    "bookname": "V(BX)餐饮服务实务/周静波",
+    "bookname": "(BX)餐饮服务实务/周静波",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083397",
-    "bookname": "V(BX)DVEAMEAVEVCS5网页设计实用教程",
+    "bookname": "(BX)DVEAMEAVEVCS5网页设计实用教程",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083398",
-    "bookname": "V普通高校军事理论与训练教程",
+    "bookname": "普通高校军事理论与训练教程",
     "publishing": "国防大学"
 },
 {
     "subscribeCode": "18CJ0083399",
-    "bookname": "V(BX)汽车车身诊断与修复/ 谢云叶",
+    "bookname": "(BX)汽车车身诊断与修复/ 谢云叶",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083400",
-    "bookname": "V(BX)体育与健康",
+    "bookname": "(BX)体育与健康",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0083401",
-    "bookname": "V(BX)幼儿英语教育",
+    "bookname": "(BX)幼儿英语教育",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083402",
-    "bookname": "V(BX)计算机网络技术基础",
+    "bookname": "(BX)计算机网络技术基础",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0083403",
-    "bookname": "V(BX)汽车维护与保养/范超 龙山青",
+    "bookname": "(BX)汽车维护与保养/范超 龙山青",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083404",
-    "bookname": "V(BX)中文版FLASH8实例与操作",
+    "bookname": "(BX)中文版FLASH8实例与操作",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083405",
-    "bookname": "V(BX)汽车电工电子基础(双色)/张东升、冉莹",
+    "bookname": "(BX)汽车电工电子基础(双色)/张东升、冉莹",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083406",
-    "bookname": "V(BX)税收筹划/胡玉玲",
+    "bookname": "(BX)税收筹划/胡玉玲",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083407",
-    "bookname": "V(BX)对口升学招生考试专用辅导教材 语文/武飞 温丽琴",
+    "bookname": "(BX)对口升学招生考试专用辅导教材 语文/武飞 温丽琴",
     "publishing": "经济日报"
 },
 {
     "subscribeCode": "18CJ0083408",
-    "bookname": "V(BX)财务会计项目化教程/银峰",
+    "bookname": "(BX)财务会计项目化教程/银峰",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083409",
-    "bookname": "V(BX)幼儿手工制作/张雪芹",
+    "bookname": "(BX)幼儿手工制作/张雪芹",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083410",
-    "bookname": "V(BX)幼儿教育学/胡小华",
+    "bookname": "(BX)幼儿教育学/胡小华",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083411",
-    "bookname": "V(BX)CORELDRAW平面设计X4版案例教程/徐建平 朱萍 田秀霞",
+    "bookname": "(BX)CORELDRAW平面设计X4版案例教程/徐建平 朱萍 田秀霞",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083412",
-    "bookname": "V(BX)幼儿文学/唐安兴、刘丙钧",
+    "bookname": "(BX)幼儿文学/唐安兴、刘丙钧",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083413",
-    "bookname": "V(BX)乐理视唱练耳/严斌",
+    "bookname": "(BX)乐理视唱练耳/严斌",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083414",
-    "bookname": "V(BX)幼儿园教育活动设计与实践/胡建华",
+    "bookname": "(BX)幼儿园教育活动设计与实践/胡建华",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083415",
-    "bookname": "V(BX)税法/崔玲娥",
+    "bookname": "(BX)税法/崔玲娥",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083416",
-    "bookname": "V汽车发动机构造与维修/李民和 韩松畴",
+    "bookname": "汽车发动机构造与维修/李民和 韩松畴",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083417",
-    "bookname": "V(BX)基础会计项目化教程",
+    "bookname": "(BX)基础会计项目化教程",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083418",
-    "bookname": "V幼儿语言教育与活动指导",
+    "bookname": "幼儿语言教育与活动指导",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083419",
-    "bookname": "V(BX)酒店服务礼仪/周丽",
+    "bookname": "(BX)酒店服务礼仪/周丽",
     "publishing": "广西师大"
 },
 {
     "subscribeCode": "18CJ0083420",
-    "bookname": "V(BX)幼儿美术教育/刘向岩",
+    "bookname": "(BX)幼儿美术教育/刘向岩",
     "publishing": "陕西师大"
 },
 {
     "subscribeCode": "18CJ0083421",
-    "bookname": "V(BX)计算机动画设计—FLASHCS4/黄炜 郭勇",
+    "bookname": "(BX)计算机动画设计—FLASHCS4/黄炜 郭勇",
     "publishing": "中国书籍"
 },
 {
     "subscribeCode": "18CJ0083422",
-    "bookname": "V(BX)体育与健康(双色)/高艳红",
+    "bookname": "(BX)体育与健康(双色)/高艳红",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083423",
-    "bookname": "V(BX)汽车底盘构造与拆装",
+    "bookname": "(BX)汽车底盘构造与拆装",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0083424",
-    "bookname": "V(BX)幼儿卫生与保健/崔梅",
+    "bookname": "(BX)幼儿卫生与保健/崔梅",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083425",
-    "bookname": "V(BX)平面设计PHOTOSHOPCS6/王维",
+    "bookname": "(BX)平面设计PHOTOSHOPCS6/王维",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083426",
-    "bookname": "V(BX)模具拆装与调试实训/李海林",
+    "bookname": "(BX)模具拆装与调试实训/李海林",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083427",
-    "bookname": "V汽车检测与诊断技术/孙焕新 石岩",
+    "bookname": "汽车检测与诊断技术/孙焕新 石岩",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083428",
-    "bookname": "V(BX)现代礼仪/郭届红、陈国琴",
+    "bookname": "(BX)现代礼仪/郭届红、陈国琴",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0083429",
-    "bookname": "V(BX)计算机录入与编辑/吕春美",
+    "bookname": "(BX)计算机录入与编辑/吕春美",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083430",
-    "bookname": "V(BX)二维动画制作项目教程FLASH CS6/罗威",
+    "bookname": "(BX)二维动画制作项目教程FLASH CS6/罗威",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083431",
-    "bookname": "V(BX)汽车机械基础",
+    "bookname": "(BX)汽车机械基础",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0083432",
-    "bookname": "V(BX)汽车发动机构造与维修",
+    "bookname": "(BX)汽车发动机构造与维修",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0083433",
-    "bookname": "V(BX)全国英语等级考试教程(第一级)/苏利群",
+    "bookname": "(BX)全国英语等级考试教程(第一级)/苏利群",
     "publishing": "河北大学"
 },
 {
     "subscribeCode": "18CJ0083434",
-    "bookname": "V(BX)财务会计/李玲弟",
+    "bookname": "(BX)财务会计/李玲弟",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083435",
-    "bookname": "V(BX)计算机应用基础(WINDOWS 7+OFFICE 2010)/孙爱平",
+    "bookname": "(BX)计算机应用基础(WINDOWS 7+OFFICE 2010)/孙爱平",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083436",
-    "bookname": "V(BX)计算机应用基础(WINDOWS7)",
+    "bookname": "(BX)计算机应用基础(WINDOWS7)",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083437",
-    "bookname": "V(BX)构成基础/朱向红",
+    "bookname": "(BX)构成基础/朱向红",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0083438",
-    "bookname": "V(BX)家庭教育学/王兰枝 王现军",
+    "bookname": "(BX)家庭教育学/王兰枝 王现军",
     "publishing": "陕西师大"
 },
 {
     "subscribeCode": "18CJ0083439",
-    "bookname": "V(BX)中国古代文学史/连小华",
+    "bookname": "(BX)中国古代文学史/连小华",
     "publishing": "中国工商"
 },
 {
     "subscribeCode": "18CJ0083440",
-    "bookname": "V(BX)汽车电气设备构造与维修",
+    "bookname": "(BX)汽车电气设备构造与维修",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0083441",
-    "bookname": "V(BX)幼儿老师舞蹈基础/吴君",
+    "bookname": "(BX)幼儿老师舞蹈基础/吴君",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083442",
-    "bookname": "V(BX)PETS全国英语的等级考试第一级教程学生用书/郭华平",
+    "bookname": "(BX)PETS全国英语的等级考试第一级教程学生用书/郭华平",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083443",
-    "bookname": "V(BX)招投标与合同管理/戴勤友",
+    "bookname": "(BX)招投标与合同管理/戴勤友",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083444",
-    "bookname": "V(BX)计算机应用基础WINDOWS7/冯维祥、李淼良",
+    "bookname": "(BX)计算机应用基础WINDOWS7/冯维祥、李淼良",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0083445",
-    "bookname": "V(BX)工程造价案例分析",
+    "bookname": "(BX)工程造价案例分析",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083446",
-    "bookname": "V(BX)会计电算化实务(用友ERP-U872)/王曦东",
+    "bookname": "(BX)会计电算化实务(用友ERP-U872)/王曦东",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083447",
-    "bookname": "V(BX)公共空间设计(第二版)/刘洪波",
+    "bookname": "(BX)公共空间设计(第二版)/刘洪波",
     "publishing": "哈工程大"
 },
 {
     "subscribeCode": "18CJ0083448",
-    "bookname": "V(BX)汽车发动机电控系统结构检修(双色)/黄如君 张梅",
+    "bookname": "(BX)汽车发动机电控系统结构检修(双色)/黄如君 张梅",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083449",
-    "bookname": "V(BX)AUTOCAD电气工程制图/傅雅宁、田金颖",
+    "bookname": "(BX)AUTOCAD电气工程制图/傅雅宁、田金颖",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083450",
-    "bookname": "V色彩构成(第二版)/肖颂阳",
+    "bookname": "色彩构成(第二版)/肖颂阳",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083451",
-    "bookname": "V(BX)工程建设监理概论/黄宏亮",
+    "bookname": "(BX)工程建设监理概论/黄宏亮",
     "publishing": "哈工程大"
 },
 {
     "subscribeCode": "18CJ0083452",
-    "bookname": "V(BX)汽油发动机控制系统检修(双色)/郭碧宝 王尚军",
+    "bookname": "(BX)汽油发动机控制系统检修(双色)/郭碧宝 王尚军",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083453",
-    "bookname": "V(BX)汽车文化与概论/李书江 解莉",
+    "bookname": "(BX)汽车文化与概论/李书江 解莉",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083454",
-    "bookname": "V(BX)汽车机械制图(含习题集)(双色)/路淑华 弓彦荣 赵汉雨",
+    "bookname": "(BX)汽车机械制图(含习题集)(双色)/路淑华 弓彦荣 赵汉雨",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083455",
-    "bookname": "V(BX)汽车发动机构造与维修(双色)/刘桂光 车志",
+    "bookname": "(BX)汽车发动机构造与维修(双色)/刘桂光 车志",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083456",
-    "bookname": "V(BX)汽车机械基础(双色)/刘昌林",
+    "bookname": "(BX)汽车机械基础(双色)/刘昌林",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083457",
-    "bookname": "V(BX)市场营销学",
+    "bookname": "(BX)市场营销学",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083458",
-    "bookname": "V(BX)工程测量/刘茂华",
+    "bookname": "(BX)工程测量/刘茂华",
     "publishing": "同济大学"
 },
 {
     "subscribeCode": "18CJ0083459",
-    "bookname": "V(BX)OFFICE 2010高效办公案例教程",
+    "bookname": "(BX)OFFICE 2010高效办公案例教程",
     "publishing": "江苏大学"
 },
 {
     "subscribeCode": "18CJ0083460",
-    "bookname": "V(BX)汽车故障诊断与检测技术",
+    "bookname": "(BX)汽车故障诊断与检测技术",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0083461",
-    "bookname": "V(BX)新编大学生心理健康教程",
+    "bookname": "(BX)新编大学生心理健康教程",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083462",
-    "bookname": "V(BX)汽车文化/王萍萍",
+    "bookname": "(BX)汽车文化/王萍萍",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083463",
-    "bookname": "V(BX)美术欣赏/严天江.刘干",
+    "bookname": "(BX)美术欣赏/严天江.刘干",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083464",
-    "bookname": "V(BX)汽车材料/马士伟",
+    "bookname": "(BX)汽车材料/马士伟",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083465",
-    "bookname": "V(BX)基础图案/翟文文，詹秦川主编",
+    "bookname": "(BX)基础图案/翟文文，詹秦川主编",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0083466",
-    "bookname": "V(BX)内科护理学/由天辉",
+    "bookname": "(BX)内科护理学/由天辉",
     "publishing": "协和医大"
 },
 {
     "subscribeCode": "18CJ0083467",
-    "bookname": "V(BX)建筑与装饰材料/陈炳炎",
+    "bookname": "(BX)建筑与装饰材料/陈炳炎",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083468",
-    "bookname": "V(BX)工程建设 法规/徐英",
+    "bookname": "(BX)工程建设 法规/徐英",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083469",
-    "bookname": "V(BX)建筑构造/钟利生、石晶",
+    "bookname": "(BX)建筑构造/钟利生、石晶",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083470",
-    "bookname": "V(BX)汽车电气设备构造与维修(双色)/王可洲",
+    "bookname": "(BX)汽车电气设备构造与维修(双色)/王可洲",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083471",
-    "bookname": "V设计色彩/安明明",
+    "bookname": "设计色彩/安明明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083472",
-    "bookname": "V(BX)城市生态学/胡正元",
+    "bookname": "(BX)城市生态学/胡正元",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083473",
-    "bookname": "V(BX)电子技术与技能训练/刘玉章 冯霞",
+    "bookname": "(BX)电子技术与技能训练/刘玉章 冯霞",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083474",
-    "bookname": "V钢琴基础与弹唱",
+    "bookname": "钢琴基础与弹唱",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083475",
-    "bookname": "V(BX)计算机应用基础WIN7+OFFICE2010(项目式教程)/张燕燕",
+    "bookname": "(BX)计算机应用基础WIN7+OFFICE2010(项目式教程)/张燕燕",
     "publishing": "现代教育"
 },
 {
     "subscribeCode": "18CJ0083476",
-    "bookname": "V设计素描/ 董小龙",
+    "bookname": "设计素描/ 董小龙",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083477",
-    "bookname": "V(BX)基础色彩/李也青",
+    "bookname": "(BX)基础色彩/李也青",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0083478",
-    "bookname": "V(BX)汽车自动变速器构造与维修/廖发良",
+    "bookname": "(BX)汽车自动变速器构造与维修/廖发良",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083479",
-    "bookname": "V(BX)高层建筑施工/黄智 、 郭银中",
+    "bookname": "(BX)高层建筑施工/黄智 、 郭银中",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083480",
-    "bookname": "V(BX)工程监理概论/米军、闫兵",
+    "bookname": "(BX)工程监理概论/米军、闫兵",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083481",
-    "bookname": "V(BX)统计学(全两册)/刘纯霞、苏元涛",
+    "bookname": "(BX)统计学(全两册)/刘纯霞、苏元涛",
     "publishing": "中国商业"
 },
 {
     "subscribeCode": "18CJ0083482",
-    "bookname": "V(BX)汽车底盘构造与维修(双色)/刘桂光 车志",
+    "bookname": "(BX)汽车底盘构造与维修(双色)/刘桂光 车志",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083483",
-    "bookname": "V(BX)数控铣床与加工中心编程与实训/张安明",
+    "bookname": "(BX)数控铣床与加工中心编程与实训/张安明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083484",
-    "bookname": "V(BX)AUTO CAD施工图绘制(第二版)/刘淑艳",
+    "bookname": "(BX)AUTO CAD施工图绘制(第二版)/刘淑艳",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083485",
-    "bookname": "V(BX)SKETCHUP+TARCH建模基础教程/李政",
+    "bookname": "(BX)SKETCHUP+TARCH建模基础教程/李政",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083486",
-    "bookname": "V(BX)平面构成/赵佳",
+    "bookname": "(BX)平面构成/赵佳",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083487",
-    "bookname": "V(BX)住宅装饰设计/何丽",
+    "bookname": "(BX)住宅装饰设计/何丽",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083488",
-    "bookname": "V(BX)工程招投标与合同管理/彭艳",
+    "bookname": "(BX)工程招投标与合同管理/彭艳",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083489",
-    "bookname": "V(BX)建筑工程经济/张入方",
+    "bookname": "(BX)建筑工程经济/张入方",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083490",
-    "bookname": "V(BX)建筑工程预算/严小波",
+    "bookname": "(BX)建筑工程预算/严小波",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083491",
-    "bookname": "V(BX)城市道路与交通/孟兆祯",
+    "bookname": "(BX)城市道路与交通/孟兆祯",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083492",
-    "bookname": "V(BX)平法识图与钢筋算量/曹亚光",
+    "bookname": "(BX)平法识图与钢筋算量/曹亚光",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083493",
-    "bookname": "V(BX)土力学与地基基础/沈义",
+    "bookname": "(BX)土力学与地基基础/沈义",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083494",
-    "bookname": "V(BX)PHOTSHOP图像处理技术(高职高专)/刘庆",
+    "bookname": "(BX)PHOTSHOP图像处理技术(高职高专)/刘庆",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083495",
-    "bookname": "V(BX)幼儿园手工制作/刘春霞",
+    "bookname": "(BX)幼儿园手工制作/刘春霞",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083496",
-    "bookname": "V(BX)AUTOCAD建筑 制图/齐颖",
+    "bookname": "(BX)AUTOCAD建筑 制图/齐颖",
     "publishing": "印刷工业"
 },
 {
     "subscribeCode": "18CJ0083497",
-    "bookname": "V(BX)色彩构成/蒋纯利",
+    "bookname": "(BX)色彩构成/蒋纯利",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083498",
-    "bookname": "V(BX)广告创意与表现",
+    "bookname": "(BX)广告创意与表现",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0083499",
-    "bookname": "V(BX)3DS MAX基础教程",
+    "bookname": "(BX)3DS MAX基础教程",
     "publishing": "印刷工业"
 },
 {
     "subscribeCode": "18CJ0083500",
-    "bookname": "V(BX)PHOTOSTOPCCS(中文版)平面设计库用",
+    "bookname": "(BX)PHOTOSTOPCCS(中文版)平面设计库用",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083501",
-    "bookname": "V(BX)建筑工程计量与计价",
+    "bookname": "(BX)建筑工程计量与计价",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083502",
-    "bookname": "V(BX)手工制作 (全彩)/唐巧",
+    "bookname": "(BX)手工制作 (全彩)/唐巧",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083503",
-    "bookname": "V(BX)混凝土结构与砌体结构/赵红霞",
+    "bookname": "(BX)混凝土结构与砌体结构/赵红霞",
     "publishing": "冶金工业"
 },
 {
     "subscribeCode": "18CJ0083504",
-    "bookname": "V(BX)建筑工程测量/郝亚东",
+    "bookname": "(BX)建筑工程测量/郝亚东",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083505",
-    "bookname": "V(BX)建筑施工组织/刘帅",
+    "bookname": "(BX)建筑施工组织/刘帅",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083506",
-    "bookname": "V室内设计工程制图/张晓",
+    "bookname": "室内设计工程制图/张晓",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083507",
-    "bookname": "V(BX)混凝土及砌体结构/李乃宏",
+    "bookname": "(BX)混凝土及砌体结构/李乃宏",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083508",
-    "bookname": "V(BX)室内装饰施工工艺与管理/蒋粤闽",
+    "bookname": "(BX)室内装饰施工工艺与管理/蒋粤闽",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083509",
-    "bookname": "V(BX)钢结构工程施工",
+    "bookname": "(BX)钢结构工程施工",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083510",
-    "bookname": "V(BX)产品设计制图与CAD/张强",
+    "bookname": "(BX)产品设计制图与CAD/张强",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083511",
-    "bookname": "V(BX)艺术概论/张海彬",
+    "bookname": "(BX)艺术概论/张海彬",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0083512",
-    "bookname": "V(BX)室内设计基础(第二版)/邓琛",
+    "bookname": "(BX)室内设计基础(第二版)/邓琛",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083513",
-    "bookname": "V(BX)立体构成设计/曹宏岗",
+    "bookname": "(BX)立体构成设计/曹宏岗",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083514",
-    "bookname": "V(BX)绘画",
+    "bookname": "(BX)绘画",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083515",
-    "bookname": "V(BX)ACCESS 2010数据库应用案例教程",
+    "bookname": "(BX)ACCESS 2010数据库应用案例教程",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083516",
-    "bookname": "V(BX)手工教程/朱明侠、郝秀丽",
+    "bookname": "(BX)手工教程/朱明侠、郝秀丽",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0083517",
-    "bookname": "V(BX)设计素描",
+    "bookname": "(BX)设计素描",
     "publishing": "兵器工业"
 },
 {
     "subscribeCode": "18CJ0083518",
-    "bookname": "V(BX)室内陈设设计/陈敏",
+    "bookname": "(BX)室内陈设设计/陈敏",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083519",
-    "bookname": "V(BX)幼儿园实用手工/蒙健",
+    "bookname": "(BX)幼儿园实用手工/蒙健",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083520",
-    "bookname": "V《数学》(含试卷)",
+    "bookname": "《数学》(含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083521",
-    "bookname": "V(BX)汽车底盘构造与维修(附实训)/张淇等",
+    "bookname": "(BX)汽车底盘构造与维修(附实训)/张淇等",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083522",
-    "bookname": "V(BX)计算机应用基础WIN7+OFFICE2010(上下册)(含基础练习与应用",
+    "bookname": "(BX)计算机应用基础WIN7+OFFICE2010(上下册)(含基础练习与应用",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083523",
-    "bookname": "V《信息》(含试卷)",
+    "bookname": "《信息》(含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083524",
-    "bookname": "V(BX)《中职高考(3+X)复习指导丛书(2016版)》财经(书含试卷)",
+    "bookname": "(BX)《中职高考(3+X)复习指导丛书(2016版)》财经(书含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083525",
-    "bookname": "V《英语》(含试卷)",
+    "bookname": "《英语》(含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083526",
-    "bookname": "V(BX)建筑CAD案例分析及习题集/卓海旋、崔荣荣、高立兵",
+    "bookname": "(BX)建筑CAD案例分析及习题集/卓海旋、崔荣荣、高立兵",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083527",
-    "bookname": "V(BX)建筑工程测量/刘霖、张成利、纪海英",
+    "bookname": "(BX)建筑工程测量/刘霖、张成利、纪海英",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083528",
-    "bookname": "V新编建筑材料试验与实训指导/郭清燕 詹凤程 徐伟玲",
+    "bookname": "新编建筑材料试验与实训指导/郭清燕 詹凤程 徐伟玲",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083529",
-    "bookname": "V(BX)新编建筑施工技术/侯虹霞",
+    "bookname": "(BX)新编建筑施工技术/侯虹霞",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083530",
-    "bookname": "V《语文》(含试卷)",
+    "bookname": "《语文》(含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083531",
-    "bookname": "V(BX)简笔画/樊小娟",
+    "bookname": "(BX)简笔画/樊小娟",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083532",
-    "bookname": "V(BX)舞蹈教程/曲梅",
+    "bookname": "(BX)舞蹈教程/曲梅",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083533",
-    "bookname": "V(BX)幼儿心理学/程素云、王贵平",
+    "bookname": "(BX)幼儿心理学/程素云、王贵平",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083534",
-    "bookname": "V(BX)就业指导与创业教育/高建伟 丁德昌",
+    "bookname": "(BX)就业指导与创业教育/高建伟 丁德昌",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083535",
-    "bookname": "V(BX)旅游概论/边皓锋",
+    "bookname": "(BX)旅游概论/边皓锋",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083536",
-    "bookname": "V(BX)旅游心理学/李长秋",
+    "bookname": "(BX)旅游心理学/李长秋",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083537",
-    "bookname": "V(BX)电子技能与实训/宗政勇",
+    "bookname": "(BX)电子技能与实训/宗政勇",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083538",
-    "bookname": "V(BX)家用电器技术基础与维修技术/袁昕",
+    "bookname": "(BX)家用电器技术基础与维修技术/袁昕",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083539",
-    "bookname": "V(BX)单片机原理及应用/尹溪",
+    "bookname": "(BX)单片机原理及应用/尹溪",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083540",
-    "bookname": "V(BX)液压与气压传动/肖寿仁",
+    "bookname": "(BX)液压与气压传动/肖寿仁",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083541",
-    "bookname": "V(BX)中国旅游地理/崔筱力",
+    "bookname": "(BX)中国旅游地理/崔筱力",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083542",
-    "bookname": "V(BX)计算机录入与排版/黄海燕",
+    "bookname": "(BX)计算机录入与排版/黄海燕",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083543",
-    "bookname": "V(BX)电工与电子技术/王利刚",
+    "bookname": "(BX)电工与电子技术/王利刚",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083544",
-    "bookname": "V(BX)计算机应用基础/李向阳",
+    "bookname": "(BX)计算机应用基础/李向阳",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083545",
-    "bookname": "V(BX)绘画/孙健",
+    "bookname": "(BX)绘画/孙健",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083546",
-    "bookname": "V(BX)简笔画教程/张晓涧",
+    "bookname": "(BX)简笔画教程/张晓涧",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083547",
-    "bookname": "V(BX)电工技能与实训/宗政勇",
+    "bookname": "(BX)电工技能与实训/宗政勇",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083548",
-    "bookname": "V(BX)大学生礼仪规范教程/邹翃燕",
+    "bookname": "(BX)大学生礼仪规范教程/邹翃燕",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083549",
-    "bookname": "V(BX)现代公关礼仪规范教程/凌秀梅 朱正国",
+    "bookname": "(BX)现代公关礼仪规范教程/凌秀梅 朱正国",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083550",
-    "bookname": "V(BX)汽车美容与装饰技术/主编：戴绍军",
+    "bookname": "(BX)汽车美容与装饰技术/主编：戴绍军",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083551",
-    "bookname": "V(BX)汽车概论无",
+    "bookname": "(BX)汽车概论无",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083552",
-    "bookname": "V(BX)传感器及其应用/胡孝昌",
+    "bookname": "(BX)传感器及其应用/胡孝昌",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0083553",
-    "bookname": "V(BX)幼儿文学/王丽红",
+    "bookname": "(BX)幼儿文学/王丽红",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083554",
-    "bookname": "V(BX)儿童文学/王玉芳",
+    "bookname": "(BX)儿童文学/王玉芳",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083555",
-    "bookname": "V(BX)建筑材料与检测/游普元",
+    "bookname": "(BX)建筑材料与检测/游普元",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083556",
-    "bookname": "V(BX)公差配合与技术测量/赵兰苓",
+    "bookname": "(BX)公差配合与技术测量/赵兰苓",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083557",
-    "bookname": "V(BX)钢琴弹奏与伴奏基础/王 瑶",
+    "bookname": "(BX)钢琴弹奏与伴奏基础/王 瑶",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083558",
-    "bookname": "V汽车电工电子技术/王爱国",
+    "bookname": "汽车电工电子技术/王爱国",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083559",
-    "bookname": "V(BX)建筑工程项目管理",
+    "bookname": "(BX)建筑工程项目管理",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083560",
-    "bookname": "V(BX)幼儿教育学/孙玉石",
+    "bookname": "(BX)幼儿教育学/孙玉石",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083561",
-    "bookname": "V(BX)纳税会计实务/宋剑茹",
+    "bookname": "(BX)纳税会计实务/宋剑茹",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083562",
-    "bookname": "V(BX)建筑装饰工程概预算/党斌",
+    "bookname": "(BX)建筑装饰工程概预算/党斌",
     "publishing": "哈工大"
 },
 {
     "subscribeCode": "18CJ0083563",
-    "bookname": "V(BX)学前儿童玩教具设计与制作/杨三军",
+    "bookname": "(BX)学前儿童玩教具设计与制作/杨三军",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083564",
-    "bookname": "V(BX)建筑力学/胡可/汤银忠",
+    "bookname": "(BX)建筑力学/胡可/汤银忠",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083565",
-    "bookname": "V美术/孙希武",
+    "bookname": "美术/孙希武",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083566",
-    "bookname": "V建筑工程制图与识图(含习题集)/游普元",
+    "bookname": "建筑工程制图与识图(含习题集)/游普元",
     "publishing": "哈工大"
 },
 {
     "subscribeCode": "18CJ0083567",
-    "bookname": "V(BX)汽车构造(上下)/兰国龙",
+    "bookname": "(BX)汽车构造(上下)/兰国龙",
     "publishing": "哈工大"
 },
 {
     "subscribeCode": "18CJ0083568",
-    "bookname": "V数学课课练(基础模块)下册(沪版)/丁百平",
+    "bookname": "数学课课练(基础模块)下册(沪版)/丁百平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083569",
-    "bookname": "V实用应用文写作(沪版)/胡卫国 汤吉舜",
+    "bookname": "实用应用文写作(沪版)/胡卫国 汤吉舜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083570",
-    "bookname": "V网络综合布线基础教程(沪版)/王春林",
+    "bookname": "网络综合布线基础教程(沪版)/王春林",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083571",
-    "bookname": "V四川省高职对口升学考试复习指导丛书-语文(沪版)",
+    "bookname": "四川省高职对口升学考试复习指导丛书-语文(沪版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083572",
-    "bookname": "V计算机常用工具软件(双色)/刘永芬",
+    "bookname": "计算机常用工具软件(双色)/刘永芬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083573",
-    "bookname": "V体育与健康(沪版)/郎松亭",
+    "bookname": "体育与健康(沪版)/郎松亭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083574",
-    "bookname": "V成本会计实务(沪版)/周国安",
+    "bookname": "成本会计实务(沪版)/周国安",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083575",
-    "bookname": "V人力资源管理/第4版",
+    "bookname": "人力资源管理/第4版",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083576",
-    "bookname": "V四川高职对口升学考试复习指导丛书2016版财会",
+    "bookname": "四川高职对口升学考试复习指导丛书2016版财会",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083577",
-    "bookname": "V机械制图(第四版)/钱可强",
+    "bookname": "机械制图(第四版)/钱可强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083578",
-    "bookname": "V电工与电子技术(沪版)",
+    "bookname": "电工与电子技术(沪版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083579",
-    "bookname": "V农林牧渔 高职对口升学考试复习指导丛书(沪版)/陈启怀",
+    "bookname": "农林牧渔 高职对口升学考试复习指导丛书(沪版)/陈启怀",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083580",
-    "bookname": "V应用文写作(医学类)/伍小平",
+    "bookname": "应用文写作(医学类)/伍小平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083581",
-    "bookname": "V会计综合实训(第二版)/王钧(沪版)",
+    "bookname": "会计综合实训(第二版)/王钧(沪版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083582",
-    "bookname": "V PREMIERE影视剪辑制作：案例教程/武虹",
+    "bookname": " PREMIERE影视剪辑制作：案例教程/武虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083583",
-    "bookname": "V二维动画制作教程之 FLASH/吴韬、刘浪",
+    "bookname": "二维动画制作教程之 FLASH/吴韬、刘浪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083584",
-    "bookname": "V PHOTOSHOP图像处理制作案例教程(附光盘)(全彩)(附学习卡/防伪",
+    "bookname": " PHOTOSHOP图像处理制作案例教程(附光盘)(全彩)(附学习卡/防伪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083585",
-    "bookname": "V电子制图PROTEL DXP2004/张炜等",
+    "bookname": "电子制图PROTEL DXP2004/张炜等",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083586",
-    "bookname": "V(BX)音乐/李祥文",
+    "bookname": "(BX)音乐/李祥文",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083587",
-    "bookname": "V(BX)舞蹈/李祥文(包销)",
+    "bookname": "(BX)舞蹈/李祥文(包销)",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083588",
-    "bookname": "V(BX)钢(风)琴(第一册)",
+    "bookname": "(BX)钢(风)琴(第一册)",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083589",
-    "bookname": "V(BX)汽车机械制图习题集/侯文君",
+    "bookname": "(BX)汽车机械制图习题集/侯文君",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083590",
-    "bookname": "V(BX)旅游心理学/倪宏志",
+    "bookname": "(BX)旅游心理学/倪宏志",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083591",
-    "bookname": "V(BX)职业生涯与规划/张董宏",
+    "bookname": "(BX)职业生涯与规划/张董宏",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0083592",
-    "bookname": "V(BX)简笔画/色楞格(包销)",
+    "bookname": "(BX)简笔画/色楞格(包销)",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083593",
-    "bookname": "V(BX)电焊工/董强",
+    "bookname": "(BX)电焊工/董强",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083594",
-    "bookname": "V(BX)把握成长/伍励涛 李凌阳 雷清",
+    "bookname": "(BX)把握成长/伍励涛 李凌阳 雷清",
     "publishing": "现代教育"
 },
 {
     "subscribeCode": "18CJ0083595",
-    "bookname": "V(BX)幼儿园管理/党劲",
+    "bookname": "(BX)幼儿园管理/党劲",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083596",
-    "bookname": "V(BX)舞蹈/李祥文",
+    "bookname": "(BX)舞蹈/李祥文",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083597",
-    "bookname": "V(BX)汽车机械制图习题集/王增荣",
+    "bookname": "(BX)汽车机械制图习题集/王增荣",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083598",
-    "bookname": "V全国高等职业院校招生考试－全真模拟试卷(英语)/林立红",
+    "bookname": "全国高等职业院校招生考试－全真模拟试卷(英语)/林立红",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083599",
-    "bookname": "V(BX)哲学与人生/李杰、向长征",
+    "bookname": "(BX)哲学与人生/李杰、向长征",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083600",
-    "bookname": "V(BX)普通话口语交际/张莹珺",
+    "bookname": "(BX)普通话口语交际/张莹珺",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0083601",
-    "bookname": "V(BX)职业生涯规划/陈光华",
+    "bookname": "(BX)职业生涯规划/陈光华",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083602",
-    "bookname": "V(BX)礼仪规范教程 /魏瑾、周鹏、王艳霞",
+    "bookname": "(BX)礼仪规范教程 /魏瑾、周鹏、王艳霞",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0083603",
-    "bookname": "V(BX)经济政治与社会/何秉海",
+    "bookname": "(BX)经济政治与社会/何秉海",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083604",
-    "bookname": "V(BX)幼儿教师礼仪基础教程/陈艳",
+    "bookname": "(BX)幼儿教师礼仪基础教程/陈艳",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083605",
-    "bookname": "V(BX)幼儿卫生保健/党劲",
+    "bookname": "(BX)幼儿卫生保健/党劲",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083606",
-    "bookname": "V(BX)汽车电路识图(新版)/石光成、李朝东",
+    "bookname": "(BX)汽车电路识图(新版)/石光成、李朝东",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083607",
-    "bookname": "V(BX)计算机组装与维护/彭丹、田茂兴",
+    "bookname": "(BX)计算机组装与维护/彭丹、田茂兴",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0083608",
-    "bookname": "V(BX)职业道德与法律/陈中山",
+    "bookname": "(BX)职业道德与法律/陈中山",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083609",
-    "bookname": "V(BX)家用电器技术基础与维修技术/王玉军、朱向东",
+    "bookname": "(BX)家用电器技术基础与维修技术/王玉军、朱向东",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083610",
-    "bookname": "V(BX)汽车钣金与喷漆",
+    "bookname": "(BX)汽车钣金与喷漆",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083611",
-    "bookname": "V(BX)电子商务基础/韦林华 刘五平",
+    "bookname": "(BX)电子商务基础/韦林华 刘五平",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083612",
-    "bookname": "V(BX)汽车发动机构造与维修/王胜旭",
+    "bookname": "(BX)汽车发动机构造与维修/王胜旭",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083613",
-    "bookname": "V(BX)体育与健康/何贵勇",
+    "bookname": "(BX)体育与健康/何贵勇",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083614",
-    "bookname": "V(BX)汽车文化/张承良 陈益奎",
+    "bookname": "(BX)汽车文化/张承良 陈益奎",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083615",
-    "bookname": "V计算机应用基础基础练习与应用实训(WIN7+OFFICE 2010)/谢剑 文",
+    "bookname": "计算机应用基础基础练习与应用实训(WIN7+OFFICE 2010)/谢剑 文",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0083616",
-    "bookname": "V体验成长(中职教主题班会指导书)肖育发",
+    "bookname": "体验成长(中职教主题班会指导书)肖育发",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083617",
-    "bookname": "V(BX)计算机动画设计FLASHCS4/高翼飞",
+    "bookname": "(BX)计算机动画设计FLASHCS4/高翼飞",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083618",
-    "bookname": "V(BX)计算机组装与维护/刘东",
+    "bookname": "(BX)计算机组装与维护/刘东",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083619",
-    "bookname": "V(BX)汽车材料/主编：汪涛",
+    "bookname": "(BX)汽车材料/主编：汪涛",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083620",
-    "bookname": "V商品知识/赵守珍",
+    "bookname": "商品知识/赵守珍",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083621",
-    "bookname": "V(BX)心理健康教育/黄科祥",
+    "bookname": "(BX)心理健康教育/黄科祥",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083622",
-    "bookname": "V(BX)安全教育知识读本/李永志",
+    "bookname": "(BX)安全教育知识读本/李永志",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083623",
-    "bookname": "V(BX)汽车机械制图/侯文君、聂立芳",
+    "bookname": "(BX)汽车机械制图/侯文君、聂立芳",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083624",
-    "bookname": "V(BX)学前儿童游戏教育",
+    "bookname": "(BX)学前儿童游戏教育",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083625",
-    "bookname": "V(BX)听话与说话/郑艾明",
+    "bookname": "(BX)听话与说话/郑艾明",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083626",
-    "bookname": "V(BX)幼师应用文写作与训练/王丽红",
+    "bookname": "(BX)幼师应用文写作与训练/王丽红",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083627",
-    "bookname": "V(BX)幼儿教育学/张孟军 贾蓓 苏连福",
+    "bookname": "(BX)幼儿教育学/张孟军 贾蓓 苏连福",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083628",
-    "bookname": "V(BX)网页设计与制作/王文华",
+    "bookname": "(BX)网页设计与制作/王文华",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083629",
-    "bookname": "V手工 第1册/朱巧玲 管梅香",
+    "bookname": "手工 第1册/朱巧玲 管梅香",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083630",
-    "bookname": "V(BX)汽车底盘构造与维修/李晓",
+    "bookname": "(BX)汽车底盘构造与维修/李晓",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0083631",
-    "bookname": "V(BX)电子商务实务/吴德富",
+    "bookname": "(BX)电子商务实务/吴德富",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083632",
-    "bookname": "V(BX)汽车4S企业管理制度与前台接待/陈建军 谢琳",
+    "bookname": "(BX)汽车4S企业管理制度与前台接待/陈建军 谢琳",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083633",
-    "bookname": "V(BX) FLASH CS4 基础应用/肖红力",
+    "bookname": "(BX) FLASH CS4 基础应用/肖红力",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083634",
-    "bookname": "V(BX)汽车电器设备构造与维修/赵俊山 高辉 武震宇",
+    "bookname": "(BX)汽车电器设备构造与维修/赵俊山 高辉 武震宇",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083635",
-    "bookname": "V(BX)电工技术基础与技能/朱广宇、蔡飞",
+    "bookname": "(BX)电工技术基础与技能/朱广宇、蔡飞",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083636",
-    "bookname": "V(BX)应用文写作基础/施云燕",
+    "bookname": "(BX)应用文写作基础/施云燕",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083637",
-    "bookname": "V(BX)汽车营销技术/冯妹娇",
+    "bookname": "(BX)汽车营销技术/冯妹娇",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083638",
-    "bookname": "V(BX)人山智海/王广斌.耿珺杰",
+    "bookname": "(BX)人山智海/王广斌.耿珺杰",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083639",
-    "bookname": "V手工第三册/朱巧玲",
+    "bookname": "手工第三册/朱巧玲",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083640",
-    "bookname": "V(BX)幼儿心理学/张孟军，贾蓓",
+    "bookname": "(BX)幼儿心理学/张孟军，贾蓓",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083641",
-    "bookname": "V(BX)汽车底盘构造与维修/赖慧豪 刘予鲁 汤桂海",
+    "bookname": "(BX)汽车底盘构造与维修/赖慧豪 刘予鲁 汤桂海",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083642",
-    "bookname": "V(BX)汽车保险与理赔/冯妹娇",
+    "bookname": "(BX)汽车保险与理赔/冯妹娇",
     "publishing": "北京交大"
 },
 {
     "subscribeCode": "18CJ0083643",
-    "bookname": "V(BX)汽车发动机构造与维修/史海红",
+    "bookname": "(BX)汽车发动机构造与维修/史海红",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083644",
-    "bookname": "V汽车发动机检测与维修工作夜/王朝娟",
+    "bookname": "汽车发动机检测与维修工作夜/王朝娟",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083645",
-    "bookname": "V(BX)计算机网络技术及应用/张宏彬",
+    "bookname": "(BX)计算机网络技术及应用/张宏彬",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083646",
-    "bookname": "V(BX)中职生人文素养/郭锦贤",
+    "bookname": "(BX)中职生人文素养/郭锦贤",
     "publishing": "河北大学"
 },
 {
     "subscribeCode": "18CJ0083647",
-    "bookname": "V(BX)应用文写作/叶剑忠",
+    "bookname": "(BX)应用文写作/叶剑忠",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0083648",
-    "bookname": "V(BX)音乐欣赏/张金梅",
+    "bookname": "(BX)音乐欣赏/张金梅",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0083649",
-    "bookname": "V(BX)幼儿心理学",
+    "bookname": "(BX)幼儿心理学",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083650",
-    "bookname": "V汽车材料/朱春龙",
+    "bookname": "汽车材料/朱春龙",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083651",
-    "bookname": "V汽车钣金修复技术/黄靖淋",
+    "bookname": "汽车钣金修复技术/黄靖淋",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083652",
-    "bookname": "V(BX)计算机应用基础/何忠. 陈炼",
+    "bookname": "(BX)计算机应用基础/何忠. 陈炼",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0083653",
-    "bookname": "V(BX)汽车电工电子技术基础/陈文林",
+    "bookname": "(BX)汽车电工电子技术基础/陈文林",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083654",
-    "bookname": "V(BX)计算机应用基础/叶亚平 伍励涛",
+    "bookname": "(BX)计算机应用基础/叶亚平 伍励涛",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083655",
-    "bookname": "V(BX)金属材料与热处理/李郁兰",
+    "bookname": "(BX)金属材料与热处理/李郁兰",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0083656",
-    "bookname": "V(BX)汽车电气设备构造与检修项目一体化教程/刘子荣、龙清宇",
+    "bookname": "(BX)汽车电气设备构造与检修项目一体化教程/刘子荣、龙清宇",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083657",
-    "bookname": "V(BX) AUTOCAD2009(中文版)项目实训教程/张宏彬",
+    "bookname": "(BX) AUTOCAD2009(中文版)项目实训教程/张宏彬",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083658",
-    "bookname": "V(BX)体育与健康/艾志毅",
+    "bookname": "(BX)体育与健康/艾志毅",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083659",
-    "bookname": "V(BX)汽车文化/石启军",
+    "bookname": "(BX)汽车文化/石启军",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083660",
-    "bookname": "V幼儿园教育活动设计与实践/唐清德",
+    "bookname": "幼儿园教育活动设计与实践/唐清德",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083661",
-    "bookname": "V(BX)计算机应用基础(WIN72007+OFFICE2010)《项目式教材》/谢剑.",
+    "bookname": "(BX)计算机应用基础(WIN72007+OFFICE2010)《项目式教材》/谢剑.",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083662",
-    "bookname": "V(BX)高等职业院校招生考试复习教材-语文/余江",
+    "bookname": "(BX)高等职业院校招生考试复习教材-语文/余江",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083663",
-    "bookname": "V(BX)高等职业院校招生考试复习教材-数学/周朝阳.刘意",
+    "bookname": "(BX)高等职业院校招生考试复习教材-数学/周朝阳.刘意",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083664",
-    "bookname": "V(BX)汽车电气系统检修(双色版)(含教学课件)/李全永",
+    "bookname": "(BX)汽车电气系统检修(双色版)(含教学课件)/李全永",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083665",
-    "bookname": "V汽车美容与装饰/宋孟辉",
+    "bookname": "汽车美容与装饰/宋孟辉",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083666",
-    "bookname": "V汽车电子控制技术/黄如君",
+    "bookname": "汽车电子控制技术/黄如君",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083667",
-    "bookname": "V(BX) PHOTOSHOP CS4(中文版)图形图像处理技术/张宏彬",
+    "bookname": "(BX) PHOTOSHOP CS4(中文版)图形图像处理技术/张宏彬",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083668",
-    "bookname": "V(BX)高等职业院校招生考试复习教材-英语/郭泳兰",
+    "bookname": "(BX)高等职业院校招生考试复习教材-英语/郭泳兰",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083669",
-    "bookname": "V(BX)计算机应用基础(WIN7+OFFICE 2010)/谢剑 文勤辉",
+    "bookname": "(BX)计算机应用基础(WIN7+OFFICE 2010)/谢剑 文勤辉",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0083670",
-    "bookname": "V(BX)电控发动机构造与维修/周敬东、杨方金",
+    "bookname": "(BX)电控发动机构造与维修/周敬东、杨方金",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083671",
-    "bookname": "V(BX)汽车底盘维修实训/向驰",
+    "bookname": "(BX)汽车底盘维修实训/向驰",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083672",
-    "bookname": "V(BX)汽车保养与维护/李进强、鞠建荣",
+    "bookname": "(BX)汽车保养与维护/李进强、鞠建荣",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083673",
-    "bookname": "V汽车机械基础/孔祥奴",
+    "bookname": "汽车机械基础/孔祥奴",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0083674",
-    "bookname": "V(BX)汽车机械制图(双色版)(含教学课件)/王增荣",
+    "bookname": "(BX)汽车机械制图(双色版)(含教学课件)/王增荣",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083675",
-    "bookname": "V汽车涂装技术",
+    "bookname": "汽车涂装技术",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083676",
-    "bookname": "V(BX)金属材料与热处理",
+    "bookname": "(BX)金属材料与热处理",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083677",
-    "bookname": "V汽车故障诊断技术/朱士兵",
+    "bookname": "汽车故障诊断技术/朱士兵",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083678",
-    "bookname": "V(BX)汽车钣金(双色版)/王俊红 张志强",
+    "bookname": "(BX)汽车钣金(双色版)/王俊红 张志强",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0083679",
-    "bookname": "V二手车鉴定评估与贸易/李书江",
+    "bookname": "二手车鉴定评估与贸易/李书江",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083680",
-    "bookname": "V汽车底盘构造与维修/石功名",
+    "bookname": "汽车底盘构造与维修/石功名",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083681",
-    "bookname": "V(BX)汽车电气设备构造与维修/熊文",
+    "bookname": "(BX)汽车电气设备构造与维修/熊文",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083682",
-    "bookname": "V(BX)汽车底盘/李进强",
+    "bookname": "(BX)汽车底盘/李进强",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083683",
-    "bookname": "V(BX)汽车发动机构造与维修/刘莆勇",
+    "bookname": "(BX)汽车发动机构造与维修/刘莆勇",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083684",
-    "bookname": "V(BX)机械制图与AUTO CAD/樊文光",
+    "bookname": "(BX)机械制图与AUTO CAD/樊文光",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083685",
-    "bookname": "V幼儿文学",
+    "bookname": "幼儿文学",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083686",
-    "bookname": "V汽车整车维护与检修/陈浮",
+    "bookname": "汽车整车维护与检修/陈浮",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083687",
-    "bookname": "V(BX)机械制图(含习题)",
+    "bookname": "(BX)机械制图(含习题)",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083688",
-    "bookname": "V(BX)幼儿园环境创设/胡悦",
+    "bookname": "(BX)幼儿园环境创设/胡悦",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083689",
-    "bookname": "V绘画基础/胡悦",
+    "bookname": "绘画基础/胡悦",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083690",
-    "bookname": "V(BX)汽车电控发动机检修/赵国亮 庞德旭",
+    "bookname": "(BX)汽车电控发动机检修/赵国亮 庞德旭",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083691",
-    "bookname": "V汽车发动机构造与维修一体化教程/向志伟",
+    "bookname": "汽车发动机构造与维修一体化教程/向志伟",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083692",
-    "bookname": "V(BX)机械常识(上下册)",
+    "bookname": "(BX)机械常识(上下册)",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083693",
-    "bookname": "V(BX)时事职教.教学参考(上学期)",
+    "bookname": "(BX)时事职教.教学参考(上学期)",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083694",
-    "bookname": "V(BX)法治中国/杂志社编写",
+    "bookname": "(BX)法治中国/杂志社编写",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083695",
-    "bookname": "V(BX)历史照亮明天",
+    "bookname": "(BX)历史照亮明天",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083696",
-    "bookname": "V(BX)社会主义核心价值观/杂志社编写",
+    "bookname": "(BX)社会主义核心价值观/杂志社编写",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083697",
-    "bookname": "V(BX)中华传统美德教育读本",
+    "bookname": "(BX)中华传统美德教育读本",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083698",
-    "bookname": "V(BX)时事职教版(下学期)",
+    "bookname": "(BX)时事职教版(下学期)",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083699",
-    "bookname": "V(BX)时事报告职教版(上)/杂志社编写",
+    "bookname": "(BX)时事报告职教版(上)/杂志社编写",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083700",
-    "bookname": "V时事(下)",
+    "bookname": "时事(下)",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083701",
-    "bookname": "V全国英语等级考试口试必备(第一级)/郭华平",
+    "bookname": "全国英语等级考试口试必备(第一级)/郭华平",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083702",
-    "bookname": "V(BX)舞蹈/王丽",
+    "bookname": "(BX)舞蹈/王丽",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083703",
-    "bookname": "V(BX)幼儿玩教具制作/宿高峰",
+    "bookname": "(BX)幼儿玩教具制作/宿高峰",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083704",
-    "bookname": "V(BX)学前儿童卫生与保健/高玉霞 吕姝",
+    "bookname": "(BX)学前儿童卫生与保健/高玉霞 吕姝",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083705",
-    "bookname": "V(BX)声乐/彭鸿",
+    "bookname": "(BX)声乐/彭鸿",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083706",
-    "bookname": "V(BX)舞蹈与幼儿舞蹈创编(国)/李睛睛",
+    "bookname": "(BX)舞蹈与幼儿舞蹈创编(国)/李睛睛",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083707",
-    "bookname": "V(BX)音乐基础/张帆",
+    "bookname": "(BX)音乐基础/张帆",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083708",
-    "bookname": "V(BX)学前教育学/元树林",
+    "bookname": "(BX)学前教育学/元树林",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083709",
-    "bookname": "V(BX)幼儿玩教具制作/姜慧娇",
+    "bookname": "(BX)幼儿玩教具制作/姜慧娇",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083710",
-    "bookname": "V食品营养与安全/谢颖 王广胜",
+    "bookname": "食品营养与安全/谢颖 王广胜",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083711",
-    "bookname": "V(BX)学前儿童发展心理/于大江 谭春芳",
+    "bookname": "(BX)学前儿童发展心理/于大江 谭春芳",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083712",
-    "bookname": "V(BX)幼儿园保育/王厚菊",
+    "bookname": "(BX)幼儿园保育/王厚菊",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083713",
-    "bookname": "V(BX)汽车文化无",
+    "bookname": "(BX)汽车文化无",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083714",
-    "bookname": "V(BX)《汽车文化》/王小娟、王永仁",
+    "bookname": "(BX)《汽车文化》/王小娟、王永仁",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083715",
-    "bookname": "V(BX)幼儿园教育活动设计与指导/于树林 于大江",
+    "bookname": "(BX)幼儿园教育活动设计与指导/于树林 于大江",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083716",
-    "bookname": "V(BX)财务管理/焦安华",
+    "bookname": "(BX)财务管理/焦安华",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083717",
-    "bookname": "V(BX)计算机组装与维护/曾鸣、赵嘉",
+    "bookname": "(BX)计算机组装与维护/曾鸣、赵嘉",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083718",
-    "bookname": "V(BX)手工/姜慧娇",
+    "bookname": "(BX)手工/姜慧娇",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083719",
-    "bookname": "V民航英语口语/杨长进",
+    "bookname": "民航英语口语/杨长进",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083720",
-    "bookname": "V技术工人操作技能试题精选/贾恒旦",
+    "bookname": "技术工人操作技能试题精选/贾恒旦",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083721",
-    "bookname": "V数字电视技术/杨建华",
+    "bookname": "数字电视技术/杨建华",
     "publishing": "航空航天"
 },
 {
     "subscribeCode": "18CJ0083722",
-    "bookname": "V化学(通用类)/常春英",
+    "bookname": "化学(通用类)/常春英",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083723",
-    "bookname": "V计算机网络应用基础",
+    "bookname": "计算机网络应用基础",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083724",
-    "bookname": "V POWERPOINT2010演示文稿制作案例教程/郭燕",
+    "bookname": " POWERPOINT2010演示文稿制作案例教程/郭燕",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083725",
-    "bookname": "V中文版CORELDRAW平面设计实训教程(X4版)",
+    "bookname": "中文版CORELDRAW平面设计实训教程(X4版)",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083726",
-    "bookname": "V计算机组装与维护/刘洋、曲大海、文佳",
+    "bookname": "计算机组装与维护/刘洋、曲大海、文佳",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083727",
-    "bookname": "V旅游管理学/张秋芬",
+    "bookname": "旅游管理学/张秋芬",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083728",
-    "bookname": "V美术 (全彩)/叶小军",
+    "bookname": "美术 (全彩)/叶小军",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083729",
-    "bookname": "V大学计算机应用基础项目式教程/唐智英",
+    "bookname": "大学计算机应用基础项目式教程/唐智英",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083730",
-    "bookname": "V中文版PHOTOSHOP CS5平面设计高级案例教程/孙铁英",
+    "bookname": "中文版PHOTOSHOP CS5平面设计高级案例教程/孙铁英",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083731",
-    "bookname": "V机械基础/贾宗太",
+    "bookname": "机械基础/贾宗太",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083732",
-    "bookname": "V中文版CORELDRAW X6平面设计 教程(全彩)(IDVD)/刘爱华",
+    "bookname": "中文版CORELDRAW X6平面设计 教程(全彩)(IDVD)/刘爱华",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083733",
-    "bookname": "V立体构成/陈晓梦、李真",
+    "bookname": "立体构成/陈晓梦、李真",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083734",
-    "bookname": "V ASP NET 3.5动态网站开发实例与操作",
+    "bookname": " ASP NET 3.5动态网站开发实例与操作",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0083735",
-    "bookname": "V(BX)现代交换技术/化雪荟",
+    "bookname": "(BX)现代交换技术/化雪荟",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0083736",
-    "bookname": "V航空服务心理与实务/魏全斌",
+    "bookname": "航空服务心理与实务/魏全斌",
     "publishing": "四川教育"
 },
 {
     "subscribeCode": "18CJ0083737",
-    "bookname": "V空乘服务礼仪/魏全斌",
+    "bookname": "空乘服务礼仪/魏全斌",
     "publishing": "四川教育"
 },
 {
     "subscribeCode": "18CJ0083738",
-    "bookname": "V病原生物与免疫学基础(第二版)/路转娥等",
+    "bookname": "病原生物与免疫学基础(第二版)/路转娥等",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083739",
-    "bookname": "V机械基础 /黄国雄",
+    "bookname": "机械基础 /黄国雄",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083740",
-    "bookname": "V网站建设与管理/教育部中等职业教育计算机示范专业规划教材 /马",
+    "bookname": "网站建设与管理/教育部中等职业教育计算机示范专业规划教材 /马",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083741",
-    "bookname": "V计算机基础(第2版)(赠助教课件、电子课件、)/王丽华、何世勇",
+    "bookname": "计算机基础(第2版)(赠助教课件、电子课件、)/王丽华、何世勇",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083742",
-    "bookname": "V机械工学(第四版)/中等职业教育规划教材(丁树模)",
+    "bookname": "机械工学(第四版)/中等职业教育规划教材(丁树模)",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083743",
-    "bookname": "V美容解剖学与组织学(第2版/高职美容)",
+    "bookname": "美容解剖学与组织学(第2版/高职美容)",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0083744",
-    "bookname": "V医学生物学/康晓慧",
+    "bookname": "医学生物学/康晓慧",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0083745",
-    "bookname": "V中文版PHOTOSHOP CS6图像处理实用教程/李立新",
+    "bookname": "中文版PHOTOSHOP CS6图像处理实用教程/李立新",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083746",
-    "bookname": "V常用工具软件/宋建辉 王廷康",
+    "bookname": "常用工具软件/宋建辉 王廷康",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083747",
-    "bookname": "V司马彦字帖:3500常用字钢笔楷书(描红)/司马彦",
+    "bookname": "司马彦字帖:3500常用字钢笔楷书(描红)/司马彦",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083748",
-    "bookname": "V电子产品结构工艺",
+    "bookname": "电子产品结构工艺",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083749",
-    "bookname": "V汽车车身修复技术/姜勇",
+    "bookname": "汽车车身修复技术/姜勇",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083750",
-    "bookname": "V计算机网络基础(四版)/尹晓勇",
+    "bookname": "计算机网络基础(四版)/尹晓勇",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083751",
-    "bookname": "V数据库应用基础-ACCESS2007/赵增敏",
+    "bookname": "数据库应用基础-ACCESS2007/赵增敏",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083752",
-    "bookname": "V素描入门/刘金成",
+    "bookname": "素描入门/刘金成",
     "publishing": "金盾"
 },
 {
     "subscribeCode": "18CJ0083753",
-    "bookname": "V电冰箱与空调器原理与维修/花严红",
+    "bookname": "电冰箱与空调器原理与维修/花严红",
     "publishing": "西北工大"
 },
 {
     "subscribeCode": "18CJ0083754",
-    "bookname": "V高电压技术/刘吉来",
+    "bookname": "高电压技术/刘吉来",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0083755",
-    "bookname": "V工程测量/杨中利 汪仁银",
+    "bookname": "工程测量/杨中利 汪仁银",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0083756",
-    "bookname": "V环境影响评价(修订版)/刘晓冰",
+    "bookname": "环境影响评价(修订版)/刘晓冰",
     "publishing": "环境科学"
 },
 {
     "subscribeCode": "18CJ0083757",
-    "bookname": "V水质监测与评价第二版/张尧旺",
+    "bookname": "水质监测与评价第二版/张尧旺",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0083758",
-    "bookname": "V水资源评价与管理/朱岐武",
+    "bookname": "水资源评价与管理/朱岐武",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0083759",
-    "bookname": "V办公软件应用WINDOWS平台试题汇编",
+    "bookname": "办公软件应用WINDOWS平台试题汇编",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083760",
-    "bookname": "V法学概论/夏锦文",
+    "bookname": "法学概论/夏锦文",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0083761",
-    "bookname": "V汽车涂装修复实训教程/吴兴敏 巴福兴",
+    "bookname": "汽车涂装修复实训教程/吴兴敏 巴福兴",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0083762",
-    "bookname": "V计算机网络技术基础教程与实训/桂海进",
+    "bookname": "计算机网络技术基础教程与实训/桂海进",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0083763",
-    "bookname": "V焊接检测习题册(09版)/喻新民",
+    "bookname": "焊接检测习题册(09版)/喻新民",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083764",
-    "bookname": "V汽车发动机构造与维修习题册",
+    "bookname": "汽车发动机构造与维修习题册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083765",
-    "bookname": "V电力拖动控制线路与技能训练(第四版)习题册/李敬梅",
+    "bookname": "电力拖动控制线路与技能训练(第四版)习题册/李敬梅",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083766",
-    "bookname": "V国家职业技能鉴定操作技能强化训练 焊工(中级学生取证专用)",
+    "bookname": "国家职业技能鉴定操作技能强化训练 焊工(中级学生取证专用)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083767",
-    "bookname": "V焊接检测(09版)/喻新民",
+    "bookname": "焊接检测(09版)/喻新民",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083768",
-    "bookname": "V计算机制图—AUTOCAD(机械类)",
+    "bookname": "计算机制图—AUTOCAD(机械类)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083769",
-    "bookname": "V汽车底盘拆装与维修实训/刘峰",
+    "bookname": "汽车底盘拆装与维修实训/刘峰",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083770",
-    "bookname": "V微型计算机基础与应用实习指导(第二版)黄培周",
+    "bookname": "微型计算机基础与应用实习指导(第二版)黄培周",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083771",
-    "bookname": "V微型计算机基础与应用(第四版)/王璐璐",
+    "bookname": "微型计算机基础与应用(第四版)/王璐璐",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083772",
-    "bookname": "V中文版AUTOCAD2008基础与实训/王晓璐",
+    "bookname": "中文版AUTOCAD2008基础与实训/王晓璐",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083773",
-    "bookname": "V维修电工(高级)/劳动和社会保障部教材室",
+    "bookname": "维修电工(高级)/劳动和社会保障部教材室",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083774",
-    "bookname": "V学前教育学/梁志?QT",
+    "bookname": "学前教育学/梁志?QT",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0083775",
-    "bookname": "V汽车故障诊断方法与维修技术/李春明、刘艳莉、张军",
+    "bookname": "汽车故障诊断方法与维修技术/李春明、刘艳莉、张军",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0083776",
-    "bookname": "V视频剪辑(ADOBE PREMIERE PRO CS4~CS6简体中文汉化版/张云埰、",
+    "bookname": "视频剪辑(ADOBE PREMIERE PRO CS4~CS6简体中文汉化版/张云埰、",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0083777",
-    "bookname": "V动画视听语言/郝巍东",
+    "bookname": "动画视听语言/郝巍东",
     "publishing": "湖南师大"
 },
 {
     "subscribeCode": "18CJ0083778",
-    "bookname": "V色彩(一年级)",
+    "bookname": "色彩(一年级)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083779",
-    "bookname": "V色彩",
+    "bookname": "色彩",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083780",
-    "bookname": "V中等职业学校英语教学大纲/教育部",
+    "bookname": "中等职业学校英语教学大纲/教育部",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083781",
-    "bookname": "V中等职业学校德育课课程教学大纲汇编/教育部",
+    "bookname": "中等职业学校德育课课程教学大纲汇编/教育部",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083782",
-    "bookname": "V职业情感教育案例精选/张新启",
+    "bookname": "职业情感教育案例精选/张新启",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083783",
-    "bookname": "V市场营销能力综合训练/李军昭",
+    "bookname": "市场营销能力综合训练/李军昭",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083784",
-    "bookname": "V幼儿教师语言培训-幼儿文艺作品诵读及表演",
+    "bookname": "幼儿教师语言培训-幼儿文艺作品诵读及表演",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083785",
-    "bookname": "V推销实务(附光盘)/崔利群 苏巧娜",
+    "bookname": "推销实务(附光盘)/崔利群 苏巧娜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083786",
-    "bookname": "V牛羊病防治(第二版)(附学习卡/防伪标)/孙颖士",
+    "bookname": "牛羊病防治(第二版)(附学习卡/防伪标)/孙颖士",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083787",
-    "bookname": "V中等职业学校德育课课程改革方案解读/教育部",
+    "bookname": "中等职业学校德育课课程改革方案解读/教育部",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083788",
-    "bookname": "V车工项目训练教程(中职技能大赛教学用书)/朱荣峰",
+    "bookname": "车工项目训练教程(中职技能大赛教学用书)/朱荣峰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083789",
-    "bookname": "V会展概论(第二版)/苏文才",
+    "bookname": "会展概论(第二版)/苏文才",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083790",
-    "bookname": "V人物速写基础/陈志强",
+    "bookname": "人物速写基础/陈志强",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083791",
-    "bookname": "V汽车维修机具与设备/张世英",
+    "bookname": "汽车维修机具与设备/张世英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083792",
-    "bookname": "V ACCESS2010数据库应用基础(第2版)/张巍",
+    "bookname": " ACCESS2010数据库应用基础(第2版)/张巍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083793",
-    "bookname": "V通俗歌曲演唱技巧(配盘)/李艳梅",
+    "bookname": "通俗歌曲演唱技巧(配盘)/李艳梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083794",
-    "bookname": "V让青春做主—中等职业学校德育主题活动读本(修订版)/李洪兵、李",
+    "bookname": "让青春做主—中等职业学校德育主题活动读本(修订版)/李洪兵、李",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083795",
-    "bookname": "V儿科护理学(第二版) /周莉莉",
+    "bookname": "儿科护理学(第二版) /周莉莉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083796",
-    "bookname": "V网页设计与制作(第二版)MACROMEDIA DREAMWEAVER8/艺博",
+    "bookname": "网页设计与制作(第二版)MACROMEDIA DREAMWEAVER8/艺博",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083797",
-    "bookname": "V调酒技术(配盘)/刘雨沧／国规配套",
+    "bookname": "调酒技术(配盘)/刘雨沧／国规配套",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083798",
-    "bookname": "V初中数学知识补习课本/丘维声",
+    "bookname": "初中数学知识补习课本/丘维声",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083799",
-    "bookname": "V服装制作实习/张明德",
+    "bookname": "服装制作实习/张明德",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083800",
-    "bookname": "V舞蹈(第二版)董立言 刘振远",
+    "bookname": "舞蹈(第二版)董立言 刘振远",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083801",
-    "bookname": "V人体解剖学基础(第2版)/王怀生",
+    "bookname": "人体解剖学基础(第2版)/王怀生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083802",
-    "bookname": "V(BX)车工工艺与技能训练/寿祖平 岳连水",
+    "bookname": "(BX)车工工艺与技能训练/寿祖平 岳连水",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083803",
-    "bookname": "V(BX)汽车驾驶实训教程/李蕾.沈仕国.袁昌坤",
+    "bookname": "(BX)汽车驾驶实训教程/李蕾.沈仕国.袁昌坤",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083804",
-    "bookname": "V(BX) EXCEL在财务管理中的应用/杨红心",
+    "bookname": "(BX) EXCEL在财务管理中的应用/杨红心",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083805",
-    "bookname": "V(BX)妇产科护理学(双色版)/许红",
+    "bookname": "(BX)妇产科护理学(双色版)/许红",
     "publishing": "吉林科技"
 },
 {
     "subscribeCode": "18CJ0083806",
-    "bookname": "V(BX)计算机网络技术教程/刘振堃 张青松",
+    "bookname": "(BX)计算机网络技术教程/刘振堃 张青松",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083807",
-    "bookname": "V(BX)模拟导游实训教程/张超",
+    "bookname": "(BX)模拟导游实训教程/张超",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083808",
-    "bookname": "V(BX)职业道德与法律/镂铭良",
+    "bookname": "(BX)职业道德与法律/镂铭良",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083809",
-    "bookname": "V(BX)就业指导与创业教育/赵博琼 李海军",
+    "bookname": "(BX)就业指导与创业教育/赵博琼 李海军",
     "publishing": "西北工大"
 },
 {
     "subscribeCode": "18CJ0083810",
-    "bookname": "V现代教育技术(第4版)",
+    "bookname": "现代教育技术(第4版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083811",
-    "bookname": "V旅游(含试卷)",
+    "bookname": "旅游(含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083812",
-    "bookname": "V建筑(含试卷)",
+    "bookname": "建筑(含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083813",
-    "bookname": "V农学(含试卷)",
+    "bookname": "农学(含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083814",
-    "bookname": "V电子(含试卷)",
+    "bookname": "电子(含试卷)",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083815",
-    "bookname": "V中等职业学校毕业生对口升学考试复习用书《对口升学最后冲刺模",
+    "bookname": "中等职业学校毕业生对口升学考试复习用书《对口升学最后冲刺模",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083816",
-    "bookname": "V中等职业学校毕业生对口升学考试复习用书《对口升学同步综合检",
+    "bookname": "中等职业学校毕业生对口升学考试复习用书《对口升学同步综合检",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083817",
-    "bookname": "V中等职业学校毕业生对口升学总复习 数学",
+    "bookname": "中等职业学校毕业生对口升学总复习 数学",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083818",
-    "bookname": "V办公软件应用(WINDOWS平台)WINDOWS 7、OFFICE 2010试题汇编（高",
+    "bookname": "办公软件应用(WINDOWS平台)WINDOWS 7、OFFICE 2010试题汇编（高",
     "publishing": "北京希望电子"
 },
 {
     "subscribeCode": "18CJ0083819",
-    "bookname": "V办公软件应用(WINDOWS平台)WINDOWS 7、OFFICE 2010试题解答(操",
+    "bookname": "办公软件应用(WINDOWS平台)WINDOWS 7、OFFICE 2010试题解答(操",
     "publishing": "北京希望电子"
 },
 {
     "subscribeCode": "18CJ0083820",
-    "bookname": "V办公软件应用(WINDOWS平台)WINDOWS 7、OFFICE 2010职业技能培训",
+    "bookname": "办公软件应用(WINDOWS平台)WINDOWS 7、OFFICE 2010职业技能培训",
     "publishing": "北京希望电子"
 },
 {
     "subscribeCode": "18CJ0083821",
-    "bookname": "V中等职业学校毕业生对口升学考试复习《对口升学语文同步综合检",
+    "bookname": "中等职业学校毕业生对口升学考试复习《对口升学语文同步综合检",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083822",
-    "bookname": "V中等职业学校毕业生对口升学考试复习《对口升学语文最后冲刺模",
+    "bookname": "中等职业学校毕业生对口升学考试复习《对口升学语文最后冲刺模",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083823",
-    "bookname": "V中等职业学校毕业生对口升学考试复习《对口升学语文总复习》",
+    "bookname": "中等职业学校毕业生对口升学考试复习《对口升学语文总复习》",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0083824",
-    "bookname": "V兽药应用技术/郭红斌 王安忠",
+    "bookname": "兽药应用技术/郭红斌 王安忠",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0083825",
-    "bookname": "V(BX)传感器原理与应用/何小伟 刘明",
+    "bookname": "(BX)传感器原理与应用/何小伟 刘明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083826",
-    "bookname": "V(BX)禽的生产与经营/马建华",
+    "bookname": "(BX)禽的生产与经营/马建华",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083827",
-    "bookname": "V(BX)猪的生产与经营/杨志成",
+    "bookname": "(BX)猪的生产与经营/杨志成",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083828",
-    "bookname": "V(BX)特种动物养殖技术/随善明 李瑞景",
+    "bookname": "(BX)特种动物养殖技术/随善明 李瑞景",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083829",
-    "bookname": "V饲料兽药与畜禽产品营销",
+    "bookname": "饲料兽药与畜禽产品营销",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0083830",
-    "bookname": "V池塘养鱼/毛洪顺",
+    "bookname": "池塘养鱼/毛洪顺",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0083831",
-    "bookname": "V宠物疾病诊断与防治/李志",
+    "bookname": "宠物疾病诊断与防治/李志",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0083832",
-    "bookname": "V电冰箱和空调器的组装与调试/缪兴锋",
+    "bookname": "电冰箱和空调器的组装与调试/缪兴锋",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0083833",
-    "bookname": "V 2017版高职对口升学考试复习指导丛书(语文)",
+    "bookname": " 2017版高职对口升学考试复习指导丛书(语文)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083834",
-    "bookname": "V英语(基础模块)第三册学生用书(修订版)录音带",
+    "bookname": "英语(基础模块)第三册学生用书(修订版)录音带",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0083835",
-    "bookname": "V四川省高职对口升学考试复习指导丛书-信息(2018版)",
+    "bookname": "四川省高职对口升学考试复习指导丛书-信息(2018版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083836",
-    "bookname": "V语文学习指导与能力训练(拓展模块)",
+    "bookname": "语文学习指导与能力训练(拓展模块)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083837",
-    "bookname": "V四川省中职对口高考(含单招)复习检测 数学",
+    "bookname": "四川省中职对口高考(含单招)复习检测 数学",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083838",
-    "bookname": "V四川省中职对口高考(含单招)复习检测 语文",
+    "bookname": "四川省中职对口高考(含单招)复习检测 语文",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083839",
-    "bookname": "V四川省中职对口高考(含单招)复习检测 英语",
+    "bookname": "四川省中职对口高考(含单招)复习检测 英语",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083840",
-    "bookname": "V DREAMWEAVER 网页制作(第3版)/王树平",
+    "bookname": " DREAMWEAVER 网页制作(第3版)/王树平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083841",
-    "bookname": "V大学生心理健康教育/吴本荣",
+    "bookname": "大学生心理健康教育/吴本荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083842",
-    "bookname": "V大学语文-(第三版) /孙昕光",
+    "bookname": "大学语文-(第三版) /孙昕光",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083843",
-    "bookname": "V语文练习册(基础版)第2册(修订版)/苏立康",
+    "bookname": "语文练习册(基础版)第2册(修订版)/苏立康",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083844",
-    "bookname": "V语文(基础模块)(下册)(修订版)(单色)( 附学习卡/防伪标)/倪文锦",
+    "bookname": "语文(基础模块)(下册)(修订版)(单色)( 附学习卡/防伪标)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083845",
-    "bookname": "V英语练习册2(基础模块)(第2版)/编写组",
+    "bookname": "英语练习册2(基础模块)(第2版)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083846",
-    "bookname": "V淘宝大赢家网上开店完全自学手册(第二版)(1CD)/前沿文化 编著",
+    "bookname": "淘宝大赢家网上开店完全自学手册(第二版)(1CD)/前沿文化 编著",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083847",
-    "bookname": "V病原生物与免疫学基础/饶洪洋",
+    "bookname": "病原生物与免疫学基础/饶洪洋",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083848",
-    "bookname": "V康复治疗技术/齐素萍",
+    "bookname": "康复治疗技术/齐素萍",
     "publishing": "中医药"
 },
 {
     "subscribeCode": "18CJ0083849",
-    "bookname": "V内科护理学实训与学习指导/冯丽华",
+    "bookname": "内科护理学实训与学习指导/冯丽华",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0083850",
-    "bookname": "V外科护理学/熊云新",
+    "bookname": "外科护理学/熊云新",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0083851",
-    "bookname": "V传染病护理学(第3版)/吴光煜",
+    "bookname": "传染病护理学(第3版)/吴光煜",
     "publishing": "北大医学"
 },
 {
     "subscribeCode": "18CJ0083852",
-    "bookname": "V电商运营实训手册/淘宝大学",
+    "bookname": "电商运营实训手册/淘宝大学",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083853",
-    "bookname": "V会计报表分析/杜晓光",
+    "bookname": "会计报表分析/杜晓光",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083854",
-    "bookname": "V毛泽东思想和中国特色社会主义理论体系概论/本书编写组",
+    "bookname": "毛泽东思想和中国特色社会主义理论体系概论/本书编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083855",
-    "bookname": "V小学数学教材教法/杨庆余",
+    "bookname": "小学数学教材教法/杨庆余",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083856",
-    "bookname": "V新技能英语(高级教程)学生用书2/张连仲",
+    "bookname": "新技能英语(高级教程)学生用书2/张连仲",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0083857",
-    "bookname": "V(BX)礼仪规范教程(赠教学资料包)",
+    "bookname": "(BX)礼仪规范教程(赠教学资料包)",
     "publishing": "西北工大"
 },
 {
     "subscribeCode": "18CJ0083858",
-    "bookname": "V公差配合与测量设计",
+    "bookname": "公差配合与测量设计",
     "publishing": "华中科大"
 },
 {
     "subscribeCode": "18CJ0083859",
-    "bookname": "V中国旅游文化/崔益红",
+    "bookname": "中国旅游文化/崔益红",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0083860",
-    "bookname": "V嵌入式技术与应用/曹金玲",
+    "bookname": "嵌入式技术与应用/曹金玲",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083861",
-    "bookname": "V安装工程计量与计价/李晓璠",
+    "bookname": "安装工程计量与计价/李晓璠",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0083862",
-    "bookname": "V机械制图测绘实训指导(第二版)/高玉芬",
+    "bookname": "机械制图测绘实训指导(第二版)/高玉芬",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0083863",
-    "bookname": "V现代通信原理/陶亚雄",
+    "bookname": "现代通信原理/陶亚雄",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083864",
-    "bookname": "V学前教育科研方法/史爱芬、宋辉",
+    "bookname": "学前教育科研方法/史爱芬、宋辉",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083865",
-    "bookname": "V幼儿园手工基础/胡悦",
+    "bookname": "幼儿园手工基础/胡悦",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083866",
-    "bookname": "V汽车发动机维修实训/刘伟",
+    "bookname": "汽车发动机维修实训/刘伟",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083867",
-    "bookname": "V简笔画/衡晓红",
+    "bookname": "简笔画/衡晓红",
     "publishing": "湖南师大"
 },
 {
     "subscribeCode": "18CJ0083868",
-    "bookname": "V(BX)幼儿园教育活动设计与指导/高敬",
+    "bookname": "(BX)幼儿园教育活动设计与指导/高敬",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083869",
-    "bookname": "V4G基站建设与维护/姚伟",
+    "bookname": "4G基站建设与维护/姚伟",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083870",
-    "bookname": "V电子技术基础/张志良",
+    "bookname": "电子技术基础/张志良",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083871",
-    "bookname": "V高职信息检索实用教程/周云",
+    "bookname": "高职信息检索实用教程/周云",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083872",
-    "bookname": "V光纤通信技术与设备/段智文",
+    "bookname": "光纤通信技术与设备/段智文",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083873",
-    "bookname": "V国际货运代理/范泽剑",
+    "bookname": "国际货运代理/范泽剑",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083874",
-    "bookname": "V汽车维修工(中级)/祖国海",
+    "bookname": "汽车维修工(中级)/祖国海",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083875",
-    "bookname": "V数字电子技术项目教程/朱祥贤",
+    "bookname": "数字电子技术项目教程/朱祥贤",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083876",
-    "bookname": "V通信网络与综合布线/陈红",
+    "bookname": "通信网络与综合布线/陈红",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083877",
-    "bookname": "V微机原理及应用(第3版)/胡钢",
+    "bookname": "微机原理及应用(第3版)/胡钢",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083878",
-    "bookname": "V物流管理信息系统/傅莉萍",
+    "bookname": "物流管理信息系统/傅莉萍",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083879",
-    "bookname": "V物流设施与设备(第三版)/将祖星 孟初阳",
+    "bookname": "物流设施与设备(第三版)/将祖星 孟初阳",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083880",
-    "bookname": "V运输经济学(第二版)/李永生 黄君麟",
+    "bookname": "运输经济学(第二版)/李永生 黄君麟",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083881",
-    "bookname": "V大学生安全教育教程/徐信连",
+    "bookname": "大学生安全教育教程/徐信连",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083882",
-    "bookname": "V经济学基础/廖友国",
+    "bookname": "经济学基础/廖友国",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083883",
-    "bookname": "V汽车电气设备构造与维修/王酉芳、杨晓芳",
+    "bookname": "汽车电气设备构造与维修/王酉芳、杨晓芳",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083884",
-    "bookname": "V汽车机械基础/主编徐荣政",
+    "bookname": "汽车机械基础/主编徐荣政",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083885",
-    "bookname": "V学前儿童科学教育/董佩燕、张晓焱",
+    "bookname": "学前儿童科学教育/董佩燕、张晓焱",
     "publishing": "江苏大学"
 },
 {
     "subscribeCode": "18CJ0083886",
-    "bookname": "V学前儿童社会教育/王倩",
+    "bookname": "学前儿童社会教育/王倩",
     "publishing": "江苏大学"
 },
 {
     "subscribeCode": "18CJ0083887",
-    "bookname": "V学前儿童语言教育/王佩佳、徐杰",
+    "bookname": "学前儿童语言教育/王佩佳、徐杰",
     "publishing": "江苏大学"
 },
 {
     "subscribeCode": "18CJ0083888",
-    "bookname": "V建筑工程监理/王光炎、钱闪光",
+    "bookname": "建筑工程监理/王光炎、钱闪光",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083889",
-    "bookname": "V税法/杨宁",
+    "bookname": "税法/杨宁",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083890",
-    "bookname": "V统计学基础/赵海荣",
+    "bookname": "统计学基础/赵海荣",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0083891",
-    "bookname": "V第三方物流/郑克俊",
+    "bookname": "第三方物流/郑克俊",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0083892",
-    "bookname": "V设计构成(第三版)/朱广宇",
+    "bookname": "设计构成(第三版)/朱广宇",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083893",
-    "bookname": "V室内公共空间设计/方晓东",
+    "bookname": "室内公共空间设计/方晓东",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083894",
-    "bookname": "V室内外装饰材料与施工工艺(第二版)/张颖",
+    "bookname": "室内外装饰材料与施工工艺(第二版)/张颖",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083895",
-    "bookname": "V园林景观设计(第二版)/张塔洪",
+    "bookname": "园林景观设计(第二版)/张塔洪",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083896",
-    "bookname": "V饭店管理概论/梁瑜 牟昆 李明宇 张虹薇 阎文实",
+    "bookname": "饭店管理概论/梁瑜 牟昆 李明宇 张虹薇 阎文实",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083897",
-    "bookname": "V无线网络与应用技术/黎连业",
+    "bookname": "无线网络与应用技术/黎连业",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083898",
-    "bookname": "V铁路线路施工与维护(第二版)/方筠",
+    "bookname": "铁路线路施工与维护(第二版)/方筠",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0083899",
-    "bookname": "V LTE/CDMA/WLAN无线网络室内覆盖工程规划与设计/张磊，孔繁俊",
+    "bookname": " LTE/CDMA/WLAN无线网络室内覆盖工程规划与设计/张磊，孔繁俊",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0083900",
-    "bookname": "V管理学基础/张金成",
+    "bookname": "管理学基础/张金成",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0083901",
-    "bookname": "V现代交换原理与技术/陈永彬",
+    "bookname": "现代交换原理与技术/陈永彬",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0083902",
-    "bookname": "V自然科学基础/黄跃华、温盛伟",
+    "bookname": "自然科学基础/黄跃华、温盛伟",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083903",
-    "bookname": "V采购管理/张俊锋 骆金鸿",
+    "bookname": "采购管理/张俊锋 骆金鸿",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083904",
-    "bookname": "V旅游心理学/梁润华",
+    "bookname": "旅游心理学/梁润华",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0083905",
-    "bookname": "V计算机数据恢复技术/梁宇恩 沈建刚 梁启来",
+    "bookname": "计算机数据恢复技术/梁宇恩 沈建刚 梁启来",
     "publishing": "西安电子科大"
 },
 {
     "subscribeCode": "18CJ0083906",
-    "bookname": "V房屋建筑学/魏华 王海军",
+    "bookname": "房屋建筑学/魏华 王海军",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083907",
-    "bookname": "V教师礼仪实训教程/程维薇",
+    "bookname": "教师礼仪实训教程/程维薇",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0083908",
-    "bookname": "V运输与配送/梁军",
+    "bookname": "运输与配送/梁军",
     "publishing": "浙江大学"
 },
 {
     "subscribeCode": "18CJ0083909",
-    "bookname": "V单片机原理与应用/黄莺",
+    "bookname": "单片机原理与应用/黄莺",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0083910",
-    "bookname": "V建筑材料与检测/王飞",
+    "bookname": "建筑材料与检测/王飞",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083911",
-    "bookname": "V工程测量/邓　军",
+    "bookname": "工程测量/邓　军",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083912",
-    "bookname": "V环境设计手绘效果图表现技法/孙　霞",
+    "bookname": "环境设计手绘效果图表现技法/孙　霞",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083913",
-    "bookname": "V平法识图与钢筋与计算/杨峰",
+    "bookname": "平法识图与钢筋与计算/杨峰",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083914",
-    "bookname": "V城市规划管理与法规/耿慧志",
+    "bookname": "城市规划管理与法规/耿慧志",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0083915",
-    "bookname": "V政策与法律法规/全国导游人员资格考试统编教材专家编写组",
+    "bookname": "政策与法律法规/全国导游人员资格考试统编教材专家编写组",
     "publishing": "中国旅游"
 },
 {
     "subscribeCode": "18CJ0083916",
-    "bookname": "V投资学基础/吴伟、韩英锋",
+    "bookname": "投资学基础/吴伟、韩英锋",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0083917",
-    "bookname": "V财经法规与会计职业道德/聂延庆，马文君",
+    "bookname": "财经法规与会计职业道德/聂延庆，马文君",
     "publishing": "中国商业"
 },
 {
     "subscribeCode": "18CJ0083918",
-    "bookname": "V无线网络组建项目教程(第二版)/唐继勇 童均",
+    "bookname": "无线网络组建项目教程(第二版)/唐继勇 童均",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0083919",
-    "bookname": "V电工电子技术工程训练实用教程/李双喜",
+    "bookname": "电工电子技术工程训练实用教程/李双喜",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0083920",
-    "bookname": "V 2016-2017学年《时事报告大学生版》第二期/总第78期",
+    "bookname": " 2016-2017学年《时事报告大学生版》第二期/总第78期",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083921",
-    "bookname": "V汽车车身制造成型技术",
+    "bookname": "汽车车身制造成型技术",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0083922",
-    "bookname": "V景区管理概论/梁中正",
+    "bookname": "景区管理概论/梁中正",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083923",
-    "bookname": "V牛羊常见病诊治彩色图谱/奎东航、马玉忠",
+    "bookname": "牛羊常见病诊治彩色图谱/奎东航、马玉忠",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0083924",
-    "bookname": "V牛病临床诊疗技术现典型医案/奎东航、马玉忠",
+    "bookname": "牛病临床诊疗技术现典型医案/奎东航、马玉忠",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0083925",
-    "bookname": "V鸡解剖组织彩色图谱/李健、司丽芳、魏刚才",
+    "bookname": "鸡解剖组织彩色图谱/李健、司丽芳、魏刚才",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0083926",
-    "bookname": "V 16年全国执业兽医资格考试综合模拟及考前冲刺/孙卫东",
+    "bookname": " 16年全国执业兽医资格考试综合模拟及考前冲刺/孙卫东",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0083927",
-    "bookname": "V 16年全国执业兽医资格考试通关宝典〈基础医学部分〉/丁焕中",
+    "bookname": " 16年全国执业兽医资格考试通关宝典〈基础医学部分〉/丁焕中",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0083928",
-    "bookname": "V 16年全国执业兽医资格考试通关宝典《临床兽医医学部分》/钟志",
+    "bookname": " 16年全国执业兽医资格考试通关宝典《临床兽医医学部分》/钟志",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0083929",
-    "bookname": "V 16年全国执业兽医资格考试通关宝典《预防医学和法律法规部分》",
+    "bookname": " 16年全国执业兽医资格考试通关宝典《预防医学和法律法规部分》",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0083930",
-    "bookname": "V现代旅游客源国概论 /杨载田 邓运员",
+    "bookname": "现代旅游客源国概论 /杨载田 邓运员",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083931",
-    "bookname": "V POP插画宝典：奇思妙想的手绘POP插画/汤悦",
+    "bookname": " POP插画宝典：奇思妙想的手绘POP插画/汤悦",
     "publishing": "辽宁科技"
 },
 {
     "subscribeCode": "18CJ0083932",
-    "bookname": "V手绘POP使用词典—创意字体速查/萌萌",
+    "bookname": "手绘POP使用词典—创意字体速查/萌萌",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0083933",
-    "bookname": "V国学教育简易教程/田文沪",
+    "bookname": "国学教育简易教程/田文沪",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083934",
-    "bookname": "V钢笔楷书字帖---励志篇/韦生键 魏克银",
+    "bookname": "钢笔楷书字帖---励志篇/韦生键 魏克银",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083935",
-    "bookname": "V舞蹈知识手册",
+    "bookname": "舞蹈知识手册",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0083936",
-    "bookname": "V中国传统文化概论 /辜堪生",
+    "bookname": "中国传统文化概论 /辜堪生",
     "publishing": "西南财大"
 },
 {
     "subscribeCode": "18CJ0083937",
-    "bookname": "V油画人物教程/岳海涛",
+    "bookname": "油画人物教程/岳海涛",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0083938",
-    "bookname": "V手绘POP广告设计全攻略",
+    "bookname": "手绘POP广告设计全攻略",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0083939",
-    "bookname": "V机械基础(含配套习题)/赵庆",
+    "bookname": "机械基础(含配套习题)/赵庆",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0083940",
-    "bookname": "V计算机应用基础WINDOWS7+OFFICE2010/付连仲(基础模块)第2版",
+    "bookname": "计算机应用基础WINDOWS7+OFFICE2010/付连仲(基础模块)第2版",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083941",
-    "bookname": "V汽车电气设备构造与维修/陈玲玲 许春平",
+    "bookname": "汽车电气设备构造与维修/陈玲玲 许春平",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083942",
-    "bookname": "V会计电算化",
+    "bookname": "会计电算化",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083943",
-    "bookname": "V时事报告职教版（下）/中宣部杂志社",
+    "bookname": "时事报告职教版（下）/中宣部杂志社",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0083944",
-    "bookname": "V建筑工程测量(第二版)/李社生",
+    "bookname": "建筑工程测量(第二版)/李社生",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0083945",
-    "bookname": "V餐饮服务与管理第三版/刘艳",
+    "bookname": "餐饮服务与管理第三版/刘艳",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0083946",
-    "bookname": "V管理会计/刘庆志",
+    "bookname": "管理会计/刘庆志",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083947",
-    "bookname": "V(BX)企业会计综合实训/刘燕",
+    "bookname": "(BX)企业会计综合实训/刘燕",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083948",
-    "bookname": "V学前卫生与保健/冯谦",
+    "bookname": "学前卫生与保健/冯谦",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083949",
-    "bookname": "V学前教育学/王冬梅 李兴娜",
+    "bookname": "学前教育学/王冬梅 李兴娜",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0083950",
-    "bookname": "V城市总体规划/曹型荣",
+    "bookname": "城市总体规划/曹型荣",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0083951",
-    "bookname": "V现代物流客户关系管理实务/王淑娟 白佳 李大午",
+    "bookname": "现代物流客户关系管理实务/王淑娟 白佳 李大午",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0083952",
-    "bookname": "V(BX)基础会计/唐春雯",
+    "bookname": "(BX)基础会计/唐春雯",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083953",
-    "bookname": "V英语基础教程同步练习1",
+    "bookname": "英语基础教程同步练习1",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083954",
-    "bookname": "V(BX)汽车故障诊断技术/王辉",
+    "bookname": "(BX)汽车故障诊断技术/王辉",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083955",
-    "bookname": "V(BX)汽车性能与检测/罗忠可",
+    "bookname": "(BX)汽车性能与检测/罗忠可",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0083956",
-    "bookname": "V景区开发与管理/高润",
+    "bookname": "景区开发与管理/高润",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0083957",
-    "bookname": "V维修电工(中级)—国家职业技能鉴定考核指导用书",
+    "bookname": "维修电工(中级)—国家职业技能鉴定考核指导用书",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0083958",
-    "bookname": "V(BX)三笔字教程/叶刚",
+    "bookname": "(BX)三笔字教程/叶刚",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0083959",
-    "bookname": "V汽车文化(彩色)(第2版)(附光盘)/张文华 王明辉",
+    "bookname": "汽车文化(彩色)(第2版)(附光盘)/张文华 王明辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083960",
-    "bookname": "V服装CAD(日升)/傅月清",
+    "bookname": "服装CAD(日升)/傅月清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083961",
-    "bookname": "V服装材料(第3版)/刘小君",
+    "bookname": "服装材料(第3版)/刘小君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083962",
-    "bookname": "V商务沟通与谈判",
+    "bookname": "商务沟通与谈判",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083963",
-    "bookname": "V保教知识与能力",
+    "bookname": "保教知识与能力",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083964",
-    "bookname": "V综合素养",
+    "bookname": "综合素养",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0083965",
-    "bookname": "V绘画基础/汝茵佳",
+    "bookname": "绘画基础/汝茵佳",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083966",
-    "bookname": "V幼儿艺术(美术)教育与活动指导",
+    "bookname": "幼儿艺术(美术)教育与活动指导",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083967",
-    "bookname": "V幼儿园保教实习指导",
+    "bookname": "幼儿园保教实习指导",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0083968",
-    "bookname": "V康复护理学基础/张玲芝",
+    "bookname": "康复护理学基础/张玲芝",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0083969",
-    "bookname": "V康复治疗基础/王俊华",
+    "bookname": "康复治疗基础/王俊华",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0083970",
-    "bookname": "V护士人文修养/王燕",
+    "bookname": "护士人文修养/王燕",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0083971",
-    "bookname": "V茶艺—实训技能/杨金妹",
+    "bookname": "茶艺—实训技能/杨金妹",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0083972",
-    "bookname": "V汽车电子商务",
+    "bookname": "汽车电子商务",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083973",
-    "bookname": "V园林植物栽培/张璐 张秀花",
+    "bookname": "园林植物栽培/张璐 张秀花",
     "publishing": "延边大学"
 },
 {
     "subscribeCode": "18CJ0083974",
-    "bookname": "V导游业务/李美霖 周维亮",
+    "bookname": "导游业务/李美霖 周维亮",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083975",
-    "bookname": "V幼儿文学与作品欣赏/段幼平 许传东 黎琼英",
+    "bookname": "幼儿文学与作品欣赏/段幼平 许传东 黎琼英",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083976",
-    "bookname": "V幼儿艺术教育与活动指导/吕小玲",
+    "bookname": "幼儿艺术教育与活动指导/吕小玲",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083977",
-    "bookname": "V经济政治与社会/郭川 陈羽飞",
+    "bookname": "经济政治与社会/郭川 陈羽飞",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083978",
-    "bookname": "V书法教程/舒旭强 陈庆伟",
+    "bookname": "书法教程/舒旭强 陈庆伟",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083979",
-    "bookname": "V税务会计实务/杜晶 周雪瑛",
+    "bookname": "税务会计实务/杜晶 周雪瑛",
     "publishing": "南京大学"
 },
 {
     "subscribeCode": "18CJ0083980",
-    "bookname": "V金属材料与热处理",
+    "bookname": "金属材料与热处理",
     "publishing": "冶金工业"
 },
 {
     "subscribeCode": "18CJ0083981",
-    "bookname": "V AUTOCAD 2014项目与应用/张宏彬 王铁军 张斌",
+    "bookname": " AUTOCAD 2014项目与应用/张宏彬 王铁军 张斌",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0083982",
-    "bookname": "V焊工工艺与技能训练/金明成 邵加发 许国亮",
+    "bookname": "焊工工艺与技能训练/金明成 邵加发 许国亮",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083983",
-    "bookname": "V公共艺术美术篇(彩色)/吕品 石磊 刘丽",
+    "bookname": "公共艺术美术篇(彩色)/吕品 石磊 刘丽",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0083984",
-    "bookname": "V网店运营理论与实操/栾洪亮",
+    "bookname": "网店运营理论与实操/栾洪亮",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0083985",
-    "bookname": "V财务会计实务/张莉 刘海燕",
+    "bookname": "财务会计实务/张莉 刘海燕",
     "publishing": "时代经济"
 },
 {
     "subscribeCode": "18CJ0083986",
-    "bookname": "V电气控制与PLC应用技术(西门子机型)/钟晓",
+    "bookname": "电气控制与PLC应用技术(西门子机型)/钟晓",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083987",
-    "bookname": "V彩色电视机原理与检修(第5版)/贺学金",
+    "bookname": "彩色电视机原理与检修(第5版)/贺学金",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083988",
-    "bookname": "V PROTEL 99 SE实用教程/赵景波",
+    "bookname": " PROTEL 99 SE实用教程/赵景波",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083989",
-    "bookname": "V PRO/E实训教材(第3版)/张晓红",
+    "bookname": " PRO/E实训教材(第3版)/张晓红",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0083990",
-    "bookname": "V学前卫生学/王练",
+    "bookname": "学前卫生学/王练",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083991",
-    "bookname": "V中国旅游地理练习册",
+    "bookname": "中国旅游地理练习册",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083992",
-    "bookname": "V PHOTOSHOP CC平面设计与制作(第4版)",
+    "bookname": " PHOTOSHOP CC平面设计与制作(第4版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083993",
-    "bookname": "V PHOTOSHOP效果图设计(四色)",
+    "bookname": " PHOTOSHOP效果图设计(四色)",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0083994",
-    "bookname": "V汽车钣金与涂装",
+    "bookname": "汽车钣金与涂装",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0083995",
-    "bookname": "V美术欣赏",
+    "bookname": "美术欣赏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083996",
-    "bookname": "V音乐欣赏",
+    "bookname": "音乐欣赏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0083997",
-    "bookname": "V幼儿文学/ 祝士媛",
+    "bookname": "幼儿文学/ 祝士媛",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0083998",
-    "bookname": "V唱歌(试用本)(第三册)(三年级)",
+    "bookname": "唱歌(试用本)(第三册)(三年级)",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0083999",
-    "bookname": "V键盘基础与弹唱",
+    "bookname": "键盘基础与弹唱",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084000",
-    "bookname": "V电子产品装配与调试/张天富",
+    "bookname": "电子产品装配与调试/张天富",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084001",
-    "bookname": "V万用表检测应用实例(修订版)/韩广兴",
+    "bookname": "万用表检测应用实例(修订版)/韩广兴",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084002",
-    "bookname": "V PROTEL DXP 2004基础与实训/李雪梅、白炽贵",
+    "bookname": " PROTEL DXP 2004基础与实训/李雪梅、白炽贵",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084003",
-    "bookname": "V单片机控制项目训练教程/葛金印",
+    "bookname": "单片机控制项目训练教程/葛金印",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084004",
-    "bookname": "V PLC控制项目训练教程/武可庚",
+    "bookname": " PLC控制项目训练教程/武可庚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084005",
-    "bookname": "V电子技术基础与技能学习指导与同步练习(第2版)/张金华",
+    "bookname": "电子技术基础与技能学习指导与同步练习(第2版)/张金华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084006",
-    "bookname": "V SMT工艺(双色)(附学习卡/防伪标)/林安全 官伦",
+    "bookname": " SMT工艺(双色)(附学习卡/防伪标)/林安全 官伦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084007",
-    "bookname": "V电子技术应用专业教师教学能力标准、培训方案和培训质量评价指",
+    "bookname": "电子技术应用专业教师教学能力标准、培训方案和培训质量评价指",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084008",
-    "bookname": "V单片机控制技术项目实训(第2版)/陈雅萍",
+    "bookname": "单片机控制技术项目实训(第2版)/陈雅萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084009",
-    "bookname": "V安全用电(第2版)(双色)(附学习卡/防伪标)/戴绍基",
+    "bookname": "安全用电(第2版)(双色)(附学习卡/防伪标)/戴绍基",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084010",
-    "bookname": "V美术与幼儿美术创作(附学习卡/防伪标)/许大梅",
+    "bookname": "美术与幼儿美术创作(附学习卡/防伪标)/许大梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084011",
-    "bookname": "V基本乐理与伴奏编配(第二版)/马成",
+    "bookname": "基本乐理与伴奏编配(第二版)/马成",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084012",
-    "bookname": "V基本乐理习题册/李娟、陈怡然",
+    "bookname": "基本乐理习题册/李娟、陈怡然",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084013",
-    "bookname": "V基础会计",
+    "bookname": "基础会计",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084014",
-    "bookname": "V点钞实务",
+    "bookname": "点钞实务",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084015",
-    "bookname": "V幼师英语",
+    "bookname": "幼师英语",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084016",
-    "bookname": "V中级维修电工实训/黄敏莉",
+    "bookname": "中级维修电工实训/黄敏莉",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084017",
-    "bookname": "V液压与气压传动技术(第三版）/刘建明",
+    "bookname": "液压与气压传动技术(第三版）/刘建明",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084018",
-    "bookname": "V彩电维修(理实一体化教材)/文方",
+    "bookname": "彩电维修(理实一体化教材)/文方",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084019",
-    "bookname": "V哲学与人生（单色版）/王绪永",
+    "bookname": "哲学与人生（单色版）/王绪永",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084020",
-    "bookname": "V哲学与人生学习指导(单色)/蔡禛",
+    "bookname": "哲学与人生学习指导(单色)/蔡禛",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084021",
-    "bookname": "V航空商务英语/周石田",
+    "bookname": "航空商务英语/周石田",
     "publishing": "中国民航"
 },
 {
     "subscribeCode": "18CJ0084022",
-    "bookname": "V航线地理 /赵林",
+    "bookname": "航线地理 /赵林",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084023",
-    "bookname": "V汽车物流/高振云",
+    "bookname": "汽车物流/高振云",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084024",
-    "bookname": "V汽车检测与故障分析/郑拥辉",
+    "bookname": "汽车检测与故障分析/郑拥辉",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084025",
-    "bookname": "V饭店英语听说(下)",
+    "bookname": "饭店英语听说(下)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084026",
-    "bookname": "V淘宝天猫网上开店速查速用一本通/刘珂",
+    "bookname": "淘宝天猫网上开店速查速用一本通/刘珂",
     "publishing": "时代华文"
 },
 {
     "subscribeCode": "18CJ0084027",
-    "bookname": "V旅游市场营销",
+    "bookname": "旅游市场营销",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084028",
-    "bookname": "V旅游线路设计",
+    "bookname": "旅游线路设计",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084029",
-    "bookname": "V园林设计初步",
+    "bookname": "园林设计初步",
     "publishing": "民族摄影"
 },
 {
     "subscribeCode": "18CJ0084030",
-    "bookname": "V微绿地景观设计",
+    "bookname": "微绿地景观设计",
     "publishing": "民族摄影"
 },
 {
     "subscribeCode": "18CJ0084031",
-    "bookname": "V基础图案设计入门",
+    "bookname": "基础图案设计入门",
     "publishing": "广西美术"
 },
 {
     "subscribeCode": "18CJ0084032",
-    "bookname": "V电子线路学习辅导与练习(第2版)(附光盘)/ 陈其纯",
+    "bookname": "电子线路学习辅导与练习(第2版)(附光盘)/ 陈其纯",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084033",
-    "bookname": "V汽车二级维护/胡炜 李复",
+    "bookname": "汽车二级维护/胡炜 李复",
     "publishing": "经济管理"
 },
 {
     "subscribeCode": "18CJ0084034",
-    "bookname": "V AUTOCAD实操实训/曹敏、张学津",
+    "bookname": " AUTOCAD实操实训/曹敏、张学津",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084035",
-    "bookname": "V 3DSMAX动画设计(高职高专动漫设计与制作专业规划教材)/刘再行",
+    "bookname": " 3DSMAX动画设计(高职高专动漫设计与制作专业规划教材)/刘再行",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084036",
-    "bookname": "V气动与液压控制技术训练（中等职业教育机电技术应用专业课程改",
+    "bookname": "气动与液压控制技术训练（中等职业教育机电技术应用专业课程改",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084037",
-    "bookname": "V平面设计创意与制作：COREL DRAW X6+PHOTOSHOP/吴晓琼郑果江春",
+    "bookname": "平面设计创意与制作：COREL DRAW X6+PHOTOSHOP/吴晓琼郑果江春",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084038",
-    "bookname": "V饭店服务心理学练习册/李绮华，张志毅",
+    "bookname": "饭店服务心理学练习册/李绮华，张志毅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084039",
-    "bookname": "V硬笔书法等级考试教程(行楷)/吴玉生",
+    "bookname": "硬笔书法等级考试教程(行楷)/吴玉生",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084040",
-    "bookname": "V硬笔书法等级考试教程(楷书)/田英章",
+    "bookname": "硬笔书法等级考试教程(楷书)/田英章",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084041",
-    "bookname": "V汽车底盘构造与维修/李民和 张书诚",
+    "bookname": "汽车底盘构造与维修/李民和 张书诚",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0084042",
-    "bookname": "V铁路运输经济法规/孔融",
+    "bookname": "铁路运输经济法规/孔融",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0084043",
-    "bookname": "V汽车机械制图配套习题集/徐东刘明",
+    "bookname": "汽车机械制图配套习题集/徐东刘明",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0084044",
-    "bookname": "V汽车电控发动机检测与维修工作页/覃雨亮",
+    "bookname": "汽车电控发动机检测与维修工作页/覃雨亮",
     "publishing": "现代教育"
 },
 {
     "subscribeCode": "18CJ0084045",
-    "bookname": "V汽车空调检测与维修工作页(一体化教材)/邓锦军",
+    "bookname": "汽车空调检测与维修工作页(一体化教材)/邓锦军",
     "publishing": "现代教育"
 },
 {
     "subscribeCode": "18CJ0084046",
-    "bookname": "V电气控制线路安装与检修学生指导用书/王春",
+    "bookname": "电气控制线路安装与检修学生指导用书/王春",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084047",
-    "bookname": "V汽车涂装工艺与技能训练",
+    "bookname": "汽车涂装工艺与技能训练",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084048",
-    "bookname": "V形式与政策/程思进",
+    "bookname": "形式与政策/程思进",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084049",
-    "bookname": "V幼儿文学阅读与指导/陈振桂",
+    "bookname": "幼儿文学阅读与指导/陈振桂",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0084050",
-    "bookname": "V中职教材语文练习册(基础模块)下册(配高教版)(新版)",
+    "bookname": "中职教材语文练习册(基础模块)下册(配高教版)(新版)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0084051",
-    "bookname": "V中职教材数学练习册(拓展模块)配高教版(新版)",
+    "bookname": "中职教材数学练习册(拓展模块)配高教版(新版)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0084052",
-    "bookname": "V中职教材数学练习册(基础模块)下册(配高教版)(新版)",
+    "bookname": "中职教材数学练习册(基础模块)下册(配高教版)(新版)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0084053",
-    "bookname": "V汽车维护与保养实训工作页205",
+    "bookname": "汽车维护与保养实训工作页205",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084054",
-    "bookname": "V汽车维护与保养205",
+    "bookname": "汽车维护与保养205",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084055",
-    "bookname": "V汽车安全驾驶技术127",
+    "bookname": "汽车安全驾驶技术127",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084056",
-    "bookname": "V图形图像处理CORELDRAW X6基础与案例教程130",
+    "bookname": "图形图像处理CORELDRAW X6基础与案例教程130",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084057",
-    "bookname": "V电子商务基础170",
+    "bookname": "电子商务基础170",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084058",
-    "bookname": "V素描静物/李家友主编",
+    "bookname": "素描静物/李家友主编",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0084059",
-    "bookname": "V色彩静物/李家友主编",
+    "bookname": "色彩静物/李家友主编",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0084060",
-    "bookname": "V画素描石膏像/应伟明",
+    "bookname": "画素描石膏像/应伟明",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0084061",
-    "bookname": "V历年优秀试卷精选---色彩/清华大学",
+    "bookname": "历年优秀试卷精选---色彩/清华大学",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0084062",
-    "bookname": "V历年优秀试卷精选---速写/清华大学",
+    "bookname": "历年优秀试卷精选---速写/清华大学",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0084063",
-    "bookname": "V计算机编程基础—C语言/游金水",
+    "bookname": "计算机编程基础—C语言/游金水",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084064",
-    "bookname": "V(BX)工匠精神教育读本(双色）/熊元武",
+    "bookname": "(BX)工匠精神教育读本(双色）/熊元武",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0084065",
-    "bookname": "V汽车使用与维护/赵长海",
+    "bookname": "汽车使用与维护/赵长海",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084066",
-    "bookname": "V汽车构造/杨璐铨",
+    "bookname": "汽车构造/杨璐铨",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084067",
-    "bookname": "V汽车使用性能与检测/王忠良、吴兴敏",
+    "bookname": "汽车使用性能与检测/王忠良、吴兴敏",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084068",
-    "bookname": "V汽车装饰与美容技术/向忠国",
+    "bookname": "汽车装饰与美容技术/向忠国",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084069",
-    "bookname": "V计算机录入与排版训练/韩雯",
+    "bookname": "计算机录入与排版训练/韩雯",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084070",
-    "bookname": "V旅游政策与法规练习册（附学习卡/防伪标）",
+    "bookname": "旅游政策与法规练习册（附学习卡/防伪标）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084071",
-    "bookname": "V机电一体化设备组装与调试/梁倍源",
+    "bookname": "机电一体化设备组装与调试/梁倍源",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084072",
-    "bookname": "V就业指导与创业教育",
+    "bookname": "就业指导与创业教育",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0084073",
-    "bookname": "V声乐基础/白芳",
+    "bookname": "声乐基础/白芳",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084074",
-    "bookname": "V新能源汽车概论(含教学课件)/旋艳静",
+    "bookname": "新能源汽车概论(含教学课件)/旋艳静",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084075",
-    "bookname": "V汽车碰撞分析与估损(第二版)/白建伟",
+    "bookname": "汽车碰撞分析与估损(第二版)/白建伟",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084076",
-    "bookname": "V汽车维修专业英语/刘苑",
+    "bookname": "汽车维修专业英语/刘苑",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084077",
-    "bookname": "V汽车自动变速器检修/吴磊",
+    "bookname": "汽车自动变速器检修/吴磊",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084078",
-    "bookname": "V电子商务基础/于巧娥",
+    "bookname": "电子商务基础/于巧娥",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084079",
-    "bookname": "V旅游电子商务教程/葛晓滨",
+    "bookname": "旅游电子商务教程/葛晓滨",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084080",
-    "bookname": "V面塑艺术/周建平",
+    "bookname": "面塑艺术/周建平",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084081",
-    "bookname": "V手缝技法/刘浩",
+    "bookname": "手缝技法/刘浩",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084082",
-    "bookname": "V数控机床与维护/任级三、孙承辉",
+    "bookname": "数控机床与维护/任级三、孙承辉",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084083",
-    "bookname": "V钢笔楷书字帖 诚信篇/韦生键",
+    "bookname": "钢笔楷书字帖 诚信篇/韦生键",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084084",
-    "bookname": "V钢笔楷书字帖 敬业篇/韦生键",
+    "bookname": "钢笔楷书字帖 敬业篇/韦生键",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084085",
-    "bookname": "V岗前教育-企业文化篇/王怀钦",
+    "bookname": "岗前教育-企业文化篇/王怀钦",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084086",
-    "bookname": "V机床电气安装与维修/李善峰",
+    "bookname": "机床电气安装与维修/李善峰",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084087",
-    "bookname": "V职业学校英语日常交际用语/盛艳林",
+    "bookname": "职业学校英语日常交际用语/盛艳林",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084088",
-    "bookname": "V班会18课/袁卫星",
+    "bookname": "班会18课/袁卫星",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084089",
-    "bookname": "V秘书心理学及应用/张居玲",
+    "bookname": "秘书心理学及应用/张居玲",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084090",
-    "bookname": "V实用语文第四册/施也频",
+    "bookname": "实用语文第四册/施也频",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084091",
-    "bookname": "V秘书写作(第三版)/郭冬",
+    "bookname": "秘书写作(第三版)/郭冬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084092",
-    "bookname": "V应用文写作/李佩英",
+    "bookname": "应用文写作/李佩英",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084093",
-    "bookname": "V学前儿童卫生保健",
+    "bookname": "学前儿童卫生保健",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084094",
-    "bookname": "V通信线路工程与施工",
+    "bookname": "通信线路工程与施工",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084095",
-    "bookname": "V建筑施工测量/林清辉、王仁田",
+    "bookname": "建筑施工测量/林清辉、王仁田",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084096",
-    "bookname": "V焊接结构/鲍勇祥",
+    "bookname": "焊接结构/鲍勇祥",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084097",
-    "bookname": "V焊接结构习题册/鲍勇祥",
+    "bookname": "焊接结构习题册/鲍勇祥",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084098",
-    "bookname": "V咖啡服务/荣晓坤",
+    "bookname": "咖啡服务/荣晓坤",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084099",
-    "bookname": "V禽的生产与疫病防治教学挂图",
+    "bookname": "禽的生产与疫病防治教学挂图",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084100",
-    "bookname": "V新编工程数学（线性代数概率论与数理统计）第五版/史明霞",
+    "bookname": "新编工程数学（线性代数概率论与数理统计）第五版/史明霞",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0084101",
-    "bookname": "V计算机立体美术设计与案例/李旭",
+    "bookname": "计算机立体美术设计与案例/李旭",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0084102",
-    "bookname": "V中职生法律案例解析/郎月田",
+    "bookname": "中职生法律案例解析/郎月田",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084103",
-    "bookname": "V普车工艺基础与技能训练/李其革-张永鸿",
+    "bookname": "普车工艺基础与技能训练/李其革-张永鸿",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084104",
-    "bookname": "V模具数控加工技术/申红勇-李慧明",
+    "bookname": "模具数控加工技术/申红勇-李慧明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084105",
-    "bookname": "V计算机辅助设计CAD/尚瑞勇",
+    "bookname": "计算机辅助设计CAD/尚瑞勇",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084106",
-    "bookname": "V网店美工实训(电子课件)/苏闽-姜凯邢",
+    "bookname": "网店美工实训(电子课件)/苏闽-姜凯邢",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084107",
-    "bookname": "V网店客户服务与管理/吴晓韵",
+    "bookname": "网店客户服务与管理/吴晓韵",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084108",
-    "bookname": "V职业生涯规划(双色+电子课件+教参)/付银凤 雷振清 彭延波",
+    "bookname": "职业生涯规划(双色+电子课件+教参)/付银凤 雷振清 彭延波",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084109",
-    "bookname": "V现代礼仪(双色+电子课件)/姚美娟",
+    "bookname": "现代礼仪(双色+电子课件)/姚美娟",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084110",
-    "bookname": "V经济政治与社会(双色+电子课件+教参)/李英连 张鹏 申东印",
+    "bookname": "经济政治与社会(双色+电子课件+教参)/李英连 张鹏 申东印",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084111",
-    "bookname": "V华中系统数控车床培训教程/吕斌杰-高长银",
+    "bookname": "华中系统数控车床培训教程/吕斌杰-高长银",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084112",
-    "bookname": "V维修电工(中级)(第2版)",
+    "bookname": "维修电工(中级)(第2版)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084113",
-    "bookname": "V机械加工与实训/曾益民 篮日采",
+    "bookname": "机械加工与实训/曾益民 篮日采",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084114",
-    "bookname": "V电工电子技术与技能实训指导/范国伟",
+    "bookname": "电工电子技术与技能实训指导/范国伟",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084115",
-    "bookname": "V高等职业院校招生考试全真模拟试卷(语文)/李朝辉",
+    "bookname": "高等职业院校招生考试全真模拟试卷(语文)/李朝辉",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0084116",
-    "bookname": "V高等职业院校招生考试全真模拟试卷(数学)/陶艳",
+    "bookname": "高等职业院校招生考试全真模拟试卷(数学)/陶艳",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0084117",
-    "bookname": "V学前儿童社会教育活动指导/张玉暖",
+    "bookname": "学前儿童社会教育活动指导/张玉暖",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084118",
-    "bookname": "V简笔画(2015.5月第一版)/乌日汗 张娜",
+    "bookname": "简笔画(2015.5月第一版)/乌日汗 张娜",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0084119",
-    "bookname": "V化工原理(下)/张利峰 阎志谦",
+    "bookname": "化工原理(下)/张利峰 阎志谦",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084120",
-    "bookname": "V化工制图/胡建生",
+    "bookname": "化工制图/胡建生",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084121",
-    "bookname": "V出纳岗位实务（含教学课件PPT 期中期末试卷及答案）/韦雁玲",
+    "bookname": "出纳岗位实务（含教学课件PPT 期中期末试卷及答案）/韦雁玲",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0084122",
-    "bookname": "V新编税务会计(第五版)(教学课件PPT、习题)/李海波 刘学华",
+    "bookname": "新编税务会计(第五版)(教学课件PPT、习题)/李海波 刘学华",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0084123",
-    "bookname": "V 3DS MAX 2012基础培训教程/时代印象",
+    "bookname": " 3DS MAX 2012基础培训教程/时代印象",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084124",
-    "bookname": "V 3DS MAX9室内效果图设计案例教程/刘崇建",
+    "bookname": " 3DS MAX9室内效果图设计案例教程/刘崇建",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084125",
-    "bookname": "V仓储实务/孙璐",
+    "bookname": "仓储实务/孙璐",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084126",
-    "bookname": "V建筑电工/人保部办公室",
+    "bookname": "建筑电工/人保部办公室",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084127",
-    "bookname": "V中餐面点基础/陈君",
+    "bookname": "中餐面点基础/陈君",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0084128",
-    "bookname": "V施工项目管理/王锁荣",
+    "bookname": "施工项目管理/王锁荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084129",
-    "bookname": "V建筑工程安全管理/李静",
+    "bookname": "建筑工程安全管理/李静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084130",
-    "bookname": "V建筑工程施工图实例和构造详图/林宏剑、蒋敏",
+    "bookname": "建筑工程施工图实例和构造详图/林宏剑、蒋敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084131",
-    "bookname": "V建筑装饰设计基础/李永霞",
+    "bookname": "建筑装饰设计基础/李永霞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084132",
-    "bookname": "V消费心理/徐雷、张莉",
+    "bookname": "消费心理/徐雷、张莉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084133",
-    "bookname": "V客房服务与管理练习册/廖建军",
+    "bookname": "客房服务与管理练习册/廖建军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084134",
-    "bookname": "V服装工艺练习册/孙兆全",
+    "bookname": "服装工艺练习册/孙兆全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084135",
-    "bookname": "V烹饪营养与卫生/张怀玉 蒋建基",
+    "bookname": "烹饪营养与卫生/张怀玉 蒋建基",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084136",
-    "bookname": "V机械设备维修技术(第三版)/吴先文",
+    "bookname": "机械设备维修技术(第三版)/吴先文",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084137",
-    "bookname": "V PLC编程与应用/徐辉、张艳",
+    "bookname": " PLC编程与应用/徐辉、张艳",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0084138",
-    "bookname": "V航空商务英语/",
+    "bookname": "航空商务英语/",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084139",
-    "bookname": "V公务员汉字书写5500钢笔行书(描摹)/司马彦",
+    "bookname": "公务员汉字书写5500钢笔行书(描摹)/司马彦",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084140",
-    "bookname": "V汽车电器设备构造与维修/凌晨",
+    "bookname": "汽车电器设备构造与维修/凌晨",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084141",
-    "bookname": "V幼儿简笔画教程/",
+    "bookname": "幼儿简笔画教程/",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084142",
-    "bookname": "V液晶等离子体电视机原理与维修第二版/",
+    "bookname": "液晶等离子体电视机原理与维修第二版/",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084143",
-    "bookname": "V汽车电工操作技能/张振",
+    "bookname": "汽车电工操作技能/张振",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0084144",
-    "bookname": "V机械识图(第2版)/娄海滨 崔陵",
+    "bookname": "机械识图(第2版)/娄海滨 崔陵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084145",
-    "bookname": "V UG NX 4.0中文基础教程/张云杰",
+    "bookname": " UG NX 4.0中文基础教程/张云杰",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084146",
-    "bookname": "V周测月考单元训练：语文基础模块下册/栗电民",
+    "bookname": "周测月考单元训练：语文基础模块下册/栗电民",
     "publishing": "世界知识"
 },
 {
     "subscribeCode": "18CJ0084147",
-    "bookname": "V国学经典诵读/李祖平、张容、王文志",
+    "bookname": "国学经典诵读/李祖平、张容、王文志",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0084148",
-    "bookname": "V中等职业学校对口升学考试复习指导语文/程秀梅",
+    "bookname": "中等职业学校对口升学考试复习指导语文/程秀梅",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0084149",
-    "bookname": "V中等职业学校对口升学考试练习册/程秀梅",
+    "bookname": "中等职业学校对口升学考试练习册/程秀梅",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0084150",
-    "bookname": "V中等职业学校对口升学考试全真模拟试卷语文/程秀梅",
+    "bookname": "中等职业学校对口升学考试全真模拟试卷语文/程秀梅",
     "publishing": "原子能"
 },
 {
     "subscribeCode": "18CJ0084151",
-    "bookname": "V时事职教（2016—2017学年度）下学期教学参考",
+    "bookname": "时事职教（2016—2017学年度）下学期教学参考",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0084152",
-    "bookname": "V普通高校对口招收中等职业学校毕业生考试备考丛书 语文/汪顺琼",
+    "bookname": "普通高校对口招收中等职业学校毕业生考试备考丛书 语文/汪顺琼",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084153",
-    "bookname": "V普通高校对口招收中等职业学校毕业生考试备考丛书 英语/柴灿、",
+    "bookname": "普通高校对口招收中等职业学校毕业生考试备考丛书 英语/柴灿、",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084154",
-    "bookname": "V电力拖动控制线路与技能训练(第五版)/田建芬 张文燕",
+    "bookname": "电力拖动控制线路与技能训练(第五版)/田建芬 张文燕",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084155",
-    "bookname": "V PLC技术与应用实训-(第2版)(三菱机型)(双色)/苏家健",
+    "bookname": " PLC技术与应用实训-(第2版)(三菱机型)(双色)/苏家健",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084156",
-    "bookname": "V变频器应用与实训教、学、做一体化教程/李冬冬等",
+    "bookname": "变频器应用与实训教、学、做一体化教程/李冬冬等",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084157",
-    "bookname": "V对口升学数学同步综合检测卷/胡开泽",
+    "bookname": "对口升学数学同步综合检测卷/胡开泽",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0084158",
-    "bookname": "V对口升学数学最后冲刺模拟卷/胡开泽",
+    "bookname": "对口升学数学最后冲刺模拟卷/胡开泽",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0084159",
-    "bookname": "V创新学案数学基础模块上册/刘景通",
+    "bookname": "创新学案数学基础模块上册/刘景通",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0084160",
-    "bookname": "V应用文写作(中职)/陈亮",
+    "bookname": "应用文写作(中职)/陈亮",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084161",
-    "bookname": "V会计基础",
+    "bookname": "会计基础",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0084162",
-    "bookname": "V财经法规与会计职业道德",
+    "bookname": "财经法规与会计职业道德",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0084163",
-    "bookname": "V会计电算化",
+    "bookname": "会计电算化",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0084164",
-    "bookname": "V企业经营沙盘模拟实训/余国艳",
+    "bookname": "企业经营沙盘模拟实训/余国艳",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084165",
-    "bookname": "V汽车发动机电控系统结构与检修/王树春 杨文华",
+    "bookname": "汽车发动机电控系统结构与检修/王树春 杨文华",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084166",
-    "bookname": "V汽车舒适与安全系统检测技术/陈国庆 罗黎",
+    "bookname": "汽车舒适与安全系统检测技术/陈国庆 罗黎",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084167",
-    "bookname": "V汽车维护与保养/魏领军 谢成嗣",
+    "bookname": "汽车维护与保养/魏领军 谢成嗣",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084168",
-    "bookname": "V汽车发动机构造与维修/汤少岩 徐永亮",
+    "bookname": "汽车发动机构造与维修/汤少岩 徐永亮",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084169",
-    "bookname": "V数控车床编程与操作(上册)/刘连宇",
+    "bookname": "数控车床编程与操作(上册)/刘连宇",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084170",
-    "bookname": "V数控编程应用数学/马俊玉 孙增学",
+    "bookname": "数控编程应用数学/马俊玉 孙增学",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084171",
-    "bookname": "V简单零件的数控车削加工/周海鹰",
+    "bookname": "简单零件的数控车削加工/周海鹰",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084172",
-    "bookname": "V单片机控制项目实训(C语言版)/黄汉平 余国",
+    "bookname": "单片机控制项目实训(C语言版)/黄汉平 余国",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084173",
-    "bookname": "V物流市场调查与分析/胡丽霞 陈捷",
+    "bookname": "物流市场调查与分析/胡丽霞 陈捷",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0084174",
-    "bookname": "V就业指导/李文星",
+    "bookname": "就业指导/李文星",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084175",
-    "bookname": "V OFFICE2010办公软件案例教程(第3版)/赖利群",
+    "bookname": " OFFICE2010办公软件案例教程(第3版)/赖利群",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084176",
-    "bookname": "V全国英语等级考试全真模拟试卷(一级B)(全新版)(附MP3光盘)/PETS",
+    "bookname": "全国英语等级考试全真模拟试卷(一级B)(全新版)(附MP3光盘)/PETS",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084177",
-    "bookname": "V收银技能强化训练(附光盘)/于家臻",
+    "bookname": "收银技能强化训练(附光盘)/于家臻",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084178",
-    "bookname": "V客户服务/许宝良",
+    "bookname": "客户服务/许宝良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084179",
-    "bookname": "V物流英语/罗德、金波",
+    "bookname": "物流英语/罗德、金波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084180",
-    "bookname": "V市场营销知识(第三版)(习题集)/冯金祥",
+    "bookname": "市场营销知识(第三版)(习题集)/冯金祥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084181",
-    "bookname": "V物流法律法规/陈汝平",
+    "bookname": "物流法律法规/陈汝平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084182",
-    "bookname": "V收银软件应用(附光盘)/于家臻",
+    "bookname": "收银软件应用(附光盘)/于家臻",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084183",
-    "bookname": "V配运作业实务/何华洲",
+    "bookname": "配运作业实务/何华洲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084184",
-    "bookname": "V图形图像处理-PHOTOSHOP CC",
+    "bookname": "图形图像处理-PHOTOSHOP CC",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084185",
-    "bookname": "V国际商务礼仪基础",
+    "bookname": "国际商务礼仪基础",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084186",
-    "bookname": "V三维动画制作(第2版)/向华",
+    "bookname": "三维动画制作(第2版)/向华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084187",
-    "bookname": "V会计信息化实用教程",
+    "bookname": "会计信息化实用教程",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084188",
-    "bookname": "V汽车电气拆装与维修实训",
+    "bookname": "汽车电气拆装与维修实训",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084189",
-    "bookname": "V汽车电器设备构造与维修/李参",
+    "bookname": "汽车电器设备构造与维修/李参",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0084190",
-    "bookname": "V哲学与人生/刘向东",
+    "bookname": "哲学与人生/刘向东",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0084191",
-    "bookname": "V汽车概论/王大寿",
+    "bookname": "汽车概论/王大寿",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084192",
-    "bookname": "V普通车削技术训练/张敬骥",
+    "bookname": "普通车削技术训练/张敬骥",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084193",
-    "bookname": "V幼儿美术赏析与创作/李建有",
+    "bookname": "幼儿美术赏析与创作/李建有",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084194",
-    "bookname": "V语文基础模块下册(修订版彩色)(附学习卡/防伪标)/倪文锦",
+    "bookname": "语文基础模块下册(修订版彩色)(附学习卡/防伪标)/倪文锦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084195",
-    "bookname": "V旅行社运营实务/陈波",
+    "bookname": "旅行社运营实务/陈波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084196",
-    "bookname": "V钳工实习与考级/王琪",
+    "bookname": "钳工实习与考级/王琪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084197",
-    "bookname": "V数控车工实习与考级（发那科系统）（附光盘）/孙伟伟",
+    "bookname": "数控车工实习与考级（发那科系统）（附光盘）/孙伟伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084198",
-    "bookname": "V幼儿卫生保健/李冬燕、杜学君",
+    "bookname": "幼儿卫生保健/李冬燕、杜学君",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084199",
-    "bookname": "V ERP沙盘模拟高级指导教程（第3版） 王新玲 郑文昭",
+    "bookname": " ERP沙盘模拟高级指导教程（第3版） 王新玲 郑文昭",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084200",
-    "bookname": "V商务网站设计与开发实训/马玉华 张秀乾 赵辉",
+    "bookname": "商务网站设计与开发实训/马玉华 张秀乾 赵辉",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084201",
-    "bookname": "V PHOTOSHOP CS6项目教程 /吕春美",
+    "bookname": " PHOTOSHOP CS6项目教程 /吕春美",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084202",
-    "bookname": "V导游实务(电子课件+教案+试题库)/桂家红",
+    "bookname": "导游实务(电子课件+教案+试题库)/桂家红",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084203",
-    "bookname": "V幼儿教师礼仪基础教程/康晶",
+    "bookname": "幼儿教师礼仪基础教程/康晶",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084204",
-    "bookname": "V电子产品装配技术与技能实训(修订版)/韩雪涛",
+    "bookname": "电子产品装配技术与技能实训(修订版)/韩雪涛",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084205",
-    "bookname": "V教你成为一流汽车电工/周晓飞",
+    "bookname": "教你成为一流汽车电工/周晓飞",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084206",
-    "bookname": "V新能源汽车技术/徐世翔",
+    "bookname": "新能源汽车技术/徐世翔",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084207",
-    "bookname": "V汽车电器维修理实一体化教材/王成波",
+    "bookname": "汽车电器维修理实一体化教材/王成波",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084208",
-    "bookname": "V景区(点)讲解员实训教程",
+    "bookname": "景区(点)讲解员实训教程",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084209",
-    "bookname": "V经济政治与社会/胡梦林",
+    "bookname": "经济政治与社会/胡梦林",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0084210",
-    "bookname": "V零件测量与质量控制技术(第2版)?/娄海滨，崔陵",
+    "bookname": "零件测量与质量控制技术(第2版)?/娄海滨，崔陵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084211",
-    "bookname": "V服装材料（沪版）/刘小君",
+    "bookname": "服装材料（沪版）/刘小君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084212",
-    "bookname": "V PLC项目实训—TWIDO系列(附光盘)(附防伪标)/姜治臻",
+    "bookname": " PLC项目实训—TWIDO系列(附光盘)(附防伪标)/姜治臻",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084213",
-    "bookname": "V小家电原理与维修/孙立群",
+    "bookname": "小家电原理与维修/孙立群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084214",
-    "bookname": "V单片机技术与应用(双色)(附学习卡/防伪标)/耿淬",
+    "bookname": "单片机技术与应用(双色)(附学习卡/防伪标)/耿淬",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084215",
-    "bookname": "V对口升学英语总复习/",
+    "bookname": "对口升学英语总复习/",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0084216",
-    "bookname": "V钢琴弹唱基础教程/张静",
+    "bookname": "钢琴弹唱基础教程/张静",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084217",
-    "bookname": "V CAXA制造工程师2013项目教程/赵永刚",
+    "bookname": " CAXA制造工程师2013项目教程/赵永刚",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084218",
-    "bookname": "V数控机床维护常识/窦湘屏",
+    "bookname": "数控机床维护常识/窦湘屏",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084219",
-    "bookname": "V量具、量仪与测量技术/顾小玲?",
+    "bookname": "量具、量仪与测量技术/顾小玲?",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084220",
-    "bookname": "V铸造工程师手册第3版/中国铸造协会《铸造工程师手册》编写组",
+    "bookname": "铸造工程师手册第3版/中国铸造协会《铸造工程师手册》编写组",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084221",
-    "bookname": "V金属切削工具常识及使用方法/技能士友编集部编著，陈爱平等译",
+    "bookname": "金属切削工具常识及使用方法/技能士友编集部编著，陈爱平等译",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084222",
-    "bookname": "V金属材料与热处理/王学武",
+    "bookname": "金属材料与热处理/王学武",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084223",
-    "bookname": "V铣削加工技术/张晓琳",
+    "bookname": "铣削加工技术/张晓琳",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084224",
-    "bookname": "V磨削加工技术/李兆松",
+    "bookname": "磨削加工技术/李兆松",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084225",
-    "bookname": "V网页设计与制作(PHOTOSHOP+DREAMWEAVER+FLASH)立体化教程/危锋",
+    "bookname": "网页设计与制作(PHOTOSHOP+DREAMWEAVER+FLASH)立体化教程/危锋",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084226",
-    "bookname": "V汽车发动机构造与维修/孔祥奴",
+    "bookname": "汽车发动机构造与维修/孔祥奴",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0084227",
-    "bookname": "V会计电算化(T3版)/吴光友 胡兴苗 莫盈菊",
+    "bookname": "会计电算化(T3版)/吴光友 胡兴苗 莫盈菊",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084228",
-    "bookname": "V会计基础与实训/黄智高",
+    "bookname": "会计基础与实训/黄智高",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084229",
-    "bookname": "V会计基础与实训学习指导/黄智高",
+    "bookname": "会计基础与实训学习指导/黄智高",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084230",
-    "bookname": "V市场营销基础/胡兴苗 杜丽茹 周浩",
+    "bookname": "市场营销基础/胡兴苗 杜丽茹 周浩",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084231",
-    "bookname": "V前厅服务/卓陈健",
+    "bookname": "前厅服务/卓陈健",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084232",
-    "bookname": "V饭店服务礼仪/李嘉珊",
+    "bookname": "饭店服务礼仪/李嘉珊",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084233",
-    "bookname": "V面部彩绘化妆 /郭京英",
+    "bookname": "面部彩绘化妆 /郭京英",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084234",
-    "bookname": "V零件普通铣床加工-(三)/人力资源和社会保障部教材办公室组织写",
+    "bookname": "零件普通铣床加工-(三)/人力资源和社会保障部教材办公室组织写",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084235",
-    "bookname": "V国家职业资格培训教程：焊工(基础知识)(第2版)/中国就业培训技",
+    "bookname": "国家职业资格培训教程：焊工(基础知识)(第2版)/中国就业培训技",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084236",
-    "bookname": "V学前儿童发展心理学/张静",
+    "bookname": "学前儿童发展心理学/张静",
     "publishing": "印刷工业"
 },
 {
     "subscribeCode": "18CJ0084237",
-    "bookname": "V幼儿园活动设计与实践（附课件）/张彧、万超林",
+    "bookname": "幼儿园活动设计与实践（附课件）/张彧、万超林",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084238",
-    "bookname": "V旅游心理学/邓军华",
+    "bookname": "旅游心理学/邓军华",
     "publishing": "中国旅游"
 },
 {
     "subscribeCode": "18CJ0084239",
-    "bookname": "V汽车电气设备及辅助系统检测与维修工/周德新",
+    "bookname": "汽车电气设备及辅助系统检测与维修工/周德新",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084240",
-    "bookname": "V数控铣削加工与实训一体化教程/翟建强",
+    "bookname": "数控铣削加工与实训一体化教程/翟建强",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084241",
-    "bookname": "V AUTOCAD2012基础教程/于世楠、林瑾、马健",
+    "bookname": " AUTOCAD2012基础教程/于世楠、林瑾、马健",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0084242",
-    "bookname": "V历史/尹素英",
+    "bookname": "历史/尹素英",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0084243",
-    "bookname": "V土木工程概论(第4版)/叶志明",
+    "bookname": "土木工程概论(第4版)/叶志明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084244",
-    "bookname": "V物流仓储管理实务(第二版)/薛威",
+    "bookname": "物流仓储管理实务(第二版)/薛威",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084245",
-    "bookname": "V职业院校德育工作优秀论文选编(1)/中国职教学会德育工作委员会",
+    "bookname": "职业院校德育工作优秀论文选编(1)/中国职教学会德育工作委员会",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084246",
-    "bookname": "V职业院校德育工作优秀论文选编(2)/中国职教学会德育工作委员会",
+    "bookname": "职业院校德育工作优秀论文选编(2)/中国职教学会德育工作委员会",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084247",
-    "bookname": "V职业院校德育工作优秀论文选编(3)/中国职教学会德育工作委员会",
+    "bookname": "职业院校德育工作优秀论文选编(3)/中国职教学会德育工作委员会",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084248",
-    "bookname": "V 60170074-3/中国职教学会德育工作委员会",
+    "bookname": " 60170074-3/中国职教学会德育工作委员会",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084249",
-    "bookname": "V职业院校德育工作优秀论文选编(4)/中国职教学会德育工作委员会",
+    "bookname": "职业院校德育工作优秀论文选编(4)/中国职教学会德育工作委员会",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084250",
-    "bookname": "V怎样建设中等职业学校/崔炳建",
+    "bookname": "怎样建设中等职业学校/崔炳建",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084251",
-    "bookname": "V财贸学生专业技能标准与职业成长记录/汪建平",
+    "bookname": "财贸学生专业技能标准与职业成长记录/汪建平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084252",
-    "bookname": "V职业教育与成人教育发展改革的探索/王明达",
+    "bookname": "职业教育与成人教育发展改革的探索/王明达",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084253",
-    "bookname": "V职教风采　梦想飞扬—第十一届中等职业学校文明风采竞赛优秀作",
+    "bookname": "职教风采　梦想飞扬—第十一届中等职业学校文明风采竞赛优秀作",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084254",
-    "bookname": "V中等职业学校德育课贯彻党的十八大精神教学指导纲要/教育部职成",
+    "bookname": "中等职业学校德育课贯彻党的十八大精神教学指导纲要/教育部职成",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084255",
-    "bookname": "V现代职业教育发展与反思/徐涵",
+    "bookname": "现代职业教育发展与反思/徐涵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084256",
-    "bookname": "V VB程序设计及应用/李淑华",
+    "bookname": " VB程序设计及应用/李淑华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084257",
-    "bookname": "V办公设备使用与维护/覃海波",
+    "bookname": "办公设备使用与维护/覃海波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084258",
-    "bookname": "V工程造价软件应用/陈文建",
+    "bookname": "工程造价软件应用/陈文建",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084259",
-    "bookname": "V工程与环境物探教程/陈仲侯",
+    "bookname": "工程与环境物探教程/陈仲侯",
     "publishing": "地质"
 },
 {
     "subscribeCode": "18CJ0084260",
-    "bookname": "V电子技术与实训教程/袁光德",
+    "bookname": "电子技术与实训教程/袁光德",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0084261",
-    "bookname": "V工程力学/蒋永敏",
+    "bookname": "工程力学/蒋永敏",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0084262",
-    "bookname": "V工程力学/高剑飞",
+    "bookname": "工程力学/高剑飞",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084263",
-    "bookname": "V土木工程施工/祝彦知",
+    "bookname": "土木工程施工/祝彦知",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084264",
-    "bookname": "V国际金融/罗雁",
+    "bookname": "国际金融/罗雁",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084265",
-    "bookname": "V土地管理信息系统/孙在宏",
+    "bookname": "土地管理信息系统/孙在宏",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084266",
-    "bookname": "V工程力学/孔七一",
+    "bookname": "工程力学/孔七一",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084267",
-    "bookname": "V工程结构/白淑毅",
+    "bookname": "工程结构/白淑毅",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084268",
-    "bookname": "V发电厂动力设备/郑国",
+    "bookname": "发电厂动力设备/郑国",
     "publishing": "浙江大学"
 },
 {
     "subscribeCode": "18CJ0084269",
-    "bookname": "V混凝土结构工程施工",
+    "bookname": "混凝土结构工程施工",
     "publishing": "浙江大学"
 },
 {
     "subscribeCode": "18CJ0084270",
-    "bookname": "V电子技术/马安良",
+    "bookname": "电子技术/马安良",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0084271",
-    "bookname": "V(BX)电子商务实用教程/陈头喜",
+    "bookname": "(BX)电子商务实用教程/陈头喜",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084272",
-    "bookname": "V多媒体制作(第2版)(彩色)(附光盘)/史晓云",
+    "bookname": "多媒体制作(第2版)(彩色)(附光盘)/史晓云",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084273",
-    "bookname": "V普通话/王宁/十二五国家规划/王宁",
+    "bookname": "普通话/王宁/十二五国家规划/王宁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084274",
-    "bookname": "V数学学习与训练(职业模块工科类)(修订版)(附光盘)（附学习卡/防",
+    "bookname": "数学学习与训练(职业模块工科类)(修订版)(附光盘)（附学习卡/防",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084275",
-    "bookname": "V点钞与账表算(配盘)/王玉玲",
+    "bookname": "点钞与账表算(配盘)/王玉玲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084276",
-    "bookname": "V英语高职入学考试复习指导(拓展模块)",
+    "bookname": "英语高职入学考试复习指导(拓展模块)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084277",
-    "bookname": "V英语(职业模块)(服务类)/编写组",
+    "bookname": "英语(职业模块)(服务类)/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084278",
-    "bookname": "V三维动画技术项目教程-3DS MAX/",
+    "bookname": "三维动画技术项目教程-3DS MAX/",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0084279",
-    "bookname": "V酒店营销入门/",
+    "bookname": "酒店营销入门/",
     "publishing": "大象"
 },
 {
     "subscribeCode": "18CJ0084280",
-    "bookname": "V心理健康教育/",
+    "bookname": "心理健康教育/",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0084281",
-    "bookname": "V手绘POP实战全攻略/",
+    "bookname": "手绘POP实战全攻略/",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0084282",
-    "bookname": "V传统文化国学经典朗读/",
+    "bookname": "传统文化国学经典朗读/",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084283",
-    "bookname": "V新概念广告设计/",
+    "bookname": "新概念广告设计/",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084284",
-    "bookname": "V汽车营销实务/十二五职业教育(内附资源库)",
+    "bookname": "汽车营销实务/十二五职业教育(内附资源库)",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084285",
-    "bookname": "V汽车维护与保养/十二五职业教育(内附资源库)",
+    "bookname": "汽车维护与保养/十二五职业教育(内附资源库)",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084286",
-    "bookname": "V建筑CAD/十二五职业教育",
+    "bookname": "建筑CAD/十二五职业教育",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084287",
-    "bookname": "V小键盘指法训练/",
+    "bookname": "小键盘指法训练/",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084288",
-    "bookname": "V焊接技术/",
+    "bookname": "焊接技术/",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084289",
-    "bookname": "V奥尔夫音乐教育思想与实践(新版)",
+    "bookname": "奥尔夫音乐教育思想与实践(新版)",
     "publishing": "上海教育"
 },
 {
     "subscribeCode": "18CJ0084290",
-    "bookname": "V汽车钣金工艺与涂装技术/",
+    "bookname": "汽车钣金工艺与涂装技术/",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0084291",
-    "bookname": "V VISUAL BASIC程序设计(第4版)/丁爱萍",
+    "bookname": " VISUAL BASIC程序设计(第4版)/丁爱萍",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084292",
-    "bookname": "V图解三菱PLC变频器与触摸屏综合应用/李向初",
+    "bookname": "图解三菱PLC变频器与触摸屏综合应用/李向初",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084293",
-    "bookname": "V体育与健康/陈胜利",
+    "bookname": "体育与健康/陈胜利",
     "publishing": "现代教育"
 },
 {
     "subscribeCode": "18CJ0084294",
-    "bookname": "V电气自动化通用设备应用系列 触摸屏、组态软件入门与典型应用/",
+    "bookname": "电气自动化通用设备应用系列 触摸屏、组态软件入门与典型应用/",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0084295",
-    "bookname": "V幼儿园环境创设/李贞",
+    "bookname": "幼儿园环境创设/李贞",
     "publishing": "江苏大学"
 },
 {
     "subscribeCode": "18CJ0084296",
-    "bookname": "V金属加工与实训—焊工实训练习册(附学习卡/防伪标)",
+    "bookname": "金属加工与实训—焊工实训练习册(附学习卡/防伪标)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084297",
-    "bookname": "V饭店服务技能综合实训--茶艺(第二版)/周作明 马小玲",
+    "bookname": "饭店服务技能综合实训--茶艺(第二版)/周作明 马小玲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084298",
-    "bookname": "V模拟导游(第三版)/窦志萍",
+    "bookname": "模拟导游(第三版)/窦志萍",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084299",
-    "bookname": "V礼仪形象修养教程(第二版 杜巍 王艳）",
+    "bookname": "礼仪形象修养教程(第二版 杜巍 王艳）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084300",
-    "bookname": "V旅游心理学",
+    "bookname": "旅游心理学",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084301",
-    "bookname": "V电气设备安装与维护项目实训(双色)(附学习卡/防伪标)/曾祥富",
+    "bookname": "电气设备安装与维护项目实训(双色)(附学习卡/防伪标)/曾祥富",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084302",
-    "bookname": "V英语基础模块预备级练习册(第二版)",
+    "bookname": "英语基础模块预备级练习册(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084303",
-    "bookname": "V英语基础模块预备级教师用书(第二版)",
+    "bookname": "英语基础模块预备级教师用书(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084304",
-    "bookname": "V初中数学知识补习课本练习题详解(附光盘)",
+    "bookname": "初中数学知识补习课本练习题详解(附光盘)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084305",
-    "bookname": "V计算机应用基础(WINDOWS7+OFFICE2010)/周进  余路  阙彩球",
+    "bookname": "计算机应用基础(WINDOWS7+OFFICE2010)/周进  余路  阙彩球",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084306",
-    "bookname": "V电子技术基础 / 张在德 汪浩根",
+    "bookname": "电子技术基础 / 张在德 汪浩根",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084307",
-    "bookname": "V电子技术项目实训教程/王 静 夏建成",
+    "bookname": "电子技术项目实训教程/王 静 夏建成",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084308",
-    "bookname": "V数控车床维护与精度检验—预备技师数控机床加工(数控车工)",
+    "bookname": "数控车床维护与精度检验—预备技师数控机床加工(数控车工)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084309",
-    "bookname": "V四川省对口升学考试高职单招考试复习指导丛书：数学/潘万伟",
+    "bookname": "四川省对口升学考试高职单招考试复习指导丛书：数学/潘万伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084310",
-    "bookname": "V数控车削编程与加工技术(GSK980TDA系统)/廖锦鲜 谭鹏程",
+    "bookname": "数控车削编程与加工技术(GSK980TDA系统)/廖锦鲜 谭鹏程",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084311",
-    "bookname": "V二维动画设计软件应用－FLASH(第2版)(附学习卡/防伪标)/王涛 赵",
+    "bookname": "二维动画设计软件应用－FLASH(第2版)(附学习卡/防伪标)/王涛 赵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084312",
-    "bookname": "V发电厂变电站电气设备(第三版)卢文鹏",
+    "bookname": "发电厂变电站电气设备(第三版)卢文鹏",
     "publishing": "中国电力"
 },
 {
     "subscribeCode": "18CJ0084313",
-    "bookname": "V数控车床加工工艺与编程操作/王兵",
+    "bookname": "数控车床加工工艺与编程操作/王兵",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084314",
-    "bookname": "V会计信息化应用教程/张梅",
+    "bookname": "会计信息化应用教程/张梅",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084315",
-    "bookname": "V计算机应用基础综合练习指导/张兴华",
+    "bookname": "计算机应用基础综合练习指导/张兴华",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084316",
-    "bookname": "V电子商务基础(第二版)/陈孟建",
+    "bookname": "电子商务基础(第二版)/陈孟建",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084317",
-    "bookname": "V中国饮食文化/赵荣光",
+    "bookname": "中国饮食文化/赵荣光",
     "publishing": "上海人民"
 },
 {
     "subscribeCode": "18CJ0084318",
-    "bookname": "V汽车电工电子技术/曹红玉",
+    "bookname": "汽车电工电子技术/曹红玉",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084319",
-    "bookname": "V餐饮服务心理学/汪艳丽",
+    "bookname": "餐饮服务心理学/汪艳丽",
     "publishing": "经济管理"
 },
 {
     "subscribeCode": "18CJ0084320",
-    "bookname": "V汽车故障诊断与检测/王小飞",
+    "bookname": "汽车故障诊断与检测/王小飞",
     "publishing": "哈工大"
 },
 {
     "subscribeCode": "18CJ0084321",
-    "bookname": "V信息处理能力训练/陆伟峰/中等职业学校公共素质教育系列规划教",
+    "bookname": "信息处理能力训练/陆伟峰/中等职业学校公共素质教育系列规划教",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084322",
-    "bookname": "V护理人文修养与沟通技术(第2版/本科中医药类/配增值)/张翠娣",
+    "bookname": "护理人文修养与沟通技术(第2版/本科中医药类/配增值)/张翠娣",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084323",
-    "bookname": "V英语基础模块预备级电子教案 （第二版）",
+    "bookname": "英语基础模块预备级电子教案 （第二版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084324",
-    "bookname": "V基层医师急诊急救指南",
+    "bookname": "基层医师急诊急救指南",
     "publishing": "医药科技"
 },
 {
     "subscribeCode": "18CJ0084325",
-    "bookname": "V急救医学基础/魏蕊 魏瑛",
+    "bookname": "急救医学基础/魏蕊 魏瑛",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084326",
-    "bookname": "V旅游概论练习册",
+    "bookname": "旅游概论练习册",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084327",
-    "bookname": "V(BX)导游基础知识/张君升",
+    "bookname": "(BX)导游基础知识/张君升",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084328",
-    "bookname": "V餐饮服务与管理",
+    "bookname": "餐饮服务与管理",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0084329",
-    "bookname": "V数控车床与编程操作广数系统练习册/崔兆华",
+    "bookname": "数控车床与编程操作广数系统练习册/崔兆华",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084330",
-    "bookname": "V数控铣床(加工中心)编程与操作/刘蔡保",
+    "bookname": "数控铣床(加工中心)编程与操作/刘蔡保",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084331",
-    "bookname": "V汽车检测技术/李参",
+    "bookname": "汽车检测技术/李参",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0084332",
-    "bookname": "V中小型局域网搭建与管理实训教程/杨泉波",
+    "bookname": "中小型局域网搭建与管理实训教程/杨泉波",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084333",
-    "bookname": "V食品营养与卫生/袁仲",
+    "bookname": "食品营养与卫生/袁仲",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084334",
-    "bookname": "V网络营销/刘春青",
+    "bookname": "网络营销/刘春青",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084335",
-    "bookname": "V旅游饭店英语/尹立荣",
+    "bookname": "旅游饭店英语/尹立荣",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084336",
-    "bookname": "V中国饮食文化/都大明",
+    "bookname": "中国饮食文化/都大明",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0084337",
-    "bookname": "V数控车床编程与操作/刘蔡保",
+    "bookname": "数控车床编程与操作/刘蔡保",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084338",
-    "bookname": "V钢笔楷书字帖—精彩表达素材集锦/李旭芳",
+    "bookname": "钢笔楷书字帖—精彩表达素材集锦/李旭芳",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084339",
-    "bookname": "V数控车床编程与实训(FANUC 0I系统)/段建辉",
+    "bookname": "数控车床编程与实训(FANUC 0I系统)/段建辉",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084340",
-    "bookname": "V常规零件的数控加工/范秉欣",
+    "bookname": "常规零件的数控加工/范秉欣",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084341",
-    "bookname": "V车削加工技术/吴迪",
+    "bookname": "车削加工技术/吴迪",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084342",
-    "bookname": "V插花艺术/周志刚 李云海",
+    "bookname": "插花艺术/周志刚 李云海",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084343",
-    "bookname": "V钳工工艺与实训/陈冰、黄路明",
+    "bookname": "钳工工艺与实训/陈冰、黄路明",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084344",
-    "bookname": "V新技能英语高级教程综合训练2/张连仲",
+    "bookname": "新技能英语高级教程综合训练2/张连仲",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084345",
-    "bookname": "V新技能英语高级教程教师用书2/张连仲",
+    "bookname": "新技能英语高级教程教师用书2/张连仲",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084346",
-    "bookname": "V素描基础教程从结构到明暗1*几何石膏体",
+    "bookname": "素描基础教程从结构到明暗1*几何石膏体",
     "publishing": "安徽美术"
 },
 {
     "subscribeCode": "18CJ0084347",
-    "bookname": "V素描基础教程从结构到明暗2*单体静物",
+    "bookname": "素描基础教程从结构到明暗2*单体静物",
     "publishing": "安徽美术"
 },
 {
     "subscribeCode": "18CJ0084348",
-    "bookname": "V中文版DREAMWEAVERCS6基础培训教程",
+    "bookname": "中文版DREAMWEAVERCS6基础培训教程",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084349",
-    "bookname": "V创新创业实践能力训练(双色)含微课/王涛 严光玉、刘丽华",
+    "bookname": "创新创业实践能力训练(双色)含微课/王涛 严光玉、刘丽华",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084350",
-    "bookname": "V幼儿歌曲钢琴伴奏谱108首",
+    "bookname": "幼儿歌曲钢琴伴奏谱108首",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0084351",
-    "bookname": "V四川省职业教育最新对口升学复习指导语文/陈久第地 魏华",
+    "bookname": "四川省职业教育最新对口升学复习指导语文/陈久第地 魏华",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084352",
-    "bookname": "V四川省职业教育最新对口升学复习指导 数学/彭鼎 杜仁明",
+    "bookname": "四川省职业教育最新对口升学复习指导 数学/彭鼎 杜仁明",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084353",
-    "bookname": "V四川省职业教育最新对口升学复习指导 英语/李浪涛 李秋爽",
+    "bookname": "四川省职业教育最新对口升学复习指导 英语/李浪涛 李秋爽",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084354",
-    "bookname": "V公共艺术(美术)2016新版/唐恺翼",
+    "bookname": "公共艺术(美术)2016新版/唐恺翼",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084355",
-    "bookname": "V汽车底盘拆装与维修/戴宽强",
+    "bookname": "汽车底盘拆装与维修/戴宽强",
     "publishing": "地质大学"
 },
 {
     "subscribeCode": "18CJ0084356",
-    "bookname": "V网络综合布线(双色)韦鸿举",
+    "bookname": "网络综合布线(双色)韦鸿举",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084357",
-    "bookname": "V超值典藏1《论语》的智慧",
+    "bookname": "超值典藏1《论语》的智慧",
     "publishing": "吉林出版"
 },
 {
     "subscribeCode": "18CJ0084358",
-    "bookname": "V英语2/刘黛琳",
+    "bookname": "英语2/刘黛琳",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084359",
-    "bookname": "V英语2练习册/刘黛琳",
+    "bookname": "英语2练习册/刘黛琳",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084360",
-    "bookname": "V英语2教师教学用书",
+    "bookname": "英语2教师教学用书",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084361",
-    "bookname": "V汽车文化概论",
+    "bookname": "汽车文化概论",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084362",
-    "bookname": "V中英文录入技术(第三版)",
+    "bookname": "中英文录入技术(第三版)",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0084363",
-    "bookname": "V汽车识图第二版",
+    "bookname": "汽车识图第二版",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084364",
-    "bookname": "V职业道德与法律 学生用书(单色版)(附学习卡帐号)/焦洪昌 扈文华",
+    "bookname": "职业道德与法律 学生用书(单色版)(附学习卡帐号)/焦洪昌 扈文华",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084365",
-    "bookname": "V汽车装饰与美容",
+    "bookname": "汽车装饰与美容",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084366",
-    "bookname": "V出纳实务(第3版)(附练习册)",
+    "bookname": "出纳实务(第3版)(附练习册)",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0084367",
-    "bookname": "V汽车售后服务与管理",
+    "bookname": "汽车售后服务与管理",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084368",
-    "bookname": "V绘画基础2000例—素描静物",
+    "bookname": "绘画基础2000例—素描静物",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0084369",
-    "bookname": "V单片机原理及应用/吴建宁",
+    "bookname": "单片机原理及应用/吴建宁",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084370",
-    "bookname": "V光传输系统的组建与维护",
+    "bookname": "光传输系统的组建与维护",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084371",
-    "bookname": "V全国技工院校专业目录",
+    "bookname": "全国技工院校专业目录",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084372",
-    "bookname": "V(BX)会议服务/张杨莉",
+    "bookname": "(BX)会议服务/张杨莉",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084373",
-    "bookname": "V亲亲宝贝丛书：儿童歌曲",
+    "bookname": "亲亲宝贝丛书：儿童歌曲",
     "publishing": "世界图书"
 },
 {
     "subscribeCode": "18CJ0084374",
-    "bookname": "V大学英语二级考试模拟试题",
+    "bookname": "大学英语二级考试模拟试题",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084375",
-    "bookname": "V中国文化概论",
+    "bookname": "中国文化概论",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084376",
-    "bookname": "V中级财务会计",
+    "bookname": "中级财务会计",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084377",
-    "bookname": "V建筑工程质量验收",
+    "bookname": "建筑工程质量验收",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084378",
-    "bookname": "V PHOTOSHOP图像处理项目化教程",
+    "bookname": " PHOTOSHOP图像处理项目化教程",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084379",
-    "bookname": "V医学生实用口才教程（第二版）",
+    "bookname": "医学生实用口才教程（第二版）",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084380",
-    "bookname": "V纳税实务",
+    "bookname": "纳税实务",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084381",
-    "bookname": "V网络安全技术",
+    "bookname": "网络安全技术",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0084382",
-    "bookname": "V学前儿童体育/冯志坚",
+    "bookname": "学前儿童体育/冯志坚",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0084383",
-    "bookname": "V学前儿童科学教育/廖丽英",
+    "bookname": "学前儿童科学教育/廖丽英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084384",
-    "bookname": "V学前儿童语言教育/周兢",
+    "bookname": "学前儿童语言教育/周兢",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084385",
-    "bookname": "V学前教育专业学生实习指导/李新生",
+    "bookname": "学前教育专业学生实习指导/李新生",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084386",
-    "bookname": "V社会科学基础/曲庆彪",
+    "bookname": "社会科学基础/曲庆彪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084387",
-    "bookname": "V学前儿童家庭教育/马莉",
+    "bookname": "学前儿童家庭教育/马莉",
     "publishing": "湖南师大"
 },
 {
     "subscribeCode": "18CJ0084388",
-    "bookname": "V舞蹈基础与幼儿舞蹈创编/任红军",
+    "bookname": "舞蹈基础与幼儿舞蹈创编/任红军",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084389",
-    "bookname": "V物流法律法规基础（第2版）/方仲民",
+    "bookname": "物流法律法规基础（第2版）/方仲民",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084390",
-    "bookname": "V物流专业英语（第3版）/程世平",
+    "bookname": "物流专业英语（第3版）/程世平",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084391",
-    "bookname": "V 3DS MAX室内设计与制作/张红 邵亚男",
+    "bookname": " 3DS MAX室内设计与制作/张红 邵亚男",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0084392",
-    "bookname": "V幼儿园班级管理/张彧 陈秀媚 梁艳珍",
+    "bookname": "幼儿园班级管理/张彧 陈秀媚 梁艳珍",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084393",
-    "bookname": "V商务礼仪/黄智萌 赵延君",
+    "bookname": "商务礼仪/黄智萌 赵延君",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084394",
-    "bookname": "V PHOTOSHOP CS5平面设计实战案例教程/段宏斌",
+    "bookname": " PHOTOSHOP CS5平面设计实战案例教程/段宏斌",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084395",
-    "bookname": "V工程招投标与合同管理/邵转吉 常青（十二五职业教育）",
+    "bookname": "工程招投标与合同管理/邵转吉 常青（十二五职业教育）",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084396",
-    "bookname": "V幼儿教育政策法规/陈国维",
+    "bookname": "幼儿教育政策法规/陈国维",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084397",
-    "bookname": "V学前儿童健康教育/商玉兰",
+    "bookname": "学前儿童健康教育/商玉兰",
     "publishing": "辽宁大学"
 },
 {
     "subscribeCode": "18CJ0084398",
-    "bookname": "V快递实务/邓金蕾",
+    "bookname": "快递实务/邓金蕾",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0084399",
-    "bookname": "V古蜀四川--景点与文化/朱华",
+    "bookname": "古蜀四川--景点与文化/朱华",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084400",
-    "bookname": "V金属材料及热处理/王孝峰",
+    "bookname": "金属材料及热处理/王孝峰",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084401",
-    "bookname": "V机械加工常识/杨柳青",
+    "bookname": "机械加工常识/杨柳青",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084402",
-    "bookname": "V现代礼仪规范教程（2版）/曲桂蓉 谢善琼",
+    "bookname": "现代礼仪规范教程（2版）/曲桂蓉 谢善琼",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084403",
-    "bookname": "V服装市场营销/李雪枫",
+    "bookname": "服装市场营销/李雪枫",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0084404",
-    "bookname": "V经济学基础/林玉芬 黎凯然",
+    "bookname": "经济学基础/林玉芬 黎凯然",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084405",
-    "bookname": "V小学教育科研",
+    "bookname": "小学教育科研",
     "publishing": "山东人民"
 },
 {
     "subscribeCode": "18CJ0084406",
-    "bookname": "V小学班级管理（第2版）",
+    "bookname": "小学班级管理（第2版）",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084407",
-    "bookname": "V幼儿文学创作与欣赏（第2版）",
+    "bookname": "幼儿文学创作与欣赏（第2版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084408",
-    "bookname": "V资料员岗位知识与专业技能",
+    "bookname": "资料员岗位知识与专业技能",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0084409",
-    "bookname": "V电子元器件（第2版）/汪明添、谢忠福",
+    "bookname": "电子元器件（第2版）/汪明添、谢忠福",
     "publishing": "航空航天"
 },
 {
     "subscribeCode": "18CJ0084410",
-    "bookname": "V经济法律法规/林帅",
+    "bookname": "经济法律法规/林帅",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084411",
-    "bookname": "V汽车维修企业管理/吴书豪",
+    "bookname": "汽车维修企业管理/吴书豪",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084412",
-    "bookname": "V汽车生产与质量管理/陈婷",
+    "bookname": "汽车生产与质量管理/陈婷",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084413",
-    "bookname": "V汽车配件与物流管理/郑颖杰",
+    "bookname": "汽车配件与物流管理/郑颖杰",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084414",
-    "bookname": "V物流中心运作管理（第2版）/孙学琴",
+    "bookname": "物流中心运作管理（第2版）/孙学琴",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084415",
-    "bookname": "V物流企业沙盘模拟实训教程/陆清华",
+    "bookname": "物流企业沙盘模拟实训教程/陆清华",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084416",
-    "bookname": "V电子商务概论/李再跃",
+    "bookname": "电子商务概论/李再跃",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084417",
-    "bookname": "V公司理财/况培颖",
+    "bookname": "公司理财/况培颖",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0084418",
-    "bookname": "V职业素养训练/郑瑞涛",
+    "bookname": "职业素养训练/郑瑞涛",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084419",
-    "bookname": "V网络工程案例/符天,许嵩明,王贞'",
+    "bookname": "网络工程案例/符天,许嵩明,王贞'",
     "publishing": "国防工业"
 },
 {
     "subscribeCode": "18CJ0084420",
-    "bookname": "V数控车工：技师 高级技师",
+    "bookname": "数控车工：技师 高级技师",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084421",
-    "bookname": "V维修电工：技师 高级技师 上册",
+    "bookname": "维修电工：技师 高级技师 上册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084422",
-    "bookname": "V焊工：技师 高级技师",
+    "bookname": "焊工：技师 高级技师",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084423",
-    "bookname": "V工具钳工：技师 高级技师/杨棣",
+    "bookname": "工具钳工：技师 高级技师/杨棣",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084424",
-    "bookname": "V单片机系统设计及应用/夏明娜、高玉芝",
+    "bookname": "单片机系统设计及应用/夏明娜、高玉芝",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084425",
-    "bookname": "V学前教育科学研究方法/张燕、邢利娅",
+    "bookname": "学前教育科学研究方法/张燕、邢利娅",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084426",
-    "bookname": "V英语1（高职高专版）（第三版）/编写组",
+    "bookname": "英语1（高职高专版）（第三版）/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084427",
-    "bookname": "V教育学原理 /柳海民",
+    "bookname": "教育学原理 /柳海民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084428",
-    "bookname": "V普通心理学 /游旭群",
+    "bookname": "普通心理学 /游旭群",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084429",
-    "bookname": "V盆景与插花技艺/张德炎、程冉、夏晶晖",
+    "bookname": "盆景与插花技艺/张德炎、程冉、夏晶晖",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084430",
-    "bookname": "V风景园林建筑管理与法规/姜虹、任君华、张丹",
+    "bookname": "风景园林建筑管理与法规/姜虹、任君华、张丹",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084431",
-    "bookname": "V园林CAD/唐登明",
+    "bookname": "园林CAD/唐登明",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084432",
-    "bookname": "V园林工程造价实例一本通/张国栋",
+    "bookname": "园林工程造价实例一本通/张国栋",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084433",
-    "bookname": "V园林制图第三版/马晓燕",
+    "bookname": "园林制图第三版/马晓燕",
     "publishing": "气象"
 },
 {
     "subscribeCode": "18CJ0084434",
-    "bookname": "V风景区规划/付军",
+    "bookname": "风景区规划/付军",
     "publishing": "气象"
 },
 {
     "subscribeCode": "18CJ0084435",
-    "bookname": "V数字信号处理教程(第4版) /程佩青",
+    "bookname": "数字信号处理教程(第4版) /程佩青",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084436",
-    "bookname": "V现代企业管理（第四版） /王关义、刘益等",
+    "bookname": "现代企业管理（第四版） /王关义、刘益等",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084437",
-    "bookname": "V园林种植设计/周道瑛",
+    "bookname": "园林种植设计/周道瑛",
     "publishing": "中国林业"
 },
 {
     "subscribeCode": "18CJ0084438",
-    "bookname": "V园林树木学（修订版）/陈有民",
+    "bookname": "园林树木学（修订版）/陈有民",
     "publishing": "中国林业"
 },
 {
     "subscribeCode": "18CJ0084439",
-    "bookname": "V园林建筑设计/周初梅",
+    "bookname": "园林建筑设计/周初梅",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084440",
-    "bookname": "V园林工程(高等院校园林专业系列教材)/赵兵",
+    "bookname": "园林工程(高等院校园林专业系列教材)/赵兵",
     "publishing": "东南大学"
 },
 {
     "subscribeCode": "18CJ0084441",
-    "bookname": "V幼儿园班级管理/张富洪",
+    "bookname": "幼儿园班级管理/张富洪",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0084442",
-    "bookname": "V学前儿童语言教育与活动指导(第3版) /张明红著",
+    "bookname": "学前儿童语言教育与活动指导(第3版) /张明红著",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084443",
-    "bookname": "V学前儿童健康教育与活动指导/单敏月",
+    "bookname": "学前儿童健康教育与活动指导/单敏月",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084444",
-    "bookname": "V电气控制与PLC原理及应用/周亚军",
+    "bookname": "电气控制与PLC原理及应用/周亚军",
     "publishing": "西安电子科大"
 },
 {
     "subscribeCode": "18CJ0084445",
-    "bookname": "V测量学(第四版)/合肥工业大学等合编",
+    "bookname": "测量学(第四版)/合肥工业大学等合编",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0084446",
-    "bookname": "V专业英语基础（第二版）/陈沁 徐冬英",
+    "bookname": "专业英语基础（第二版）/陈沁 徐冬英",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084447",
-    "bookname": "V社区护理（第四版）/王永平，刘蔚",
+    "bookname": "社区护理（第四版）/王永平，刘蔚",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084448",
-    "bookname": "V药理学（中职药剂第二版）/贾焕全",
+    "bookname": "药理学（中职药剂第二版）/贾焕全",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084449",
-    "bookname": "V解剖学基础（第二版）/刘东方，黄嫦斌",
+    "bookname": "解剖学基础（第二版）/刘东方，黄嫦斌",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084450",
-    "bookname": "V护理技术综合实训（第2版）/黄惠清",
+    "bookname": "护理技术综合实训（第2版）/黄惠清",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084451",
-    "bookname": "V免疫学检验技术（第3版）/钟禹霖",
+    "bookname": "免疫学检验技术（第3版）/钟禹霖",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084452",
-    "bookname": "V天然药物化学基础/刘诗轶，欧绍淑",
+    "bookname": "天然药物化学基础/刘诗轶，欧绍淑",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084453",
-    "bookname": "V药物分析技术（中职药剂）/戴君武，王军",
+    "bookname": "药物分析技术（中职药剂）/戴君武，王军",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084454",
-    "bookname": "V幼儿教师实用英语口语初级（第二版）",
+    "bookname": "幼儿教师实用英语口语初级（第二版）",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0084455",
-    "bookname": "V数学练习册（基础版）（第一册）（修订版）（附光盘）（附学习",
+    "bookname": "数学练习册（基础版）（第一册）（修订版）（附光盘）（附学习",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084456",
-    "bookname": "V数学教学参考书（基础版）（第一册）（修订版）（附光盘）/丘维",
+    "bookname": "数学教学参考书（基础版）（第一册）（修订版）（附光盘）/丘维",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084457",
-    "bookname": "V高三复习指导丛书3+X（数学）/周永前",
+    "bookname": "高三复习指导丛书3+X（数学）/周永前",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0084458",
-    "bookname": "V普通高等学校高等职业教育(专科)专业目录简介(2015年)上、下册",
+    "bookname": "普通高等学校高等职业教育(专科)专业目录简介(2015年)上、下册",
     "publishing": "中央电大"
 },
 {
     "subscribeCode": "18CJ0084459",
-    "bookname": "V安全教育读本/王小学、何林、张鲲",
+    "bookname": "安全教育读本/王小学、何林、张鲲",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084460",
-    "bookname": "V餐饮服务与管理练习册/李琦",
+    "bookname": "餐饮服务与管理练习册/李琦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084461",
-    "bookname": "V医学伦理学（第3版）/刘万梅",
+    "bookname": "医学伦理学（第3版）/刘万梅",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084462",
-    "bookname": "V新编实用英语（第四版）听力教程1/教材编写组",
+    "bookname": "新编实用英语（第四版）听力教程1/教材编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084463",
-    "bookname": "V马克思主义基本原理概论/本书编写组",
+    "bookname": "马克思主义基本原理概论/本书编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084464",
-    "bookname": "V数学/赵明",
+    "bookname": "数学/赵明",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084465",
-    "bookname": "V物理（第二版）/楼渝英",
+    "bookname": "物理（第二版）/楼渝英",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084466",
-    "bookname": "V应用英语口语(含MP3光盘)/张燕如",
+    "bookname": "应用英语口语(含MP3光盘)/张燕如",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084467",
-    "bookname": "V土木工程识图/徐皎 张永华",
+    "bookname": "土木工程识图/徐皎 张永华",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084468",
-    "bookname": "V土木工程识图习题集/孙娟 成华",
+    "bookname": "土木工程识图习题集/孙娟 成华",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084469",
-    "bookname": "V建筑工程测量/彭春辉",
+    "bookname": "建筑工程测量/彭春辉",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084470",
-    "bookname": "V土木工程施工基本技能实训/黄厚能",
+    "bookname": "土木工程施工基本技能实训/黄厚能",
     "publishing": "地质大学"
 },
 {
     "subscribeCode": "18CJ0084471",
-    "bookname": "V旅游文学/章尚正",
+    "bookname": "旅游文学/章尚正",
     "publishing": "福建人民"
 },
 {
     "subscribeCode": "18CJ0084472",
-    "bookname": "V财政与金融基础知识（第二版） 高等教育出版社/张红专",
+    "bookname": "财政与金融基础知识（第二版） 高等教育出版社/张红专",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084473",
-    "bookname": "V出纳业务操作（第三版）/高翠莲",
+    "bookname": "出纳业务操作（第三版）/高翠莲",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084474",
-    "bookname": "V财政法规与会计职业道德  /全国会计从业资格考试辅导教材组",
+    "bookname": "财政法规与会计职业道德  /全国会计从业资格考试辅导教材组",
     "publishing": "经济科学"
 },
 {
     "subscribeCode": "18CJ0084475",
-    "bookname": "V经济法基础/财政部会计资格评价中心",
+    "bookname": "经济法基础/财政部会计资格评价中心",
     "publishing": "经济科学"
 },
 {
     "subscribeCode": "18CJ0084476",
-    "bookname": "V旅游心理学/李青、胡晓勤",
+    "bookname": "旅游心理学/李青、胡晓勤",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084477",
-    "bookname": "V导游实务/胡晓勤",
+    "bookname": "导游实务/胡晓勤",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084478",
-    "bookname": "V餐饮基础知识/吴呤颗",
+    "bookname": "餐饮基础知识/吴呤颗",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084479",
-    "bookname": "V旅游规划/赵黎明、黄安民",
+    "bookname": "旅游规划/赵黎明、黄安民",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084480",
-    "bookname": "V PHOTOSHOPCS6从入门到精通",
+    "bookname": " PHOTOSHOPCS6从入门到精通",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084481",
-    "bookname": "V会计基础    /全国会计从业资格考试辅导教材组",
+    "bookname": "会计基础    /全国会计从业资格考试辅导教材组",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0084482",
-    "bookname": "V单声部视唱教程（1CD修订版上）",
+    "bookname": "单声部视唱教程（1CD修订版上）",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0084483",
-    "bookname": "V西方音乐通史/于润洋",
+    "bookname": "西方音乐通史/于润洋",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0084484",
-    "bookname": "V钢琴基础教程3/韩林申 李晓平 徐斐 周荷君",
+    "bookname": "钢琴基础教程3/韩林申 李晓平 徐斐 周荷君",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0084485",
-    "bookname": "V钢琴基础教程4/韩林申 李晓平 徐斐 周荷君",
+    "bookname": "钢琴基础教程4/韩林申 李晓平 徐斐 周荷君",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0084486",
-    "bookname": "V钢琴与伴奏（第一册）/黄琒莹",
+    "bookname": "钢琴与伴奏（第一册）/黄琒莹",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0084487",
-    "bookname": "V工笔画技法从入门到精通/飞乐鸟工作室",
+    "bookname": "工笔画技法从入门到精通/飞乐鸟工作室",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0084488",
-    "bookname": "V哈农钢琴练指法/王九丁",
+    "bookname": "哈农钢琴练指法/王九丁",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0084489",
-    "bookname": "V器乐(钢琴 风琴)第一册/李晓娟",
+    "bookname": "器乐(钢琴 风琴)第一册/李晓娟",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084490",
-    "bookname": "V器乐(钢琴 风琴)第二册/李晓娟",
+    "bookname": "器乐(钢琴 风琴)第二册/李晓娟",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084491",
-    "bookname": "V第二册《手工》/徐锋 宋娜波",
+    "bookname": "第二册《手工》/徐锋 宋娜波",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084492",
-    "bookname": "V简笔画/色楞格",
+    "bookname": "简笔画/色楞格",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084493",
-    "bookname": "V第三册《手工》/朱巧玲",
+    "bookname": "第三册《手工》/朱巧玲",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084494",
-    "bookname": "V初级会计实务 /财政部会计资格评价中心",
+    "bookname": "初级会计实务 /财政部会计资格评价中心",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0084495",
-    "bookname": "V中国少数民族舞蹈史 /纪兰慰、丘六荣",
+    "bookname": "中国少数民族舞蹈史 /纪兰慰、丘六荣",
     "publishing": "中央民大"
 },
 {
     "subscribeCode": "18CJ0084496",
-    "bookname": "V幼儿教育心理学/陈国眉",
+    "bookname": "幼儿教育心理学/陈国眉",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084497",
-    "bookname": "V师德修养教育法规",
+    "bookname": "师德修养教育法规",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084498",
-    "bookname": "V教育公共基础笔试（17版）/川省教师招聘考试专用教材编委会 编",
+    "bookname": "教育公共基础笔试（17版）/川省教师招聘考试专用教材编委会 编",
     "publishing": "成都时代"
 },
 {
     "subscribeCode": "18CJ0084499",
-    "bookname": "V学前教科研方法和研究性学习/周希冰",
+    "bookname": "学前教科研方法和研究性学习/周希冰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084500",
-    "bookname": "V儿童文学作品选读/王晓玉",
+    "bookname": "儿童文学作品选读/王晓玉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084501",
-    "bookname": "V写作教程/尹相如",
+    "bookname": "写作教程/尹相如",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084502",
-    "bookname": "V多媒体CAI课件制作/李兆锋",
+    "bookname": "多媒体CAI课件制作/李兆锋",
     "publishing": "国防科大"
 },
 {
     "subscribeCode": "18CJ0084503",
-    "bookname": "V中国历史文化概论",
+    "bookname": "中国历史文化概论",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084504",
-    "bookname": "V学前音乐教育",
+    "bookname": "学前音乐教育",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0084505",
-    "bookname": "V大学计算机基础/钟世芬",
+    "bookname": "大学计算机基础/钟世芬",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084506",
-    "bookname": "V幼儿园数学教育活动指导/张慧和",
+    "bookname": "幼儿园数学教育活动指导/张慧和",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084507",
-    "bookname": "V音乐欣赏三",
+    "bookname": "音乐欣赏三",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084508",
-    "bookname": "V音乐2",
+    "bookname": "音乐2",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084509",
-    "bookname": "V幼儿绘画2",
+    "bookname": "幼儿绘画2",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084510",
-    "bookname": "V幼儿图案2",
+    "bookname": "幼儿图案2",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084511",
-    "bookname": "V幼儿手工2",
+    "bookname": "幼儿手工2",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084512",
-    "bookname": "V幼儿美术鉴赏2",
+    "bookname": "幼儿美术鉴赏2",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084513",
-    "bookname": "V幼儿生物学全一册",
+    "bookname": "幼儿生物学全一册",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084514",
-    "bookname": "V政治常识教参",
+    "bookname": "政治常识教参",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084515",
-    "bookname": "V经济常识教参",
+    "bookname": "经济常识教参",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084516",
-    "bookname": "V手工三（幼师教材）/试用本",
+    "bookname": "手工三（幼师教材）/试用本",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084517",
-    "bookname": "V古代汉语上/王保才",
+    "bookname": "古代汉语上/王保才",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084518",
-    "bookname": "V古代汉语下",
+    "bookname": "古代汉语下",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084519",
-    "bookname": "V形式逻缉/文寿山",
+    "bookname": "形式逻缉/文寿山",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084520",
-    "bookname": "V拜厄钢琴基本教程",
+    "bookname": "拜厄钢琴基本教程",
     "publishing": "人民音乐"
 },
 {
     "subscribeCode": "18CJ0084521",
-    "bookname": "V计算机应用基础实训与练习（1光碟）/唐亮明 刘梦龙",
+    "bookname": "计算机应用基础实训与练习（1光碟）/唐亮明 刘梦龙",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084522",
-    "bookname": "V师范书法基础教程",
+    "bookname": "师范书法基础教程",
     "publishing": "天津古籍"
 },
 {
     "subscribeCode": "18CJ0084523",
-    "bookname": "V英语（拓展模块）磁带",
+    "bookname": "英语（拓展模块）磁带",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084524",
-    "bookname": "V歌唱/毕海燕",
+    "bookname": "歌唱/毕海燕",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084525",
-    "bookname": "V舞蹈/姚双",
+    "bookname": "舞蹈/姚双",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084526",
-    "bookname": "V手工/刘丽新",
+    "bookname": "手工/刘丽新",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084527",
-    "bookname": "V视唱练耳/姚建华",
+    "bookname": "视唱练耳/姚建华",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084528",
-    "bookname": "V绘画/杨兆舜",
+    "bookname": "绘画/杨兆舜",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084529",
-    "bookname": "V钢琴演奏基础教程/朱晓勤",
+    "bookname": "钢琴演奏基础教程/朱晓勤",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084530",
-    "bookname": "V中国历史文化",
+    "bookname": "中国历史文化",
     "publishing": "中国旅游"
 },
 {
     "subscribeCode": "18CJ0084531",
-    "bookname": "V妈妈的女儿",
+    "bookname": "妈妈的女儿",
     "publishing": "四川民族"
 },
 {
     "subscribeCode": "18CJ0084532",
-    "bookname": "V时事职教（2017-2018）",
+    "bookname": "时事职教（2017-2018）",
     "publishing": "时事"
 },
 {
     "subscribeCode": "18CJ0084533",
-    "bookname": "V工匠精神教育读本/付善华",
+    "bookname": "工匠精神教育读本/付善华",
     "publishing": "同济大学"
 },
 {
     "subscribeCode": "18CJ0084534",
-    "bookname": "V汽车机械基础项目教程/宋晓松",
+    "bookname": "汽车机械基础项目教程/宋晓松",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084535",
-    "bookname": "V汽车电气基础实训（一体化教材）/王福荣",
+    "bookname": "汽车电气基础实训（一体化教材）/王福荣",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084536",
-    "bookname": "V HTML/CSS/JAVASCRIPT标准教程实例版（第五版）（含1CD）/本书",
+    "bookname": " HTML/CSS/JAVASCRIPT标准教程实例版（第五版）（含1CD）/本书",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084537",
-    "bookname": "V世界儿歌钢琴 公式化即兴伴奏  /刘智勇",
+    "bookname": "世界儿歌钢琴 公式化即兴伴奏  /刘智勇",
     "publishing": "山西人民"
 },
 {
     "subscribeCode": "18CJ0084538",
-    "bookname": "V汽车专业英语/刘阳",
+    "bookname": "汽车专业英语/刘阳",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084539",
-    "bookname": "V钳工工艺技能与实训/刘忠菊",
+    "bookname": "钳工工艺技能与实训/刘忠菊",
     "publishing": "同济大学"
 },
 {
     "subscribeCode": "18CJ0084540",
-    "bookname": "V液压与气动/杨柳青",
+    "bookname": "液压与气动/杨柳青",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084541",
-    "bookname": "V电子技术基础/周万平",
+    "bookname": "电子技术基础/周万平",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084542",
-    "bookname": "V办公设备使用与维护/袁锡明,管湘芸'",
+    "bookname": "办公设备使用与维护/袁锡明,管湘芸'",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0084543",
-    "bookname": "V 3DS MAX 2014动画设计/王强",
+    "bookname": " 3DS MAX 2014动画设计/王强",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084544",
-    "bookname": "V幼儿心理学学习指导",
+    "bookname": "幼儿心理学学习指导",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0084545",
-    "bookname": "V小学思想品德教材教法",
+    "bookname": "小学思想品德教材教法",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084546",
-    "bookname": "V大学语文下/艾津",
+    "bookname": "大学语文下/艾津",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084547",
-    "bookname": "V大学语文上/艾津",
+    "bookname": "大学语文上/艾津",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084548",
-    "bookname": "V大学数学上/姚绍义",
+    "bookname": "大学数学上/姚绍义",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084549",
-    "bookname": "V幼儿教育学学习指导",
+    "bookname": "幼儿教育学学习指导",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0084550",
-    "bookname": "V影视特效制作——AFTER EFFECTS CC应用（第2版）/钱锋",
+    "bookname": "影视特效制作——AFTER EFFECTS CC应用（第2版）/钱锋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084551",
-    "bookname": "V 3DSMAX基础与案例教程（双色）（附学习卡/防伪标）/吴慧剑",
+    "bookname": " 3DSMAX基础与案例教程（双色）（附学习卡/防伪标）/吴慧剑",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084552",
-    "bookname": "V电气控制与PLC技术/初厚绪",
+    "bookname": "电气控制与PLC技术/初厚绪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084553",
-    "bookname": "V兽医药理学/陈仗榴",
+    "bookname": "兽医药理学/陈仗榴",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084554",
-    "bookname": "V思想道德修养与法律基础（修订版）",
+    "bookname": "思想道德修养与法律基础（修订版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084555",
-    "bookname": "V幼儿园教育活动设计与实践(第二版)/党劲 唐春秀",
+    "bookname": "幼儿园教育活动设计与实践(第二版)/党劲 唐春秀",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084556",
-    "bookname": "V现代企业管理基础/周可跃 黄玉东",
+    "bookname": "现代企业管理基础/周可跃 黄玉东",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084557",
-    "bookname": "V食品发酵技术/岳春",
+    "bookname": "食品发酵技术/岳春",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084558",
-    "bookname": "V焙烤食品加工技术/高晗",
+    "bookname": "焙烤食品加工技术/高晗",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084559",
-    "bookname": "V食品感官检验/马永强",
+    "bookname": "食品感官检验/马永强",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084560",
-    "bookname": "V食品营销学/卢万强",
+    "bookname": "食品营销学/卢万强",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084561",
-    "bookname": "V汽车制造工艺基础/王永伦",
+    "bookname": "汽车制造工艺基础/王永伦",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084562",
-    "bookname": "V电子技术基础与技能/史娟芬",
+    "bookname": "电子技术基础与技能/史娟芬",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0084563",
-    "bookname": "V会计电算化操作实务-用友T3财务软件/张红梅 李燕",
+    "bookname": "会计电算化操作实务-用友T3财务软件/张红梅 李燕",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0084564",
-    "bookname": "V城市轨道交通概论/阎国强",
+    "bookname": "城市轨道交通概论/阎国强",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084565",
-    "bookname": "V PHOTOSHOP CS5项目式教程（四色）/何哲文",
+    "bookname": " PHOTOSHOP CS5项目式教程（四色）/何哲文",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084566",
-    "bookname": "V汽车概论(含教学课件)/王大森",
+    "bookname": "汽车概论(含教学课件)/王大森",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084567",
-    "bookname": "V金属加工与实训（电子课件）/宋良 谭亲四",
+    "bookname": "金属加工与实训（电子课件）/宋良 谭亲四",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084568",
-    "bookname": "V汽车电器设备构造与维修/李伟",
+    "bookname": "汽车电器设备构造与维修/李伟",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084569",
-    "bookname": "V汽车机械制图（含习题集）/伍鸿平 谢晓鸿",
+    "bookname": "汽车机械制图（含习题集）/伍鸿平 谢晓鸿",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0084570",
-    "bookname": "V汽车营销礼仪/韩明祖",
+    "bookname": "汽车营销礼仪/韩明祖",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084571",
-    "bookname": "V汽车维修业务接待/车丽丽 汪学秋 周双斌",
+    "bookname": "汽车维修业务接待/车丽丽 汪学秋 周双斌",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084572",
-    "bookname": "V汽车服务礼仪/王亚维",
+    "bookname": "汽车服务礼仪/王亚维",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084573",
-    "bookname": "V中国古代文学上/蒋人杰",
+    "bookname": "中国古代文学上/蒋人杰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084574",
-    "bookname": "V现代汉语/刑福义",
+    "bookname": "现代汉语/刑福义",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084575",
-    "bookname": "V文学概论/赵慧平",
+    "bookname": "文学概论/赵慧平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084576",
-    "bookname": "V车尔尼钢琴快速练习曲(作品299)/刘鹏 张富岩",
+    "bookname": "车尔尼钢琴快速练习曲(作品299)/刘鹏 张富岩",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0084577",
-    "bookname": "V汽车故障诊断与检测技术/蒲光吉",
+    "bookname": "汽车故障诊断与检测技术/蒲光吉",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0084578",
-    "bookname": "V儿童文学引论/王晓玉",
+    "bookname": "儿童文学引论/王晓玉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084579",
-    "bookname": "V中国古代文学下/冯克正",
+    "bookname": "中国古代文学下/冯克正",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084580",
-    "bookname": "V汽车前台接待与服务/刘亚梭",
+    "bookname": "汽车前台接待与服务/刘亚梭",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084581",
-    "bookname": "V汽车车身电气设备检修/周慧霖",
+    "bookname": "汽车车身电气设备检修/周慧霖",
     "publishing": "福建科技"
 },
 {
     "subscribeCode": "18CJ0084582",
-    "bookname": "V极限配合与技术测量（第3版）",
+    "bookname": "极限配合与技术测量（第3版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084583",
-    "bookname": "V饭店服务礼仪/田雅莉",
+    "bookname": "饭店服务礼仪/田雅莉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084584",
-    "bookname": "V吴玉生行楷入门基础训练/吴玉生",
+    "bookname": "吴玉生行楷入门基础训练/吴玉生",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084585",
-    "bookname": "V高铁客运英语口语/王慧",
+    "bookname": "高铁客运英语口语/王慧",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0084586",
-    "bookname": "V少儿歌曲精选380首/雨萌",
+    "bookname": "少儿歌曲精选380首/雨萌",
     "publishing": "现代"
 },
 {
     "subscribeCode": "18CJ0084587",
-    "bookname": "V网络金融概论",
+    "bookname": "网络金融概论",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0084588",
-    "bookname": "V中华传统文化读本/过常宝",
+    "bookname": "中华传统文化读本/过常宝",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084589",
-    "bookname": "V“零基础”简易流行钢琴速成教材/易子晋",
+    "bookname": "“零基础”简易流行钢琴速成教材/易子晋",
     "publishing": "北京体大"
 },
 {
     "subscribeCode": "18CJ0084590",
-    "bookname": "V机械制图及CAD42",
+    "bookname": "机械制图及CAD42",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084591",
-    "bookname": "V大学计算机基础",
+    "bookname": "大学计算机基础",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084592",
-    "bookname": "V大学计算机实践教程",
+    "bookname": "大学计算机实践教程",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084593",
-    "bookname": "V写字课堂·钢笔楷书入门教程(描摹)",
+    "bookname": "写字课堂·钢笔楷书入门教程(描摹)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084594",
-    "bookname": "V法律基础55",
+    "bookname": "法律基础55",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084595",
-    "bookname": "V实用语文第三册",
+    "bookname": "实用语文第三册",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084596",
-    "bookname": "V数学第三册",
+    "bookname": "数学第三册",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084597",
-    "bookname": "V森林病虫害防治",
+    "bookname": "森林病虫害防治",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084598",
-    "bookname": "V森林培育学61",
+    "bookname": "森林培育学61",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084599",
-    "bookname": "V市场调查与预测34",
+    "bookname": "市场调查与预测34",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084600",
-    "bookname": "V猪病防治48",
+    "bookname": "猪病防治48",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084601",
-    "bookname": "V技术物理基础50",
+    "bookname": "技术物理基础50",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084602",
-    "bookname": "V技术物理基础练习册",
+    "bookname": "技术物理基础练习册",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084603",
-    "bookname": "V实用数学第一册50",
+    "bookname": "实用数学第一册50",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084604",
-    "bookname": "V实用语文第一册50",
+    "bookname": "实用语文第一册50",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084605",
-    "bookname": "V新编实用英语（第四版）综合教程1",
+    "bookname": "新编实用英语（第四版）综合教程1",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084606",
-    "bookname": "V运动训练学基础30",
+    "bookname": "运动训练学基础30",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084607",
-    "bookname": "V简谱基本乐理视唱练耳基础教程/李重光",
+    "bookname": "简谱基本乐理视唱练耳基础教程/李重光",
     "publishing": "湖南文艺"
 },
 {
     "subscribeCode": "18CJ0084608",
-    "bookname": "V机械基础42",
+    "bookname": "机械基础42",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084609",
-    "bookname": "V工程力学",
+    "bookname": "工程力学",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084610",
-    "bookname": "V生物技术概论",
+    "bookname": "生物技术概论",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084611",
-    "bookname": "V物流实务基础34",
+    "bookname": "物流实务基础34",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084612",
-    "bookname": "V园林植物育种学",
+    "bookname": "园林植物育种学",
     "publishing": "中国林业"
 },
 {
     "subscribeCode": "18CJ0084613",
-    "bookname": "V动物传染病",
+    "bookname": "动物传染病",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084614",
-    "bookname": "V猪生产（李宝林编）",
+    "bookname": "猪生产（李宝林编）",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084615",
-    "bookname": "V禽类生产（豆卫编）",
+    "bookname": "禽类生产（豆卫编）",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084616",
-    "bookname": "V动物生物生化50",
+    "bookname": "动物生物生化50",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084617",
-    "bookname": "V现代礼仪实训课程",
+    "bookname": "现代礼仪实训课程",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084618",
-    "bookname": "V化学60",
+    "bookname": "化学60",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084619",
-    "bookname": "V动物药理",
+    "bookname": "动物药理",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084620",
-    "bookname": "V应用文写作50",
+    "bookname": "应用文写作50",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084621",
-    "bookname": "V植物及植物生理60",
+    "bookname": "植物及植物生理60",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0084622",
-    "bookname": "V将摄影还给大众：7天摄影入门/赵琳",
+    "bookname": "将摄影还给大众：7天摄影入门/赵琳",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084623",
-    "bookname": "V一级计算机基础及MS OFFICE应用/全国计算机等级考试教材编写组",
+    "bookname": "一级计算机基础及MS OFFICE应用/全国计算机等级考试教材编写组",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084624",
-    "bookname": "V中国美术特色高中美术基础规范教材：素描1",
+    "bookname": "中国美术特色高中美术基础规范教材：素描1",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0084625",
-    "bookname": "V思想道德修养",
+    "bookname": "思想道德修养",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0084626",
-    "bookname": "V彝语基础教程/朱文旭  木乃热哈",
+    "bookname": "彝语基础教程/朱文旭  木乃热哈",
     "publishing": "中央民大"
 },
 {
     "subscribeCode": "18CJ0084627",
-    "bookname": "V体育与健康",
+    "bookname": "体育与健康",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0084628",
-    "bookname": "V书法/蔡伟国",
+    "bookname": "书法/蔡伟国",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084629",
-    "bookname": "V数学教学参考书(职业模块工科类)(修订版)(附光盘)/李广全",
+    "bookname": "数学教学参考书(职业模块工科类)(修订版)(附光盘)/李广全",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084630",
-    "bookname": "V建筑结构(第3版)(双色) /龚伟",
+    "bookname": "建筑结构(第3版)(双色) /龚伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084631",
-    "bookname": "V GPS测量原理及应用 /张勤等",
+    "bookname": " GPS测量原理及应用 /张勤等",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084632",
-    "bookname": "V GPS测量与数据处理(第三版) /李征航、黄劲松",
+    "bookname": " GPS测量与数据处理(第三版) /李征航、黄劲松",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0084633",
-    "bookname": "V对口升学考试模拟试卷·语文",
+    "bookname": "对口升学考试模拟试卷·语文",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084634",
-    "bookname": "V对口升学考试模拟试卷·土木水利类专业(综合)",
+    "bookname": "对口升学考试模拟试卷·土木水利类专业(综合)",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084635",
-    "bookname": "V 2018华图最新版四川省教师招聘考试专用教材:教育公共基础笔试",
+    "bookname": " 2018华图最新版四川省教师招聘考试专用教材:教育公共基础笔试",
     "publishing": "成都时代"
 },
 {
     "subscribeCode": "18CJ0084636",
-    "bookname": "V高等数学",
+    "bookname": "高等数学",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084637",
-    "bookname": "V勒饿特依",
+    "bookname": "勒饿特依",
     "publishing": "四川民族"
 },
 {
     "subscribeCode": "18CJ0084638",
-    "bookname": "V玛牧特依",
+    "bookname": "玛牧特依",
     "publishing": "四川民族"
 },
 {
     "subscribeCode": "18CJ0084639",
-    "bookname": "V服装材料（双色）/王利君",
+    "bookname": "服装材料（双色）/王利君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084640",
-    "bookname": "V服装工艺实训标准/张燕",
+    "bookname": "服装工艺实训标准/张燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084641",
-    "bookname": "V服装平车工基本技能/刘运生",
+    "bookname": "服装平车工基本技能/刘运生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084642",
-    "bookname": "V机械制造技术/王晓霞",
+    "bookname": "机械制造技术/王晓霞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084643",
-    "bookname": "V裙装设计.制版.工艺(双色)（附学习卡/防伪标）/戴建国",
+    "bookname": "裙装设计.制版.工艺(双色)（附学习卡/防伪标）/戴建国",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084644",
-    "bookname": "V手工编结与盘扣/潘凝",
+    "bookname": "手工编结与盘扣/潘凝",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084645",
-    "bookname": "V0-3岁婴幼儿保育与教育/习宁",
+    "bookname": "0-3岁婴幼儿保育与教育/习宁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084646",
-    "bookname": "V这杯咖啡温度刚刚好/张晓风",
+    "bookname": "这杯咖啡温度刚刚好/张晓风",
     "publishing": "九州"
 },
 {
     "subscribeCode": "18CJ0084647",
-    "bookname": "V精通ANDROID STUDIO/移动开发丛书 /毕小朋",
+    "bookname": "精通ANDROID STUDIO/移动开发丛书 /毕小朋",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084648",
-    "bookname": "V服务礼仪与形体训练/朱列文、李薇",
+    "bookname": "服务礼仪与形体训练/朱列文、李薇",
     "publishing": "中国轻工"
 },
 {
     "subscribeCode": "18CJ0084649",
-    "bookname": "V服务礼仪教程/金正昆",
+    "bookname": "服务礼仪教程/金正昆",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084650",
-    "bookname": "V星巴克一切与咖啡无关/毕哈",
+    "bookname": "星巴克一切与咖啡无关/毕哈",
     "publishing": "中信"
 },
 {
     "subscribeCode": "18CJ0084651",
-    "bookname": "V渗透性德育教育工作教材  职校生安全教育读本/郑成刚",
+    "bookname": "渗透性德育教育工作教材  职校生安全教育读本/郑成刚",
     "publishing": "现代教育"
 },
 {
     "subscribeCode": "18CJ0084652",
-    "bookname": "V德育教育系列丛书  中职新生入学指南/张显德",
+    "bookname": "德育教育系列丛书  中职新生入学指南/张显德",
     "publishing": "现代教育"
 },
 {
     "subscribeCode": "18CJ0084653",
-    "bookname": "V四川省高职对口升学考试复习指导丛书--电子(2018版)/张建如",
+    "bookname": "四川省高职对口升学考试复习指导丛书--电子(2018版)/张建如",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084654",
-    "bookname": "V电子技术练习册/张友汉",
+    "bookname": "电子技术练习册/张友汉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084655",
-    "bookname": "V学前心理学",
+    "bookname": "学前心理学",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084656",
-    "bookname": "V动漫手绘与上色技术/苏日太夫",
+    "bookname": "动漫手绘与上色技术/苏日太夫",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084657",
-    "bookname": "V时装人物速写（第二版）/鲁闽",
+    "bookname": "时装人物速写（第二版）/鲁闽",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084658",
-    "bookname": "V企业行政管理/唐纪英",
+    "bookname": "企业行政管理/唐纪英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084659",
-    "bookname": "V钢琴基础与幼儿歌舞伴奏/黎松涛",
+    "bookname": "钢琴基础与幼儿歌舞伴奏/黎松涛",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084660",
-    "bookname": "V路由型与交换型互联网基础/徐雪鹏",
+    "bookname": "路由型与交换型互联网基础/徐雪鹏",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084661",
-    "bookname": "V SMT-表面组装技术/何丽梅",
+    "bookname": " SMT-表面组装技术/何丽梅",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084662",
-    "bookname": "V结构素描基础教程/张玉红",
+    "bookname": "结构素描基础教程/张玉红",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084663",
-    "bookname": "V幼儿舞蹈创编/罗 欣",
+    "bookname": "幼儿舞蹈创编/罗 欣",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0084664",
-    "bookname": "V汽车机械基础（双色）/颜 佳",
+    "bookname": "汽车机械基础（双色）/颜 佳",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0084665",
-    "bookname": "V汽车机械制图（双色）/冯永亮",
+    "bookname": "汽车机械制图（双色）/冯永亮",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0084666",
-    "bookname": "V汽车机械制图习题集（双色）/冯永亮",
+    "bookname": "汽车机械制图习题集（双色）/冯永亮",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0084667",
-    "bookname": "V幼儿歌曲弹唱/郑艾明",
+    "bookname": "幼儿歌曲弹唱/郑艾明",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084668",
-    "bookname": "V美术/李祥文",
+    "bookname": "美术/李祥文",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084669",
-    "bookname": "V幼儿园教师教育技能/邹玲",
+    "bookname": "幼儿园教师教育技能/邹玲",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084670",
-    "bookname": "V幼儿园教育活动设计与指导-科学/任凤霞",
+    "bookname": "幼儿园教育活动设计与指导-科学/任凤霞",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084671",
-    "bookname": "V幼儿园教育活动设计与指导-艺术/朱巧玲",
+    "bookname": "幼儿园教育活动设计与指导-艺术/朱巧玲",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084672",
-    "bookname": "V幼儿园教育活动设计与指导-社会/党 劲",
+    "bookname": "幼儿园教育活动设计与指导-社会/党 劲",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084673",
-    "bookname": "V幼儿园教育活动设计与指导-语言/党 劲",
+    "bookname": "幼儿园教育活动设计与指导-语言/党 劲",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084674",
-    "bookname": "V幼儿园教育活动设计与指导-健康/卢晓静",
+    "bookname": "幼儿园教育活动设计与指导-健康/卢晓静",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084675",
-    "bookname": "V幼儿园保育/任凤霞",
+    "bookname": "幼儿园保育/任凤霞",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084676",
-    "bookname": "V键盘与幼儿歌曲伴奏/程开旭",
+    "bookname": "键盘与幼儿歌曲伴奏/程开旭",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084677",
-    "bookname": "V计算机应用基础（WIN7+OFFICE2010）（双色）/刘炜峰  李超",
+    "bookname": "计算机应用基础（WIN7+OFFICE2010）（双色）/刘炜峰  李超",
     "publishing": "中南大学"
 },
 {
     "subscribeCode": "18CJ0084678",
-    "bookname": "V心理健康（双色）/赵锡高  廖松书",
+    "bookname": "心理健康（双色）/赵锡高  廖松书",
     "publishing": "中南大学"
 },
 {
     "subscribeCode": "18CJ0084679",
-    "bookname": "V机械制图/王爱学",
+    "bookname": "机械制图/王爱学",
     "publishing": "中南大学"
 },
 {
     "subscribeCode": "18CJ0084680",
-    "bookname": "V汽车涂装技术/沈恒旸",
+    "bookname": "汽车涂装技术/沈恒旸",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084681",
-    "bookname": "V化学教学参考书（农林牧渔类）修订版/杨金栓",
+    "bookname": "化学教学参考书（农林牧渔类）修订版/杨金栓",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084682",
-    "bookname": "V文秘实习实训  第2版/徐飚",
+    "bookname": "文秘实习实训  第2版/徐飚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084683",
-    "bookname": "V畜禽生产技术/河南省职教室",
+    "bookname": "畜禽生产技术/河南省职教室",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084684",
-    "bookname": "V法律基础知识学习指导/李克杰",
+    "bookname": "法律基础知识学习指导/李克杰",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084685",
-    "bookname": "V法律基础知识/陈桂明",
+    "bookname": "法律基础知识/陈桂明",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084686",
-    "bookname": "V职业道德与职业生涯规划（第二版） /谈玲华",
+    "bookname": "职业道德与职业生涯规划（第二版） /谈玲华",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084687",
-    "bookname": "V计算机应用基础（第三版）/吴有泰",
+    "bookname": "计算机应用基础（第三版）/吴有泰",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084688",
-    "bookname": "V正常人体结构/夏广军",
+    "bookname": "正常人体结构/夏广军",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0084689",
-    "bookname": "V原画设计/李杰",
+    "bookname": "原画设计/李杰",
     "publishing": "中国青年"
 },
 {
     "subscribeCode": "18CJ0084690",
-    "bookname": "V生理学及实验/朱大年",
+    "bookname": "生理学及实验/朱大年",
     "publishing": "北大医学"
 },
 {
     "subscribeCode": "18CJ0084691",
-    "bookname": "V病理学及实验/孙保存",
+    "bookname": "病理学及实验/孙保存",
     "publishing": "北大医学"
 },
 {
     "subscribeCode": "18CJ0084692",
-    "bookname": "V微生物及免疫学基础/安云庆",
+    "bookname": "微生物及免疫学基础/安云庆",
     "publishing": "北京医大"
 },
 {
     "subscribeCode": "18CJ0084693",
-    "bookname": "V妇产科护理学（一）/何  仲",
+    "bookname": "妇产科护理学（一）/何  仲",
     "publishing": "北京医大"
 },
 {
     "subscribeCode": "18CJ0084694",
-    "bookname": "V药理学（一）及实验/董  志",
+    "bookname": "药理学（一）及实验/董  志",
     "publishing": "北大医学"
 },
 {
     "subscribeCode": "18CJ0084695",
-    "bookname": "V应用文写作教程/金振邦",
+    "bookname": "应用文写作教程/金振邦",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084696",
-    "bookname": "V商品拍摄与图片处理/赵志军 梁海波",
+    "bookname": "商品拍摄与图片处理/赵志军 梁海波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084697",
-    "bookname": "V现代商务(第2版)/戴建明 何毓颖",
+    "bookname": "现代商务(第2版)/戴建明 何毓颖",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084698",
-    "bookname": "V调酒知识与酒吧服务实训教程/徐利国",
+    "bookname": "调酒知识与酒吧服务实训教程/徐利国",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084699",
-    "bookname": "V基础会计（第五版）/励丹",
+    "bookname": "基础会计（第五版）/励丹",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084700",
-    "bookname": "V基础会计习题集（第五版）/励丹",
+    "bookname": "基础会计习题集（第五版）/励丹",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084701",
-    "bookname": "V汽车机械基础/顾欣",
+    "bookname": "汽车机械基础/顾欣",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0084702",
-    "bookname": "V汽车机械基础练习册/",
+    "bookname": "汽车机械基础练习册/",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0084703",
-    "bookname": "V幼儿健康教育与活动设计/张晖",
+    "bookname": "幼儿健康教育与活动设计/张晖",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0084704",
-    "bookname": "V手绘POP创意广告设计/王猛",
+    "bookname": "手绘POP创意广告设计/王猛",
     "publishing": "京华"
 },
 {
     "subscribeCode": "18CJ0084705",
-    "bookname": "V护理学概论/吴世芳",
+    "bookname": "护理学概论/吴世芳",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084706",
-    "bookname": "V现代酒店管理/都大明",
+    "bookname": "现代酒店管理/都大明",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0084707",
-    "bookname": "V汽车电气设备构造与维修/王海坡 杨志国",
+    "bookname": "汽车电气设备构造与维修/王海坡 杨志国",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084708",
-    "bookname": "V电视机原理与技能训练（电子类）/谢玉妹",
+    "bookname": "电视机原理与技能训练（电子类）/谢玉妹",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084709",
-    "bookname": "V公差配合与技术测量(第二版)/乔元信",
+    "bookname": "公差配合与技术测量(第二版)/乔元信",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084710",
-    "bookname": "V公差配合与技术测量(第二版)习题册/",
+    "bookname": "公差配合与技术测量(第二版)习题册/",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084711",
-    "bookname": "V家用电器原理与维修/杨安召",
+    "bookname": "家用电器原理与维修/杨安召",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084712",
-    "bookname": "V AUTOCAD2016建筑设计 入门到精通/张军",
+    "bookname": " AUTOCAD2016建筑设计 入门到精通/张军",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084713",
-    "bookname": "V中级维修电工技能训练/解相亮",
+    "bookname": "中级维修电工技能训练/解相亮",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084714",
-    "bookname": "V MCGS触摸屏组态控制技术/王传艳",
+    "bookname": " MCGS触摸屏组态控制技术/王传艳",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084715",
-    "bookname": "V乐理、视唱、练耳/林鸿平",
+    "bookname": "乐理、视唱、练耳/林鸿平",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0084716",
-    "bookname": "V全国英语等级考试（第一级）同步强化练习/郭华平",
+    "bookname": "全国英语等级考试（第一级）同步强化练习/郭华平",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0084717",
-    "bookname": "V全国英语等级考试（第二级）教程/邓辉玉",
+    "bookname": "全国英语等级考试（第二级）教程/邓辉玉",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0084718",
-    "bookname": "V全国英语等级考试（第二级）同步强化练习/邓辉玉",
+    "bookname": "全国英语等级考试（第二级）同步强化练习/邓辉玉",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0084719",
-    "bookname": "V全国英语等级考试（第二级）口试必备/邓辉玉",
+    "bookname": "全国英语等级考试（第二级）口试必备/邓辉玉",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0084720",
-    "bookname": "V全国英语等级考试（第二级）全真模拟试卷及解析/邓辉玉",
+    "bookname": "全国英语等级考试（第二级）全真模拟试卷及解析/邓辉玉",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0084721",
-    "bookname": "V网络综合布线（附学习卡/防伪标）/化希鹏",
+    "bookname": "网络综合布线（附学习卡/防伪标）/化希鹏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084722",
-    "bookname": "V人体解剖学(第2版)/饶利兵",
+    "bookname": "人体解剖学(第2版)/饶利兵",
     "publishing": "北大医学"
 },
 {
     "subscribeCode": "18CJ0084723",
-    "bookname": "V人体解剖学与组织胚胎学(第2版)/郭兴",
+    "bookname": "人体解剖学与组织胚胎学(第2版)/郭兴",
     "publishing": "北大医学"
 },
 {
     "subscribeCode": "18CJ0084724",
-    "bookname": "V人体解剖学实验指导(第2版)",
+    "bookname": "人体解剖学实验指导(第2版)",
     "publishing": "北京医大"
 },
 {
     "subscribeCode": "18CJ0084725",
-    "bookname": "V中医护理学",
+    "bookname": "中医护理学",
     "publishing": "北大医学"
 },
 {
     "subscribeCode": "18CJ0084726",
-    "bookname": "V人体生理学(第2版)/马晓健",
+    "bookname": "人体生理学(第2版)/马晓健",
     "publishing": "北大医学"
 },
 {
     "subscribeCode": "18CJ0084727",
-    "bookname": "V小学生心理健康与辅导（第2版）/郭黎岩",
+    "bookname": "小学生心理健康与辅导（第2版）/郭黎岩",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084728",
-    "bookname": "V彝文识字课本",
+    "bookname": "彝文识字课本",
     "publishing": "四川民族"
 },
 {
     "subscribeCode": "18CJ0084729",
-    "bookname": "V钢笔楷书字帖（双色）/郭合韬",
+    "bookname": "钢笔楷书字帖（双色）/郭合韬",
     "publishing": "中南大学"
 },
 {
     "subscribeCode": "18CJ0084730",
-    "bookname": "V网店美工实务/房晓东",
+    "bookname": "网店美工实务/房晓东",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084731",
-    "bookname": "V电工电子技术及应用学习指导与练习（第2版）（附学习卡/防伪标",
+    "bookname": "电工电子技术及应用学习指导与练习（第2版）（附学习卡/防伪标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084732",
-    "bookname": "V机械类专业综合模拟题集/孙达军",
+    "bookname": "机械类专业综合模拟题集/孙达军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084733",
-    "bookname": "V现代设施农业基础/张  容",
+    "bookname": "现代设施农业基础/张  容",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084734",
-    "bookname": "V农业生产技术/雷永雪 顿桂玲 张寿林",
+    "bookname": "农业生产技术/雷永雪 顿桂玲 张寿林",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084735",
-    "bookname": "V园林景观设计/李秋华 周志刚",
+    "bookname": "园林景观设计/李秋华 周志刚",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084736",
-    "bookname": "V农作物科学施肥实用技术手册/吕春美",
+    "bookname": "农作物科学施肥实用技术手册/吕春美",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084737",
-    "bookname": "V花卉生产技术/池春莲",
+    "bookname": "花卉生产技术/池春莲",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084738",
-    "bookname": "V园林植物栽培与养护/涂景春",
+    "bookname": "园林植物栽培与养护/涂景春",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084739",
-    "bookname": "V计算机应用基础（WIN7+OFFICE2010）第三版/张魏",
+    "bookname": "计算机应用基础（WIN7+OFFICE2010）第三版/张魏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084740",
-    "bookname": "V社会科学基础/何云峰 曹才力",
+    "bookname": "社会科学基础/何云峰 曹才力",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084741",
-    "bookname": "V幼儿歌曲边弹边唱指导/北京海淀艺术职业学校",
+    "bookname": "幼儿歌曲边弹边唱指导/北京海淀艺术职业学校",
     "publishing": "上海音乐"
 },
 {
     "subscribeCode": "18CJ0084742",
-    "bookname": "V汽车钣金/邹新升",
+    "bookname": "汽车钣金/邹新升",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084743",
-    "bookname": "V汽车涂装技术/韩明祖",
+    "bookname": "汽车涂装技术/韩明祖",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084744",
-    "bookname": "V汽车装饰与美容/白树权 韩亚芹",
+    "bookname": "汽车装饰与美容/白树权 韩亚芹",
     "publishing": "天津科技"
 },
 {
     "subscribeCode": "18CJ0084745",
-    "bookname": "V学前教育学/郑庆文",
+    "bookname": "学前教育学/郑庆文",
     "publishing": "印刷工业"
 },
 {
     "subscribeCode": "18CJ0084746",
-    "bookname": "V民航服务人员形体训练/魏全斌",
+    "bookname": "民航服务人员形体训练/魏全斌",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084747",
-    "bookname": "V饭店管理实务(赠教学软件)/张虹薇",
+    "bookname": "饭店管理实务(赠教学软件)/张虹薇",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084748",
-    "bookname": "V客房服务与管理/周本胜",
+    "bookname": "客房服务与管理/周本胜",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084749",
-    "bookname": "V烹饪营养与卫生(第二版)(双色)(赠教学课件)/赵福振",
+    "bookname": "烹饪营养与卫生(第二版)(双色)(赠教学课件)/赵福振",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084750",
-    "bookname": "V茶艺与调酒技艺(第二版)/宋锐",
+    "bookname": "茶艺与调酒技艺(第二版)/宋锐",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084751",
-    "bookname": "V电工基础(第2版)/周邵敏",
+    "bookname": "电工基础(第2版)/周邵敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084752",
-    "bookname": "V中式面点技艺(第二版)/林小岗、唐美雯",
+    "bookname": "中式面点技艺(第二版)/林小岗、唐美雯",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084753",
-    "bookname": "V中式面点制作(第二版)/樊建国",
+    "bookname": "中式面点制作(第二版)/樊建国",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084754",
-    "bookname": "V中式热菜制作(第二版)/庄永全、王振才",
+    "bookname": "中式热菜制作(第二版)/庄永全、王振才",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084755",
-    "bookname": "V旅游英语",
+    "bookname": "旅游英语",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084756",
-    "bookname": "V会展设计(第二版)/陆金生",
+    "bookname": "会展设计(第二版)/陆金生",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084757",
-    "bookname": "V饭店服务与管理学习指导与训练/陈春燕",
+    "bookname": "饭店服务与管理学习指导与训练/陈春燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084758",
-    "bookname": "V会展实务(第二版)/丁萍萍主编",
+    "bookname": "会展实务(第二版)/丁萍萍主编",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084759",
-    "bookname": "V机械制图/唐卫东",
+    "bookname": "机械制图/唐卫东",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084760",
-    "bookname": "V机械制图习题集/唐卫东",
+    "bookname": "机械制图习题集/唐卫东",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084761",
-    "bookname": "V电工基础学习辅导与训练/蒋心刚",
+    "bookname": "电工基础学习辅导与训练/蒋心刚",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084762",
-    "bookname": "V学前教育学/牟映雪",
+    "bookname": "学前教育学/牟映雪",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084763",
-    "bookname": "V学前儿童发展心理学/魏勇刚",
+    "bookname": "学前儿童发展心理学/魏勇刚",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084764",
-    "bookname": "V乐理与视唱练耳(第二版)/马吉庆",
+    "bookname": "乐理与视唱练耳(第二版)/马吉庆",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084765",
-    "bookname": "V舞蹈/王丽响",
+    "bookname": "舞蹈/王丽响",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084766",
-    "bookname": "V手工制作教程(壁饰卷、摆设卷)/苏春",
+    "bookname": "手工制作教程(壁饰卷、摆设卷)/苏春",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084767",
-    "bookname": "V汽车底盘构造与维修/王家青、孟华霞、陆志琴",
+    "bookname": "汽车底盘构造与维修/王家青、孟华霞、陆志琴",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084768",
-    "bookname": "V汽车电工与电子基础/王健、向阳",
+    "bookname": "汽车电工与电子基础/王健、向阳",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084769",
-    "bookname": "V LINUX系统管理(CENTOS6.4+ISOFT SERVER OS V3.0)/朱龙",
+    "bookname": " LINUX系统管理(CENTOS6.4+ISOFT SERVER OS V3.0)/朱龙",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084770",
-    "bookname": "V让水彩画达到极致的调色技法/铃木辉实",
+    "bookname": "让水彩画达到极致的调色技法/铃木辉实",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084771",
-    "bookname": "V数据库应用技术/谭萍",
+    "bookname": "数据库应用技术/谭萍",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0084772",
-    "bookname": "V鸡尾酒调制/季芳、王慧毅",
+    "bookname": "鸡尾酒调制/季芳、王慧毅",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0084773",
-    "bookname": "V结构 解剖 素描静物/张友良",
+    "bookname": "结构 解剖 素描静物/张友良",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0084774",
-    "bookname": "V敲门砖实景速写场景素描/李家友",
+    "bookname": "敲门砖实景速写场景素描/李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0084775",
-    "bookname": "V 2017四川美术联考红皮书/李家友",
+    "bookname": " 2017四川美术联考红皮书/李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0084776",
-    "bookname": "V 2016四川美术联考红皮书/段健",
+    "bookname": " 2016四川美术联考红皮书/段健",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0084777",
-    "bookname": "V 2015四川美术联考红皮书/段健 李家友",
+    "bookname": " 2015四川美术联考红皮书/段健 李家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0084778",
-    "bookname": "V淘宝网店实战宝典/胡冬申",
+    "bookname": "淘宝网店实战宝典/胡冬申",
     "publishing": "北京联合"
 },
 {
     "subscribeCode": "18CJ0084779",
-    "bookname": "V汽车运行材料(双色版)",
+    "bookname": "汽车运行材料(双色版)",
     "publishing": "中国计划"
 },
 {
     "subscribeCode": "18CJ0084780",
-    "bookname": "V财务会计",
+    "bookname": "财务会计",
     "publishing": "东北财大"
 },
 {
     "subscribeCode": "18CJ0084781",
-    "bookname": "V财务会计练习题",
+    "bookname": "财务会计练习题",
     "publishing": "东北财大"
 },
 {
     "subscribeCode": "18CJ0084782",
-    "bookname": "V物联网导论/罗汉江 王亚东",
+    "bookname": "物联网导论/罗汉江 王亚东",
     "publishing": "其他"
 },
 {
     "subscribeCode": "18CJ0084783",
-    "bookname": "V计算机应用基础(WINDOWS7+OFFICE2010第3版)/黄国兴",
+    "bookname": "计算机应用基础(WINDOWS7+OFFICE2010第3版)/黄国兴",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084784",
-    "bookname": "V景区讲解服务/唐由庆",
+    "bookname": "景区讲解服务/唐由庆",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084785",
-    "bookname": "V工业机器人基础/王保军 滕少峰",
+    "bookname": "工业机器人基础/王保军 滕少峰",
     "publishing": "华中科大"
 },
 {
     "subscribeCode": "18CJ0084786",
-    "bookname": "V旅游服务礼仪技能实训/李祝舜",
+    "bookname": "旅游服务礼仪技能实训/李祝舜",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084787",
-    "bookname": "V ABB工业机器人现场编程/张超",
+    "bookname": " ABB工业机器人现场编程/张超",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084788",
-    "bookname": "V工业机器人工程应用虚拟仿真教程/叶晖",
+    "bookname": "工业机器人工程应用虚拟仿真教程/叶晖",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084789",
-    "bookname": "V开店实务  黄文莉",
+    "bookname": "开店实务  黄文莉",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084790",
-    "bookname": "V机械基础（第二版）/携成东",
+    "bookname": "机械基础（第二版）/携成东",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084791",
-    "bookname": "V CCF中学生计算机程序设计-基础篇",
+    "bookname": " CCF中学生计算机程序设计-基础篇",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084792",
-    "bookname": "V幼儿心理学/幼师用",
+    "bookname": "幼儿心理学/幼师用",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0084793",
-    "bookname": "V中文版PHOTOSHOP入门与提高：CS6版本/张丹丹 毛志超",
+    "bookname": "中文版PHOTOSHOP入门与提高：CS6版本/张丹丹 毛志超",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084794",
-    "bookname": "V计算机图形制作CORELDRAW X6项目教程/卢杰",
+    "bookname": "计算机图形制作CORELDRAW X6项目教程/卢杰",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084795",
-    "bookname": "V城市轨道交通实用英语(配MP3光盘)/杨国萍",
+    "bookname": "城市轨道交通实用英语(配MP3光盘)/杨国萍",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084796",
-    "bookname": "V汽车电工电子基础(双色版)",
+    "bookname": "汽车电工电子基础(双色版)",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0084797",
-    "bookname": "V就业指导与创业教育/王桂亮 王三刚",
+    "bookname": "就业指导与创业教育/王桂亮 王三刚",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084798",
-    "bookname": "V音乐欣赏/苏鹏",
+    "bookname": "音乐欣赏/苏鹏",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084799",
-    "bookname": "V经典诵读/谭冠著",
+    "bookname": "经典诵读/谭冠著",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084800",
-    "bookname": "V应用文写作基础/赵莉",
+    "bookname": "应用文写作基础/赵莉",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084801",
-    "bookname": "V金属切削原理与刀具/王文丽",
+    "bookname": "金属切削原理与刀具/王文丽",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084802",
-    "bookname": "V国学经典读本/莫林 杨媛",
+    "bookname": "国学经典读本/莫林 杨媛",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084803",
-    "bookname": "V机械制图/陈洪福",
+    "bookname": "机械制图/陈洪福",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084804",
-    "bookname": "V计算机应用基础（WINDOWS7+OFFICE 2010）",
+    "bookname": "计算机应用基础（WINDOWS7+OFFICE 2010）",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084805",
-    "bookname": "V汽车底盘构造与检修（电子课件）/欧益娥",
+    "bookname": "汽车底盘构造与检修（电子课件）/欧益娥",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084806",
-    "bookname": "V服装设计基础",
+    "bookname": "服装设计基础",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084807",
-    "bookname": "V服装材料",
+    "bookname": "服装材料",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084808",
-    "bookname": "V机械识图与CAD技术/王道广",
+    "bookname": "机械识图与CAD技术/王道广",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084809",
-    "bookname": "V VB语言程序设计(第4版) /林卓然",
+    "bookname": " VB语言程序设计(第4版) /林卓然",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084810",
-    "bookname": "V机械CAD-CAM(第2版)/周玮",
+    "bookname": "机械CAD-CAM(第2版)/周玮",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084811",
-    "bookname": "V电子元器件识别与检测/魏远斌",
+    "bookname": "电子元器件识别与检测/魏远斌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084812",
-    "bookname": "V PLC技术应用（第2版）（附光盘）（双色）（附学习卡/防伪标）/",
+    "bookname": " PLC技术应用（第2版）（附光盘）（双色）（附学习卡/防伪标）/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084813",
-    "bookname": "V高中军事理论与技能训练教程/袁野",
+    "bookname": "高中军事理论与技能训练教程/袁野",
     "publishing": "国防大学"
 },
 {
     "subscribeCode": "18CJ0084814",
-    "bookname": "V幼师舞蹈（单色）/潘春",
+    "bookname": "幼师舞蹈（单色）/潘春",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084815",
-    "bookname": "V计算机应用基础（WIN7+OFFICE2010）/金航",
+    "bookname": "计算机应用基础（WIN7+OFFICE2010）/金航",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084816",
-    "bookname": "V客舱服务技能实训/廖韵如",
+    "bookname": "客舱服务技能实训/廖韵如",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084817",
-    "bookname": "V工厂供电/魏玉红",
+    "bookname": "工厂供电/魏玉红",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084818",
-    "bookname": "V机电产品市场营销/赵淳宇,曾国勋'",
+    "bookname": "机电产品市场营销/赵淳宇,曾国勋'",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0084819",
-    "bookname": "V幼儿园课程与活动设计 /朱家雄",
+    "bookname": "幼儿园课程与活动设计 /朱家雄",
     "publishing": "中央电大"
 },
 {
     "subscribeCode": "18CJ0084820",
-    "bookname": "V会展业务流程/张策",
+    "bookname": "会展业务流程/张策",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084821",
-    "bookname": "V职业道德与法律/胡茂林、邓银生",
+    "bookname": "职业道德与法律/胡茂林、邓银生",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0084822",
-    "bookname": "V工匠精神读本/陈娟、杨海",
+    "bookname": "工匠精神读本/陈娟、杨海",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084823",
-    "bookname": "V计算机应用基础（XP版）（双色、配电子课件）/田茂兴",
+    "bookname": "计算机应用基础（XP版）（双色、配电子课件）/田茂兴",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084824",
-    "bookname": "V兴趣学速写/杨建飞",
+    "bookname": "兴趣学速写/杨建飞",
     "publishing": "中国美院"
 },
 {
     "subscribeCode": "18CJ0084825",
-    "bookname": "V公共关系基础/冯冰",
+    "bookname": "公共关系基础/冯冰",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0084826",
-    "bookname": "V美术欣赏/蒋锦彪",
+    "bookname": "美术欣赏/蒋锦彪",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084827",
-    "bookname": "V机械基础（多学时）/张国军",
+    "bookname": "机械基础（多学时）/张国军",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084828",
-    "bookname": "V汽车零配件销售/李丕毅",
+    "bookname": "汽车零配件销售/李丕毅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084829",
-    "bookname": "V女外套设计.制板.工艺/陈尚斌",
+    "bookname": "女外套设计.制板.工艺/陈尚斌",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084830",
-    "bookname": "V男外套设计.制板.工艺/王晓泽",
+    "bookname": "男外套设计.制板.工艺/王晓泽",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084831",
-    "bookname": "V立体裁剪与制板实训（附光盘）（彩色）/魏静",
+    "bookname": "立体裁剪与制板实训（附光盘）（彩色）/魏静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084832",
-    "bookname": "V衬衫设计.制板.工艺/鲍卫君",
+    "bookname": "衬衫设计.制板.工艺/鲍卫君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084833",
-    "bookname": "V航线地理/鞠海虹",
+    "bookname": "航线地理/鞠海虹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084834",
-    "bookname": "V裤装设计.制板.工艺/鲍卫君",
+    "bookname": "裤装设计.制板.工艺/鲍卫君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084835",
-    "bookname": "V无机化学(第四版)（附练习册）/党信",
+    "bookname": "无机化学(第四版)（附练习册）/党信",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084836",
-    "bookname": "V仪器分析技术/陈光利",
+    "bookname": "仪器分析技术/陈光利",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084837",
-    "bookname": "V化学分析技术/冯淑琴",
+    "bookname": "化学分析技术/冯淑琴",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084838",
-    "bookname": "V实验室安全技术/邵国成",
+    "bookname": "实验室安全技术/邵国成",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084839",
-    "bookname": "V数控加工工艺/周登科",
+    "bookname": "数控加工工艺/周登科",
     "publishing": "吉林科技"
 },
 {
     "subscribeCode": "18CJ0084840",
-    "bookname": "V机械制造基础（第二版）/张若峰",
+    "bookname": "机械制造基础（第二版）/张若峰",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084841",
-    "bookname": "V职业院校国学名篇诵读/袁海英",
+    "bookname": "职业院校国学名篇诵读/袁海英",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0084842",
-    "bookname": "V机械制图练习册/周万平",
+    "bookname": "机械制图练习册/周万平",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0084843",
-    "bookname": "V汽车营销/刘雅杰",
+    "bookname": "汽车营销/刘雅杰",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084844",
-    "bookname": "V机械基础习题集/张国军",
+    "bookname": "机械基础习题集/张国军",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0084845",
-    "bookname": "V化工制图与CAD/张晖 侯海晶",
+    "bookname": "化工制图与CAD/张晖 侯海晶",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0084846",
-    "bookname": "V化工制图与CAD习题集（化工类）/张晖侯海晶",
+    "bookname": "化工制图与CAD习题集（化工类）/张晖侯海晶",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0084847",
-    "bookname": "V中国传统吉祥图案与配色/易鋭、易凯",
+    "bookname": "中国传统吉祥图案与配色/易鋭、易凯",
     "publishing": "大连理工"
 },
 {
     "subscribeCode": "18CJ0084848",
-    "bookname": "V秘书学第3版(十二五)职业教育国家规划教材/方晓蓉、方国雄",
+    "bookname": "秘书学第3版(十二五)职业教育国家规划教材/方晓蓉、方国雄",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084849",
-    "bookname": "V综合布线设计与施工/段标",
+    "bookname": "综合布线设计与施工/段标",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084850",
-    "bookname": "V卡通人物造型设计手绘技法/徐琼",
+    "bookname": "卡通人物造型设计手绘技法/徐琼",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0084851",
-    "bookname": "V平面设计PHOTOSHOP CS4/王维",
+    "bookname": "平面设计PHOTOSHOP CS4/王维",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084852",
-    "bookname": "V CORETDRAW实用教程/直永立",
+    "bookname": " CORETDRAW实用教程/直永立",
     "publishing": "科技文献"
 },
 {
     "subscribeCode": "18CJ0084853",
-    "bookname": "V秘书实务/楼红霞",
+    "bookname": "秘书实务/楼红霞",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084854",
-    "bookname": "V办公自动化教程(第二版)/王永平",
+    "bookname": "办公自动化教程(第二版)/王永平",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084855",
-    "bookname": "V机械制图习题集/黄正轴",
+    "bookname": "机械制图习题集/黄正轴",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084856",
-    "bookname": "V新视野英语教程 读写教程3 含盘第2版高职高专英语教材/郑树棠",
+    "bookname": "新视野英语教程 读写教程3 含盘第2版高职高专英语教材/郑树棠",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084857",
-    "bookname": "V文书与档案管理基础知识第二版/曹卫国",
+    "bookname": "文书与档案管理基础知识第二版/曹卫国",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084858",
-    "bookname": "V文书与档案管理基础知识习题册/曹卫国",
+    "bookname": "文书与档案管理基础知识习题册/曹卫国",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084859",
-    "bookname": "V学校管理/杨颖秀",
+    "bookname": "学校管理/杨颖秀",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084860",
-    "bookname": "V幼儿园组织与管理/刘艳珍",
+    "bookname": "幼儿园组织与管理/刘艳珍",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0084861",
-    "bookname": "V新概念交互英语教程1/邱立中",
+    "bookname": "新概念交互英语教程1/邱立中",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084862",
-    "bookname": "V新概念交互英语教程学习指导1/邱立中",
+    "bookname": "新概念交互英语教程学习指导1/邱立中",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084863",
-    "bookname": "V钢筋混凝土结构/张颂娟",
+    "bookname": "钢筋混凝土结构/张颂娟",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084864",
-    "bookname": "V工程地质/盛海洋",
+    "bookname": "工程地质/盛海洋",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084865",
-    "bookname": "V建筑材料与检测/张伟",
+    "bookname": "建筑材料与检测/张伟",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084866",
-    "bookname": "V房屋建筑学/袁金艳",
+    "bookname": "房屋建筑学/袁金艳",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084867",
-    "bookname": "V建筑施工技术/钟汉华",
+    "bookname": "建筑施工技术/钟汉华",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084868",
-    "bookname": "V工程监理/张建隽",
+    "bookname": "工程监理/张建隽",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0084869",
-    "bookname": "V天正建筑软件/麓山文化",
+    "bookname": "天正建筑软件/麓山文化",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084870",
-    "bookname": "V中职学生安全教育/魏荣庆",
+    "bookname": "中职学生安全教育/魏荣庆",
     "publishing": "新华"
 },
 {
     "subscribeCode": "18CJ0084871",
-    "bookname": "V电梯电气控制与维修/于磊",
+    "bookname": "电梯电气控制与维修/于磊",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084872",
-    "bookname": "V学前教育学/张兰香",
+    "bookname": "学前教育学/张兰香",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084873",
-    "bookname": "V电梯维修保养备赛指导/李乃夫",
+    "bookname": "电梯维修保养备赛指导/李乃夫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084874",
-    "bookname": "V大学语文（高职版）/徐中玉",
+    "bookname": "大学语文（高职版）/徐中玉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084875",
-    "bookname": "V畅通英语基础教程/畅通英语改编组",
+    "bookname": "畅通英语基础教程/畅通英语改编组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084876",
-    "bookname": "V计算机应用基础任务化教程/眭碧霞",
+    "bookname": "计算机应用基础任务化教程/眭碧霞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084877",
-    "bookname": "V学前儿童发展心理学/张永红",
+    "bookname": "学前儿童发展心理学/张永红",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084878",
-    "bookname": "V数控车削加工技术/赵军华",
+    "bookname": "数控车削加工技术/赵军华",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084879",
-    "bookname": "V平面设计入门与提高/金成 崔正浩",
+    "bookname": "平面设计入门与提高/金成 崔正浩",
     "publishing": "蓝天"
 },
 {
     "subscribeCode": "18CJ0084880",
-    "bookname": "V数控车床编程与操作系统/沈建峰",
+    "bookname": "数控车床编程与操作系统/沈建峰",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084881",
-    "bookname": "V数控车床操作技能考核培训教程/周晓宏",
+    "bookname": "数控车床操作技能考核培训教程/周晓宏",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084882",
-    "bookname": "V电子技术与技能",
+    "bookname": "电子技术与技能",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084883",
-    "bookname": "V构成——平面·色彩·立体（第二版）",
+    "bookname": "构成——平面·色彩·立体（第二版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084884",
-    "bookname": "V VI设计（第2版）",
+    "bookname": " VI设计（第2版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084885",
-    "bookname": "V桌面排版技术——INDESIGN CS6",
+    "bookname": "桌面排版技术——INDESIGN CS6",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084886",
-    "bookname": "V HTML5+CSS3网页美化与布局任务驱动式教程（第2版）",
+    "bookname": " HTML5+CSS3网页美化与布局任务驱动式教程（第2版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084887",
-    "bookname": "V AUTOCAD2010机械图绘制实用教程",
+    "bookname": " AUTOCAD2010机械图绘制实用教程",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084888",
-    "bookname": "V鸟哥的LINUX私房菜:服务器架设篇",
+    "bookname": "鸟哥的LINUX私房菜:服务器架设篇",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084889",
-    "bookname": "V FLASHCS6动画制作",
+    "bookname": " FLASHCS6动画制作",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084890",
-    "bookname": "V车身涂装指南",
+    "bookname": "车身涂装指南",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084891",
-    "bookname": "V鸟哥的LINUX私房菜：基础学习篇（第3版）",
+    "bookname": "鸟哥的LINUX私房菜：基础学习篇（第3版）",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0084892",
-    "bookname": "V VISUAL BASIC学习辅导与上机实习/贾长云",
+    "bookname": " VISUAL BASIC学习辅导与上机实习/贾长云",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084893",
-    "bookname": "V电器及PLC控制技术学习指导与练习/李乃夫",
+    "bookname": "电器及PLC控制技术学习指导与练习/李乃夫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084894",
-    "bookname": "V钢琴与幼儿歌曲伴奏(附学习卡/防伪标)/唐宁",
+    "bookname": "钢琴与幼儿歌曲伴奏(附学习卡/防伪标)/唐宁",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084895",
-    "bookname": "V钳工实习与考级（第2版）",
+    "bookname": "钳工实习与考级（第2版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084896",
-    "bookname": "V客房服务/杨富荣",
+    "bookname": "客房服务/杨富荣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084897",
-    "bookname": "V旅游心理学练习册(附光盘)(附学习卡)/张志毅",
+    "bookname": "旅游心理学练习册(附光盘)(附学习卡)/张志毅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084898",
-    "bookname": "V汽车保养基础/王锦俞",
+    "bookname": "汽车保养基础/王锦俞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084899",
-    "bookname": "V汽车底盘维修/占百春",
+    "bookname": "汽车底盘维修/占百春",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084900",
-    "bookname": "V汽车电路识图/李春明",
+    "bookname": "汽车电路识图/李春明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084901",
-    "bookname": "V汽车发动机械维修/黄国莹",
+    "bookname": "汽车发动机械维修/黄国莹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084902",
-    "bookname": "V汽车美容(彩色)/王明辉",
+    "bookname": "汽车美容(彩色)/王明辉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084903",
-    "bookname": "V汽车装潢/陈仲武",
+    "bookname": "汽车装潢/陈仲武",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084904",
-    "bookname": "V数控铣工实习与考级(发那科系统)/徐夏民",
+    "bookname": "数控铣工实习与考级(发那科系统)/徐夏民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084905",
-    "bookname": "V舞蹈与幼儿舞蹈创编(附学习卡/防伪标)/朴红梅",
+    "bookname": "舞蹈与幼儿舞蹈创编(附学习卡/防伪标)/朴红梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084906",
-    "bookname": "V学前教育基础知识 /冯婉桢",
+    "bookname": "学前教育基础知识 /冯婉桢",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084907",
-    "bookname": "V幼儿文学阅读与指导 /高格褆、舒平",
+    "bookname": "幼儿文学阅读与指导 /高格褆、舒平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084908",
-    "bookname": "V幼儿园班级管理/陈艳丽、张莉",
+    "bookname": "幼儿园班级管理/陈艳丽、张莉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084909",
-    "bookname": "V幼儿园一日生活活动组织与实施/唐春秀、王敏",
+    "bookname": "幼儿园一日生活活动组织与实施/唐春秀、王敏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084910",
-    "bookname": "V INTERNET应用(第4版)上机指导与练习/黄洪杰",
+    "bookname": " INTERNET应用(第4版)上机指导与练习/黄洪杰",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084911",
-    "bookname": "V WORD2010、EXCEL2010、POWERPOINT2010案例教程/朱海波、底利娟",
+    "bookname": " WORD2010、EXCEL2010、POWERPOINT2010案例教程/朱海波、底利娟",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084912",
-    "bookname": "V旅行社服务与管理/张建国",
+    "bookname": "旅行社服务与管理/张建国",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084913",
-    "bookname": "V幼师舞蹈基础/宋彩虹",
+    "bookname": "幼师舞蹈基础/宋彩虹",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084914",
-    "bookname": "V餐巾折花艺术/沈瑗",
+    "bookname": "餐巾折花艺术/沈瑗",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0084915",
-    "bookname": "V道路交通安全法规教程/杨松林",
+    "bookname": "道路交通安全法规教程/杨松林",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084916",
-    "bookname": "V中职英语口语实训(2017版)/侯毅凌",
+    "bookname": "中职英语口语实训(2017版)/侯毅凌",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084917",
-    "bookname": "V餐饮部实训教程/赵萍",
+    "bookname": "餐饮部实训教程/赵萍",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0084918",
-    "bookname": "V ARCGIS地理信息系统空间分析实验教材/汤国安",
+    "bookname": " ARCGIS地理信息系统空间分析实验教材/汤国安",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084919",
-    "bookname": "V地理信息系统实习教程/宋小冬",
+    "bookname": "地理信息系统实习教程/宋小冬",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0084920",
-    "bookname": "V地籍与房产测量/邓军",
+    "bookname": "地籍与房产测量/邓军",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0084921",
-    "bookname": "V路基础施工技术/沈东璐",
+    "bookname": "路基础施工技术/沈东璐",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0084922",
-    "bookname": "V ANDROID应用程序开发教程-ANDROID STUDIO版/罗文龙",
+    "bookname": " ANDROID应用程序开发教程-ANDROID STUDIO版/罗文龙",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084923",
-    "bookname": "V房地产开发与经营/叶雉鸠",
+    "bookname": "房地产开发与经营/叶雉鸠",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0084924",
-    "bookname": "V水法规与行政执法/杨谦",
+    "bookname": "水法规与行政执法/杨谦",
     "publishing": "中央电大"
 },
 {
     "subscribeCode": "18CJ0084925",
-    "bookname": "V电气设备运行与维护/袁兴惠",
+    "bookname": "电气设备运行与维护/袁兴惠",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0084926",
-    "bookname": "V建筑工程计量与计价/李学明",
+    "bookname": "建筑工程计量与计价/李学明",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0084927",
-    "bookname": "V计算机英语（双色）/ 彭杰、刘艳",
+    "bookname": "计算机英语（双色）/ 彭杰、刘艳",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0084928",
-    "bookname": "V大学数学应用基础（上）(第三版)/曾庆柏",
+    "bookname": "大学数学应用基础（上）(第三版)/曾庆柏",
     "publishing": "湖南教育"
 },
 {
     "subscribeCode": "18CJ0084929",
-    "bookname": "V多媒体应用技术-项目与案例教程/张秀杰",
+    "bookname": "多媒体应用技术-项目与案例教程/张秀杰",
     "publishing": "哈工大"
 },
 {
     "subscribeCode": "18CJ0084930",
-    "bookname": "V地貌学及第四纪地质学教程/曾克峰 刘超 程璜鑫",
+    "bookname": "地貌学及第四纪地质学教程/曾克峰 刘超 程璜鑫",
     "publishing": "地质大学"
 },
 {
     "subscribeCode": "18CJ0084931",
-    "bookname": "V中国旅游客源国概况/王兴斌",
+    "bookname": "中国旅游客源国概况/王兴斌",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0084932",
-    "bookname": "V房地产估价(第八版)/柴强",
+    "bookname": "房地产估价(第八版)/柴强",
     "publishing": "首都经贸"
 },
 {
     "subscribeCode": "18CJ0084933",
-    "bookname": "V建筑结构CAD－PKPM软件应用/何世龙",
+    "bookname": "建筑结构CAD－PKPM软件应用/何世龙",
     "publishing": "西南交大"
 },
 {
     "subscribeCode": "18CJ0084934",
-    "bookname": "V道路桥梁工程概论/张银峰",
+    "bookname": "道路桥梁工程概论/张银峰",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084935",
-    "bookname": "V水质监测与分析/彭虹",
+    "bookname": "水质监测与分析/彭虹",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084936",
-    "bookname": "V治河防洪（第2 版）/罗全胜",
+    "bookname": "治河防洪（第2 版）/罗全胜",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084937",
-    "bookname": "V发电厂电气设备/谢珍贵 汪永华",
+    "bookname": "发电厂电气设备/谢珍贵 汪永华",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084938",
-    "bookname": "V灌溉排水工程技术（第2版）/樊惠芳",
+    "bookname": "灌溉排水工程技术（第2版）/樊惠芳",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084939",
-    "bookname": "V测量平差/靳祥升",
+    "bookname": "测量平差/靳祥升",
     "publishing": "黄河水利"
 },
 {
     "subscribeCode": "18CJ0084940",
-    "bookname": "V地质制图与识图/韩丛发",
+    "bookname": "地质制图与识图/韩丛发",
     "publishing": "矿业大学"
 },
 {
     "subscribeCode": "18CJ0084941",
-    "bookname": "V中文FLASH8标准教程/刘鹰",
+    "bookname": "中文FLASH8标准教程/刘鹰",
     "publishing": "西北工大"
 },
 {
     "subscribeCode": "18CJ0084942",
-    "bookname": "V学期儿童游戏教程/刘文英",
+    "bookname": "学期儿童游戏教程/刘文英",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084943",
-    "bookname": "V合唱与指挥/乔永军",
+    "bookname": "合唱与指挥/乔永军",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0084944",
-    "bookname": "V汽车维护与保养（实训）/李杨",
+    "bookname": "汽车维护与保养（实训）/李杨",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084945",
-    "bookname": "V形体与礼仪/谭华",
+    "bookname": "形体与礼仪/谭华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084946",
-    "bookname": "V幼儿园集体教学活动设计与案例/刘彩云",
+    "bookname": "幼儿园集体教学活动设计与案例/刘彩云",
     "publishing": "中国轻工"
 },
 {
     "subscribeCode": "18CJ0084947",
-    "bookname": "V汽车涂装修复实训教程（教参）/吴兴敏",
+    "bookname": "汽车涂装修复实训教程（教参）/吴兴敏",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084948",
-    "bookname": "V前厅服务(第二版)/滕玮峰",
+    "bookname": "前厅服务(第二版)/滕玮峰",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084949",
-    "bookname": "V实用摄影摄像技术(第 2版)(附学习卡/防伪标)/袁一鸣",
+    "bookname": "实用摄影摄像技术(第 2版)(附学习卡/防伪标)/袁一鸣",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084950",
-    "bookname": "V分析化学（第四版）/编写组",
+    "bookname": "分析化学（第四版）/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084951",
-    "bookname": "V仓储管理实务（第三版）/梁军",
+    "bookname": "仓储管理实务（第三版）/梁军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084952",
-    "bookname": "V财务会计实务（第三版）/张英",
+    "bookname": "财务会计实务（第三版）/张英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084953",
-    "bookname": "V电力系统基础/郑静",
+    "bookname": "电力系统基础/郑静",
     "publishing": "浙江大学"
 },
 {
     "subscribeCode": "18CJ0084954",
-    "bookname": "V出纳实务/徐颖",
+    "bookname": "出纳实务/徐颖",
     "publishing": "湖南师大"
 },
 {
     "subscribeCode": "18CJ0084955",
-    "bookname": "V测绘管理与法律法规/国家测绘地理信息",
+    "bookname": "测绘管理与法律法规/国家测绘地理信息",
     "publishing": "测绘"
 },
 {
     "subscribeCode": "18CJ0084956",
-    "bookname": "V ADOBE IIIUSTRATOR 矢量图形设计实例教程/陈港能 王宏民",
+    "bookname": " ADOBE IIIUSTRATOR 矢量图形设计实例教程/陈港能 王宏民",
     "publishing": "黑龙江美术"
 },
 {
     "subscribeCode": "18CJ0084957",
-    "bookname": "V职业综合英语(2)通用版(新职业英语基础篇)(配光盘) /",
+    "bookname": "职业综合英语(2)通用版(新职业英语基础篇)(配光盘) /",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0084958",
-    "bookname": "V分析测试技术（第二版）/朱伟军",
+    "bookname": "分析测试技术（第二版）/朱伟军",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0084959",
-    "bookname": "V水文现代化与水文新技术/林祚顶",
+    "bookname": "水文现代化与水文新技术/林祚顶",
     "publishing": "水利水电"
 },
 {
     "subscribeCode": "18CJ0084960",
-    "bookname": "V舞蹈",
+    "bookname": "舞蹈",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084961",
-    "bookname": "V声乐",
+    "bookname": "声乐",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084962",
-    "bookname": "V美术",
+    "bookname": "美术",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084963",
-    "bookname": "V国学通识教育",
+    "bookname": "国学通识教育",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0084964",
-    "bookname": "V新概念网页设计",
+    "bookname": "新概念网页设计",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0084965",
-    "bookname": "V计算机组装与维护项目教程",
+    "bookname": "计算机组装与维护项目教程",
     "publishing": "上海科普"
 },
 {
     "subscribeCode": "18CJ0084966",
-    "bookname": "V中文版OFFICE 2010办公自动化项目教程",
+    "bookname": "中文版OFFICE 2010办公自动化项目教程",
     "publishing": "上海科普"
 },
 {
     "subscribeCode": "18CJ0084967",
-    "bookname": "V ACCESS 2010数据库基础及应用",
+    "bookname": " ACCESS 2010数据库基础及应用",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084968",
-    "bookname": "V汽车车身修复技术",
+    "bookname": "汽车车身修复技术",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084969",
-    "bookname": "V初级维修电工实训",
+    "bookname": "初级维修电工实训",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0084970",
-    "bookname": "V普通话水平测试教程",
+    "bookname": "普通话水平测试教程",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084971",
-    "bookname": "V色彩构成（十二五职业教育）",
+    "bookname": "色彩构成（十二五职业教育）",
     "publishing": "教育科学"
 },
 {
     "subscribeCode": "18CJ0084972",
-    "bookname": "V汽车机械基础",
+    "bookname": "汽车机械基础",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0084973",
-    "bookname": "V汽车检测与维修实训",
+    "bookname": "汽车检测与维修实训",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0084974",
-    "bookname": "V汽车发动机构造与检修",
+    "bookname": "汽车发动机构造与检修",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0084975",
-    "bookname": "V汽车底盘构造与维修",
+    "bookname": "汽车底盘构造与维修",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0084976",
-    "bookname": "V汽车电气设备构造与检修",
+    "bookname": "汽车电气设备构造与检修",
     "publishing": "中国建材"
 },
 {
     "subscribeCode": "18CJ0084977",
-    "bookname": "V美术欣赏",
+    "bookname": "美术欣赏",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084978",
-    "bookname": "V演讲与口才（双色）",
+    "bookname": "演讲与口才（双色）",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0084979",
-    "bookname": "V中文版CORELDRAW X6平面设计实例教程",
+    "bookname": "中文版CORELDRAW X6平面设计实例教程",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0084980",
-    "bookname": "V汽车机械识图(中职)(含资源库)",
+    "bookname": "汽车机械识图(中职)(含资源库)",
     "publishing": "哈工大"
 },
 {
     "subscribeCode": "18CJ0084981",
-    "bookname": "V电工电子技术（含实训）",
+    "bookname": "电工电子技术（含实训）",
     "publishing": "哈工大"
 },
 {
     "subscribeCode": "18CJ0084982",
-    "bookname": "V饭店服务与管理(第二版)",
+    "bookname": "饭店服务与管理(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084983",
-    "bookname": "V平面构成",
+    "bookname": "平面构成",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0084984",
-    "bookname": "V计算机网络基础",
+    "bookname": "计算机网络基础",
     "publishing": "北京希望电子"
 },
 {
     "subscribeCode": "18CJ0084985",
-    "bookname": "V计算机应用基础上机指导/张婕、郭志宇、刘君",
+    "bookname": "计算机应用基础上机指导/张婕、郭志宇、刘君",
     "publishing": "东南大学"
 },
 {
     "subscribeCode": "18CJ0084986",
-    "bookname": "V职业素养教程/许湘岳、陈留彬",
+    "bookname": "职业素养教程/许湘岳、陈留彬",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0084987",
-    "bookname": "V PREMIERE PRO CS6案例教程/曾祥明",
+    "bookname": " PREMIERE PRO CS6案例教程/曾祥明",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0084988",
-    "bookname": "V计算机网络技术基础/张建文",
+    "bookname": "计算机网络技术基础/张建文",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084989",
-    "bookname": "V网络服务器配置与管理-WINDOWS SEREVER 2008平台（第2版）/高晓",
+    "bookname": "网络服务器配置与管理-WINDOWS SEREVER 2008平台（第2版）/高晓",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084990",
-    "bookname": "V顶配 场景速写2/徐敬尧",
+    "bookname": "顶配 场景速写2/徐敬尧",
     "publishing": "黑龙江美术"
 },
 {
     "subscribeCode": "18CJ0084991",
-    "bookname": "V顶配1.0色彩场景照片/徐敬尧",
+    "bookname": "顶配1.0色彩场景照片/徐敬尧",
     "publishing": "黑龙江美术"
 },
 {
     "subscribeCode": "18CJ0084992",
-    "bookname": "V顶配1.0-色彩场景合集/徐敬尧",
+    "bookname": "顶配1.0-色彩场景合集/徐敬尧",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0084993",
-    "bookname": "V普通焊接方法与工艺/张毅敏周宝开",
+    "bookname": "普通焊接方法与工艺/张毅敏周宝开",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084994",
-    "bookname": "V焊接结构生产/朱正",
+    "bookname": "焊接结构生产/朱正",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084995",
-    "bookname": "V焊接电工/李荣雪李金波",
+    "bookname": "焊接电工/李荣雪李金波",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084996",
-    "bookname": "V数控机床编程与操作（第三版数控车床分册）习题册/",
+    "bookname": "数控机床编程与操作（第三版数控车床分册）习题册/",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084997",
-    "bookname": "V数控机床编程与操作课教学参考书（第三版数控车床分册配套使用",
+    "bookname": "数控机床编程与操作课教学参考书（第三版数控车床分册配套使用",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0084998",
-    "bookname": "V素描静物画基础（引进教材）/宋炀",
+    "bookname": "素描静物画基础（引进教材）/宋炀",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0084999",
-    "bookname": "V船舶概论",
+    "bookname": "船舶概论",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0085000",
-    "bookname": "V数控加工工艺与编程技术基础",
+    "bookname": "数控加工工艺与编程技术基础",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085001",
-    "bookname": "V建筑CAD（中望CAD）",
+    "bookname": "建筑CAD（中望CAD）",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085002",
-    "bookname": "V CAD/CAM技术应用——CERO",
+    "bookname": " CAD/CAM技术应用——CERO",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085003",
-    "bookname": "V航海英语",
+    "bookname": "航海英语",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0085004",
-    "bookname": "V食品营养与卫生/王文福 沈雪梅",
+    "bookname": "食品营养与卫生/王文福 沈雪梅",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0085005",
-    "bookname": "V客房服务与管理/俞云",
+    "bookname": "客房服务与管理/俞云",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0085006",
-    "bookname": "V船员思想道德修养与法律基础",
+    "bookname": "船员思想道德修养与法律基础",
     "publishing": "海事大学"
 },
 {
     "subscribeCode": "18CJ0085007",
-    "bookname": "V旅行社业务",
+    "bookname": "旅行社业务",
     "publishing": "中国铁道"
 },
 {
     "subscribeCode": "18CJ0085008",
-    "bookname": "V机械常识与钳工实训(非机类通用)/付宏生 孟献军",
+    "bookname": "机械常识与钳工实训(非机类通用)/付宏生 孟献军",
     "publishing": "北京"
 },
 {
     "subscribeCode": "18CJ0085009",
-    "bookname": "V普通车削技术训练/韩开生",
+    "bookname": "普通车削技术训练/韩开生",
     "publishing": "北京"
 },
 {
     "subscribeCode": "18CJ0085010",
-    "bookname": "V PLC与变频器应用技术/赵雄",
+    "bookname": " PLC与变频器应用技术/赵雄",
     "publishing": "北京"
 },
 {
     "subscribeCode": "18CJ0085011",
-    "bookname": "V机械加工检测技术/郝康平  陈海静",
+    "bookname": "机械加工检测技术/郝康平  陈海静",
     "publishing": "北京"
 },
 {
     "subscribeCode": "18CJ0085012",
-    "bookname": "V工业机器人应用基础-基于ABB机器人/魏志丽,林燕文'",
+    "bookname": "工业机器人应用基础-基于ABB机器人/魏志丽,林燕文'",
     "publishing": "航空航天"
 },
 {
     "subscribeCode": "18CJ0085013",
-    "bookname": "V客户关系管理（第2版）/张永红",
+    "bookname": "客户关系管理（第2版）/张永红",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085014",
-    "bookname": "V AUTOCAD实用教程/徐秀娟",
+    "bookname": " AUTOCAD实用教程/徐秀娟",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085015",
-    "bookname": "V公共艺术(音乐)(新书)",
+    "bookname": "公共艺术(音乐)(新书)",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0085016",
-    "bookname": "V出彩人生  赢在素养/刘忠军",
+    "bookname": "出彩人生  赢在素养/刘忠军",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0085017",
-    "bookname": "V语文练习册（基础模块）上/申明清",
+    "bookname": "语文练习册（基础模块）上/申明清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085018",
-    "bookname": "V园林植物环境与栽培/古腾清 林爵平",
+    "bookname": "园林植物环境与栽培/古腾清 林爵平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085019",
-    "bookname": "V园林植物识别（彩色）附学习卡/向民 黄安",
+    "bookname": "园林植物识别（彩色）附学习卡/向民 黄安",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085020",
-    "bookname": "V园林制图（双色）/吴立威 陆旦",
+    "bookname": "园林制图（双色）/吴立威 陆旦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085021",
-    "bookname": "V园林施工养护/姚连芳",
+    "bookname": "园林施工养护/姚连芳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085022",
-    "bookname": "V园林设计基础（彩色）（附学习卡）/孟宪民",
+    "bookname": "园林设计基础（彩色）（附学习卡）/孟宪民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085023",
-    "bookname": "V插花技艺/胡龙华",
+    "bookname": "插花技艺/胡龙华",
     "publishing": "农业科技"
 },
 {
     "subscribeCode": "18CJ0085024",
-    "bookname": "V法学基础理论与应用/",
+    "bookname": "法学基础理论与应用/",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085025",
-    "bookname": "V农村新政策法规与法律基础/邹栋林",
+    "bookname": "农村新政策法规与法律基础/邹栋林",
     "publishing": "农业科技"
 },
 {
     "subscribeCode": "18CJ0085026",
-    "bookname": "V会计基本技能练习册（第2版）（附光盘）/孙明德",
+    "bookname": "会计基本技能练习册（第2版）（附光盘）/孙明德",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085027",
-    "bookname": "V汽车机械基础/崔振民",
+    "bookname": "汽车机械基础/崔振民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085028",
-    "bookname": "V FLASH动画实训（附光盘） /马骋",
+    "bookname": " FLASH动画实训（附光盘） /马骋",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085029",
-    "bookname": "V动画概论 /张宏",
+    "bookname": "动画概论 /张宏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085030",
-    "bookname": "V构成——色彩构成（第二版）（配二维码视频） /张殊琳",
+    "bookname": "构成——色彩构成（第二版）（配二维码视频） /张殊琳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085031",
-    "bookname": "V动漫艺术与作品欣赏（附光盘） /郭肖华",
+    "bookname": "动漫艺术与作品欣赏（附光盘） /郭肖华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085032",
-    "bookname": "V色彩（二年级） /王昕、郭玉龙",
+    "bookname": "色彩（二年级） /王昕、郭玉龙",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085033",
-    "bookname": "V动漫手绘中间画（附光盘） /高等教育出版社",
+    "bookname": "动漫手绘中间画（附光盘） /高等教育出版社",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085034",
-    "bookname": "V动画人体默写训练教程（附辅学光盘） /高等教育出版社",
+    "bookname": "动画人体默写训练教程（附辅学光盘） /高等教育出版社",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085035",
-    "bookname": "V电子装配工艺（第2版）（附学习卡/防伪标） /王玫",
+    "bookname": "电子装配工艺（第2版）（附学习卡/防伪标） /王玫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085036",
-    "bookname": "V美术鉴赏（第二版） /张道一",
+    "bookname": "美术鉴赏（第二版） /张道一",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085037",
-    "bookname": "V音乐鉴赏 /江柏安、张介甫",
+    "bookname": "音乐鉴赏 /江柏安、张介甫",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085038",
-    "bookname": "V幼儿园教育活动指导（附学习卡/防伪标） /陈蓉",
+    "bookname": "幼儿园教育活动指导（附学习卡/防伪标） /陈蓉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085039",
-    "bookname": "V人物速写*组合与场景/徐静尧、郝昕",
+    "bookname": "人物速写*组合与场景/徐静尧、郝昕",
     "publishing": "黑龙江美术"
 },
 {
     "subscribeCode": "18CJ0085040",
-    "bookname": "V色彩静物/徐静尧、郝昕",
+    "bookname": "色彩静物/徐静尧、郝昕",
     "publishing": "黑龙江美术"
 },
 {
     "subscribeCode": "18CJ0085041",
-    "bookname": "V素描静物组合训练/徐静尧、黄亮",
+    "bookname": "素描静物组合训练/徐静尧、黄亮",
     "publishing": "黑龙江美术"
 },
 {
     "subscribeCode": "18CJ0085042",
-    "bookname": "V心理健康(学生活动手册)/邹泓、黄才华",
+    "bookname": "心理健康(学生活动手册)/邹泓、黄才华",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0085043",
-    "bookname": "V数学(基础模块)(下册)(双色版)/吴志清、潘云",
+    "bookname": "数学(基础模块)(下册)(双色版)/吴志清、潘云",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0085044",
-    "bookname": "V数学(基础模块)(上册)(双色版)/吴志清、潘云",
+    "bookname": "数学(基础模块)(上册)(双色版)/吴志清、潘云",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0085045",
-    "bookname": "V英语(走向未来)(第一册)(新版)/TIM.COLLINS",
+    "bookname": "英语(走向未来)(第一册)(新版)/TIM.COLLINS",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0085046",
-    "bookname": "V英语走向未来教师教学用书1(新版)/刘道义",
+    "bookname": "英语走向未来教师教学用书1(新版)/刘道义",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0085047",
-    "bookname": "V英语(走向未来)(第一册)(练习册)/JOAN.SASLOW",
+    "bookname": "英语(走向未来)(第一册)(练习册)/JOAN.SASLOW",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0085048",
-    "bookname": "V CORELDRAW图形制作项目教程/缪明童",
+    "bookname": " CORELDRAW图形制作项目教程/缪明童",
     "publishing": "华中科大"
 },
 {
     "subscribeCode": "18CJ0085049",
-    "bookname": "V PHOTOSHOP CS3基础与实例教程(含1CD)(彩版)/吴万明、叶巍峨",
+    "bookname": " PHOTOSHOP CS3基础与实例教程(含1CD)(彩版)/吴万明、叶巍峨",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0085050",
-    "bookname": "V基础摄影与专业摄影第二版/张苏中",
+    "bookname": "基础摄影与专业摄影第二版/张苏中",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085051",
-    "bookname": "V字体设计/董小龙",
+    "bookname": "字体设计/董小龙",
     "publishing": "上海东方"
 },
 {
     "subscribeCode": "18CJ0085052",
-    "bookname": "V标志设计教程(配免费课件)/文红",
+    "bookname": "标志设计教程(配免费课件)/文红",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0085053",
-    "bookname": "V包装设计（张潇、沈卓娅）",
+    "bookname": "包装设计（张潇、沈卓娅）",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0085054",
-    "bookname": "V广告设计教程(配免费课件)/李巍",
+    "bookname": "广告设计教程(配免费课件)/李巍",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0085055",
-    "bookname": "V语文（职业模块）/朱燕、何忠勇",
+    "bookname": "语文（职业模块）/朱燕、何忠勇",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085056",
-    "bookname": "V酒店英语视听说/郑毅",
+    "bookname": "酒店英语视听说/郑毅",
     "publishing": "外研社"
 },
 {
     "subscribeCode": "18CJ0085057",
-    "bookname": "V民航乘务英语/编写组",
+    "bookname": "民航乘务英语/编写组",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085058",
-    "bookname": "V幼儿歌曲钢琴弹唱教程",
+    "bookname": "幼儿歌曲钢琴弹唱教程",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0085059",
-    "bookname": "V网页设计与制作",
+    "bookname": "网页设计与制作",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0085060",
-    "bookname": "V汽车电工电子/贾清华",
+    "bookname": "汽车电工电子/贾清华",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0085061",
-    "bookname": "V全国计算机等级考试三级教程——网络技术(2017年版)",
+    "bookname": "全国计算机等级考试三级教程——网络技术(2017年版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085062",
-    "bookname": "V机电一体化设备的组装与调试 /杨少光",
+    "bookname": "机电一体化设备的组装与调试 /杨少光",
     "publishing": "广西教育"
 },
 {
     "subscribeCode": "18CJ0085063",
-    "bookname": "V 3D MAX/VARY效果图实例表现标准教程",
+    "bookname": " 3D MAX/VARY效果图实例表现标准教程",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0085064",
-    "bookname": "V PHOTOSHOP CS5项目教程",
+    "bookname": " PHOTOSHOP CS5项目教程",
     "publishing": "湖北科技"
 },
 {
     "subscribeCode": "18CJ0085065",
-    "bookname": "V汽车钣金维修/任超",
+    "bookname": "汽车钣金维修/任超",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0085066",
-    "bookname": "V人物速写于萍教学",
+    "bookname": "人物速写于萍教学",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0085067",
-    "bookname": "V幼儿艺术(音乐)教育与活动指导/许卓娅",
+    "bookname": "幼儿艺术(音乐)教育与活动指导/许卓娅",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0085068",
-    "bookname": "V舞蹈基础/张春河",
+    "bookname": "舞蹈基础/张春河",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0085069",
-    "bookname": "V基础会计(第三版)/丁元霖",
+    "bookname": "基础会计(第三版)/丁元霖",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0085070",
-    "bookname": "V基础会计习题与解答(第三版)/丁元霖",
+    "bookname": "基础会计习题与解答(第三版)/丁元霖",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0085071",
-    "bookname": "V会计电算化 (第二版)",
+    "bookname": "会计电算化 (第二版)",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0085072",
-    "bookname": "V财经法规与会计职业道德  训练题库(第二版)",
+    "bookname": "财经法规与会计职业道德  训练题库(第二版)",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0085073",
-    "bookname": "V财经法规与会计职业道德(第二版)",
+    "bookname": "财经法规与会计职业道德(第二版)",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0085074",
-    "bookname": "V电工技能实训/陈  莉",
+    "bookname": "电工技能实训/陈  莉",
     "publishing": "山东科技"
 },
 {
     "subscribeCode": "18CJ0085075",
-    "bookname": "V酒店管理概论/李妍",
+    "bookname": "酒店管理概论/李妍",
     "publishing": "苏州大学"
 },
 {
     "subscribeCode": "18CJ0085076",
-    "bookname": "V语文练习册(基础模块)上册(配高教版)",
+    "bookname": "语文练习册(基础模块)上册(配高教版)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0085077",
-    "bookname": "V数学练习册(基础模块)上册(配高教版)",
+    "bookname": "数学练习册(基础模块)上册(配高教版)",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0085078",
-    "bookname": "V语文练习册(拓展模块)配高教版",
+    "bookname": "语文练习册(拓展模块)配高教版",
     "publishing": "知识"
 },
 {
     "subscribeCode": "18CJ0085079",
-    "bookname": "V康乐服务/人社部教材办公室",
+    "bookname": "康乐服务/人社部教材办公室",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0085080",
-    "bookname": "V超群素描头像",
+    "bookname": "超群素描头像",
     "publishing": "中国美院"
 },
 {
     "subscribeCode": "18CJ0085081",
-    "bookname": "V观赏植物栽培/邓庆文",
+    "bookname": "观赏植物栽培/邓庆文",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0085082",
-    "bookname": "V酒店礼仪/刘扬",
+    "bookname": "酒店礼仪/刘扬",
     "publishing": "中国农业"
 },
 {
     "subscribeCode": "18CJ0085083",
-    "bookname": "V观光农业概论/王冀川",
+    "bookname": "观光农业概论/王冀川",
     "publishing": "农业科技"
 },
 {
     "subscribeCode": "18CJ0085084",
-    "bookname": "V中职生心理辅导/许晓霞、高惠华",
+    "bookname": "中职生心理辅导/许晓霞、高惠华",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0085085",
-    "bookname": "V幼儿心理学",
+    "bookname": "幼儿心理学",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0085086",
-    "bookname": "V电子商务客户服务/盘红华",
+    "bookname": "电子商务客户服务/盘红华",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085087",
-    "bookname": "V餐饮服务实训教程/李华丽",
+    "bookname": "餐饮服务实训教程/李华丽",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0085088",
-    "bookname": "V店铺运营/莫海燕",
+    "bookname": "店铺运营/莫海燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085089",
-    "bookname": "V航空服务通用英语/孙楠楠",
+    "bookname": "航空服务通用英语/孙楠楠",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085090",
-    "bookname": "V电脑组装与维护案例教程(3版)/史艺",
+    "bookname": "电脑组装与维护案例教程(3版)/史艺",
     "publishing": "航空工业"
 },
 {
     "subscribeCode": "18CJ0085091",
-    "bookname": "V数学练与考高一上册/羊国锋",
+    "bookname": "数学练与考高一上册/羊国锋",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0085092",
-    "bookname": "V数学练与考高一下册/羊国锋",
+    "bookname": "数学练与考高一下册/羊国锋",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0085093",
-    "bookname": "V走进汽车数学/谭晓明、洪小娟",
+    "bookname": "走进汽车数学/谭晓明、洪小娟",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0085094",
-    "bookname": "V数学-四川省高职对口升学复习指导丛书/潘万伟",
+    "bookname": "数学-四川省高职对口升学复习指导丛书/潘万伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085095",
-    "bookname": "V公关与礼仪修养/马永林、温亦文",
+    "bookname": "公关与礼仪修养/马永林、温亦文",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085096",
-    "bookname": "V职业生涯规划教师指导用书/陈济",
+    "bookname": "职业生涯规划教师指导用书/陈济",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0085097",
-    "bookname": "V哲学与人生/董琪波、姬建军",
+    "bookname": "哲学与人生/董琪波、姬建军",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0085098",
-    "bookname": "V人体解剖学与组织胚胎学",
+    "bookname": "人体解剖学与组织胚胎学",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0085099",
-    "bookname": "V创新学案数学基础模块下册/刘景通",
+    "bookname": "创新学案数学基础模块下册/刘景通",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0085100",
-    "bookname": "V名师联盟-几何形体",
+    "bookname": "名师联盟-几何形体",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0085101",
-    "bookname": "V可视化编程应用基础-VISUAL BASIC/陈建军",
+    "bookname": "可视化编程应用基础-VISUAL BASIC/陈建军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085102",
-    "bookname": "V经济法基础（第三版）/王永济",
+    "bookname": "经济法基础（第三版）/王永济",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0085103",
-    "bookname": "V经济法基础知识习题集/王永济",
+    "bookname": "经济法基础知识习题集/王永济",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0085104",
-    "bookname": "V成本会计(2版)/李道刚",
+    "bookname": "成本会计(2版)/李道刚",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0085105",
-    "bookname": "V成本会计习题集(2版)/李道刚",
+    "bookname": "成本会计习题集(2版)/李道刚",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0085106",
-    "bookname": "V汽车维护/杨翰",
+    "bookname": "汽车维护/杨翰",
     "publishing": "大象"
 },
 {
     "subscribeCode": "18CJ0085107",
-    "bookname": "V电控发动机构造与维修/周敬东",
+    "bookname": "电控发动机构造与维修/周敬东",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0085108",
-    "bookname": "V焊接技术/尹相坤",
+    "bookname": "焊接技术/尹相坤",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085109",
-    "bookname": "V办公自动化实用教程/周贺来",
+    "bookname": "办公自动化实用教程/周贺来",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085110",
-    "bookname": "V汽车认识/胡凯",
+    "bookname": "汽车认识/胡凯",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085111",
-    "bookname": "V汽车与配件营销/张志强",
+    "bookname": "汽车与配件营销/张志强",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0085112",
-    "bookname": "V数控车床编程与操作/王振刚",
+    "bookname": "数控车床编程与操作/王振刚",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0085113",
-    "bookname": "V数控加工技术/刘桂霞",
+    "bookname": "数控加工技术/刘桂霞",
     "publishing": "南开大学"
 },
 {
     "subscribeCode": "18CJ0085114",
-    "bookname": "V计算机应用基础/清华大学",
+    "bookname": "计算机应用基础/清华大学",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0085115",
-    "bookname": "V会计电信息化教程/汪刚",
+    "bookname": "会计电信息化教程/汪刚",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0085116",
-    "bookname": "V汽车维修常用工量具使用",
+    "bookname": "汽车维修常用工量具使用",
     "publishing": "人民交通"
 },
 {
     "subscribeCode": "18CJ0085117",
-    "bookname": "V天然气集输技术/梁平",
+    "bookname": "天然气集输技术/梁平",
     "publishing": "石油工业"
 },
 {
     "subscribeCode": "18CJ0085118",
-    "bookname": "V全国导游基础知识",
+    "bookname": "全国导游基础知识",
     "publishing": "中国旅游"
 },
 {
     "subscribeCode": "18CJ0085119",
-    "bookname": "V导游服务能力——四川省现场考试指南",
+    "bookname": "导游服务能力——四川省现场考试指南",
     "publishing": "中国旅游"
 },
 {
     "subscribeCode": "18CJ0085120",
-    "bookname": "V速写/王赤丹",
+    "bookname": "速写/王赤丹",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085121",
-    "bookname": "V出纳会计实务/林云刚",
+    "bookname": "出纳会计实务/林云刚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085122",
-    "bookname": "V中兽医基础 /戴永海",
+    "bookname": "中兽医基础 /戴永海",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085123",
-    "bookname": "V猪病防治/林义明",
+    "bookname": "猪病防治/林义明",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085124",
-    "bookname": "V平面构成教程/夏镜湖",
+    "bookname": "平面构成教程/夏镜湖",
     "publishing": "西南师大"
 },
 {
     "subscribeCode": "18CJ0085125",
-    "bookname": "V绘画基础2000列——速写动态全集/里家友",
+    "bookname": "绘画基础2000列——速写动态全集/里家友",
     "publishing": "重庆"
 },
 {
     "subscribeCode": "18CJ0085126",
-    "bookname": "VAUTOCAD2004三维设计基础教程/张轩",
+    "bookname": "AUTOCAD2004三维设计基础教程/张轩",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085127",
-    "bookname": "V伯里曼人体结构绘画教学",
+    "bookname": "伯里曼人体结构绘画教学",
     "publishing": "广西美术"
 },
 {
     "subscribeCode": "18CJ0085128",
-    "bookname": "V幼儿教师语言/瞿亚红",
+    "bookname": "幼儿教师语言/瞿亚红",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0085129",
-    "bookname": "V电动、电热器具原理与维修(第三版)/林春方",
+    "bookname": "电动、电热器具原理与维修(第三版)/林春方",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0085130",
-    "bookname": "V POWRPOINT2010办公应用—设计师从新手到高手/王鑫",
+    "bookname": " POWRPOINT2010办公应用—设计师从新手到高手/王鑫",
     "publishing": "高等教育"
 },
 {
@@ -25656,962 +25656,962 @@ module.exports.books = [{
 },
 {
     "subscribeCode": "18CJ0085132",
-    "bookname": "V旅游市场营销/苏健",
+    "bookname": "旅游市场营销/苏健",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0085133",
-    "bookname": "V就业指导与创业教育/朱启国",
+    "bookname": "就业指导与创业教育/朱启国",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0085134",
-    "bookname": "V计算机应用基础",
+    "bookname": "计算机应用基础",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085135",
-    "bookname": "V简笔画",
+    "bookname": "简笔画",
     "publishing": "武汉大学"
 },
 {
     "subscribeCode": "18CJ0085136",
-    "bookname": "V应用服装画技法/王嘉馨",
+    "bookname": "应用服装画技法/王嘉馨",
     "publishing": "纺织工业"
 },
 {
     "subscribeCode": "18CJ0085137",
-    "bookname": "V舞蹈训练与编创/王海英、肖灵",
+    "bookname": "舞蹈训练与编创/王海英、肖灵",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085138",
-    "bookname": "V护理礼仪与人际沟通（第3版）/高燕",
+    "bookname": "护理礼仪与人际沟通（第3版）/高燕",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085139",
-    "bookname": "V学前儿童科学教育与活动指导/李兴娜",
+    "bookname": "学前儿童科学教育与活动指导/李兴娜",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0085140",
-    "bookname": "V学前儿童社会教育与活动指导/张玉暖",
+    "bookname": "学前儿童社会教育与活动指导/张玉暖",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0085141",
-    "bookname": "V幼儿教师口语/李雄",
+    "bookname": "幼儿教师口语/李雄",
     "publishing": "东北大学"
 },
 {
     "subscribeCode": "18CJ0085142",
-    "bookname": "V消费者行为分析/汪彤彤",
+    "bookname": "消费者行为分析/汪彤彤",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0085143",
-    "bookname": "V广告学—理论实务案例实训(第二版)/金立其",
+    "bookname": "广告学—理论实务案例实训(第二版)/金立其",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085144",
-    "bookname": "V OFFICE2010高级应用上机指导与习题集/全丽莉 吴丰盛",
+    "bookname": " OFFICE2010高级应用上机指导与习题集/全丽莉 吴丰盛",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085145",
-    "bookname": "V企业会计综合实训/刘洪斌 郭秀梅",
+    "bookname": "企业会计综合实训/刘洪斌 郭秀梅",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0085146",
-    "bookname": "V常用经济应用文写作教程(第二版)(盛明华)/盛明华",
+    "bookname": "常用经济应用文写作教程(第二版)(盛明华)/盛明华",
     "publishing": "立信会计"
 },
 {
     "subscribeCode": "18CJ0085147",
-    "bookname": "V综合素质(第1版)/中公教育教师资格考试研究院",
+    "bookname": "综合素质(第1版)/中公教育教师资格考试研究院",
     "publishing": "世界图书"
 },
 {
     "subscribeCode": "18CJ0085148",
-    "bookname": "V保教知识与能力(第1版)/中公教育教师资格考试研究院",
+    "bookname": "保教知识与能力(第1版)/中公教育教师资格考试研究院",
     "publishing": "世界图书"
 },
 {
     "subscribeCode": "18CJ0085149",
-    "bookname": "V标准普通话学习纲要-口语培训教程/吴晓明",
+    "bookname": "标准普通话学习纲要-口语培训教程/吴晓明",
     "publishing": "团结"
 },
 {
     "subscribeCode": "18CJ0085150",
-    "bookname": "V销售语言与服务礼仪/刘桦",
+    "bookname": "销售语言与服务礼仪/刘桦",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085151",
-    "bookname": "V门店促销 /王艳霞",
+    "bookname": "门店促销 /王艳霞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085152",
-    "bookname": "V走进会计/许宝良",
+    "bookname": "走进会计/许宝良",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085153",
-    "bookname": "V商品知识学习指导与练习(附光盘)/张智清",
+    "bookname": "商品知识学习指导与练习(附光盘)/张智清",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085154",
-    "bookname": "V汽车机械基础/孙红 王影",
+    "bookname": "汽车机械基础/孙红 王影",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085155",
-    "bookname": "V汽车机械基础习题册/王影",
+    "bookname": "汽车机械基础习题册/王影",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085156",
-    "bookname": "V经济政治与社会(四色版)/曾海娟",
+    "bookname": "经济政治与社会(四色版)/曾海娟",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085157",
-    "bookname": "V经济政治与社会学习指导(单色 通配)/王立志",
+    "bookname": "经济政治与社会学习指导(单色 通配)/王立志",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085158",
-    "bookname": "V机械制图与CAD(第二版)/机械工业",
+    "bookname": "机械制图与CAD(第二版)/机械工业",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085159",
-    "bookname": "V数据库应用基础-SQL SERVER 2008/陈丽霞",
+    "bookname": "数据库应用基础-SQL SERVER 2008/陈丽霞",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085160",
-    "bookname": "V中小学和幼儿园教师资格考试 标准及大纲(试行)/教育部考试中心",
+    "bookname": "中小学和幼儿园教师资格考试 标准及大纲(试行)/教育部考试中心",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0085161",
-    "bookname": "V公差配合与技术测量/迟传兴 唐圣辉",
+    "bookname": "公差配合与技术测量/迟传兴 唐圣辉",
     "publishing": "人民大学"
 },
 {
     "subscribeCode": "18CJ0085162",
-    "bookname": "V病理学基础（第4版）/贺平泽",
+    "bookname": "病理学基础（第4版）/贺平泽",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0085250",
-    "bookname": "V民航国内电子客票销售/魏全斌",
+    "bookname": "民航国内电子客票销售/魏全斌",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0085251",
-    "bookname": "V汽车发动机构造与维修/宗丽娜\周运超",
+    "bookname": "汽车发动机构造与维修/宗丽娜\周运超",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0085252",
-    "bookname": "V汽车底盘构造与维修/王世超\王亚男",
+    "bookname": "汽车底盘构造与维修/王世超\王亚男",
     "publishing": "吉林大学"
 },
 {
     "subscribeCode": "18CJ0085253",
-    "bookname": "V汽车营销/余长卫",
+    "bookname": "汽车营销/余长卫",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0085254",
-    "bookname": "V汽车电气设备构造与维修/戴勇林",
+    "bookname": "汽车电气设备构造与维修/戴勇林",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0085255",
-    "bookname": "V汽车电工电子/陆广华",
+    "bookname": "汽车电工电子/陆广华",
     "publishing": "江苏教育"
 },
 {
     "subscribeCode": "18CJ0085256",
-    "bookname": "V实用旅游英语听说教程/郭学英",
+    "bookname": "实用旅游英语听说教程/郭学英",
     "publishing": "旅游教育"
 },
 {
     "subscribeCode": "18CJ0085257",
-    "bookname": "V民航服务心理学/杨丽明",
+    "bookname": "民航服务心理学/杨丽明",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0085258",
-    "bookname": "V旅游学概论/陈云",
+    "bookname": "旅游学概论/陈云",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0085259",
-    "bookname": "V乐理视唱练耳/刘岚",
+    "bookname": "乐理视唱练耳/刘岚",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0085260",
-    "bookname": "V民航国际客运销售实务/于爱慧",
+    "bookname": "民航国际客运销售实务/于爱慧",
     "publishing": "中国民航"
 },
 {
     "subscribeCode": "18CJ0085262",
-    "bookname": "V汽车维护与保养/赖慧豪 赵国亮",
+    "bookname": "汽车维护与保养/赖慧豪 赵国亮",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0085263",
-    "bookname": "V普通话语音训练/蒋东霞",
+    "bookname": "普通话语音训练/蒋东霞",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0085264",
-    "bookname": "V汽车材料(高等职业技术教育规划教材)/李明惠",
+    "bookname": "汽车材料(高等职业技术教育规划教材)/李明惠",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085265",
-    "bookname": "V汽车调漆/胡小牛",
+    "bookname": "汽车调漆/胡小牛",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0085266",
-    "bookname": "V实用化学基础",
+    "bookname": "实用化学基础",
     "publishing": "华东师大"
 },
 {
     "subscribeCode": "18CJ0085267",
-    "bookname": "V 3DS MAX动漫游戏角色设计实例教程",
+    "bookname": " 3DS MAX动漫游戏角色设计实例教程",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0085268",
-    "bookname": "V文书拟写与档案管理/马永飞",
+    "bookname": "文书拟写与档案管理/马永飞",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085269",
-    "bookname": "V钳工工艺与实训",
+    "bookname": "钳工工艺与实训",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085270",
-    "bookname": "V钢琴",
+    "bookname": "钢琴",
     "publishing": "上音学院"
 },
 {
     "subscribeCode": "18CJ0085271",
-    "bookname": "V幼儿园教育活动设计与实践/姜艳",
+    "bookname": "幼儿园教育活动设计与实践/姜艳",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0085272",
-    "bookname": "V电机与电力拖动(第4版)/李明",
+    "bookname": "电机与电力拖动(第4版)/李明",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0085273",
-    "bookname": "V四川省对口升学考试高职单招考试复习指导从书(数学)/潘万伟",
+    "bookname": "四川省对口升学考试高职单招考试复习指导从书(数学)/潘万伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085274",
-    "bookname": "V焊工基本常识/王若愚",
+    "bookname": "焊工基本常识/王若愚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085275",
-    "bookname": "V正常人体学基础(第二版)(护理专业)",
+    "bookname": "正常人体学基础(第二版)(护理专业)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085276",
-    "bookname": "V精神与心理护理",
+    "bookname": "精神与心理护理",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085277",
-    "bookname": "V内科护理(第二版)",
+    "bookname": "内科护理(第二版)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085278",
-    "bookname": "V汽车制造与拆装",
+    "bookname": "汽车制造与拆装",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085279",
-    "bookname": "V办公设备使用与维护/李林",
+    "bookname": "办公设备使用与维护/李林",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085280",
-    "bookname": "V机械加工/杨元模",
+    "bookname": "机械加工/杨元模",
     "publishing": "江西高校"
 },
 {
     "subscribeCode": "18CJ0085281",
-    "bookname": "V美术",
+    "bookname": "美术",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0085282",
-    "bookname": "V机电设备装调工艺与技术/张国军",
+    "bookname": "机电设备装调工艺与技术/张国军",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085283",
-    "bookname": "V汽车电工电子技术/高洪彬",
+    "bookname": "汽车电工电子技术/高洪彬",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0085284",
-    "bookname": "V幼儿卫生学/庄剑梅",
+    "bookname": "幼儿卫生学/庄剑梅",
     "publishing": "天津大学"
 },
 {
     "subscribeCode": "18CJ0085285",
-    "bookname": "V现代公关与礼仪",
+    "bookname": "现代公关与礼仪",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085286",
-    "bookname": "V化妆技术/高勤",
+    "bookname": "化妆技术/高勤",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085287",
-    "bookname": "V绘画/周祖强",
+    "bookname": "绘画/周祖强",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0085288",
-    "bookname": "V电冰箱、空调器原理与维修/林金泉",
+    "bookname": "电冰箱、空调器原理与维修/林金泉",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085289",
-    "bookname": "V幼儿歌曲演唱(学前教育专业)/张华静",
+    "bookname": "幼儿歌曲演唱(学前教育专业)/张华静",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085290",
-    "bookname": "V幼儿游戏与指导(学前教育专业)",
+    "bookname": "幼儿游戏与指导(学前教育专业)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085291",
-    "bookname": "V ACCESS数据库程序设计(2017年版)全国计算机等级考试二级教程",
+    "bookname": " ACCESS数据库程序设计(2017年版)全国计算机等级考试二级教程",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085292",
-    "bookname": "V MSOFFICE数据库程序设计(2017年版)全国计算机等级考试二级教程",
+    "bookname": " MSOFFICE数据库程序设计(2017年版)全国计算机等级考试二级教程",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085293",
-    "bookname": "V包装设计项目化教程/沈卓娅 谢丽平",
+    "bookname": "包装设计项目化教程/沈卓娅 谢丽平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085294",
-    "bookname": "V平缝机使用维修手册",
+    "bookname": "平缝机使用维修手册",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085295",
-    "bookname": "V体育与健康",
+    "bookname": "体育与健康",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0085296",
-    "bookname": "V基础图案500例(人物&动物)",
+    "bookname": "基础图案500例(人物&动物)",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0085297",
-    "bookname": "V基础图案501例(花卉&风景)",
+    "bookname": "基础图案501例(花卉&风景)",
     "publishing": "湖北美术"
 },
 {
     "subscribeCode": "18CJ0085298",
-    "bookname": "V服装立体剪裁与应用",
+    "bookname": "服装立体剪裁与应用",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0085299",
-    "bookname": "V数控车床编程与操作(第二版)—广数GSK980TDA车床数控系统习题册",
+    "bookname": "数控车床编程与操作(第二版)—广数GSK980TDA车床数控系统习题册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0085300",
-    "bookname": "V数控铣床加工中心编程与操作(FANUC系统)",
+    "bookname": "数控铣床加工中心编程与操作(FANUC系统)",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0085301",
-    "bookname": "V数控铣床加工中心编程与操作(FANUC系统)习题库/何宏伟",
+    "bookname": "数控铣床加工中心编程与操作(FANUC系统)习题库/何宏伟",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0085302",
-    "bookname": "V汽修电工电子",
+    "bookname": "汽修电工电子",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085303",
-    "bookname": "V病理学基础",
+    "bookname": "病理学基础",
     "publishing": "东南大学"
 },
 {
     "subscribeCode": "18CJ0085304",
-    "bookname": "V生理基础",
+    "bookname": "生理基础",
     "publishing": "东南大学"
 },
 {
     "subscribeCode": "18CJ0085305",
-    "bookname": "V钢琴基础与弹唱/马慧慧",
+    "bookname": "钢琴基础与弹唱/马慧慧",
     "publishing": "西安交大"
 },
 {
     "subscribeCode": "18CJ0085306",
-    "bookname": "V护理学基础/周更苏",
+    "bookname": "护理学基础/周更苏",
     "publishing": "协和医大"
 },
 {
     "subscribeCode": "18CJ0085307",
-    "bookname": "V健康评估/莫新玲",
+    "bookname": "健康评估/莫新玲",
     "publishing": "协和医大"
 },
 {
     "subscribeCode": "18CJ0085308",
-    "bookname": "V护理药理学(含实训)/李春英",
+    "bookname": "护理药理学(含实训)/李春英",
     "publishing": "协和医大"
 },
 {
     "subscribeCode": "18CJ0085309",
-    "bookname": "V应用文写作教程/李颖李洪海叶建聪",
+    "bookname": "应用文写作教程/李颖李洪海叶建聪",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0085310",
-    "bookname": "V计算机文化基础习题与实训教程（WIN7+OFFICE2010）/雷正桥",
+    "bookname": "计算机文化基础习题与实训教程（WIN7+OFFICE2010）/雷正桥",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085311",
-    "bookname": "V机械制图手册（第五版）/叶玉驹、焦永和、张彤",
+    "bookname": "机械制图手册（第五版）/叶玉驹、焦永和、张彤",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085312",
-    "bookname": "V机械制图与识图技能鉴定考核题库（第2版）",
+    "bookname": "机械制图与识图技能鉴定考核题库（第2版）",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085313",
-    "bookname": "V机械制图与识图范例手册/马德成",
+    "bookname": "机械制图与识图范例手册/马德成",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0085314",
-    "bookname": "V单片机原理、接口及应用：嵌入式系统技术基础（第2版）/肖看、",
+    "bookname": "单片机原理、接口及应用：嵌入式系统技术基础（第2版）/肖看、",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0085315",
-    "bookname": "V央美有约——超级临摹 石膏头像/阮辛阅",
+    "bookname": "央美有约——超级临摹 石膏头像/阮辛阅",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0085316",
-    "bookname": "V高速铁路乘务工作实务/蓝志江，雷莲桂",
+    "bookname": "高速铁路乘务工作实务/蓝志江，雷莲桂",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0085317",
-    "bookname": "V熟悉与基本安全个人安全与社会责任(第3版)/郝勇",
+    "bookname": "熟悉与基本安全个人安全与社会责任(第3版)/郝勇",
     "publishing": "武汉理工"
 },
 {
     "subscribeCode": "18CJ0085318",
-    "bookname": "V熟悉与基本安全个人求生(第3版)/徐周华",
+    "bookname": "熟悉与基本安全个人求生(第3版)/徐周华",
     "publishing": "武汉理工"
 },
 {
     "subscribeCode": "18CJ0085319",
-    "bookname": "V熟悉与基本安全防火与灭火(第3版)/王当利",
+    "bookname": "熟悉与基本安全防火与灭火(第3版)/王当利",
     "publishing": "武汉理工"
 },
 {
     "subscribeCode": "18CJ0085320",
-    "bookname": "V熟悉与基本安全基本急救(第3版)/吴小兰",
+    "bookname": "熟悉与基本安全基本急救(第3版)/吴小兰",
     "publishing": "武汉理工"
 },
 {
     "subscribeCode": "18CJ0085321",
-    "bookname": "V口腔预防保健基础/苏光伟",
+    "bookname": "口腔预防保健基础/苏光伟",
     "publishing": "中医药"
 },
 {
     "subscribeCode": "18CJ0085322",
-    "bookname": "V电动汽车动力电池应用技术/姜久春",
+    "bookname": "电动汽车动力电池应用技术/姜久春",
     "publishing": "清华大学"
 },
 {
     "subscribeCode": "18CJ0085323",
-    "bookname": "V普通话水平测试实施纲要",
+    "bookname": "普通话水平测试实施纲要",
     "publishing": "商务"
 },
 {
     "subscribeCode": "18CJ0085324",
-    "bookname": "V实用播音教程(第二册)语言表达",
+    "bookname": "实用播音教程(第二册)语言表达",
     "publishing": "传媒大学"
 },
 {
     "subscribeCode": "18CJ0085325",
-    "bookname": "V英语听力教程(1)(教师用书)",
+    "bookname": "英语听力教程(1)(教师用书)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085326",
-    "bookname": "V(2016)初级会计实务精讲精练/全国会计专业技术资格考试辅导系列",
+    "bookname": "(2016)初级会计实务精讲精练/全国会计专业技术资格考试辅导系列",
     "publishing": "经济科学"
 },
 {
     "subscribeCode": "18CJ0085327",
-    "bookname": "V电控发动机维修",
+    "bookname": "电控发动机维修",
     "publishing": "北京邮电"
 },
 {
     "subscribeCode": "18CJ0085329",
-    "bookname": "V美术学习与指导/于翠华",
+    "bookname": "美术学习与指导/于翠华",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085330",
-    "bookname": "V舞蹈",
+    "bookname": "舞蹈",
     "publishing": "上音学院"
 },
 {
     "subscribeCode": "18CJ0085331",
-    "bookname": "V会计电算化上机指导 畅捷通T3版（第二版）",
+    "bookname": "会计电算化上机指导 畅捷通T3版（第二版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085332",
-    "bookname": "V石油仪表及自动化/王克华",
+    "bookname": "石油仪表及自动化/王克华",
     "publishing": "石油工业"
 },
 {
     "subscribeCode": "18CJ0085333",
-    "bookname": "V历史(中职教材)王曦川、刘祖高",
+    "bookname": "历史(中职教材)王曦川、刘祖高",
     "publishing": "广播电视"
 },
 {
     "subscribeCode": "18CJ0085334",
-    "bookname": "V晨读时光?经典诗文诵读/谢树方",
+    "bookname": "晨读时光?经典诗文诵读/谢树方",
     "publishing": "语文"
 },
 {
     "subscribeCode": "18CJ0085339",
-    "bookname": "V计算机编程基础—VISUAL BASIC技能训练与上机实习/陈建军",
+    "bookname": "计算机编程基础—VISUAL BASIC技能训练与上机实习/陈建军",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085340",
-    "bookname": "V全国计算机等级考试一级教程—计算机基础及MS OFFICE应用（2017",
+    "bookname": "全国计算机等级考试一级教程—计算机基础及MS OFFICE应用（2017",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085341",
-    "bookname": "V CORELDRAW X7实战课题式教程/赵伟",
+    "bookname": " CORELDRAW X7实战课题式教程/赵伟",
     "publishing": "河北美术"
 },
 {
     "subscribeCode": "18CJ0085342",
-    "bookname": "V主体结构工程施工/许红、吕秀娟",
+    "bookname": "主体结构工程施工/许红、吕秀娟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085343",
-    "bookname": "V BIM建模",
+    "bookname": " BIM建模",
     "publishing": "建筑工业"
 },
 {
     "subscribeCode": "18CJ0085344",
-    "bookname": "V AUTOCAD 2012建筑绘图上机实践与考试指南/曾刚",
+    "bookname": " AUTOCAD 2012建筑绘图上机实践与考试指南/曾刚",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085345",
-    "bookname": "V川菜制作技术（上）/马素繁",
+    "bookname": "川菜制作技术（上）/马素繁",
     "publishing": "四川教育"
 },
 {
     "subscribeCode": "18CJ0085346",
-    "bookname": "V川菜制作技术（下）/马素繁",
+    "bookname": "川菜制作技术（下）/马素繁",
     "publishing": "四川教育"
 },
 {
     "subscribeCode": "18CJ0085347",
-    "bookname": "V旅游服务礼仪/王瑜",
+    "bookname": "旅游服务礼仪/王瑜",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085348",
-    "bookname": "V单元同步测试卷语文",
+    "bookname": "单元同步测试卷语文",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0085349",
-    "bookname": "V单元同步测试卷英语",
+    "bookname": "单元同步测试卷英语",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0085350",
-    "bookname": "V办公软件应用教程/苗树红毛晓东刘华威",
+    "bookname": "办公软件应用教程/苗树红毛晓东刘华威",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0085352",
-    "bookname": "V有机化学/邓苏鲁",
+    "bookname": "有机化学/邓苏鲁",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0085353",
-    "bookname": "V有机化学例题与习题(2版)/邓苏鲁",
+    "bookname": "有机化学例题与习题(2版)/邓苏鲁",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0085354",
-    "bookname": "V化工制图习题集/胡建生",
+    "bookname": "化工制图习题集/胡建生",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0085355",
-    "bookname": "V铣工工艺与技能训练",
+    "bookname": "铣工工艺与技能训练",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0085357",
-    "bookname": "V初级会计实务精讲精练",
+    "bookname": "初级会计实务精讲精练",
     "publishing": "中国财经"
 },
 {
     "subscribeCode": "18CJ0085358",
-    "bookname": "V可编程序控制器应用技术（第五版）/廖常初",
+    "bookname": "可编程序控制器应用技术（第五版）/廖常初",
     "publishing": "重庆大学"
 },
 {
     "subscribeCode": "18CJ0085359",
-    "bookname": "V计算机应用基础/周庆华",
+    "bookname": "计算机应用基础/周庆华",
     "publishing": "世界知识"
 },
 {
     "subscribeCode": "18CJ0085360",
-    "bookname": "V职业道德与法律/邱逸峰",
+    "bookname": "职业道德与法律/邱逸峰",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085361",
-    "bookname": "V空气调节及工程应用/卢士勋",
+    "bookname": "空气调节及工程应用/卢士勋",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0085362",
-    "bookname": "V幼儿（乐曲）简易伴奏编配法/李政浩",
+    "bookname": "幼儿（乐曲）简易伴奏编配法/李政浩",
     "publishing": "人民教育"
 },
 {
     "subscribeCode": "18CJ0085363",
-    "bookname": "V植物及生态基础（第二版）",
+    "bookname": "植物及生态基础（第二版）",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085364",
-    "bookname": "V材料力学/古滨",
+    "bookname": "材料力学/古滨",
     "publishing": "北京理工"
 },
 {
     "subscribeCode": "18CJ0085365",
-    "bookname": "V毛泽东思想和中国特色/钱淦荣  罗正楷",
+    "bookname": "毛泽东思想和中国特色/钱淦荣  罗正楷",
     "publishing": "北京大学"
 },
 {
     "subscribeCode": "18CJ0085366",
-    "bookname": "V旅游中职高考3+X/赵中英、周冰等",
+    "bookname": "旅游中职高考3+X/赵中英、周冰等",
     "publishing": "电子科大"
 },
 {
     "subscribeCode": "18CJ0085367",
-    "bookname": "V城市轨道交通电动列车驾驶",
+    "bookname": "城市轨道交通电动列车驾驶",
     "publishing": "上海科技"
 },
 {
     "subscribeCode": "18CJ0085368",
-    "bookname": "V创业培训讲师手册",
+    "bookname": "创业培训讲师手册",
     "publishing": "中国劳动"
 },
 {
     "subscribeCode": "18CJ0085369",
-    "bookname": "V服装设计基础(侯家华)(第三版)",
+    "bookname": "服装设计基础(侯家华)(第三版)",
     "publishing": "化学工业"
 },
 {
     "subscribeCode": "18CJ0085370",
-    "bookname": "V时装设计效果图手绘表现技法",
+    "bookname": "时装设计效果图手绘表现技法",
     "publishing": "人民邮电"
 },
 {
     "subscribeCode": "18CJ0085379",
-    "bookname": "V中国现代文学史1917-2013(第三版)(上册)",
+    "bookname": "中国现代文学史1917-2013(第三版)(上册)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085380",
-    "bookname": "V中国现代文学史1917-2013(第三版)(下册)/朱栋霖",
+    "bookname": "中国现代文学史1917-2013(第三版)(下册)/朱栋霖",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085381",
-    "bookname": "V中国现代文学作品选1917-2015(第三版)(四卷本 第一卷)",
+    "bookname": "中国现代文学作品选1917-2015(第三版)(四卷本 第一卷)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085382",
-    "bookname": "V中国现代文学作品选1917-2015(第三版)(四卷本 第二卷)",
+    "bookname": "中国现代文学作品选1917-2015(第三版)(四卷本 第二卷)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085383",
-    "bookname": "V中国现代文学作品选1917-2015(第三版)(四卷本 第三卷)",
+    "bookname": "中国现代文学作品选1917-2015(第三版)(四卷本 第三卷)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085384",
-    "bookname": "V中国现代文学作品选1917-2015(第三版)(四卷本 第四卷)",
+    "bookname": "中国现代文学作品选1917-2015(第三版)(四卷本 第四卷)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085385",
-    "bookname": "V儿童画资料大全/李彤彤 陈春红",
+    "bookname": "儿童画资料大全/李彤彤 陈春红",
     "publishing": "安徽美术"
 },
 {
     "subscribeCode": "18CJ0085386",
-    "bookname": "V服饰与造型",
+    "bookname": "服饰与造型",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085387",
-    "bookname": "V电子产品装配与调试(第2版)/邱勇进",
+    "bookname": "电子产品装配与调试(第2版)/邱勇进",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085388",
-    "bookname": "V生理学实验及学习指导/王福青",
+    "bookname": "生理学实验及学习指导/王福青",
     "publishing": "人民卫生"
 },
 {
     "subscribeCode": "18CJ0085391",
-    "bookname": "V数控车工实习与考级（华中世纪星系统)(附光盘）/孙伟伟",
+    "bookname": "数控车工实习与考级（华中世纪星系统)(附光盘）/孙伟伟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085392",
-    "bookname": "V保教知识与能力-国家教师资格考试题库幼儿园精选历年真题及模拟",
+    "bookname": "保教知识与能力-国家教师资格考试题库幼儿园精选历年真题及模拟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085396",
-    "bookname": "V汽车发动机检测与维修-电控部分",
+    "bookname": "汽车发动机检测与维修-电控部分",
     "publishing": "四川大学"
 },
 {
     "subscribeCode": "18CJ0085397",
-    "bookname": "V公共管理与服务类(第2辑)/中等职业学校专业教学标准(试行)",
+    "bookname": "公共管理与服务类(第2辑)/中等职业学校专业教学标准(试行)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085398",
-    "bookname": "V能资源与新能源类(第2辑)/中等职业学校专业教学标准(试行)",
+    "bookname": "能资源与新能源类(第2辑)/中等职业学校专业教学标准(试行)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085399",
-    "bookname": "V轻纺食品类(第2辑)/中等职业学校专业教学标准(试行)",
+    "bookname": "轻纺食品类(第2辑)/中等职业学校专业教学标准(试行)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085400",
-    "bookname": "V资源环境类(第2辑)/中等职业学校专业教学标准(试行)",
+    "bookname": "资源环境类(第2辑)/中等职业学校专业教学标准(试行)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085401",
-    "bookname": "V石油化工类(第2辑)/中等职业学校专业教学标准(试行)",
+    "bookname": "石油化工类(第2辑)/中等职业学校专业教学标准(试行)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085402",
-    "bookname": "V医药卫生类(第2辑)/中等职业学校专业教学标准(试行)",
+    "bookname": "医药卫生类(第2辑)/中等职业学校专业教学标准(试行)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085403",
-    "bookname": "V休闲保健类/中等职业学校专业教学标准(试行)",
+    "bookname": "休闲保健类/中等职业学校专业教学标准(试行)",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085404",
-    "bookname": "V林业生物技术",
+    "bookname": "林业生物技术",
     "publishing": "科学"
 },
 {
     "subscribeCode": "18CJ0085405",
-    "bookname": "V传感器技术及应用/钟柱培",
+    "bookname": "传感器技术及应用/钟柱培",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085406",
-    "bookname": "V电冰箱、空调器原理与维修/沈柏民",
+    "bookname": "电冰箱、空调器原理与维修/沈柏民",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085407",
-    "bookname": "V焊工工艺与技能训练/李荣雪",
+    "bookname": "焊工工艺与技能训练/李荣雪",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085408",
-    "bookname": "V医学心理学/胡佩诚",
+    "bookname": "医学心理学/胡佩诚",
     "publishing": "北京医大"
 },
 {
     "subscribeCode": "18CJ0085409",
-    "bookname": "V护理伦理学/丛亚丽",
+    "bookname": "护理伦理学/丛亚丽",
     "publishing": "北京医大"
 },
 {
     "subscribeCode": "18CJ0085410",
-    "bookname": "V健康教育学/吕姿之",
+    "bookname": "健康教育学/吕姿之",
     "publishing": "北京医大"
 },
 {
     "subscribeCode": "18CJ0085414",
-    "bookname": "V C语言实用教程",
+    "bookname": " C语言实用教程",
     "publishing": "电子工业"
 },
 {
     "subscribeCode": "18CJ0085423",
-    "bookname": "V开创伟大事业新时代：十九大精神学生读本（高职高专版）",
+    "bookname": "开创伟大事业新时代：十九大精神学生读本（高职高专版）",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0085424",
-    "bookname": "V开创伟大事业新时代：十九大精神学生读本（大学生版）",
+    "bookname": "开创伟大事业新时代：十九大精神学生读本（大学生版）",
     "publishing": "人民"
 },
 {
     "subscribeCode": "18CJ0085431",
-    "bookname": "V引爆责任感文化:帮助企业家实现目标的金字塔法则/(美)康纳斯 等",
+    "bookname": "引爆责任感文化:帮助企业家实现目标的金字塔法则/(美)康纳斯 等",
     "publishing": "浙江大学"
 },
 {
     "subscribeCode": "18CJ0085432",
-    "bookname": "V插花花艺",
+    "bookname": "插花花艺",
     "publishing": "机械工业"
 },
 {
     "subscribeCode": "18CJ0085433",
-    "bookname": "V大学.中庸（楷书.行楷）",
+    "bookname": "大学.中庸（楷书.行楷）",
     "publishing": "上海交大"
 },
 {
     "subscribeCode": "18CJ0085434",
-    "bookname": "V特殊儿童早期干预/程黎",
+    "bookname": "特殊儿童早期干预/程黎",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0085435",
-    "bookname": "V低幼儿童文学（第4版）/祝士媛",
+    "bookname": "低幼儿童文学（第4版）/祝士媛",
     "publishing": "北京师大"
 },
 {
     "subscribeCode": "18CJ0085436",
-    "bookname": "V学前儿童艺术教育/王惠然",
+    "bookname": "学前儿童艺术教育/王惠然",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085437",
-    "bookname": "V学前儿童社会教育/李焕稳",
+    "bookname": "学前儿童社会教育/李焕稳",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085438",
-    "bookname": "V教师职业道德与专业发展/范先佐",
+    "bookname": "教师职业道德与专业发展/范先佐",
     "publishing": "东北师大"
 },
 {
     "subscribeCode": "18CJ0085439",
-    "bookname": "V幼儿园教育基础/郑三元",
+    "bookname": "幼儿园教育基础/郑三元",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085440",
-    "bookname": "V学前儿童发展/洪秀梅",
+    "bookname": "学前儿童发展/洪秀梅",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085441",
-    "bookname": "V学前教育政策与法规/杨莉君",
+    "bookname": "学前教育政策与法规/杨莉君",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085442",
-    "bookname": "V学前儿童保育学/林  宏",
+    "bookname": "学前儿童保育学/林  宏",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085443",
-    "bookname": "V幼儿园教育活动设计与组织/虞永平",
+    "bookname": "幼儿园教育活动设计与组织/虞永平",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085444",
-    "bookname": "V学前儿童游戏指导/刘  焱  潘月娟",
+    "bookname": "学前儿童游戏指导/刘  焱  潘月娟",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085445",
-    "bookname": "V学前儿童科学教育/廖丽英",
+    "bookname": "学前儿童科学教育/廖丽英",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085446",
-    "bookname": "V学前儿童语言教育/周兢",
+    "bookname": "学前儿童语言教育/周兢",
     "publishing": "高等教育"
 },
 {
     "subscribeCode": "18CJ0085447",
-    "bookname": "V学前儿童健康教育）/王娟",
+    "bookname": "学前儿童健康教育）/王娟",
     "publishing": "复旦大学"
 },
 {
     "subscribeCode": "18CJ0085448",
-    "bookname": "V中等职业学校高考与毕业会考复习指导丛书 （电子 中职高考3+X）",
+    "bookname": "中等职业学校高考与毕业会考复习指导丛书 （电子 中职高考3+X）",
     "publishing": "电子科大"
 },
 {

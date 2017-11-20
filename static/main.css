@@ -12,6 +12,7 @@
     width: 100%;
     background: #ccc;
     overflow: hidden;
+    overflow-y: auto;
 }
 
 .selectedbook {

@@ -30,9 +30,14 @@ app.post('/savebook', function (req, res) {
     fs.readFile('./static/selectedbook.json', 'utf8', function (err, data) {
         if (err) console.log(err);
         data = JSON.parse(data);
-        data[member] = {}
-        data[member]['time'] = new Date().getTime()
-        data[member]['books'] = JSON.parse(req.body.books)
+        let selectedbook = JSON.parse(req.body.books)
+        selectedbook.map(i => {
+            if (data[i.subscribeCode]) {
+                data[i.subscribeCode] = Number(data[i.subscribeCode]) + 1
+            } else {
+                data[i.subscribeCode] = 1
+            }
+        })
         fs.writeFileSync('./static/selectedbook.json', JSON.stringify(data))
         res.send('ok')
     });

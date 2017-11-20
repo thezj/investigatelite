@@ -1718,6 +1718,7 @@ IScroll.prototype = {
 				break;
 			case 'click':
 				if ( this.enabled && !e._constructed ) {
+					alert(2)
 					e.preventDefault();
 					e.stopPropagation();
 				}

@@ -86,17 +86,19 @@
                         this.$alert('确定提交', '确定', {
                             confirmButtonText: '确定',
                             callback: action => {
-                                $.post('/savebook', {
-                                    books: JSON.stringify(this.selectedbooks),
-                                    member: window.location.search.split('=')[1]
-                                }, data => {
-                                    if (data == 'ok') {
-                                        this.$message({
-                                            type: 'info',
-                                            message: '提交成功'
-                                        });
-                                    }
-                                })
+                                if (action == 'confirm') {
+                                    $.post('/savebook', {
+                                        books: JSON.stringify(this.selectedbooks),
+                                        member: window.location.search.split('=')[1]
+                                    }, data => {
+                                        if (data == 'ok') {
+                                            this.$message({
+                                                type: 'info',
+                                                message: '提交成功'
+                                            });
+                                        }
+                                    })
+                                }
                             }
                         });
                     }
@@ -142,13 +144,19 @@
                     this.filters = this.searchbookname
                     this.gettime = 0
                     this.books = []
-                    window.myScroll.scrollTo(0, 0);
+                    let scrollview = document.querySelector('#wrapper')
+                    scrollview.scrollTop = 0
                     this.getbooks()
                 },
                 filterMethod(query, item) {
                     return item.label.indexOf(query) > -1;
                 },
                 getbooks() {
+
+                    if (window.getbooklock) {
+                        return
+                    }
+
                     $.post('/getbook', {
                         gettime: this.gettime,
                         filter: this.filters
@@ -162,9 +170,11 @@
                         }
                         this.books = this.books.concat(data)
                         setTimeout(i => {
-                            window.myScroll.refresh()
+                            window.getbooklock = false
                         }, 1)
                     })
+
+                    window.getbooklock = true
                 }
 
             },
@@ -172,33 +182,17 @@
                 this.getbooks()
 
 
-
-                let pullUpEl = document.getElementById('pullUp');
-                let pullUpOffset = pullUpEl.offsetHeight;
-                window.myScroll = new IScroll('#wrapper', {
-                    probeType: 3,
-                    scrollbars: true
-                });
-
-                myScroll.on('scroll', function () {
-                    if (this.y < (this.maxScrollY - 5) && !pullUpEl.className.match('flip')) {
-                        pullUpEl.className = 'flip';
-                        pullUpEl.querySelector('.pullUpLabel').innerHTML = '松手开始更新...';
-                        this.maxScrollY = this.maxScrollY;
-                    } else if (this.y > (this.maxScrollY + 5) && pullUpEl.className.match('flip')) {
-                        pullUpEl.className = '';
-                        pullUpEl.querySelector('.pullUpLabel').innerHTML = '上拉加载更多...';
-                        this.maxScrollY = pullUpOffset;
+                let scrollview = document.querySelector('#wrapper')
+                scrollview.addEventListener('scroll', e => {
+                    if (scrollview.scrollTop > scrollview.scrollHeight - scrollview.offsetHeight - 20) {
+                        this.getbooks()
                     }
                 })
 
-                myScroll.on('scrollEnd', i => {
-                    if (pullUpEl.className.match('flip')) {
-                        pullUpEl.className = 'loading';
-                        pullUpEl.querySelector('.pullUpLabel').innerHTML = '加载中...';
-                        this.getbooks()
-                    }
-                });
+
+
+
+
 
                 function isPassive() {
                     var supportsPassiveOption = false;
