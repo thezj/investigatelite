@@ -26,8 +26,29 @@
 
                 <el-select style="width:120px;" v-model="classifyselect" slot="prepend" placeholder="请选择">
                     <el-option label="全部" value="全部"></el-option>
-                    <el-option label="科学" value="科学"></el-option>
-                    <el-option label="北岳文艺" value="北岳文艺"></el-option>
+                    <el-option label="马克思主义、列宁主义、毛泽东思想义" value="马克思主义、列宁主义、毛泽东思想义"></el-option>
+                    <el-option label="哲学" value="哲学"></el-option>
+                    <el-option label="社会科学总论" value="社会科学总论"></el-option>
+                    <el-option label="政治、法律" value="政治、法律"></el-option>
+                    <el-option label="军事" value="军事"></el-option>
+                    <el-option label="经济" value="经济"></el-option>
+                    <el-option label="文化、科学、教育、体育" value="文化、科学、教育、体育"></el-option>
+                    <el-option label="语言、文字" value="语言、文字"></el-option>
+                    <el-option label="文学" value="文学"></el-option>
+                    <el-option label="艺术" value="艺术"></el-option>
+                    <el-option label="历史、地理" value="历史、地理"></el-option>
+                    <el-option label="自然科学总论" value="自然科学总论"></el-option>
+                    <el-option label="数理科学和化学" value="数理科学和化学"></el-option>
+                    <el-option label="天文学、地理科学" value="天文学、地理科学"></el-option>
+                    <el-option label="生物科学" value="生物科学"></el-option>
+                    <el-option label="医学、卫生" value="医学、卫生"></el-option>
+                    <el-option label="农业科学" value="农业科学"></el-option>
+                    <el-option label="工业技术" value="工业技术"></el-option>
+                    <el-option label="交通运输" value="交通运输"></el-option>
+                    <el-option label="航空、航天" value="航空、航天"></el-option>
+                    <el-option label="环境科学、劳动保护科学（安全科学）" value="环境科学、劳动保护科学（安全科学）"></el-option>
+                    <el-option label="综合性图书" value="综合性图书"></el-option>
+                    <el-option label="其他" value="#N/A"></el-option>
                 </el-select>
 
             </el-input>
@@ -136,7 +157,7 @@
                     dotted.css({
                         'height': '30px',
                         'width': '30px',
-                        'background': 'rgba(100,149,237,0.7)',
+                        'background': 'rgba(255,76,76,0.7)',
                         'position': 'absolute',
                         'left': x,
                         'top': y,
@@ -216,7 +237,7 @@
                         let pullUpEl = document.getElementById('pullUp')
 
                         if (data.length < 50) {
-                            pullUpEl.querySelector('.pullUpLabel').innerHTML = '没有了...';
+                            pullUpEl.querySelector('.pullUpLabel').innerHTML = '';
                         }
                         this.books = this.books.concat(data)
                         setTimeout(i => {

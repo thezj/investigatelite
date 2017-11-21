@@ -22,7 +22,7 @@
         <h2> 共有{{times}}次提交</h2>
         <hr> 订书详情：
         <br>
-        <el-table :data="books" style="width: 100%">
+        <el-table :data="books" style="width: 100%" :default-sort="{prop: 'times', order: 'descending'}">
             <el-table-column prop="subscribeCode" label="代码" width="180">
             </el-table-column>
             <el-table-column prop="bookName" label="书名">
@@ -31,7 +31,7 @@
             </el-table-column>
             <el-table-column prop="publishing" label="出版">
             </el-table-column>
-            <el-table-column prop="times" label="次数">
+            <el-table-column sortable prop="times" label="次数">
             </el-table-column>
         </el-table>
     </div>

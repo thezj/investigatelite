@@ -25,7 +25,7 @@ app.post('/getbook', function (req, res) {
                 return true
             }
         } else {
-            if (i.bookName.indexOf(filters) > -1 && i.publishing == classify) {
+            if (i.bookName.indexOf(filters) > -1 && i.classify == classify) {
                 return true
             }
         }
