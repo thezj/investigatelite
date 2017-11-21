@@ -1,0 +1,91 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="./vue.min.js"></script>
+    <script src="./jquery.min.js"></script>
+    <script src="./elemeindex.js"></script>
+    <script src="./iscroll-probe.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/element-ui@1.4.10/lib/theme-default/index.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <title></title>
+</head>
+
+<body>
+    <div id='app' style="padding: 50px;">
+        <el-date-picker v-model="value6" type="daterange" @change='searchbook' placeholder="选择日期范围">
+        </el-date-picker>
+        <hr>
+        <h2> 共有{{times}}次提交</h2>
+        <hr> 订书详情：
+        <br>
+        <el-table :data="books" style="width: 100%">
+            <el-table-column prop="subscribeCode" label="代码" width="180">
+            </el-table-column>
+            <el-table-column prop="bookName" label="书名">
+            </el-table-column>
+            <el-table-column prop="price" label="价格">
+            </el-table-column>
+            <el-table-column prop="publishing" label="出版">
+            </el-table-column>
+            <el-table-column prop="times" label="次数">
+            </el-table-column>
+        </el-table>
+    </div>
+    <script>
+        var app = new Vue({
+            el: '#app',
+            data: function () {
+                return {
+                    value6: null,
+                    times: 0,
+                    books: []
+                };
+            },
+            methods: {
+
+                searchbook(e) {
+                    if (!this.value6[1] && !this.value6[0]) {
+                        return
+                    }
+                    $.post('/statistic', {
+                        start: this.value6[0].getTime(),
+                        end: this.value6[1].getTime()
+                    }, data => {
+                        this.times = data.times
+                        delete data.times
+                        let keys = Object.keys(data)
+                        let temparr = []
+                        keys.map(key => {
+                            temparr.push(data[key])
+                        })
+                        this.books = temparr
+                    }, 'json')
+                }
+            },
+            mounted() {
+
+
+                // $.post('/isexist', {
+                //     member: window.location.search.split('=')[1]
+                // }, data => {
+                //     if (data == 'exist') {
+                //         this.issubmit = true
+                //         this.$message({
+                //             type: 'info',
+                //             message: '已经提交'
+                //         });
+                //     }
+                // })
+
+
+
+            }
+        })
+    </script>
+</body>
+
+</html>
