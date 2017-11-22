@@ -24,7 +24,7 @@
             </div>
             <el-input placeholder="请输入书名" icon="search" v-model="searchbookname" :on-icon-click="searchbook">
 
-                <el-select style="width:120px;" v-model="classifyselect" slot="prepend" placeholder="请选择">
+                <el-select style="width:120px;" v-model="classifyselect" slot="prepend" placeholder="请选择" @change='searchbook'>
                     <el-option label="全部" value="全部"></el-option>
                     <el-option label="马克思主义、列宁主义、毛泽东思想义" value="马克思主义、列宁主义、毛泽东思想义"></el-option>
                     <el-option label="哲学" value="哲学"></el-option>
@@ -48,6 +48,7 @@
                     <el-option label="航空、航天" value="航空、航天"></el-option>
                     <el-option label="环境科学、劳动保护科学（安全科学）" value="环境科学、劳动保护科学（安全科学）"></el-option>
                     <el-option label="综合性图书" value="综合性图书"></el-option>
+                    <el-option label="专业用书" value="专业用书"></el-option>
                     <el-option label="其他" value="#N/A"></el-option>
                 </el-select>
 
